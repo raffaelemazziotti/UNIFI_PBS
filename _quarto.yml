@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - images/home.svg
+  render:
+    - "*.qmd"
+    - "!old/"
+
+author: "Raffaele M Mazziotti, PhD"
+institute: "Scuola di Psicologia, University of Florence"
+
+format:
+  revealjs:
+    controls: true
+    theme: default
+    slide-number: false
+    logo: images/logo/NEUROFARBA_logo.svg
+    css: slide_style.css
+    include-after-body: afterbody.html
+    transition: fade
+    center: true
+    math: mathjax
+    chalkboard:
+      buttons: false
+    progress: true
+    title-slide-attributes:
+      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-size: 500px
+      data-background-position: "center 10%"
+    mermaid:
+      theme: neutral
+    scroll-view:
+      activation-width: 0

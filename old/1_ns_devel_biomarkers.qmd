@@ -1,0 +1,1173 @@
+---
+title: "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo"
+---
+
+## Why this course?
+
+:::columns
+:::column
+
+:::info-box
+place holder of text
+:::
+
+>Important stuff.
+
+:::
+:::column
+
+![](images/image.jpg){width="350" fig-align="center"}
+
+:::
+:::
+
+## The promise of biomarkers
+
+:::columns
+:::column
+
+:::info-box
+
+Biomarkers are expected to:
+
+- reduce subjectivity
+- link behavior to biology
+- improve <u>diagnosis</u> and <u>prognosis</u>
+- guide <u>treatment</u> decisions
+- enable <u>personalized approaches</u>
+
+>**Key question:**  
+Do biomarkers actually deliver on these promises?
+
+:::
+
+:::
+:::column
+
+![](images/biom_representative.png){width="350" fig-align="center"}
+
+:::
+:::
+
+## What do we mean by “biomarker”?
+
+A widely accepted formal <u>definition</u> ([NIH](https://www.nih.gov/) / [FDA](https://www.fda.gov/)):
+
+> A [biomarker]{.highlight} is a defined `characteristic` that is `measured` as an `indicator` of normal biological **processes**, pathogenic processes, or *responses* to an intervention.
+
+:::columns
+:::column
+
+:::info-box
+Key points embedded in the definition:
+
+- it is a *measurement*
+- it is an *indicator*, not a diagnosis
+- it is tied to a *specific process or response*
+:::
+
+:::
+:::column
+
+:::info-box
+Immediate implications:
+
+- biomarkers are `indirect`
+- biomarkers are `context-dependent`
+- biomarkers are `not explanatory` by default
+:::
+
+:::
+:::
+
+## What do we mean by “biomarker”?
+
+:::columns
+:::column
+
+:::info-box
+Objective does not mean useful.  A measure can be:
+
+- objective
+- precise
+- reproducible
+
+And still be clinically useless.
+:::
+
+:::card
+Typical reasons:
+
+- large `overlap` between patients and controls
+- `no added value` over clinical assessment
+
+:::
+
+:::
+:::column
+
+:::info-box
+Psychiatry and psychology still lack:
+
+- `robust` diagnostic biomarkers
+- clinically actionable predictors
+
+Many proposed biomarkers:
+
+- are statistically significant
+- `fail` in real clinical settings
+
+![](images/biom_fail.jpg){width="300" fig-align="center"}
+:::
+
+
+:::
+:::
+
+## The core epistemological problem
+
+:::columns
+:::column
+
+:::info-box
+Neurological, Psychiatric and Psychological phenomena are:
+
+- heterogeneous
+- dynamic
+- multidimensional
+
+>Biological systems reflect this complexity.
+As a result, one-to-one mappings  
+(one biomarker → one disorder) are rare.
+
+:::
+
+:::
+:::column
+
+```{mermaid}
+graph LR
+    B1[Biomarker A] --> D1[Disorder 1]
+    B1 --> D2[Disorder 2]
+
+    B2[Biomarker B] --> D1
+    B2 --> D3[Disorder 3]
+
+    B3[Biomarker C] --> D2
+    B3 --> D3
+
+    subgraph Biomarkers
+        B1
+        B2
+        B3
+    end
+
+    subgraph Disorders
+        D1
+        D2
+        D3
+    end
+```
+
+:::
+:::
+
+## Biomarkers are not “truth machines”
+
+:::columns
+:::column
+
+>Biomarkers do not reveal truth directly.
+They are `probabilistic` signals.
+
+:::info-box
+Most biomarkers are `correlates`, not causes.
+
+A biomarker may:
+
+- change with a disorder
+- track symptom severity
+- predict outcomes
+
+Without explaining why. [Biomarkers are not mechanisms]{.highlight}.
+:::
+
+:::
+:::column
+
+![](images/biom_corr_not_cause2.jpg){width="300" fig-align="center"}
+![](images/biom_corr_not_cause.png){width="350" fig-align="center"}
+
+:::
+:::
+
+## Group-level vs individual-level thinking
+
+:::columns
+:::column
+>Most biomarkers are discovered at the `group level`.
+Clinical decisions are made at the individual level.
+
+:::info-box
+[Research]{.highlight} question:
+
+- “Is there a difference between `groups`?”
+
+[Clinical]{.highlight} question:
+
+- “Can I make a decision for this `person`?”
+
+These are fundamentally different problems.
+:::
+
+
+:::
+:::column
+
+:::info-box
+A biomarker can be:
+
+- statistically significant
+- and useless for deciding about a single patient
+:::
+
+:::info-box
+Biomarkers should be understood as:
+
+- decision-support tools
+- not decision-makers
+
+They complement:
+
+- clinical judgment
+- contextual information
+:::
+
+:::
+:::
+
+## What counts as a biomarker?
+
+:::columns
+:::column
+
+:::info-box
+A biomarker can be:
+
+- `molecular` (genes, proteins, metabolites)
+- `physiological` (heart rate variability, cortisol)
+  - neural (EEG features, imaging-derived measures)
+  - behavioral (reaction times, eye movements)
+- `computational` (scores derived from multiple measures)
+:::
+
+>Biomarkers `are not limited to biology` at the molecular level.
+
+:::
+:::column
+
+![](images/biom_types(1).png){width="350" fig-align="center"}
+
+:::
+:::
+
+## What a biomarker is NOT
+
+:::columns
+:::column
+
+:::info-box
+A biomarker is not:
+
+- a diagnosis
+- a symptom
+- a risk factor
+- an endophenotype
+- a clinical judgment
+- a mechanism 
+:::
+
+
+>A biomarker can be a `risk factor`, but not all risk factors are biomarkers.
+
+:::
+:::column
+
+:::card
+
+[Mechanisms]{.highlight}:
+
+- explain how a process works
+- imply causal structure
+
+:::
+
+
+:::card
+[Endophenotypes]{.highlight}:
+
+- are `heritable` traits
+- lie between genes and behavior
+- are relatively stable
+
+:::
+
+:::
+:::
+
+## Context of Use (CoU)
+
+:::columns
+:::column
+
+:::info-box
+A biomarker is only defined together with:
+
+- a `target` population
+- a clinical or research `question`
+
+Without a `Context` of Use:
+
+- performance cannot be evaluated
+- usefulness cannot be judged
+
+:::
+
+:::
+:::column
+
+:::info-box
+The same measured characteristic can be:
+
+- a biomarker in one context
+- irrelevant in another
+- misleading in a third
+:::
+
+
+:::
+:::
+
+## Biomarkers are multidimensional objects
+
+:::columns
+:::column
+
+>Biomarkers are often introduced as simple categories or lists.
+In reality, biomarkers vary along multiple `dimensions`.
+
+:::info-box
+Dimension 1: [Biological Level]{.highlight}
+
+- molecular
+- cellular
+- physiological
+- neural
+- behavioral
+:::
+
+:::
+:::column
+
+:::card
+Lower-level does not mean:
+
+- more objective
+- more specific
+- more clinically useful
+
+A genetic marker can be less useful than a behavioral one.
+
+:::
+
+![](images/biom_levels.png){width="500" fig-align="center"}
+
+:::
+:::
+
+## Dimension 2: Temporal stability
+
+:::columns
+:::column
+
+Biomarkers differ in [how they change over time]{.highlight}. Two broad [classes](https://pubmed.ncbi.nlm.nih.gov/29687938/):
+
+- `trait`-like biomarkers
+- `state`-dependent biomarkers
+
+:::info-box
+`Trait` biomarkers are:
+
+- relatively stable
+- minimally affected by context
+- often present before symptoms
+
+>Examples: genetic variants, structural brain features.
+They are often used for risk or susceptibility.
+
+:::
+
+:::
+:::column
+
+:::info-box
+`State` biomarkers:
+
+- fluctuate over time
+- reflect current condition or context
+- are sensitive to environment and intervention
+
+>Examples: cortisol, EEG power, arousal
+
+:::
+
+| Biomarker  | Key properties | Main limitation       |
+|---------------|----------------|-----------------------|
+| Trait  | Stable         | Often weak predictors |
+| State  | Sensitive      | Prone to bias         |
+
+:::
+:::
+
+## Dimension 3: Specificity
+
+:::columns
+:::column
+
+:::info-box
+
+Biomarkers differ in how `specific` they are.
+
+Specificity can be:
+
+- disorder-specific
+- dimension-specific
+- transdiagnostic
+
+Psychological/Psychiatric biomarkers are often `transdiagnostic`.
+
+:::
+
+:::card
+Many biomarkers in Psychology:
+
+- appear across multiple disorders
+- reflect shared processes
+
+:::
+
+
+:::
+:::column
+
+:::info-box
+Mental disorders are:
+
+- heterogeneous
+- overlapping
+- not defined by single mechanisms
+
+Therefore, biomarkers rarely show one-to-one mappings.
+
+:::
+
+
+:::
+:::
+
+## Dimension 4: Measurement context
+
+:::columns
+:::column
+
+:::info-box
+Biomarkers depend on:
+
+- how they are measured
+- where they are measured
+- under which conditions
+:::
+
+:::info-box
+`Laboratory vs real-world` measures can differ substantially.
+A biomarker may work:
+
+- in controlled experimental settings
+- but fail in clinical practice
+:::
+
+:::
+:::column
+
+:::info-box
+Measurement context directly affects:
+
+- reliability
+- validity
+- interpretability
+:::
+
+:::
+:::
+
+## Dimension 5: Functional role
+
+:::columns
+:::column
+
+:::info-box
+Biomarkers differ by **what they are used for**:
+
+- `detection`
+- `prediction`
+- `monitoring`
+- `stratification`
+
+The same biomarker can serve different `roles`.
+:::
+
+:::
+:::column
+
+:::card
+Example: EEG feature
+
+- diagnostic marker in one context
+- prognostic marker in another
+- monitoring marker in treatment studies
+
+Function is not intrinsic to the measure.
+:::
+
+:::
+:::
+
+## Biomarker Evaluation
+
+:::columns
+:::column
+
+:::info-box
+Biomarkers are not evaluated by intuition.
+
+They are evaluated by:
+
+- measurement `quality`
+- `error` structure
+- `decision` consequences
+:::
+
+:::info-box
+A biomarker must be reliable before being useful.
+
+[Reliability]{.highlight} refers to:
+
+- `test-retest` stability
+- `inter-rater` consistency
+- robustness `across contexts`
+
+:::
+
+:::
+:::column
+
+:::card
+
+If a biomarker varies because of:
+
+- measurement noise
+- equipment differences
+- context instability
+
+Then any observed association may be spurious. Reliability sets the upper limit of usefulness.
+
+:::
+
+
+:::
+:::
+
+## Biomarker Evaluation: Validity
+
+:::columns
+:::column
+
+:::card
+[Validity](https://en.wikipedia.org/wiki/Validity_(statistics)) is `contextual` and it is not a single property. A biomarker can be:
+
+- valid for one purpose
+- invalid for another
+:::
+
+:::info-box
+Key forms of validity:
+
+- [construct validity](https://www.simplypsychology.org/construct-validity-definition-examples.html)
+- [criterion validity](https://www.simplypsychology.org/criterion-validity-definition-examples.html)
+- [predictive validity](https://www.simplypsychology.org/predictive-validity.html)
+
+Predictive validity is the `most relevant` for clinical use.
+:::
+
+
+:::
+:::column
+
+![](images/biom_validity.png){width="200" fig-align="center"}
+
+:::
+:::
+
+## Error Structure
+:::columns
+:::column
+
+Every biomarker makes `errors`.
+There is no error-free biomarker.
+
+:::info-box
+When using a biomarker to `classify` or `predict`, there are 4 possible outcomes:
+
+- true positive
+- false positive
+- true negative
+- false negative
+
+Every decision falls into one of these categories.
+:::
+
+:::
+:::column
+
+
+<table class="confusion-matrix">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col" colspan="2">Disorder</th>
+    </tr>
+    <tr>
+      <th scope="col">Biomarker</th>
+      <th scope="col">Present</th>
+      <th scope="col">Absent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><strong>Positive</strong></th>
+      <td>True positive</td>
+      <td>False positive</td>
+    </tr>
+    <tr>
+      <th scope="row"><strong>Negative</strong></th>
+      <td>False negative</td>
+      <td>True negative</td>
+    </tr>
+  </tbody>
+</table>
+<style>
+
+table.confusion-matrix{
+  border-collapse: collapse;
+  margin: 0.75rem 0 1rem 0;
+  width: 100%;
+  max-width: 700px;
+}
+table.confusion-matrix caption{
+  caption-side: top;
+  text-align: left;
+  margin-bottom: 0.4rem;
+}
+table.confusion-matrix th,
+table.confusion-matrix td{
+  border: 2px solid #000000;
+  padding: 0.45rem 0.6rem;
+  vertical-align: top;
+}
+table.confusion-matrix thead th{
+  background: #6c6c6c;
+}
+table.confusion-matrix th[scope="row"]{
+  white-space: nowrap;
+}
+
+</style>
+
+![](images/biom_true_false.png){width="500" fig-align="center"}
+
+:::
+:::
+
+## Error Structure
+
+:::columns
+:::column
+
+:::info-box
+A `false positive` occurs when:
+
+- the biomarker indicates a condition
+- but the condition is not present
+
+Consequences:
+
+- unnecessary alarm
+- overdiagnosis
+- inappropriate intervention
+
+:::
+
+:::
+:::column
+
+:::info-box
+A `false negative` occurs when:
+
+- the biomarker fails to detect a condition
+- that is actually present
+
+Consequences:
+
+- missed diagnosis
+- delayed intervention
+- false reassurance
+
+:::
+
+:::
+:::
+
+>Which error is worse depends on `context`.
+
+## Error Structure
+:::columns
+:::column
+
+![](images/biom_pregnant.png){width="500" fig-align="center"}
+
+:::
+:::column
+
+![](images/biom_erro_gaus.png){width="500" fig-align="center"}
+
+:::
+:::
+
+## Accuracy, Sensitivity and specificity
+
+:::columns
+:::column
+
+:::info-box
+
+`Accuracy`:
+
+- Ability to detect a condition correctly
+
+`Sensitivity`:
+
+- ability to detect a condition when it is present
+
+`Specificity`:
+
+- ability to exclude a condition when it is absent
+
+
+:::
+
+>They describe different aspects of performance.
+
+:::
+:::column
+
+:::card
+Increasing sensitivity often:
+
+- increases false positives
+
+Increasing specificity often:
+
+- increases false negatives
+:::
+
+![](images/biom_sens_specif.jpg){width="500" fig-align="center"}
+
+:::
+:::
+
+## Confusion matrix
+
+<table class="confusion-matrix">
+  <caption><strong>Confusion matrix and performance metrics for a biomarker</strong></caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">Predicted class</th>
+      <th rowspan="2">Performance metric</th>
+    </tr>
+    <tr>
+      <th>Actual class</th>
+      <th>Positive</th>
+      <th>Negative</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th><strong>Positive</strong></th>
+      <td>True positive (TP)</td>
+      <td>False negative (FN)</td>
+      <td>
+        <strong>Sensitivity</strong><br>
+        TP / (TP + FN)
+      </td>
+    </tr>
+    <tr>
+      <th><strong>Negative</strong></th>
+      <td>False positive (FP)</td>
+      <td>True negative (TN)</td>
+      <td>
+        <strong>Specificity</strong><br>
+        TN / (TN + FP)
+      </td>
+    </tr>
+    <tr>
+      <th>—</th>
+      <td>
+        <strong>Precision</strong><br>
+        TP / (TP + FP)
+      </td>
+      <td>
+        <strong>Negative predictive value</strong><br>
+        TN / (TN + FN)
+      </td>
+      <td>
+        <strong>Accuracy</strong><br>
+        (TP + TN) / (TP + TN + FP + FN)
+      </td>
+    </tr>
+  </tbody>
+</table>
+<style>
+table.confusion-matrix{
+  border-collapse: collapse;
+  margin: 1rem 0;
+  width: 100%;
+  max-width: 900px;
+}
+table.confusion-matrix caption{
+  caption-side: top;
+  text-align: left;
+  margin-bottom: 0.5rem;
+}
+table.confusion-matrix th,
+table.confusion-matrix td{
+  border: 1px solid #515151;
+  padding: 0.55rem 0.7rem;
+  vertical-align: middle;
+}
+table.confusion-matrix thead th{
+  background: #6e6e6e;
+}
+table.confusion-matrix th{
+  white-space: nowrap;
+}
+</style>
+
+A confusion matrix, also known as `error matrix` is a specific table layout that allows visualization of the performance of a Biomarker.
+
+## Thresholds create errors
+
+:::columns
+:::column
+
+>Most biomarkers require a `threshold`.
+
+:::info-box
+Changing the threshold:
+
+- changes sensitivity
+- changes specificity
+- changes error balance
+:::
+
+:::info-box
+[ROC curves](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) describe:
+
+- trade-offs between sensitivity and false positives
+- performance across thresholds
+
+:::
+
+:::
+:::column
+
+![](images/biom_roc.jpg){width="500" fig-align="center"}
+
+:::
+:::
+
+## Clinical utility is not accuracy
+
+High accuracy alone is insufficient.
+
+Clinical utility depends on:
+
+- `consequences of errors`
+- possibility to use `across contexts`
+- added value over `clinical judgment`
+
+A slightly better biomarker can still be useless.
+
+## Functional classification of biomarkers
+
+According to regulatory and clinical frameworks, biomarkers can be used as:
+
+- `diagnostic`
+- `prognostic`
+- `predictive`
+- `monitoring`
+- `risk/suceptibility`
+
+## Diagnostic biomarkers
+
+:::columns
+:::column
+
+`Diagnostic` (classification) biomarkers are used to:
+
+- `detect the presence` of a condition
+- support or refine a diagnosis
+- identify subtypes of a condition
+
+:::info-box
+For diagnostic biomarkers:
+
+- false positives are especially harmful
+- specificity is critical
+- prevalence strongly affects usefulness
+:::
+
+:::
+:::column
+
+:::card
+They answer the question:
+
+`Is this condition present?`
+:::
+
+![](images/biom_diagnostic.png){width="200" fig-align="center"}
+
+:::
+:::
+
+## Prognostic biomarkers
+
+:::columns
+:::column
+
+`Prognostic` biomarkers provide information about:
+
+- future course of a condition
+- likelihood of progression, relapse, or recovery
+
+:::info-box
+Prognostic biomarkers:
+
+- are independent of treatment
+- describe natural history
+- often work at the group level
+
+:::
+
+:::
+:::column
+
+:::card
+They answer the question:
+
+`What is likely to happen over time?`
+:::
+
+![](images/biom_prognostic.png){width="250" fig-align="center"}
+
+:::
+:::
+
+## Predictive biomarkers
+
+:::columns
+:::column
+
+`Predictive` biomarkers estimate:
+
+- likelihood of response to an intervention
+- likelihood of side effects
+
+:::info-box
+Predictive biomarkers are:
+
+- central to personalized medicine
+- highly attractive clinically
+- extremely difficult to validate
+
+They require comparison across treatments.
+
+:::
+
+:::
+:::column
+
+
+:::card
+They answer the question:
+
+`Will this treatment work for this person?`
+:::
+
+![](images/biom_predictive.png){width="250" fig-align="center"}
+
+:::
+:::
+
+## Monitoring biomarkers
+
+:::columns
+:::column
+
+`Monitoring` biomarkers are used to:
+
+- track changes over time
+- assess response or progression
+- support ongoing decisions
+
+:::info-box
+Examples:
+
+- physiological stress markers
+- EEG changes during treatment
+- behavioral performance over time
+:::
+
+
+:::
+:::column
+
+:::card
+They answer the question:
+
+`Is the condition changing over time?`
+:::
+
+![](images/biom_monitoring.png){width="300" fig-align="center"}
+
+:::
+:::
+
+## Risk/Susceptibility biomarkers
+
+:::columns
+:::column
+
+`Risk biomarkers` estimate:
+
+- vulnerability `before` onset
+- probability of developing a condition
+
+:::info-box
+Risk biomarkers:
+
+- generate many false positives
+- raise ethical concerns
+:::
+
+:::
+:::column
+
+:::card
+They answer the question:
+
+`Who is at higher risk?`
+:::
+
+![](images/biom_risk.png){width="300" fig-align="center"}
+
+:::
+:::
+
+## Clinical reality is not the lab
+
+:::columns
+:::column
+
+Clinical settings are characterized by:
+
+- time pressure
+- incomplete information
+- heterogeneous patients
+- high emotional stakes
+
+>Biomarkers must work under these conditions.
+
+:::
+:::column
+
+:::info-box
+A biomarker is clinically applicable only if it:
+
+- improves decision-making
+- adds value beyond standard assessment
+- justifies its costs and risks
+- statistical significance is not enough.
+
+In psychology and psychiatry:
+
+- clinical judgment remains central
+- biomarkers support, not replace, clinicians
+
+:::
+
+:::
+:::
+
+## “Positive” does not mean “certain”
+
+:::columns
+:::column
+
+Using biomarkers responsibly requires:
+
+- explaining uncertainty
+- communicating probabilities
+- avoiding deterministic language
+
+:::info-box
+Risk biomarkers raise special concerns:
+
+- labeling before symptoms
+- long-term psychological burden
+- unclear benefit of early knowledge
+:::
+
+:::
+:::column
+
+:::info-box
+Responsible biomarker use requires:
+
+- clear context of use
+- awareness of error rates
+- integration with clinical data
+- continuous evaluation
+:::
+
+:::
+:::
+
+## Self-check
+
+```{=html}
+<div class="quiz-wrap">
+  <iframe class="quiz-frame" src="quiz/quiz_biom.html" loading="lazy"></iframe>
+</div>
+```

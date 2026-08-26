@@ -1,0 +1,34 @@
+## Neural crest and its main derivatives
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+Neural crest specification begins at the **neural plate border**, while the neural plate is still open.
+:::
+
+::: {.card}
+After fusion, neural crest cells occupy the dorsal neural tube. They later delaminate and migrate to distant regions.
+:::
+
+:::
+::: {.column}
+
+::: {.card}
+Major derivatives include:
+
+- sensory and autonomic ganglia
+- Schwann cells
+- melanocytes
+- the adrenal medulla
+- craniofacial components
+:::
+
+::: {.card .image-needed}
+**Image needed:** neural crest specification, delamination, and major derivatives
+
+Suggested file: `images/nsdev_neural_crest_derivatives.png`
+:::
+
+:::
+:::

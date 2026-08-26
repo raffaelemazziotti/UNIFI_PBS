@@ -1,0 +1,843 @@
+/**********************
+  Links
+***********************/
+.reveal a {
+  color: #9ad1ff;                 /* softer blue than headings */
+  text-decoration: none;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease;
+}
+
+.card {
+  margin: 16px 0;
+  padding: 14px 18px;
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #e6e6e6;
+  border-radius: 14px;
+  font-size: 0.9em;
+  line-height: 1.45;
+  backdrop-filter: blur(4px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+}
+
+.tip {
+  margin: 20px 0;
+  padding: 16px 18px;
+  background-color: rgba(255, 236, 179, 0.18);
+  color: #f2f2f2;
+  border-radius: 10px;
+  font-size: 0.9em;
+  line-height: 1.45;
+
+  /* paper-like feel */
+  box-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.25),
+    0 8px 18px rgba(0, 0, 0, 0.35);
+
+  /* subtle border */
+  border: 1px solid rgba(255, 236, 179, 0.35);
+}
+
+.tip strong:first-child {
+  font-weight: 600;
+}
+
+
+
+.reveal a:hover {
+  color: #67bdfb;                 /* heading blue on hover */
+  text-decoration: underline;
+}
+
+.home-link {
+  position: absolute;
+  bottom: 1%;
+  left: 1%;
+  transform: translateX(-50%);
+  opacity: 0.6;
+}
+
+.home-link img {
+  width: 40px;
+}
+
+.term {
+  position: relative;
+  color: #e6e6e6;
+  background-color: rgba(103, 189, 251, 0.15);
+  padding: 0 4px;
+  border-radius: 4px;
+}
+
+/* Tooltip box */
+.term::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  left: 50%;
+  bottom: 140%;
+  transform: translateX(-50%);
+  min-width: 240px;
+  max-width: 340px;
+  padding: 10px 12px;
+  background-color: #151515;
+  color: #e6e6e6;
+  font-size: 0.6em;
+  line-height: 1.45;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 1000;
+  text-align: left;
+}
+
+/* Tooltip arrow */
+.term::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 132%;
+  transform: translateX(-50%);
+  border-width: 6px;
+  border-style: solid;
+  border-color: #151515 transparent transparent transparent;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+/* Show on hover */
+.term:hover::after,
+.term:hover::before {
+  opacity: 1;
+}
+
+
+
+/**********************
+  Base Dark Theme
+  - global font settings
+  - global text color
+***********************/
+
+.info-box {
+  margin: 16px 0;
+  padding: 14px 18px;
+  border-left: 6px solid #67bdfb;
+  background-color: rgba(103, 189, 251, 0.15);
+  color: #e6e6e6;
+  border-radius: 6px;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+/* logo*/
+.reveal .slide-logo {
+  height: 100px !important;
+  max-height: none !important;
+}
+
+.reveal .left {
+  text-align: left;
+}
+
+/**********************
+  Definitions / Blockquotes
+***********************/
+.reveal blockquote {
+  margin: 20px 0;
+  padding: 14px 18px;
+  border-left: 4px solid #bbbbbb;
+  background-color: rgba(255, 255, 255, 0.06);
+  color: #e6e6e6;
+  border-radius: 4px;
+  font-size: 1.0em;
+  line-height: 1.5;
+}
+
+/**********************
+  Numbered Lists (ol)
+  - clear hierarchy
+  - readable on dark background
+***********************/
+.reveal ol {
+  margin-left: 28px;
+  line-height: 1.6;
+  counter-reset: item;
+}
+
+.reveal ol li {
+  margin-bottom: 0.4em;
+  position: relative;
+  padding-left: 0.4em;
+}
+
+/* Style the numbers */
+.reveal ol li::marker {
+  color: #bcbcbc;          /* same blue as headings */
+  font-weight: 600;
+}
+
+.reveal {
+  background-color: #454545 !important;   /* slide background */
+  color: #e6e6e6 !important;              /* default text color */
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 25px;                        /* base font size for paragraphs */
+  line-height: 1.4;                        /* text readability */
+}
+
+/* Reveal.js background container */
+.reveal .backgrounds {
+  background-color: #424242 !important;
+}
+
+
+/**********************
+  Headings
+  - h1, h2, h3 hierarchy
+***********************/
+.reveal h1 {
+  color: #67bdfb !important;
+  font-size: 2.0em;       /* main slide title */
+  font-weight: 700;
+  margin-bottom: 0.4em;
+}
+
+.reveal h2 {
+  color: #67bdfb !important;
+  font-size: 1.6em;       /* section headers */
+  font-weight: 600;
+  margin-bottom: 0.4em;
+}
+
+.reveal h3 {
+  color: #e6e6e6 !important;
+  font-size: 1.3em;       /* subsection headers */
+  font-weight: 500;
+  margin-bottom: 0.3em;
+}
+
+
+/**********************
+  Paragraphs
+  - improve spacing and readability
+***********************/
+.reveal p {
+  margin-top: 0.4em;
+  margin-bottom: 0.6em;
+}
+
+
+/**********************
+  Lists
+***********************/
+.reveal ul,
+.reveal ol {
+  margin-left: 20px;
+  line-height: 1.5;     /* easier to read lists */
+}
+
+.reveal li {
+  margin-bottom: 0.3em; /* spacing between items */
+}
+
+
+/**********************
+  Inline Code (text inside `backticks`)
+***********************/
+.reveal code {
+  color: #55ff5d !important;          /* text color */
+  background-color: #070707 !important;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.85em;                  /* slightly smaller than text */
+  font-family: "Fira Code", monospace;
+}
+
+.highlight {
+  background-color: rgba(103, 189, 251, 0.18);
+  color: #e6e6e6;
+  padding: 0.12em 0.35em;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+
+/**********************
+  Code Blocks
+  - triple backticks ```
+***********************/
+.reveal code {
+  color: #9ad1ff !important;            /* soft blue, matches headings */
+  background-color: #3c3c3c !important;
+  padding: 0.12em 0.35em;
+  border-radius: 5px;
+  font-size: 0.9em;                     /* close to body text */
+  font-family: "Fira Code", monospace;
+  font-weight: 500;
+}
+
+
+
+/**********************
+  Footer Text (if added with ::: footer)
+***********************/
+.reveal .footer {
+  font-size: 0.7em;
+  color: #bbbbbb;
+}
+
+.important {
+  background-color: rgba(255, 236, 179, 0.22);
+  color: #f2f2f2;
+  padding: 0.12em 0.35em;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.core {
+  background-color: rgba(103, 189, 251, 0.30);
+  color: #ffffff;
+  padding: 0.14em 0.4em;
+  border-radius: 6px;
+  font-weight: 700;
+}
+
+.caution {
+  background-color: rgba(255, 120, 120, 0.18);
+  color: #f2f2f2;
+  padding: 0.12em 0.35em;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.term-soft {
+  color: #9ad1ff;
+  font-weight: 500;
+  border-bottom: 1px dotted rgba(154, 209, 255, 0.6);
+}
+
+.list-box {
+  margin: 18px 0;
+  padding: 14px 18px;
+  background-color: rgba(255, 255, 255, 0.06);
+  border-left: 5px solid rgba(103, 189, 251, 0.6);
+  border-radius: 8px;
+}
+
+.list-box ul,
+.list-box ol {
+  margin-left: 1.2em;
+}
+
+.list-box li {
+  margin-bottom: 0.35em;
+}
+
+.disorder-card {
+  margin: 20px 0;
+  border: 2px solid rgba(180, 180, 180, 0.6);
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.04);
+  overflow: hidden;
+}
+
+.disorder-card .disorder-header {
+  background-color: rgba(180, 180, 180, 0.25);
+  color: #e6e6e6;
+  padding: 12px 16px;
+}
+
+.disorder-card .disorder-title {
+  font-size: 1.1em;
+  font-weight: 700;
+}
+
+.disorder-card .disorder-subtitle {
+  font-size: 0.75em;
+  opacity: 0.8;
+  margin-top: 2px;
+}
+
+.disorder-card .disorder-body {
+  padding: 14px 18px;
+  font-size: 0.95em;
+  line-height: 1.45;
+}
+
+.disorder-card ul {
+  margin-left: 1.2em;
+}
+
+.disorder-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  opacity: 0.75;
+  vertical-align: middle;
+}
+
+/* esperiment card */
+
+.experiment-card .exp-header::before {
+  content: "🧪";
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.1em;
+  opacity: 0.75;
+}
+
+.experiment-card {
+  margin: 20px 0;
+  border: 2px solid rgba(150, 150, 150, 0.6);
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.04);
+  overflow: hidden;
+}
+
+
+.experiment-card .exp-header {
+  position: relative;          /* ← required */
+  padding-left: 50px;          /* space for icon */
+  background-color: rgba(150, 150, 150, 0.25);
+  color: #e6e6e6;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 16px;
+  font-weight: 700;
+  font-size: 1.0em;
+}
+
+.experiment-card .exp-header::before {
+  content: "🧪";
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.1em;
+  opacity: 0.75;
+}
+
+
+.experiment-card .exp-section {
+  padding: 12px 18px;
+  border-top: 1px solid rgba(180, 180, 180, 0.3);
+}
+
+.experiment-card .exp-section-title {
+  font-size: 0.85em;
+  font-weight: 600;
+  color: #9ad1ff;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.experiment-card ul {
+  margin-left: 1.2em;
+}
+
+
+.img-overlay {
+  position: relative;
+  width: 100%;
+}
+
+.img-overlay img {
+  width: 100%;
+  display: block;
+}
+
+.img-overlay svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+
+
+/*************************************************
+  PDF EXPORT (reveal.js print-pdf mode)
+*************************************************/
+
+.print-pdf .term-soft {
+  color: #003399 !important;
+  border-bottom: 1px dotted #003399;
+}
+
+.print-pdf .caution {
+  background: #fde2e2 !important;
+  color: #660000 !important;
+}
+
+.print-pdf .important {
+  background: #fff3cd !important;
+  color: #111111 !important;
+}
+
+.print-pdf .core {
+  background: #dbeafe !important;
+  color: #003366 !important;
+}
+
+.print-pdf .reveal {
+  background: #ffffff !important;
+  color: #111111 !important;
+}
+
+/* Generic text */
+.print-pdf .reveal p,
+.print-pdf .reveal li,
+.print-pdf .reveal span {
+  color: #111111 !important;
+}
+
+/* Headings */
+.print-pdf .reveal h1,
+.print-pdf .reveal h2,
+.print-pdf .reveal h3 {
+  color: #003366 !important;
+}
+
+/* Links */
+.print-pdf .reveal a {
+  color: #003399 !important;
+  text-decoration: underline;
+}
+
+/* Cards */
+.print-pdf .card {
+  background: #f5f5f5 !important;
+  color: #111111 !important;
+  box-shadow: none !important;
+  border: 1px solid #dddddd;
+}
+
+/* Tips */
+.print-pdf .tip {
+  background: #fff7d6 !important;
+  color: #111111 !important;
+  box-shadow: none !important;
+  border: 1px solid #e0c97a;
+}
+
+/* Info boxes */
+.print-pdf .info-box {
+  background: #eef4ff !important;
+  color: #111111 !important;
+  border-left: 6px solid #3b6fb6;
+}
+
+/* Blockquotes */
+.print-pdf .reveal blockquote {
+  background: #f8f8f8 !important;
+  color: #111111 !important;
+  border-left: 4px solid #999999;
+}
+
+/* Inline terms (tooltips become inert anyway) */
+.print-pdf .term {
+  background: #e6f0ff !important;
+  color: #111111 !important;
+}
+
+/* Disable tooltip boxes in PDF */
+.print-pdf .term::after,
+.print-pdf .term::before {
+  display: none !important;
+}
+
+/* Code (inline + blocks) */
+.print-pdf .reveal code {
+  background: #f2f2f2 !important;
+  color: #003300 !important;
+  border: 1px solid #dddddd;
+}
+
+/* Highlight spans */
+.print-pdf .highlight {
+  background: #e6f0ff !important;
+  color: #111111 !important;
+}
+
+/* Logos and images */
+.print-pdf img {
+  filter: none !important;
+}
+
+/* Remove dark slide background layers */
+.print-pdf .reveal .backgrounds {
+  background: #ffffff !important;
+}
+
+/*disorder card*/
+
+.print-pdf .disorder-card {
+  background: #ffffff !important;
+  border: 2px solid #999999;
+}
+
+.print-pdf .disorder-header {
+  background: #e6e6e6 !important;
+  color: #111111 !important;
+}
+
+.print-pdf .disorder-body {
+  color: #111111 !important;
+}
+
+.print-pdf .experiment-card {
+  background: #ffffff !important;
+  border: 2px solid #999999;
+}
+
+.print-pdf .exp-header {
+  background: #e6e6e6 !important;
+  color: #111111 !important;
+}
+
+.print-pdf .exp-section-title {
+  color: #003366 !important;
+}
+
+
+/* ==========================
+   Mobile: match notebook theme + better reading + snap
+   ========================== */
+@media (max-width: 768px) {
+
+  /* Reuse the SAME colors as notebook */
+  :root{
+    --slide-bg: #454545;          /* matches .reveal background-color */
+    --bg-layer: #424242;          /* matches .reveal .backgrounds */
+    --text: #e6e6e6;              /* matches default text */
+    --heading: #67bdfb;           /* matches h1/h2 */
+    --link: #9ad1ff;              /* matches link base */
+  }
+
+  /* Page + reveal containers */
+  body,
+  body.quarto-light,
+  body.quarto-light .reveal-viewport{
+    background: var(--bg-layer) !important;
+    color: var(--text) !important;
+  }
+
+  body.quarto-light .reveal{
+    background: var(--slide-bg) !important;
+    color: var(--text) !important;
+    font-size: 30px !important;     /* ↑ bump more than 26; tune here */
+    line-height: 1.45 !important;
+  }
+
+  /* Keep reveal background layer consistent */
+  body.quarto-light .reveal .backgrounds{
+    background-color: var(--bg-layer) !important;
+  }
+
+  /* Slides: same base background as notebook (no weird translucent white) */
+  body.quarto-light .reveal .slides section{
+    background: var(--slide-bg) !important;
+    color: var(--text) !important;
+
+    /* “separated pages” feel */
+    border-radius: 14px;
+    padding: 18px 16px;
+    margin: 16px 0;
+
+    /* Help page-by-page feel */
+    min-height: calc(100vh - 32px);
+  }
+
+  /* Headings: match notebook colors */
+  body.quarto-light .reveal h1,
+  body.quarto-light .reveal h2{
+    color: var(--heading) !important;
+  }
+  body.quarto-light .reveal h3{
+    color: var(--text) !important;
+  }
+
+  /* Links: match notebook */
+  body.quarto-light .reveal a{
+    color: var(--link) !important;
+  }
+
+  /* Stack columns on phones */
+  body.quarto-light .reveal .columns{
+    flex-direction: column !important;
+    gap: 0.8em !important;
+  }
+  body.quarto-light .reveal .column{
+    width: 100% !important;
+    flex: none !important;
+  }
+
+  /* Cards / boxes: keep SAME styling as notebook, just slightly tighter */
+  body.quarto-light .card{
+    background-color: rgba(255, 255, 255, 0.08) !important;
+    color: var(--text) !important;
+    padding: 12px 14px !important;
+    border-radius: 14px !important;
+  }
+
+  body.quarto-light .info-box{
+    background-color: rgba(103, 189, 251, 0.15) !important;
+    color: var(--text) !important;
+    border-left: 6px solid #67bdfb !important;
+    padding: 12px 14px !important;
+  }
+
+  body.quarto-light .tip{
+    background-color: rgba(255, 236, 179, 0.18) !important;
+    color: #f2f2f2 !important;
+    border: 1px solid rgba(255, 236, 179, 0.35) !important;
+    padding: 12px 14px !important;
+  }
+
+  body.quarto-light .list-box{
+    background-color: rgba(255, 255, 255, 0.06) !important;
+    border-left: 5px solid rgba(103, 189, 251, 0.6) !important;
+    padding: 12px 14px !important;
+  }
+
+  /* Tooltips: disable on touch screens (hover is awkward) */
+  body.quarto-light .term::after,
+  body.quarto-light .term::before{
+    display: none !important;
+  }
+
+  /* Home button: keep it visible */
+  .home-link{
+    left: 12px !important;
+    bottom: 12px !important;
+    transform: none !important;
+    opacity: 0.75 !important;
+  }
+  .home-link img{ width: 34px !important; }
+
+  /* ---- page-by-page-ish scrolling (snap) ---- */
+  html, body{
+    scroll-snap-type: y mandatory;
+    scroll-padding-top: 12px;
+  }
+  body.quarto-light .reveal .slides section{
+    scroll-snap-align: start;
+    scroll-snap-stop: always; /* best-effort */
+  }
+}
+
+/**********************
+  Button Component
+***********************/
+
+.reveal .btn {
+  display: inline-block;
+  padding: 10px 18px;
+  margin-top: 10px;
+  border-radius: 10px;
+  background-color: #0888e4;
+  color: #111111 !important;
+  font-weight: 600;
+  font-size: 0.8em;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.35);
+}
+
+.reveal .btn:hover {
+  background-color: #9ad1ff;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+}
+
+/* Subtle secondary version */
+.reveal .btn-secondary {
+  background-color: rgba(255,255,255,0.08);
+  color: #e6e6e6 !important;
+  border: 1px solid rgba(180,180,180,0.5);
+}
+
+.reveal .btn-secondary:hover {
+  background-color: rgba(255,255,255,0.15);
+}
+
+/**********************
+  PDF EXPORT
+***********************/
+.print-pdf .btn {
+  background: #dbeafe !important;
+  color: #003366 !important;
+  box-shadow: none !important;
+  border: 1px solid #003366;
+}
+
+/**********************
+  Mobile
+***********************/
+@media (max-width: 768px) {
+  body.quarto-light .reveal .btn {
+    font-size: 0.9em !important;
+    padding: 12px 20px !important;
+  }
+}
+
+
+
+/* ==========================
+   Quiz iframe responsive styling
+   ========================== */
+
+/* default (desktop/tablet) */
+.quiz-wrap{
+  display: flex;
+  justify-content: center;
+}
+
+.quiz-frame{
+  width: 90vw;
+  max-width: 900px;
+  height: 80vh;
+  border: none;
+  border-radius: 16px;
+  background: transparent;
+}
+
+.reveal .slides .mermaid {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.reveal .slides .mermaid svg {
+  width: 100% !important;
+  height: auto !important;
+  max-width: 100% !important;
+  overflow: visible !important;
+}
+
+.reveal .slides .mermaid svg text {
+  font-size: 12px !important;
+}
+
+.reveal .slides .mermaid .node rect,
+.reveal .slides .mermaid .node polygon,
+.reveal .slides .mermaid .node path {
+  overflow: visible !important;
+}
+
+/* mobile */
+@media (max-width: 768px){
+  .quiz-frame{
+    width: 100%;     /* nearly full width, with margin */
+    max-width: 100%;
+    height: 700px;
+    max-height: 2000px;
+    border-radius: 12px;
+  }
+}

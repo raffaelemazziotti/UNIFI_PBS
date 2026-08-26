@@ -1,0 +1,78 @@
+---
+title: "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo (Modulo 1)"
+title-block: false
+---
+
+## Index
+
+>[Welcome to the course!]{.highlight}
+Brief introduction to the course.
+
+
+### Chapters
+::: columns
+::: column
+
+:::{.list-box}
+- [Nervous System Development](1_ns_development.html)
+- [Neurogenesis and Differentiation](2_neurogenesis.html)
+- [Neural Circuit Development](3_circuit_development.html)
+
+:::
+
+::: 
+::: column
+
+:::{.list-box}
+- [Methods in Developmental Psychobiology](4_methods.html)
+- [Experience-Dependent Development](5_experience.html)
+- [Parental Care](6_parental_care.html)
+:::
+
+:::
+:::
+
+## How to use these slides
+
+::: columns
+::: column
+
+::: {.info-box}
+[⛵ Navigation]{.highlight}
+
+- These slides are **interactive**
+- Use **keyboard** or **mouse**
+- Press `F` for **full-screen mode**
+:::
+
+:::card
+[⏱️ Quick access]{.highlight}
+
+- In the **lower-left corner**, click the ☰ icon to open the **slide index**
+- Click any slide title to jump directly to it
+- Use the ⚙️ **Tools** menu to see all available shortcuts
+:::
+
+:::
+::: column
+
+::: {.info-box}
+[🧭 Course structure]{.highlight}
+
+- The **Index slide** links all sections
+- Each section starts with a title slide
+- A **🏠 Home button** on the first slide  
+  brings you back to the Index
+:::
+
+::: {.card}
+[📄 PDF version]{.highlight}
+
+- Go to the **first slide of a section**
+- Press `E`
+- A **PDF-compatible version** appears
+- Print or save it for clean notes
+:::
+
+:::
+:::
