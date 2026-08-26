@@ -368,7 +368,7 @@
     "href": "1_ns_development.html#dorsoventral-signals-and-morphogens",
     "title": "Embryonic development of the nervous system",
     "section": "Dorsoventral signals and morphogens",
-    "text": "Dorsoventral signals and morphogens\n\n\n\nVentral patterning: The notochord and floor plate provide SHH, a major ventral signal.\nDorsal patterning: The roof plate and nearby ectoderm provide BMP and WNT signals.\n\n\nThese signals form gradients. Cell identity depends on:\n\nsignal level\nduration of exposure\ninteractions with other signals\ncellular competence"
+    "text": "Dorsoventral signals and morphogens\n\n\n\nVentral patterning: The notochord and floor plate provide SHH, a major ventral signal.\nDorsal patterning: The roof plate and nearby ectoderm provide BMP and WNT dorsal signals.\n\n\nThese signals form gradients. Cell identity depends on:\n\nsignal level\nduration of exposure\ninteractions with other signals\ncellular competence"
   },
   {
     "objectID": "1_ns_development.html#cellular-competence",
@@ -382,14 +382,14 @@
     "href": "1_ns_development.html#anteroposterior-regionalization",
     "title": "Embryonic development of the nervous system",
     "section": "Anteroposterior regionalization",
-    "text": "Anteroposterior regionalization\n\n\n\nBroad identities emerge along the anteroposterior axis:\n\nanterior brain regions\nmidbrain\nhindbrain\nspinal cord\n\n\n\n\nImage needed: regional identities along the anteroposterior axis\nSuggested file: images/nsdev_anteroposterior_axis.png\n\n\nRegionalization is progressive. Broad early domains are later refined into more specific territories."
+    "text": "Anteroposterior regionalization\n\n\n\nBroad identities emerge along the anteroposterior axis:\n\nanterior brain regions\nmidbrain\nhindbrain\nspinal cord\n\n\n\nRegionalization is progressive. Broad early domains are later refined into more specific territories."
   },
   {
     "objectID": "1_ns_development.html#wnt-fgf-and-retinoic-acid",
     "href": "1_ns_development.html#wnt-fgf-and-retinoic-acid",
     "title": "Embryonic development of the nervous system",
     "section": "WNT, FGF, and retinoic acid",
-    "text": "WNT, FGF, and retinoic acid\n\n\n\nWNT, FGF, and retinoic acid contribute to anteroposterior patterning.\nTheir level and timing help distinguish anterior from posterior neural identities.\n\n\nWNT and FGF support posterior neural character. Retinoic acid contributes to patterning posterior neural regions.\n\n\n\nGeneral principle\nSignals distributed across space and time translate position along the embryo into regional identity.\n\n\nThe effect of each signal depends on the tissue, developmental stage, and other signals present."
+    "text": "WNT, FGF, and retinoic acid\n\n\n\nWNT, FGF, and retinoic acid contribute to anteroposterior patterning.\nTheir level and timing help distinguish anterior from posterior neural identities.\n\n\n\nRetinoic acid contributes to patterning anterior neural regions.\nWNT and FGF support posterior neural character.\n\n\n\nThis model works well for the posterior neural tube and spinal cord. Patterning of the anterior nervous system is more complex and cannot be described by a single anteroposterior gradient alone."
   },
   {
     "objectID": "1_ns_development.html#hox-genes-and-hindbrain-organization",
@@ -452,6 +452,48 @@
     "href": "1_ns_development.html#dorsoventral-signals-and-morphogens-1",
     "title": "Embryonic development of the nervous system",
     "section": "Dorsoventral signals and morphogens",
-    "text": "Dorsoventral signals and morphogens\nqui di va scritto che i gradienti nell’asse dorso ventrale contribuiscono all’identita’ delle cellule sia ai poli che al centro. Attraverso sistemi che attivano cascate molecolari. Devo prendere anche l’altra immagine per la spiegazione dei gradienti in maniera adeguata."
+    "text": "Dorsoventral signals and morphogens\nDorsoventral gradients contribute to the identity of neural progenitor cells.\n\nSHH is highest ventrally, whereas BMP/WNT signals are stronger dorsally.\nCells sense the local concentration of these morphogens.\nThe gradient therefore acts as a positional map: it provides information about where a cell is located along the dorsoventral axis.\nDifferent levels of morphogen exposure activate different intracellular signaling pathways and patterns of gene expression.\nThese molecular programs progressively specify different progenitor domains and neuronal identities.\n\n\nA morphogen does not simply tell a cell what to become. Its concentration provides information about where the cell is, and the cell translates this positional information into a specific developmental fate."
+  },
+  {
+    "objectID": "1_ns_development.html#dorsoventral-signals-and-morphogens-2",
+    "href": "1_ns_development.html#dorsoventral-signals-and-morphogens-2",
+    "title": "Embryonic development of the nervous system",
+    "section": "Dorsoventral signals and morphogens 2",
+    "text": "Dorsoventral signals and morphogens 2\n\n\n\nDorsoventral gradients contribute to the identity of neural progenitor cells.\n\nSHH is highest ventrally, whereas BMP/WNT signals are stronger dorsally.\nCells sense the local concentration of these morphogens.\nThe gradient acts as a positional map: it provides information about where a cell is located along the dorsoventral axis.\nDifferent levels of morphogen exposure activate different intracellular signaling pathways and patterns of gene expression that progressively specify different progenitor domains and neuronal identities."
+  },
+  {
+    "objectID": "1_ns_development.html#ventral-patterning-sonic-hedgehog",
+    "href": "1_ns_development.html#ventral-patterning-sonic-hedgehog",
+    "title": "Embryonic development of the nervous system",
+    "section": "Ventral patterning: Sonic Hedgehog",
+    "text": "Ventral patterning: Sonic Hedgehog\n\n\n\nSHH forms a ventral-to-dorsal concentration gradient in the developing neural tube.\n\nDifferent SHH levels specify different ventral progenitor domains.\nSHH binds PTCH, relieving its inhibition of SMO.\nThis activates GLI-dependent gene expression and promotes specific neuronal identities."
+  },
+  {
+    "objectID": "1_ns_development.html#dorsal-patterning-bmp-signaling",
+    "href": "1_ns_development.html#dorsal-patterning-bmp-signaling",
+    "title": "Embryonic development of the nervous system",
+    "section": "Dorsal patterning: BMP signaling",
+    "text": "Dorsal patterning: BMP signaling\n\n\nBMPs are produced dorsally and form a gradient opposite to SHH.\n\n\nDifferent BMP levels contribute to the specification of dorsal progenitor domains.\nBMP activates its receptors and the SMAD1/5–SMAD4 pathway.\nActivated SMADs regulate gene expression and promote dorsal neuronal identities.\n\n\n\n\nBMPs from the RP specify dorsal progenitors that become commissural interneurons.\nBMP signaling also direct them to their ventral migration and axon guidance."
+  },
+  {
+    "objectID": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions",
+    "href": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions",
+    "title": "Embryonic development of the nervous system",
+    "section": "Hox genes: from gradients to discrete regions",
+    "text": "Hox genes: from gradients to discrete regions\n\n\n\nMorphogen gradients provide continuous positional information**, but the nervous system must eventually be organized into distinct regions.\nOne example is the developing hindbrain, which is divided into transient segments called rhombomeres.\n\n\nRhombomeres are transient developmental structures.\nThey do not persist as separate units in the adult brain. During development, their cells are reorganized and contribute to the formation of the mature hindbrain, including structures and nuclei of the pons, medulla, cerebellar-related systems and cranial nerves."
+  },
+  {
+    "objectID": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-1",
+    "href": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-1",
+    "title": "Embryonic development of the nervous system",
+    "section": "Hox genes: from gradients to discrete regions",
+    "text": "Hox genes: from gradients to discrete regions\n\n\n\nMorphogen gradients provide continuous positional information, but the nervous system must eventually be organized into distinct regions.\nOne example is the developing hindbrain, which is divided into transient segments called rhombomeres.\n\n\nRhombomeres are transient developmental structures.\nThey do not persist as separate units in the adult brain. During development, their cells are reorganized and contribute to the formation of the mature hindbrain, including structures and nuclei of the pons, medulla, and cerebellar-related systems.\n\n\nHox genes translate positional information into regional identity.\n\ndifferent regions express different combinations of Hox genes\nthese combinations define distinct developmental domains\ncells within each domain acquire related neuronal identities\nthese domains later contribute to the formation of distinct structures and nuclei\n\n\n\n\nImage needed: hindbrain rhombomeres with regional Hox expression\nSuggested file: images/nsdev_hox_hindbrain.png\n\n\nThe important principle is combinatorial coding:\ncontinuous gradients → combinations of gene expression → discrete tissue identities\nThere is no simple correspondence between one Hox gene and one structure: it is the combination of expressed genes that matters."
+  },
+  {
+    "objectID": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-2",
+    "href": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-2",
+    "title": "Embryonic development of the nervous system",
+    "section": "Hox genes: from gradients to discrete regions 2",
+    "text": "Hox genes: from gradients to discrete regions 2\n\n\n\nHox genes translate positional information into regional identity.\n\n\n\ndifferent regions express different combinations of Hox genes\nthese combinations define distinct developmental domains\ncells within each domain acquire related neuronal identities\nthese domains later contribute to the formation of distinct structures and nuclei"
   }
 ]

@@ -283,7 +283,7 @@ During closure:
 :::
 
 ::: {.card}
-Disrupted closure can produce neural tube defects. The outcome depends on the affected region. Example: [Spina Bifida](https://en.wikipedia.org/wiki/Spina_bifida)
+Disrupted closure can produce neural tube defects. The outcome depends on the affected region. Example: [Spina Bifida](https://en.wikipedia.org/wiki/Spina_bifida){target="_blank"}
 :::
 
 :::
@@ -370,7 +370,7 @@ The induced structures have the characteristics of the `host species`, not of th
 ::: {.card}
 An **animal cap** is a small ectoderm explant removed from an amphibian blastula.
 
-Researchers can culture it using [in vitro](https://en.wikipedia.org/wiki/In_vitro) Experimental techniques:
+Researchers can culture it using [in vitro](https://en.wikipedia.org/wiki/In_vitro){target="_blank"} Experimental techniques:
 
 - alone
 - with defined signaling conditions
@@ -400,7 +400,7 @@ The assay provides a simple test of how signals change ectodermal fate.
 ::: {.column}
 
 ::: {.info-box}
-[BMP](https://en.wikipedia.org/wiki/Bone_morphogenetic_protein) signaling <u>promotes</u> non-neural, epidermal development in the ectoderm.
+[BMP](https://en.wikipedia.org/wiki/Bone_morphogenetic_protein){target="_blank"} signaling <u>promotes</u> non-neural, epidermal development in the ectoderm.
 
 <u>Reducing BMP</u> signaling allows competent ectoderm to adopt a neural fate.
 :::
@@ -451,9 +451,9 @@ Its regions progressively differ in structure, cell types, and future connection
 ::: {.column}
 
 ::: {.info-box}
-`Ventral patterning`: The `notochord` and floor plate provide <u>[SHH](https://en.wikipedia.org/wiki/Sonic_hedgehog_protein)</u>, a major ventral signal.
+`Ventral patterning`: The `notochord` and floor plate provide <u>[SHH](https://en.wikipedia.org/wiki/Sonic_hedgehog_protein){target="_blank"}</u>, a major ventral signal.
 
-`Dorsal patterning`: The `roof plate` and nearby ectoderm provide <u>BMP</u> and <u>[WNT](https://en.wikipedia.org/wiki/Wnt_signaling_pathway)</u> signals.
+`Dorsal patterning`: The `roof plate` and nearby ectoderm provide <u>BMP</u> and <u>[WNT](https://en.wikipedia.org/wiki/Wnt_signaling_pathway){target="_blank"}</u> dorsal signals.
 :::
 
 ::: {.card}
@@ -474,12 +474,73 @@ These signals form `gradients`. Cell identity depends on:
 :::
 :::
 
-## Dorsoventral signals and morphogens
+## Dorsoventral signals and morphogens 2
 
-qui di va scritto che i gradienti nell'asse dorso ventrale contribuiscono all'identita' delle cellule 
-sia ai poli che al centro. Attraverso sistemi che attivano cascate molecolari. Devo prendere anche l'altra immagine per la spiegazione dei gradienti in maniera adeguata.
+::: {.columns}
+::: {.column }
+
+:::{.card}
+Dorsoventral gradients contribute to the **identity of neural progenitor cells**.
+
+- `SHH` is highest <u>ventrally</u>, whereas `BMP`/`WNT` signals are stronger <u>dorsally</u>.
+- Cells sense the <u>local concentration</u> of these morphogens.
+- The gradient acts as a <u>positional map</u>: it provides information about where a cell is located along the dorsoventral axis.
+- Different levels of morphogen exposure activate different <u>intracellular signaling pathways</u> and patterns of <u>gene expression</u> that progressively specify different <u>progenitor domains and neuronal identities</u>.
+:::
+
+::: 
+::: {.column}
+
+![](images/1_ns_dorsoventral_gradients.jpg){width="100%"}
+
+::: 
+::: 
+
+## Ventral patterning: Sonic Hedgehog
+
+::: {.columns}
+::: {.column width="40%"}
+
+:::{.card}
+`SHH` forms a ventral-to-dorsal concentration gradient in the developing neural tube.
+
+- Different SHH levels specify different <u>ventral progenitor domains</u>.
+- SHH binds [PTCH](https://en.wikipedia.org/wiki/Patched){target="_blank"}, relieving its inhibition of [SMO](https://en.wikipedia.org/wiki/Smoothened){target="_blank"}.
+- This activates [GLI-dependent gene expression](https://en.wikipedia.org/wiki/Hedgehog_signaling_pathway){target="_blank"} and promotes specific neuronal identities.
+
+:::
+
+::: 
+::: {.column width="60%"}
+
 ![](images/1_ns_regionalization_dorsoventral.png){width="100%"}
 
+:::
+:::
+
+## Dorsal patterning: BMP signaling
+
+::: {.columns}
+::: {.column width="50%"}
+
+`BMPs` are produced dorsally and form a gradient opposite to SHH.
+
+:::{.card}
+- Different BMP levels contribute to the specification of **dorsal progenitor domains**.
+- BMP activates its receptors and the SMAD1/5–SMAD4 pathway.
+- Activated [SMAD](https://en.wikipedia.org/wiki/SMAD_(protein)){target="_blank"}s regulate gene expression and promote dorsal neuronal identities.
+:::
+
+:::{.info-box}
+- BMPs from the RP specify dorsal progenitors that become <u>commissural interneurons</u>.
+- BMP signaling also direct them to their ventral <u>migration and axon guidance</u>.
+:::
+
+::: 
+::: {.column width="50%"}
+![](images/1_ns_regionalization_dorsoventral_2.png){width="80%"}
+::: 
+::: 
 
 ## Cellular competence
 
@@ -542,7 +603,6 @@ The <u>hindbrain</u> forms the metencephalon and myelencephalon.
 :::
 
 
-
 ## Anteroposterior regionalization
 
 ::: {.columns}
@@ -557,18 +617,14 @@ Broad identities emerge along the anteroposterior axis:
 - spinal cord
 :::
 
-:::
-::: {.column}
-
-::: {.card .image-needed}
-**Image needed:** regional identities along the anteroposterior axis
-
-Suggested file: `images/nsdev_anteroposterior_axis.png`
-:::
-
 ::: {.card}
 Regionalization is progressive. Broad early domains are later refined into more specific territories.
 :::
+
+:::
+::: {.column}
+
+![](images/1_ns_brain_vescicles_anteroposterior.png){width="100%"}
 
 :::
 :::
@@ -579,65 +635,79 @@ Regionalization is progressive. Broad early domains are later refined into more 
 ::: {.column}
 
 ::: {.info-box}
-**WNT**, **FGF**, and **retinoic acid** contribute to anteroposterior patterning.
+`WNT`, [FGF](https://en.wikipedia.org/wiki/Fibroblast_growth_factor){target="_blank"}, and [retinoic acid](https://en.wikipedia.org/wiki/Retinoic_acid){target="_blank"} contribute to anteroposterior patterning.
 
 Their level and timing help distinguish anterior from posterior neural identities.
 :::
 
 ::: {.card}
-WNT and FGF support posterior neural character. Retinoic acid contributes to patterning posterior neural regions.
+- Retinoic acid contributes to patterning <u>anterior</u> neural regions.
+- WNT and FGF support <u>posterior</u> neural character. 
+
+:::
+
+::: {.info-box}
+This model works well for the posterior neural tube and spinal cord. Patterning of the <u>anterior</u> nervous system is more complex and cannot be described by a single anteroposterior gradient alone.
 :::
 
 :::
 ::: {.column}
 
-::: {.card}
-**General principle**
-
-Signals distributed across space and time translate position along the embryo into regional identity.
-:::
-
-::: {.card}
-The effect of each signal depends on the tissue, developmental stage, and other signals present.
-:::
+![](images/1_ns_anterodorsal_axis.png){width="88%"}
 
 :::
 :::
 
-## Hox genes and hindbrain organization
+## Hox genes: from gradients to discrete regions
 
 ::: {.columns}
 ::: {.column}
 
 ::: {.info-box}
-The early hindbrain is organized into transient segments called **rhombomeres**.
+Morphogen gradients provide <u>continuous</u> positional information**, but the nervous system must eventually be organized into `distinct regions`.
 
-**Hox genes** help assign anteroposterior identity to these regions.
+One example is the developing hindbrain, which is divided into transient segments called `rhombomeres`.
 :::
 
 ::: {.card}
-Hox genes:
+<u>Rhombomeres</u> are transient developmental structures.
 
-- are expressed in regional combinations
-- help distinguish adjacent domains
-- influence neuronal identity
+They do not persist as separate units in the adult brain. During development, their cells are reorganized and contribute to the formation of the mature <u>hindbrain</u>, including structures and nuclei of the <u>pons</u>, <u>medulla</u>, <u>cerebellar-related systems</u> and <u>cranial nerves</u>.
+:::
+
+
+
+:::
+::: {.column}
+
+![](images/1_ns_rhombomers.png){width="88%"}
+
+:::
+:::
+
+## Hox genes: from gradients to discrete regions 2
+
+::: {.columns}
+::: {.column}
+
+>[Hox genes](https://en.wikipedia.org/wiki/Hox_gene) translate positional information into <u>regional identity</u>.
+
+::: {.card}
+- different regions express different <u>combinations</u> of Hox genes
+- these combinations define <u>distinct</u> developmental domains
+- cells within each domain acquire related neuronal identities
+- these domains later contribute to the formation of distinct <u>structures and nuclei</u>
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-**Image needed:** hindbrain rhombomeres with regional Hox expression
-
-Suggested file: `images/nsdev_hox_hindbrain.png`
-:::
-
-::: {.card}
-There is no simple relationship between one Hox gene and one structure. The combined expression pattern matters.
-:::
+![](images/1_ns_hox_code.png){width="80%"}
 
 :::
 :::
+
+
 
 ## Neocortical regionalization
 
