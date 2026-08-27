@@ -410,7 +410,7 @@
     "href": "1_ns_development.html#classical-hypotheses-of-cortical-regionalization",
     "title": "Embryonic development of the nervous system",
     "section": "Classical hypotheses of cortical regionalization",
-    "text": "Classical hypotheses of cortical regionalization\n\n\n\nClassical protomap hypothesis\nEarly regional differences in cortical progenitors provide an initial map of future cortical areas.\n\n\nClassical protocortex hypothesis\nThe early cortex is relatively flexible. Thalamic inputs play a major role in shaping areal identity.\n\n\n\nImage needed: comparison of the classical protomap and protocortex hypotheses\nSuggested file: images/nsdev_cortical_hypotheses.png\n\n\nIntegrated interpretation\nIntrinsic patterning establishes early regional biases. Thalamic inputs and activity refine the developing cortical map.\n\n\n\nPresent the two classical hypotheses as contrasting starting points. Current interpretations combine early specification with input-dependent refinement."
+    "text": "Classical hypotheses of cortical regionalization\n\n\n\nClassical protomap hypothesis\nEarly regional differences in cortical progenitors provide an initial map of future cortical areas.\n\n\nClassical protocortex hypothesis\nThe early cortex is relatively flexible. Thalamic inputs play a major role in shaping areal identity.\n\n\nIntegrated interpretation\nIntrinsic patterning establishes early regional biases. Thalamic inputs and activity refine the developing cortical map."
   },
   {
     "objectID": "1_ns_development.html#from-ectoderm-to-neural-tube",
@@ -480,7 +480,7 @@
     "href": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions",
     "title": "Embryonic development of the nervous system",
     "section": "Hox genes: from gradients to discrete regions",
-    "text": "Hox genes: from gradients to discrete regions\n\n\n\nMorphogen gradients provide continuous positional information**, but the nervous system must eventually be organized into distinct regions.\nOne example is the developing hindbrain, which is divided into transient segments called rhombomeres.\n\n\nRhombomeres are transient developmental structures.\nThey do not persist as separate units in the adult brain. During development, their cells are reorganized and contribute to the formation of the mature hindbrain, including structures and nuclei of the pons, medulla, cerebellar-related systems and cranial nerves."
+    "text": "Hox genes: from gradients to discrete regions\n\n\n\nMorphogen gradients provide continuous positional information, but the nervous system must eventually be organized into distinct regions.\nOne example is the developing hindbrain, which is divided into transient segments called rhombomeres.\n\n\nRhombomeres are transient developmental structures.\nThey do not persist as separate units in the adult brain. During development, their cells are reorganized and contribute to the formation of the mature hindbrain, including structures and nuclei of the pons, medulla, cerebellar-related systems and cranial nerves."
   },
   {
     "objectID": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-1",
@@ -495,5 +495,47 @@
     "title": "Embryonic development of the nervous system",
     "section": "Hox genes: from gradients to discrete regions 2",
     "text": "Hox genes: from gradients to discrete regions 2\n\n\n\nHox genes translate positional information into regional identity.\n\n\n\ndifferent regions express different combinations of Hox genes\nthese combinations define distinct developmental domains\ncells within each domain acquire related neuronal identities\nthese domains later contribute to the formation of distinct structures and nuclei"
+  },
+  {
+    "objectID": "1_ns_development.html#from-extracellular-signals-to-brain-regions",
+    "href": "1_ns_development.html#from-extracellular-signals-to-brain-regions",
+    "title": "Embryonic development of the nervous system",
+    "section": "From extracellular signals to brain regions",
+    "text": "From extracellular signals to brain regions\n\nThe Hox pattern in the hindbrain is just one example of a more general principle of nervous system development.\nGene expression is not established in isolation: it is continuously influenced by signals present in the extracellular environment.\n\n\nMorphogens and other extracellular signals interact with receptors on the cell and activate intracellular molecular pathways.\nThese pathways modify the expression of transcription factors and other genes, initiating different developmental programs.\n\n\nThrough this process, initially similar cells acquire different identities and progressively organize into distinct domains, nuclei, and brain areas."
+  },
+  {
+    "objectID": "1_ns_development.html#why-is-there-no-single-anterior-morphogen",
+    "href": "1_ns_development.html#why-is-there-no-single-anterior-morphogen",
+    "title": "Embryonic development of the nervous system",
+    "section": "Why is there no single “anterior morphogen”?",
+    "text": "Why is there no single “anterior morphogen”?\n\n\n\nThe anterior nervous system is much more structurally complex than the spinal cord. For this reason, anterior patterning depends on multiple local organizing centers, rather than on a single morphogen gradient.\n\n\nExample: the isthmic organizer\nThe isthmus is located at the boundary between the developing midbrain and hindbrain.\nIt acts as an organizer by releasing signaling molecules, especially WNT1 and FGF8, that pattern the surrounding tissue and promote the development of the mesencephalon and metencephalon."
+  },
+  {
+    "objectID": "1_ns_development.html#regionalization-of-the-neocortex",
+    "href": "1_ns_development.html#regionalization-of-the-neocortex",
+    "title": "Embryonic development of the nervous system",
+    "section": "Regionalization of the neocortex",
+    "text": "Regionalization of the neocortex\n\nThe developing neocortex initially appears relatively homogeneous, but it will become organized into many functionally distinct cortical areas.\n\n\nExtracellular signals provide positional information. Different signaling centers produce gradients across the developing cortex:\n\nFGFs particularly FGF8, from the anterior region\nWNTs and BMPs from dorsocaudal regions"
+  },
+  {
+    "objectID": "1_ns_development.html#fgf8-helps-organize-the-cortical-map",
+    "href": "1_ns_development.html#fgf8-helps-organize-the-cortical-map",
+    "title": "Embryonic development of the nervous system",
+    "section": "FGF8 helps organize the cortical map",
+    "text": "FGF8 helps organize the cortical map\n\n\nExperimental manipulation of FGF8 changes the position of cortical areas:\n\nincreasing anterior FGF8 shifts cortical area boundaries posteriorly\nadding an ectopic posterior source of FGF8 can generate a second, partially duplicated cortical map\neven a second somatosensory area can appear\n\nThis shows that FGF8 is not simply correlated with cortical organization: it can instruct the position of cortical areas."
+  },
+  {
+    "objectID": "1_ns_development.html#gene-expression-defines-cortical-regions",
+    "href": "1_ns_development.html#gene-expression-defines-cortical-regions",
+    "title": "Embryonic development of the nervous system",
+    "section": "Gene expression defines cortical regions",
+    "text": "Gene expression defines cortical regions\n\n\nMorphogen gradients are translated into gradients of transcription factor expression.\nTwo important examples are Emx2 and Pax6, which are expressed in approximately opposing gradients across the developing neocortex.\n\n\n\nEmx2 is higher toward caudomedial cortex.\nPax6 is higher toward rostrolateral cortex.\nDifferent combinations and levels of these transcription factors give progenitor cells different regional identities."
+  },
+  {
+    "objectID": "1_ns_development.html#self-check",
+    "href": "1_ns_development.html#self-check",
+    "title": "Embryonic development of the nervous system",
+    "section": "Self-check",
+    "text": "Self-check"
   }
 ]

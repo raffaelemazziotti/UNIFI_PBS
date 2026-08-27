@@ -664,7 +664,7 @@ This model works well for the posterior neural tube and spinal cord. Patterning 
 ::: {.column}
 
 ::: {.info-box}
-Morphogen gradients provide <u>continuous</u> positional information**, but the nervous system must eventually be organized into `distinct regions`.
+Morphogen gradients provide <u>continuous</u> positional information, but the nervous system must eventually be organized into `distinct regions`.
 
 One example is the developing hindbrain, which is divided into transient segments called `rhombomeres`.
 :::
@@ -707,37 +707,100 @@ They do not persist as separate units in the adult brain. During development, th
 :::
 :::
 
+## From extracellular signals to brain regions
 
+::: {.info-box}
+The Hox pattern in the hindbrain is just one example of a more general principle of nervous system development.
 
-## Neocortical regionalization
+<u>Gene expression</u> is not established in isolation: it is continuously influenced by signals present in the <u>extracellular environment</u>.
+:::
+
+::: {.card}
+<u>Morphogens</u> and other extracellular signals <u>interact</u> with receptors on the cell and activate `intracellular molecular pathways`.
+
+These pathways modify the expression of <u>transcription factors</u> and other genes, initiating different `developmental programs`.
+:::
+
+::: {.card}
+Through this process, initially similar cells acquire different identities and progressively organize into distinct <u>domains, nuclei, and brain areas</u>.
+:::
+
+## Why is there no single "anterior morphogen"?
 
 ::: {.columns}
 ::: {.column}
 
 ::: {.info-box}
-Future cortical areas emerge through interactions between:
-
-- early differences among progenitor cells
-- local signaling cues
-- maturation of connections
-- activity arriving from other regions
+The anterior nervous system is much more <u>structurally complex</u> than the spinal cord.
+For this reason, anterior patterning depends on <u>multiple local organizing centers</u>, rather than on a single morphogen gradient.
 :::
 
+
+::: {.info-box}
+Example: the [isthmic organizer](https://en.wikipedia.org/wiki/Isthmic_organizer){target="_blank"}
+
+The `isthmus` is located at the boundary between the developing <u>midbrain</u> and <u>hindbrain</u>.
+
+It acts as an organizer by releasing signaling molecules, especially `WNT1` and `FGF8`, that pattern the surrounding tissue and promote the development of the <u>mesencephalon</u> and <u>metencephalon</u>.
 :::
+
+::: 
 ::: {.column}
 
-::: {.card .image-needed}
-**Image needed:** progressive emergence of areas in the developing neocortex
+![](images/1_ns_isthmic_organizer.png){width="70%" title="Wnt1 loss-of-function experiment: in Wnt1 mutant mice, much of the developing mesencephalon and rostral metencephalon is lost, showing that Wnt1 signaling at the isthmic organizer is required for normal development of these regions."}
 
-Suggested file: `images/nsdev_neocortex_regionalization.png`
+::: 
+::: 
+
+## Regionalization of the neocortex
+
+::: {.info-box}
+The developing neocortex initially appears relatively homogeneous, but it will become organized into many functionally distinct <u>cortical areas</u>.
 :::
 
 ::: {.card}
-Early cortical identities are not complete adult boundaries. They are stabilized and refined during development.
-:::
+<u>Extracellular signals</u> provide positional information. Different signaling centers produce gradients across the developing cortex:
+
+- `FGFs` particularly FGF8, from the anterior region
+- `WNTs` and `BMPs` from dorsocaudal regions
 
 :::
+
+## FGF8 helps organize the cortical map
+
+![](images/1_ns_neocortex_gradients.png){width="100%" title="FGF8 manipulation experiment: increasing anterior FGF8 shifts cortical areas posteriorly (C), whereas an ectopic posterior FGF8 source can induce partial duplication of the cortical map, including somatosensory cortex (D)."}
+
+
+
+::: {.card}
+Experimental manipulation of FGF8 changes the position of cortical areas:
+
+- increasing anterior FGF8 <u>shifts</u> cortical area boundaries posteriorly
+- adding an <u>ectopic</u> posterior source of FGF8 can generate a <u>second</u>, partially duplicated <u>cortical map</u>
+- even a second somatosensory area can appear
+
+This shows that FGF8 is not simply correlated with cortical organization: it can <u>instruct</u> the position of cortical areas.
 :::
+
+## Gene expression defines cortical regions
+
+![](images/1_ns_neocortex_regionalization.png){
+  width="100%"
+  title="Emx2 and Pax6 are expressed in opposing gradients. Loss of either gene changes the relative sizes and positions of cortical areas, demonstrating their role in cortical regionalization. The knockout experiments show that changing these molecular gradients changes the relative size and position of motor and sensory cortical areas."
+}
+
+::: {.info-box}
+Morphogen gradients are translated into gradients of <u>transcription factor expression</u>.
+
+Two important examples are [Emx2](https://en.wikipedia.org/wiki/EMX2){target="_blank"} and [Pax6](https://it.wikipedia.org/wiki/PAX6){target="_blank"}, which are expressed in approximately opposing gradients across the developing neocortex.
+:::
+
+::: {.card}
+- `Emx2` is higher toward caudomedial cortex.
+- `Pax6` is higher toward rostrolateral cortex.
+- Different combinations and levels of these transcription factors give progenitor cells different regional identities.
+:::
+
 
 ## Classical hypotheses of cortical regionalization
 
@@ -745,66 +808,39 @@ Early cortical identities are not complete adult boundaries. They are stabilized
 ::: {.column}
 
 ::: {.card}
-**Classical protomap hypothesis**
+Classical `protomap` hypothesis
 
 Early regional differences in cortical progenitors provide an initial map of future cortical areas.
 :::
 
 ::: {.card}
-**Classical protocortex hypothesis**
+Classical `protocortex` hypothesis
 
 The early cortex is relatively flexible. Thalamic inputs play a major role in shaping areal identity.
 :::
 
-:::
-::: {.column}
-
-::: {.card .image-needed}
-**Image needed:** comparison of the classical protomap and protocortex hypotheses
-
-Suggested file: `images/nsdev_cortical_hypotheses.png`
-:::
-
 ::: {.info-box}
-**Integrated interpretation**
+Integrated interpretation
 
-Intrinsic patterning establishes early regional biases. Thalamic inputs and activity refine the developing cortical map.
-:::
-
-:::
-:::
-
-::: {.notes}
-Present the two classical hypotheses as contrasting starting points. Current interpretations combine early specification with input-dependent refinement.
-:::
-
-## Final summary
-
-::: {.columns}
-::: {.column}
-
-::: {.info-box}
-Key steps:
-
-- human embryology and model organisms provide complementary evidence
-- BMP inhibition supports neural induction
-- neurulation forms the neural tube and neural crest
+Intrinsic patterning establishes early regional <u>biases</u>. Thalamic inputs and activity refine the developing cortical map.
 :::
 
 :::
 ::: {.column}
 
-::: {.card}
-Regional signals:
-
-- SHH patterns ventral neural tissue, while BMP and WNT pattern dorsal tissue
-- WNT, FGF, and retinoic acid contribute to anteroposterior identity
-:::
-
-::: {.card}
-**Key message:** intrinsic patterning and external inputs work together throughout nervous system development.
-:::
+![](images/1_ns_protomap_protocortex.png){
+  width="100%"
+  title="Protomap vs. protocortex models of cortical regionalization. The protomap hypothesis proposes that cortical areas are specified early by intrinsic molecular programs, whereas the protocortex hypothesis proposes that an initially undifferentiated cortex is progressively regionalized by incoming thalamocortical sensory inputs from the visual, auditory, and somatosensory systems."
+}
 
 :::
 :::
 
+
+## Self-check
+
+```{=html}
+<div class="quiz-wrap">
+  <iframe class="quiz-frame" src="quiz/quiz_ns.html" loading="lazy"></iframe>
+</div>
+```

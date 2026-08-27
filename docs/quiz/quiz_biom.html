@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Self-check Quiz</title>
+
+  <!-- Quiz style -->
+  <link rel="stylesheet" href="./quiz.css">
+</head>
+
+<body>
+
+  <!-- Quiz container -->
+  <div id="quiz-container">
+    <div id="quiz"></div>
+
+    <button id="next-btn" disabled>Next question</button>
+  </div>
+
+  <!-- Quiz logic -->
+  <script src="./quiz.js?v=2"></script>
+
+  <!-- Load the question bank -->
+  <script>
+    loadQuiz("./questions_biom.json");
+  </script>
+
+</body>
+</html>

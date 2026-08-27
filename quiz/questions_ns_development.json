@@ -1,0 +1,555 @@
+{
+  "topic": "Embryonic Development of the Nervous System",
+  "questions": [
+    {
+      "question": "What is the main guiding idea of nervous system development presented in the slides?",
+      "options": [
+        "Development only increases the size of existing structures",
+        "Development progressively creates differences between cells and regions",
+        "Development is controlled only by genes inside each cell",
+        "Development begins only after the neural tube has closed"
+      ],
+      "correct": 1,
+      "feedback": "The slides emphasize that development does more than enlarge a structure: it progressively creates differences between cells and regions."
+    },
+    {
+      "question": "Why is a comparative perspective across species useful for studying nervous system development?",
+      "options": [
+        "Because all species develop identical nervous systems",
+        "Because human embryology cannot describe developmental anatomy",
+        "Because it helps distinguish conserved mechanisms from species-specific features",
+        "Because animal studies eliminate the need to study humans"
+      ],
+      "correct": 2,
+      "feedback": "Comparing species helps identify mechanisms that are conserved and features that are specific to particular species, including humans."
+    },
+    {
+      "question": "What is a major advantage of animal models in developmental neuroscience?",
+      "options": [
+        "They allow controlled manipulation of genes, tissues, and signaling pathways",
+        "They reproduce every feature of human development exactly",
+        "They remove all ethical constraints from experimentation",
+        "They are used only for anatomical description"
+      ],
+      "correct": 0,
+      "feedback": "Animal models allow controlled manipulation of genes, tissues, signaling pathways, and developmental conditions, enabling causal tests."
+    },
+    {
+      "question": "What is the fertilized egg called?",
+      "options": [
+        "Blastula",
+        "Neural plate",
+        "Zygote",
+        "Somite"
+      ],
+      "correct": 2,
+      "feedback": "The fertilized egg is the zygote, the single cell from which embryonic development begins."
+    },
+    {
+      "question": "Stem cells differ from one another primarily in their:",
+      "options": [
+        "Position inside the adult brain",
+        "Developmental potential",
+        "Ability to generate electrical signals",
+        "Number of chromosomes"
+      ],
+      "correct": 1,
+      "feedback": "The slides define developmental potential as how many different cell types a stem cell can generate."
+    },
+    {
+      "question": "Which stem cells can generate all tissues?",
+      "options": [
+        "Totipotent cells",
+        "Multipotent cells",
+        "Oligopotent cells",
+        "Unipotent cells"
+      ],
+      "correct": 0,
+      "feedback": "Totipotent cells have the broadest developmental potential and can generate all tissues."
+    },
+    {
+      "question": "Which stem cells can generate almost every cell type of the body?",
+      "options": [
+        "Unipotent cells",
+        "Pluripotent cells",
+        "Oligopotent cells",
+        "Multipotent cells"
+      ],
+      "correct": 1,
+      "feedback": "Pluripotent cells can generate almost every cell type of the body."
+    },
+    {
+      "question": "What is differentiation?",
+      "options": [
+        "The fusion of the neural folds",
+        "The process by which stem cells become specialized cell types",
+        "The division of the brain into vesicles",
+        "The movement of the neural crest away from the neural tube"
+      ],
+      "correct": 1,
+      "feedback": "Differentiation is the process by which stem cells become specialized into specific cell types."
+    },
+    {
+      "question": "Which three germ layers become distinct during early embryonic development?",
+      "options": [
+        "Ectoderm, mesoderm, and endoderm",
+        "Neural plate, neural groove, and neural tube",
+        "Forebrain, midbrain, and hindbrain",
+        "Epidermis, somites, and notochord"
+      ],
+      "correct": 0,
+      "feedback": "The three germ layers are ectoderm, mesoderm, and endoderm."
+    },
+    {
+      "question": "Neural tissue develops from a specialized region of the:",
+      "options": [
+        "Mesoderm",
+        "Endoderm",
+        "Ectoderm",
+        "Notochord"
+      ],
+      "correct": 2,
+      "feedback": "The slides state that neural tissue develops from a specialized region of the ectoderm."
+    },
+    {
+      "question": "What does neurulation transform?",
+      "options": [
+        "A flat region of ectoderm into a tubular structure",
+        "The hindbrain into the spinal cord",
+        "Mesoderm into neural crest",
+        "The zygote directly into the brain"
+      ],
+      "correct": 0,
+      "feedback": "Neurulation transforms a flat region of ectoderm into the neural tube through bending, elevation, and fusion."
+    },
+    {
+      "question": "What is the neural plate?",
+      "options": [
+        "A transient opening at the end of the neural tube",
+        "A thickened region of ectoderm that will form much of the central nervous system",
+        "A segment of the mature hindbrain",
+        "A layer that forms only the peripheral nervous system"
+      ],
+      "correct": 1,
+      "feedback": "The neural plate is a thickened region of ectoderm that gives rise to much of the central nervous system."
+    },
+    {
+      "question": "What develops from the neural tube?",
+      "options": [
+        "Only the peripheral nerves",
+        "The brain and spinal cord",
+        "Only the cranial nerves",
+        "The mesoderm and endoderm"
+      ],
+      "correct": 1,
+      "feedback": "The neural tube is the closed structure from which the brain and spinal cord develop."
+    },
+    {
+      "question": "The neural crest gives rise to much of the:",
+      "options": [
+        "Peripheral nervous system",
+        "Cerebral cortex only",
+        "Spinal cord only",
+        "Endoderm"
+      ],
+      "correct": 0,
+      "feedback": "The neural crest gives rise to much of the peripheral nervous system, including sensory and autonomic neurons."
+    },
+    {
+      "question": "Around which time does neural-fold fusion begin in human development?",
+      "options": [
+        "Days 5-7",
+        "Days 10-12",
+        "Days 20-22",
+        "Days 35-40"
+      ],
+      "correct": 2,
+      "feedback": "The slides place the beginning of neural-fold fusion at approximately days 20-22."
+    },
+    {
+      "question": "Around which day does the cranial neuropore close?",
+      "options": [
+        "Day 18",
+        "Day 21",
+        "Day 25",
+        "Day 35"
+      ],
+      "correct": 2,
+      "feedback": "The cranial neuropore closes at approximately day 25."
+    },
+    {
+      "question": "Why does the location of disrupted neural tube closure matter?",
+      "options": [
+        "Because the developmental outcome depends on the affected region",
+        "Because closure occurs only in the forebrain",
+        "Because all closure defects produce exactly the same condition",
+        "Because neuropores normally remain permanently open"
+      ],
+      "correct": 0,
+      "feedback": "The slides emphasize that neural tube defects depend on which region of the neural tube fails to close normally."
+    },
+    {
+      "question": "In the Spemann and Mangold experiment, which tissue was transplanted?",
+      "options": [
+        "The ventral neural tube",
+        "The dorsal lip of an amphibian gastrula",
+        "The roof plate of the spinal cord",
+        "The developing retina"
+      ],
+      "correct": 1,
+      "feedback": "The experiment transplanted the dorsal lip from a donor amphibian gastrula into the ventral region of a host embryo."
+    },
+    {
+      "question": "What was the main result of the Spemann and Mangold transplantation?",
+      "options": [
+        "The host stopped developing",
+        "A secondary embryonic axis was induced",
+        "The transplanted tissue became epidermis",
+        "Only the donor cells formed a new embryo"
+      ],
+      "correct": 1,
+      "feedback": "The transplanted dorsal lip induced formation of a secondary embryonic axis."
+    },
+    {
+      "question": "Why is the transplanted dorsal lip called an organizer?",
+      "options": [
+        "Because it contains a complete miniature embryo",
+        "Because it can alter nearby cell fates and coordinate tissue organization",
+        "Because it forms only the neural crest",
+        "Because it prevents all neighboring cells from differentiating"
+      ],
+      "correct": 1,
+      "feedback": "The organizer can alter nearby tissue fate, induce neural structures, and contribute to organization of body axes."
+    },
+    {
+      "question": "What does the chick-to-zebrafish organizer example show?",
+      "options": [
+        "The secondary axis always takes the donor species' form",
+        "Only donor cells contribute to the induced tissues",
+        "Organizer signals can recruit host cells, which retain host-species characteristics",
+        "Organizer activity works only within the same species"
+      ],
+      "correct": 2,
+      "feedback": "The slides use this example to show that organizer signals recruit host cells, and the induced structures have characteristics of the host species."
+    },
+    {
+      "question": "What is an animal cap experiment used to test?",
+      "options": [
+        "How defined signals change ectodermal fate",
+        "How adult neurons generate action potentials",
+        "How the neural tube closes mechanically in humans",
+        "How cortical areas respond to sensory stimulation"
+      ],
+      "correct": 0,
+      "feedback": "Animal-cap explants provide a simple in vitro assay for testing how signaling conditions influence ectodermal fate."
+    },
+    {
+      "question": "According to the slides, BMP signaling in ectoderm promotes:",
+      "options": [
+        "Non-neural epidermal development",
+        "Motor neuron differentiation only",
+        "Neural crest migration only",
+        "Formation of the isthmic organizer"
+      ],
+      "correct": 0,
+      "feedback": "BMP signaling is presented as promoting non-neural, epidermal development in the ectoderm."
+    },
+    {
+      "question": "Which molecules are listed as BMP antagonists released by the organizer?",
+      "options": [
+        "SHH, WNT1, and FGF8",
+        "Noggin, Chordin, and Follistatin",
+        "Pax6, Emx2, and Otx2",
+        "PTCH, SMO, and GLI"
+      ],
+      "correct": 1,
+      "feedback": "Noggin, Chordin, and Follistatin are listed as BMP antagonists that support neural induction."
+    },
+    {
+      "question": "Along which two main axes does the neural tube acquire distinct regional identities?",
+      "options": [
+        "Left-right and superficial-deep",
+        "Anteroposterior and dorsoventral",
+        "Medial-lateral and inside-out",
+        "Rostral-caudal and temporal-spatial only"
+      ],
+      "correct": 1,
+      "feedback": "The slides describe regionalization along the anteroposterior and dorsoventral axes."
+    },
+    {
+      "question": "What provides a major ventral signal during dorsoventral neural tube patterning?",
+      "options": [
+        "The notochord and floor plate through SHH",
+        "The roof plate through FGF8",
+        "The neural crest through retinoic acid",
+        "The ectoderm through Pax6"
+      ],
+      "correct": 0,
+      "feedback": "The notochord and floor plate provide SHH, a major ventral patterning signal."
+    },
+    {
+      "question": "Which signals are strongest dorsally in the developing neural tube?",
+      "options": [
+        "SHH and GLI",
+        "BMP and WNT",
+        "FGF8 and retinoic acid",
+        "PTCH and SMO"
+      ],
+      "correct": 1,
+      "feedback": "The roof plate and nearby ectoderm provide BMP and WNT signals that are stronger dorsally."
+    },
+    {
+      "question": "Why can a morphogen gradient act as a positional map?",
+      "options": [
+        "Because every cell receives exactly the same concentration",
+        "Because cells can use local signal concentration as information about their position",
+        "Because morphogens physically move cells to a fixed coordinate",
+        "Because gradients eliminate the need for gene expression"
+      ],
+      "correct": 1,
+      "feedback": "Cells sense local morphogen levels, allowing the gradient to provide positional information along an axis."
+    },
+    {
+      "question": "What happens when SHH binds PTCH in the pathway described in the slides?",
+      "options": [
+        "PTCH activates BMP receptors",
+        "Inhibition of SMO is relieved",
+        "SMO is permanently blocked",
+        "GLI is removed from the cell"
+      ],
+      "correct": 1,
+      "feedback": "SHH binding to PTCH relieves PTCH-mediated inhibition of SMO."
+    },
+    {
+      "question": "Activation of the SHH pathway ultimately promotes:",
+      "options": [
+        "GLI-dependent gene expression",
+        "SMAD1/5-SMAD4 degradation",
+        "Only epidermal differentiation",
+        "Closure of the cranial neuropore"
+      ],
+      "correct": 0,
+      "feedback": "SHH signaling activates GLI-dependent gene expression, contributing to ventral progenitor and neuronal identities."
+    },
+    {
+      "question": "Which intracellular pathway is associated with BMP signaling in the slides?",
+      "options": [
+        "PTCH-SMO-GLI",
+        "SMAD1/5-SMAD4",
+        "Emx2-Pax6",
+        "WNT1-FGF8 only"
+      ],
+      "correct": 1,
+      "feedback": "BMP receptor activation is linked to the SMAD1/5-SMAD4 pathway, which regulates gene expression."
+    },
+    {
+      "question": "What role is attributed to BMP signaling for commissural interneurons?",
+      "options": [
+        "It specifies dorsal progenitors and contributes to ventral migration and axon guidance",
+        "It converts them into motor neurons",
+        "It prevents them from responding to extracellular signals",
+        "It restricts them permanently to the roof plate"
+      ],
+      "correct": 0,
+      "feedback": "The slides state that BMPs from the roof plate specify dorsal progenitors that become commissural interneurons and also contribute to their ventral migration and axon guidance."
+    },
+    {
+      "question": "What does cellular competence mean?",
+      "options": [
+        "A cell's ability to respond to a particular signal",
+        "A cell's ability to divide indefinitely",
+        "A cell's position along the anteroposterior axis",
+        "A cell's ability to form an entire organism"
+      ],
+      "correct": 0,
+      "feedback": "Competence is defined as a cell's ability to respond to a particular signal."
+    },
+    {
+      "question": "Which factor can influence how a cell responds to a developmental signal?",
+      "options": [
+        "Its receptors, developmental history, differentiation state, and timing",
+        "Only its physical size",
+        "Only the concentration of DNA",
+        "Only whether it belongs to the central nervous system"
+      ],
+      "correct": 0,
+      "feedback": "The response depends on available receptors, previous history, state of differentiation, and developmental timing."
+    },
+    {
+      "question": "What are the three primary brain vesicles?",
+      "options": [
+        "Telencephalon, diencephalon, and metencephalon",
+        "Forebrain, midbrain, and hindbrain",
+        "Pons, medulla, and cerebellum",
+        "Cortex, thalamus, and spinal cord"
+      ],
+      "correct": 1,
+      "feedback": "The primary brain vesicles are the forebrain, midbrain, and hindbrain."
+    },
+    {
+      "question": "Which subdivisions arise from the forebrain?",
+      "options": [
+        "Metencephalon and myelencephalon",
+        "Telencephalon and diencephalon",
+        "Mesencephalon and spinal cord",
+        "Pons and medulla only"
+      ],
+      "correct": 1,
+      "feedback": "The forebrain subdivides into the telencephalon and diencephalon."
+    },
+    {
+      "question": "How is anteroposterior regionalization described in the slides?",
+      "options": [
+        "Broad early domains are progressively refined into more specific territories",
+        "All regions acquire their final identities simultaneously",
+        "Only the spinal cord becomes regionally organized",
+        "Regionalization ends before brain vesicles appear"
+      ],
+      "correct": 0,
+      "feedback": "Anteroposterior regionalization is progressive: broad early domains are later refined into more specific territories."
+    },
+    {
+      "question": "Which signals are presented as contributing to anteroposterior patterning?",
+      "options": [
+        "WNT, FGF, and retinoic acid",
+        "Only SHH",
+        "Only BMP and SMAD",
+        "PTCH, SMO, and GLI only"
+      ],
+      "correct": 0,
+      "feedback": "The slides identify WNT, FGF, and retinoic acid as contributors to anteroposterior patterning."
+    },
+    {
+      "question": "Why is the simple WNT/FGF/retinoic-acid model not sufficient for the anterior nervous system?",
+      "options": [
+        "Because the anterior nervous system is structurally complex and depends on multiple local organizing centers",
+        "Because morphogens are completely absent from the anterior nervous system",
+        "Because anterior neural cells do not express genes",
+        "Because only the spinal cord responds to extracellular signals"
+      ],
+      "correct": 0,
+      "feedback": "The slides state that anterior patterning is more complex and cannot be described by a single anteroposterior gradient alone."
+    },
+    {
+      "question": "What are rhombomeres?",
+      "options": [
+        "Permanent adult cortical areas",
+        "Transient developmental segments of the hindbrain",
+        "Openings at the ends of the neural tube",
+        "Clusters of neural crest cells outside the embryo"
+      ],
+      "correct": 1,
+      "feedback": "Rhombomeres are transient developmental segments of the hindbrain that are later reorganized into mature hindbrain structures."
+    },
+    {
+      "question": "How do Hox genes contribute to hindbrain regionalization?",
+      "options": [
+        "Different combinations of Hox genes define distinct developmental domains",
+        "Each Hox gene independently forms exactly one adult nucleus",
+        "Hox genes prevent cells from responding to morphogens",
+        "All rhombomeres express the same Hox combination"
+      ],
+      "correct": 0,
+      "feedback": "The slides emphasize combinatorial Hox expression: different regional combinations help define distinct developmental domains and neuronal identities."
+    },
+    {
+      "question": "What general sequence links extracellular signals to the formation of distinct brain regions?",
+      "options": [
+        "Extracellular signals → intracellular pathways → changes in gene expression → developmental programs",
+        "Gene expression → fertilization → neurulation → extracellular signals",
+        "Cell death → neural crest → germ layers → morphogens",
+        "Adult activity → stem-cell potency → organizer formation"
+      ],
+      "correct": 0,
+      "feedback": "Morphogens and other extracellular signals activate intracellular pathways that modify gene expression and initiate developmental programs."
+    },
+    {
+      "question": "Where is the isthmic organizer located?",
+      "options": [
+        "At the boundary between the developing midbrain and hindbrain",
+        "At the caudal end of the spinal cord",
+        "Inside the neural crest",
+        "At the boundary between ectoderm and endoderm"
+      ],
+      "correct": 0,
+      "feedback": "The isthmus is located at the developing midbrain-hindbrain boundary."
+    },
+    {
+      "question": "Which signaling molecules are especially associated with the isthmic organizer in the slides?",
+      "options": [
+        "Noggin and Chordin",
+        "WNT1 and FGF8",
+        "PTCH and SMO",
+        "Emx2 and Pax6"
+      ],
+      "correct": 1,
+      "feedback": "The isthmic organizer is described as releasing signaling molecules especially WNT1 and FGF8."
+    },
+    {
+      "question": "What does the Wnt1 loss-of-function example at the isthmic organizer show?",
+      "options": [
+        "Loss of Wnt1 expands the entire forebrain",
+        "Much of the developing mesencephalon and rostral metencephalon is lost",
+        "Wnt1 loss produces a second somatosensory cortex",
+        "Wnt1 is required only for neural crest migration"
+      ],
+      "correct": 1,
+      "feedback": "The image tooltip states that Wnt1 mutant mice lose much of the developing mesencephalon and rostral metencephalon."
+    },
+    {
+      "question": "Which extracellular signals are highlighted in early neocortical regionalization?",
+      "options": [
+        "Anterior FGF8 and dorsocaudal WNT/BMP signals",
+        "Only ventral SHH",
+        "Only retinoic acid from the spinal cord",
+        "Only Noggin from the organizer"
+      ],
+      "correct": 0,
+      "feedback": "The slides describe FGF8 from the anterior region and WNT/BMP signals from dorsocaudal regions as sources of positional information for the developing neocortex."
+    },
+    {
+      "question": "What happens when anterior FGF8 signaling is increased experimentally in the developing neocortex?",
+      "options": [
+        "Cortical area boundaries shift posteriorly",
+        "All cortical areas disappear",
+        "The neural tube reopens",
+        "Cortical area boundaries shift only dorsally"
+      ],
+      "correct": 0,
+      "feedback": "Increasing anterior FGF8 shifts cortical area boundaries posteriorly."
+    },
+    {
+      "question": "What can an ectopic posterior source of FGF8 produce?",
+      "options": [
+        "A second, partially duplicated cortical map",
+        "Complete loss of the forebrain",
+        "Transformation of cortex into spinal cord",
+        "Closure of the caudal neuropore"
+      ],
+      "correct": 0,
+      "feedback": "The slides describe an ectopic posterior FGF8 source as capable of generating a second, partially duplicated cortical map, including another somatosensory area."
+    },
+    {
+      "question": "How are Emx2 and Pax6 expressed across the developing neocortex?",
+      "options": [
+        "In approximately opposing gradients",
+        "Only in the spinal cord",
+        "At identical levels in every cortical progenitor",
+        "Only after cortical areas are fully mature"
+      ],
+      "correct": 0,
+      "feedback": "Emx2 and Pax6 are presented as transcription factors expressed in approximately opposing gradients across the developing neocortex."
+    },
+    {
+      "question": "Which statement best summarizes the integrated view of protomap and protocortex hypotheses?",
+      "options": [
+        "Cortical areas are determined entirely by thalamic inputs",
+        "Cortical areas are fully fixed before any sensory input arrives",
+        "Intrinsic patterning establishes early regional biases, while thalamic inputs and activity refine the cortical map",
+        "Neither intrinsic patterning nor thalamic input contributes to cortical regionalization"
+      ],
+      "correct": 2,
+      "feedback": "The slides integrate the two classical hypotheses: intrinsic patterning establishes early biases, and thalamic inputs and activity refine the developing cortical map."
+    }
+  ]
+}

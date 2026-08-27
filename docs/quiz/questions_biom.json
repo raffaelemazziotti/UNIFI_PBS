@@ -1,0 +1,500 @@
+{
+  "topic": "Biomarkers in Psychology and Psychiatry",
+  "questions": [
+    {
+      "question": "Traditional psychological assessment primarily relies on:",
+      "options": [
+        "Genetic testing",
+        "Behavior, self-report, and clinical judgment",
+        "Neuroimaging only",
+        "Computational modeling"
+      ],
+      "correct": 1,
+      "feedback": "Psychology has traditionally relied on behavior, self-report, and clinical judgment."
+    },
+    {
+      "question": "What key limitation motivates interest in biomarkers?",
+      "options": [
+        "Lack of technology",
+        "Excessive objectivity",
+        "Subjectivity and limited predictive power",
+        "High costs of assessment"
+      ],
+      "correct": 2,
+      "feedback": "Biomarkers are pursued to address subjectivity and limited prediction."
+    },
+    {
+      "question": "Biomarkers are expected to improve psychology by:",
+      "options": [
+        "Replacing clinicians",
+        "Reducing subjectivity and improving prediction",
+        "Eliminating uncertainty",
+        "Providing causal explanations"
+      ],
+      "correct": 1,
+      "feedback": "Their promise lies in objectivity, quantification, and prediction."
+    },
+    {
+      "question": "According to the NIH/FDA definition, a biomarker is:",
+      "options": [
+        "A diagnosis",
+        "A causal mechanism",
+        "A measured characteristic indicating a biological process",
+        "A subjective report"
+      ],
+      "correct": 2,
+      "feedback": "A biomarker is a measured indicator, not a diagnosis or mechanism."
+    },
+    {
+      "question": "A key implication of the biomarker definition is that biomarkers are:",
+      "options": [
+        "Direct explanations",
+        "Context-independent",
+        "Indirect indicators",
+        "Always clinically useful"
+      ],
+      "correct": 2,
+      "feedback": "Biomarkers are indirect and context-dependent."
+    },
+    {
+      "question": "Why can an objective measure still be clinically useless?",
+      "options": [
+        "It is too expensive",
+        "It lacks statistical significance",
+        "There is large overlap between patients and controls",
+        "It is not biological"
+      ],
+      "correct": 2,
+      "feedback": "Large overlap reduces decision usefulness despite objectivity."
+    },
+    {
+      "question": "Many proposed biomarkers fail clinically because they:",
+      "options": [
+        "Are too complex",
+        "Lack statistical significance",
+        "Do not add value over clinical judgment",
+        "Are unethical"
+      ],
+      "correct": 2,
+      "feedback": "Statistical significance alone does not guarantee usefulness."
+    },
+    {
+      "question": "Why are one-to-one mappings between biomarkers and disorders rare?",
+      "options": [
+        "Measurement error",
+        "Poor study design",
+        "Biological and psychological complexity",
+        "Lack of funding"
+      ],
+      "correct": 2,
+      "feedback": "Psychological phenomena are heterogeneous and multidimensional."
+    },
+    {
+      "question": "Most biomarkers should be understood as:",
+      "options": [
+        "Mechanisms",
+        "Causes",
+        "Probabilistic correlates",
+        "Deterministic signals"
+      ],
+      "correct": 2,
+      "feedback": "They are correlates, not causes or mechanisms."
+    },
+    {
+      "question": "Why does group-level significance not guarantee individual usefulness?",
+      "options": [
+        "Groups are too small",
+        "Clinical decisions are individual",
+        "Statistics are unreliable",
+        "Biomarkers change mechanisms"
+      ],
+      "correct": 1,
+      "feedback": "Clinical decisions concern individuals, not group averages."
+    },
+    {
+      "question": "Biomarkers should primarily function as:",
+      "options": [
+        "Decision-makers",
+        "Diagnostic replacements",
+        "Decision-support tools",
+        "Causal explanations"
+      ],
+      "correct": 2,
+      "feedback": "They support but do not replace clinical judgment."
+    },
+    {
+      "question": "Which of the following can be a biomarker?",
+      "options": [
+        "Only genes",
+        "Only brain imaging",
+        "Behavioral measures",
+        "Only molecular signals"
+      ],
+      "correct": 2,
+      "feedback": "Behavioral and computational measures can be biomarkers."
+    },
+    {
+      "question": "Which is NOT a biomarker by definition?",
+      "options": [
+        "Diagnosis",
+        "Physiological signal",
+        "Behavioral feature",
+        "Computed score"
+      ],
+      "correct": 0,
+      "feedback": "A diagnosis is not a biomarker."
+    },
+    {
+      "question": "A Context of Use (CoU) specifies:",
+      "options": [
+        "Measurement noise",
+        "Target population and question",
+        "Statistical method",
+        "Biological mechanism"
+      ],
+      "correct": 1,
+      "feedback": "Biomarkers are only defined within a context of use."
+    },
+    {
+      "question": "Without a defined CoU, a biomarker’s performance:",
+      "options": [
+        "Improves",
+        "Can be generalized",
+        "Cannot be meaningfully evaluated",
+        "Becomes causal"
+      ],
+      "correct": 2,
+      "feedback": "Usefulness depends on context."
+    },
+    {
+      "question": "Biomarkers vary along multiple dimensions, including:",
+      "options": [
+        "Only biological level",
+        "Only time",
+        "Biological level, time, specificity, and function",
+        "Only measurement accuracy"
+      ],
+      "correct": 2,
+      "feedback": "Biomarkers are multidimensional objects."
+    },
+    {
+      "question": "Lower biological level biomarkers are always:",
+      "options": [
+        "More objective",
+        "More specific",
+        "More useful",
+        "Not necessarily better"
+      ],
+      "correct": 3,
+      "feedback": "Lower-level does not guarantee usefulness."
+    },
+    {
+      "question": "Trait biomarkers are typically:",
+      "options": [
+        "Highly variable",
+        "Context-dependent",
+        "Relatively stable",
+        "Only behavioral"
+      ],
+      "correct": 2,
+      "feedback": "Trait biomarkers show temporal stability."
+    },
+    {
+      "question": "State biomarkers are characterized by:",
+      "options": [
+        "High stability",
+        "Sensitivity to context",
+        "Immunity to bias",
+        "Genetic origin"
+      ],
+      "correct": 1,
+      "feedback": "State biomarkers fluctuate with condition and context."
+    },
+    {
+      "question": "A major limitation of trait biomarkers is that they are often:",
+      "options": [
+        "Too noisy",
+        "Ethically problematic",
+        "Weak predictors",
+        "Unmeasurable"
+      ],
+      "correct": 2,
+      "feedback": "They often have limited predictive power."
+    },
+    {
+      "question": "Psychological biomarkers are often:",
+      "options": [
+        "Disorder-specific",
+        "Mechanism-specific",
+        "Transdiagnostic",
+        "Genetically determined"
+      ],
+      "correct": 2,
+      "feedback": "Many reflect shared processes across disorders."
+    },
+    {
+      "question": "Measurement context affects biomarkers by influencing:",
+      "options": [
+        "Only cost",
+        "Only ethics",
+        "Reliability and validity",
+        "Biological causality"
+      ],
+      "correct": 2,
+      "feedback": "Context directly impacts measurement quality."
+    },
+    {
+      "question": "A biomarker may work in the lab but fail clinically because:",
+      "options": [
+        "Labs use worse equipment",
+        "Clinical settings are more variable",
+        "Statistics change",
+        "Mechanisms disappear"
+      ],
+      "correct": 1,
+      "feedback": "Real-world conditions introduce variability."
+    },
+    {
+      "question": "Reliability refers to:",
+      "options": [
+        "Causal explanation",
+        "Consistency of measurement",
+        "Clinical usefulness",
+        "Ethical acceptability"
+      ],
+      "correct": 1,
+      "feedback": "Reliability concerns measurement consistency."
+    },
+    {
+      "question": "Why does reliability set an upper limit on usefulness?",
+      "options": [
+        "It limits sample size",
+        "Unreliable measures produce spurious associations",
+        "It changes mechanisms",
+        "It reduces specificity"
+      ],
+      "correct": 1,
+      "feedback": "Unreliable biomarkers cannot support decisions."
+    },
+    {
+      "question": "Validity is best described as:",
+      "options": [
+        "A single property",
+        "Independent of context",
+        "Purpose-dependent",
+        "Equivalent to reliability"
+      ],
+      "correct": 2,
+      "feedback": "Validity depends on the intended use."
+    },
+    {
+      "question": "Which type of validity is most relevant clinically?",
+      "options": [
+        "Face validity",
+        "Construct validity",
+        "Predictive validity",
+        "Internal validity"
+      ],
+      "correct": 2,
+      "feedback": "Clinical use depends on prediction."
+    },
+    {
+      "question": "When classifying individuals, biomarkers can produce:",
+      "options": [
+        "Only correct decisions",
+        "Only false positives",
+        "Four types of outcomes",
+        "Only probabilistic outputs"
+      ],
+      "correct": 2,
+      "feedback": "Outcomes include TP, FP, TN, FN."
+    },
+    {
+      "question": "A false positive means:",
+      "options": [
+        "Condition present but undetected",
+        "Condition absent but indicated",
+        "Correct exclusion",
+        "Measurement failure"
+      ],
+      "correct": 1,
+      "feedback": "False positives indicate a condition that is not present."
+    },
+    {
+      "question": "False negatives are particularly harmful because they can lead to:",
+      "options": [
+        "Overdiagnosis",
+        "Unnecessary treatment",
+        "Missed diagnosis",
+        "Increased specificity"
+      ],
+      "correct": 2,
+      "feedback": "They result in missed or delayed intervention."
+    },
+    {
+      "question": "Sensitivity refers to the ability to:",
+      "options": [
+        "Exclude absence",
+        "Detect presence",
+        "Balance errors",
+        "Increase accuracy"
+      ],
+      "correct": 1,
+      "feedback": "Sensitivity detects true positives."
+    },
+    {
+      "question": "Increasing sensitivity often leads to:",
+      "options": [
+        "More false negatives",
+        "More false positives",
+        "Higher specificity",
+        "Lower prevalence"
+      ],
+      "correct": 1,
+      "feedback": "Higher sensitivity increases false positives."
+    },
+    {
+      "question": "Specificity measures the ability to:",
+      "options": [
+        "Detect disease",
+        "Exclude disease",
+        "Predict outcomes",
+        "Explain mechanisms"
+      ],
+      "correct": 1,
+      "feedback": "Specificity concerns true negatives."
+    },
+    {
+      "question": "Changing a biomarker threshold primarily affects:",
+      "options": [
+        "Biological mechanism",
+        "Sample size",
+        "Error balance",
+        "Clinical context"
+      ],
+      "correct": 2,
+      "feedback": "Thresholds trade sensitivity and specificity."
+    },
+    {
+      "question": "ROC curves describe:",
+      "options": [
+        "Measurement noise",
+        "Group differences",
+        "Trade-offs across thresholds",
+        "Causal pathways"
+      ],
+      "correct": 2,
+      "feedback": "They visualize sensitivity vs false positives."
+    },
+    {
+      "question": "High accuracy alone is insufficient because:",
+      "options": [
+        "It ignores biology",
+        "It ignores error consequences",
+        "It reduces specificity",
+        "It inflates prevalence"
+      ],
+      "correct": 1,
+      "feedback": "Clinical utility depends on consequences."
+    },
+    {
+      "question": "Diagnostic biomarkers primarily answer:",
+      "options": [
+        "What will happen?",
+        "Who is at risk?",
+        "Is the condition present?",
+        "Is treatment effective?"
+      ],
+      "correct": 2,
+      "feedback": "They focus on classification."
+    },
+    {
+      "question": "For diagnostic biomarkers, which error is especially harmful?",
+      "options": [
+        "False negatives",
+        "False positives",
+        "True positives",
+        "True negatives"
+      ],
+      "correct": 1,
+      "feedback": "False positives can cause overdiagnosis."
+    },
+    {
+      "question": "Prognostic biomarkers provide information about:",
+      "options": [
+        "Current diagnosis",
+        "Treatment response",
+        "Future course",
+        "Measurement error"
+      ],
+      "correct": 2,
+      "feedback": "They predict disease trajectory."
+    },
+    {
+      "question": "Predictive biomarkers are especially challenging because they require:",
+      "options": [
+        "Large samples only",
+        "Comparison across treatments",
+        "High specificity only",
+        "Mechanistic understanding"
+      ],
+      "correct": 1,
+      "feedback": "They must compare responses to different interventions."
+    },
+    {
+      "question": "Monitoring biomarkers are used to:",
+      "options": [
+        "Diagnose disease",
+        "Predict risk",
+        "Track change over time",
+        "Explain causality"
+      ],
+      "correct": 2,
+      "feedback": "They assess progression or response."
+    },
+    {
+      "question": "Risk biomarkers are associated with:",
+      "options": [
+        "Low uncertainty",
+        "Few false positives",
+        "Ethical concerns",
+        "Immediate treatment decisions"
+      ],
+      "correct": 2,
+      "feedback": "They raise issues of labeling and uncertainty."
+    },
+    {
+      "question": "Clinical settings differ from laboratories because they involve:",
+      "options": [
+        "Better control",
+        "Homogeneous patients",
+        "High variability and emotional stakes",
+        "Lower uncertainty"
+      ],
+      "correct": 2,
+      "feedback": "Clinical reality is complex and constrained."
+    },
+    {
+      "question": "In psychology and psychiatry, biomarkers should:",
+      "options": [
+        "Replace clinicians",
+        "Eliminate judgment",
+        "Support clinical decision-making",
+        "Provide certainty"
+      ],
+      "correct": 2,
+      "feedback": "They complement but do not replace clinicians."
+    },
+    {
+      "question": "A positive biomarker result should be communicated as:",
+      "options": [
+        "Certain",
+        "Deterministic",
+        "Probabilistic",
+        "Causal"
+      ],
+      "correct": 2,
+      "feedback": "Biomarkers indicate probabilities, not certainties."
+    }
+  ]
+}
