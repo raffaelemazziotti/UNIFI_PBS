@@ -1,26 +1,32 @@
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en-US"><head>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/tabby.min.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.33">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.18">
 
   <meta name="author" content="Raffaele M Mazziotti, PhD">
-  <title>Neurogenesis and Differentiation</title>
+  <title>Neurogenesis, differentiation and neuronal survival</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
   <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
   <style>
-    code{white-space: pre-wrap;}
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -29,7 +35,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-2740581606dc327e82f18f789b69d8a0.css">
   <link rel="stylesheet" href="slide_style.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -130,22 +136,813 @@
     <div class="slides">
 
 <section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" class="quarto-title-block center">
-  <h1 class="title">Neurogenesis and Differentiation</h1>
+  <h1 class="title">Neurogenesis, differentiation and neuronal survival</h1>
+  <p class="subtitle">From neural progenitors to mature neuronal populations</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Raffaele M Mazziotti, PhD 
+Raffaele M Mazziotti, PhD
 </div>
         <p class="quarto-title-affiliation">
-            University of Florence
+            Scuola di Psicologia, University of Florence
           </p>
     </div>
 </div>
 
 </section>
-<section class="slide level2 center">
-
+<section id="neurogenesis-differentiation-and-neuronal-survival" class="slide level2 center">
+<h2>Neurogenesis, differentiation and neuronal survival</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Once the nervous system has been regionalized, each region still has to be populated with the <u>right number</u> and the <u>right types</u> of cells.</p>
+</div>
+<div class="card">
+<p>This requires three closely connected processes:</p>
+<ul>
+<li><code>neurogenesis</code>: generation of neurons from neural progenitors</li>
+<li><code>differentiation</code>: acquisition of a specific neuronal identity</li>
+<li><code>neuronal survival</code>: selective maintenance or elimination of newly generated neurons</li>
+</ul>
+</div>
+</div><div class="column">
+<p><video data-src="images/2_ndm_neuron_death.mp4" style="width:100.0%" autoplay="true" muted="true" loop="true" controls="False"><a href="images/2_ndm_neuron_death.mp4">Video</a></video></p>
+</div></div>
+</section>
+<section id="from-a-progenitor-to-a-neuronal-population" class="slide level2 center">
+<h2>From a progenitor to a neuronal population</h2>
+<div class="info-box">
+<p>Neural development is not simply the production of neurons.</p>
+<p>A progenitor population must be <u>expanded</u>, neurons must be generated at the correct <u>time</u>, acquire the correct <u>identity</u>, migrate to the correct place, and finally <u>survive</u>.</p>
+</div>
+<div class="card">
+<p>The final organization of the nervous system therefore depends on both <u>constructive</u> and <u>selective</u> processes.</p>
+</div>
+</section>
+<section id="neurogenesis" class="slide level2 center">
+<h2>Neurogenesis</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Neurogenesis</code> is the process by which neural progenitor cells generate neurons.</p>
+<p>During prenatal development, enormous numbers of neurons are produced in a relatively short period of time.</p>
+<p>Different brain regions and different neuronal populations are generated according to distinct <u>developmental schedules</u>.</p>
+</div>
+<div class="info-box">
+<p>During prenatal development, neurogenesis reaches an extraordinary rate.</p>
+<p>At its peak, the human developing brain can generate approximately:</p>
+<p><code>250k neurons per minute</code></p>
+</div>
+</div><div class="column">
+<p><img data-src="images/2_ndm_neurogenesis.png"></p>
+</div></div>
+</section>
+<section id="neural-progenitors-in-the-developing-cortex" class="slide level2 center">
+<h2>Neural progenitors in the developing cortex</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Early cortical progenitors are located close to the cerebral ventricles in the <code>ventricular zone</code>.</p>
+<p>Many of these progenitors later acquire characteristics of <a href="https://en.wikipedia.org/wiki/Radial_glial_cell" target="_blank">radial glial cells</a>.</p>
+</div>
+<div class="card">
+<p>Radial glial cells have two important developmental roles:</p>
+<ul>
+<li>they act as <u>neural progenitors</u></li>
+<li>their long processes provide a <u>scaffold for neuronal migration</u></li>
+</ul>
+</div>
+</div><div class="column">
+<p><img data-src="images/2_ndm_radial_glia.png"></p>
+</div></div>
+</section>
+<section id="expansion-before-differentiation" class="slide level2 center">
+<h2>Expansion before differentiation</h2>
+<div class="info-box">
+<p>At the beginning of development, the priority is to <u>increase the progenitor pool</u>.</p>
+<p>Later, progressively more divisions generate neurons and other neural cell types.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Proliferative divisions</code></p>
+<p>Both daughter cells remain progenitors.</p>
+<p>Result: <u>expansion</u> of the progenitor population.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Neurogenic divisions</code></p>
+<p>One or both daughter cells leave the proliferative state and begin a neuronal developmental program.</p>
+<p>Result: <u>production of neurons</u>.</p>
+</div>
+</div></div>
+<blockquote>
+<p>Development therefore requires a balance between <u>making more progenitors</u> and <u>using progenitors to make neurons</u>.</p>
+</blockquote>
+</section>
+<section id="symmetric-and-asymmetric-divisions" class="slide level2 center">
+<h2>Symmetric and asymmetric divisions</h2>
+<div class="columns">
+<div class="column" style="width:48%;">
+<div class="info-box">
+<p>The outcome of a progenitor division can be different for the two daughter cells.</p>
+</div>
+<div class="card">
+<p>A <code>symmetric proliferative division</code> (or horizontal division) can generate:</p>
+<p>progenitor: progenitor + progenitor</p>
+</div>
+<div class="card">
+<p>An <code>asymmetric neurogenic division</code> (or vertical division) can generate:</p>
+<p>progenitor: progenitor + neuron</p>
+</div>
+</div><div class="column" style="width:52%;">
+<p><img data-src="images/2_ndm_divisions_hro_vert.png"> <img data-src="images/2_ndm_divisions_ver_or.png"></p>
+</div></div>
+</section>
+<section id="intermediate-progenitors-amplify-neurogenesis" class="slide level2 center">
+<h2>Intermediate progenitors amplify neurogenesis</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Not every neuron is generated directly by an apical progenitor.</p>
+<p>Radial glial cells can also generate <code>intermediate progenitor cells</code>, which divide away from the ventricular surface.</p>
+</div>
+<div class="card">
+<p>Intermediate progenitors provide an additional <u>amplification step</u>:</p>
+<p><code>radial glia</code> → <code>intermediate progenitor</code> → <code>neurons</code></p>
+</div>
+<div class="card">
+<p>This strategy increases the number of neurons that can be produced from the original progenitor population.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> apical progenitors and intermediate/basal progenitors</p>
+<p>Suggested file: <code>images/2_ns_intermediate_progenitors.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="radial-glia-progenitors-and-scaffolds" class="slide level2 center">
+<h2>Radial glia: progenitors and scaffolds</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>A newly generated cortical neuron must leave the proliferative zones and reach its final position in the cortical wall.</p>
+</div>
+<div class="card">
+<p>Many excitatory cortical neurons migrate along the long processes of <code>radial glial cells</code>.</p>
+<p>The same cell type therefore participates in both:</p>
+<ul>
+<li><u>generating neurons</u></li>
+<li><u>guiding their migration</u></li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> neuron migrating along a radial glial fiber</p>
+<p>Suggested file: <code>images/2_ns_radial_migration.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="from-the-ventricular-zone-to-the-cortical-plate" class="slide level2 center">
+<h2>From the ventricular zone to the cortical plate</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>The developing cortex is organized into transient developmental zones.</p>
+<p>New neurons are generated near the ventricle and migrate toward the developing <code>cortical plate</code>.</p>
+</div>
+<div class="card">
+<p>As development proceeds:</p>
+<ul>
+<li>progenitors remain concentrated in proliferative zones</li>
+<li>newly generated neurons become <u>postmitotic</u></li>
+<li>neurons migrate outward</li>
+<li>successive neuronal populations occupy different cortical positions</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> ventricular zone, subventricular zone, intermediate zone and cortical plate</p>
+<p>Suggested file: <code>images/2_ns_cortical_zones.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="the-cortex-is-built-inside-out" class="slide level2 center">
+<h2>The cortex is built inside-out</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Most cortical projection neurons are generated in a characteristic temporal sequence.</p>
+<p><u>Earlier-born neurons</u> settle in deeper cortical layers, whereas <u>later-born neurons</u> migrate past them and occupy progressively more superficial layers.</p>
+</div>
+<div class="card">
+<p>Simplified sequence:</p>
+<p><code>early neurogenesis</code> → deep layers</p>
+<p><code>late neurogenesis</code> → superficial layers</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> formation of cortical layers showing inside-out development</p>
+<p>Suggested file: <code>images/2_ns_cortical_layers.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="neuronal-birthdate-carries-information" class="slide level2 center">
+<h2>Neuronal birthdate carries information</h2>
+<div class="info-box">
+<p>The time at which a progenitor undergoes its <u>final mitosis</u> is strongly related to the identity that its neuronal descendants can acquire.</p>
+</div>
+<div class="card">
+<p>Developmental time therefore acts as another source of information.</p>
+<p>In the previous chapter, cells used <u>spatial signals</u> to understand where they were.</p>
+<p>During neurogenesis, cells also change their developmental potential according to <u>when they are generated</u>.</p>
+</div>
+<div class="card">
+<p><code>position</code> + <code>developmental time</code> + <code>gene expression</code> + <code>extracellular signals</code> → neuronal identity</p>
+</div>
+</section>
+<section id="heterochronic-transplantation" class="slide level2 center">
+<h2>Heterochronic transplantation</h2>
+<div class="columns">
+<div class="column" style="width:55%;">
+<div class="experiment-card">
+<div class="exp-header">
+<p>Heterochronic transplantation of cortical progenitors</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Question</p>
+</div>
+<p>Does a cortical progenitor acquire its laminar identity only from the environment in which it is placed?</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Approach</p>
+</div>
+<p>Progenitor cells are transplanted between hosts at <u>different developmental ages</u>.</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Observation</p>
+</div>
+<p>The capacity of transplanted progenitors to adopt a new laminar fate depends on their <u>developmental age</u> and <u>cell-cycle state</u>.</p>
+</div>
+</div>
+</div><div class="column" style="width:45%;">
+<div class="card image-needed">
+<p><u>Image:</u> heterochronic cortical transplantation experiment</p>
+<p>Suggested file: <code>images/2_ns_heterochronic_transplant.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="what-heterochronic-transplants-show" class="slide level2 center">
+<h2>What heterochronic transplants show</h2>
+<div class="info-box">
+<p>Cortical progenitors do not remain equally flexible throughout development.</p>
+<p>Their <code>competence</code> changes with developmental time.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p>Younger progenitors can still respond to environmental information and can, under appropriate conditions, adopt later neuronal fates.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p>As progenitors progress through development, their possible fates become progressively <u>restricted</u>.</p>
+<p>After commitment and cell-cycle exit, neuronal identity becomes much less flexible.</p>
+</div>
+</div></div>
+<blockquote>
+<p>A cell’s fate depends on both the <u>environment it encounters</u> and the <u>developmental state of the cell</u> when that signal is received.</p>
+</blockquote>
+</section>
+<section id="differentiation" class="slide level2 center">
+<h2>Differentiation</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Generating a neuron is only the beginning.</p>
+<p>The newborn neuron must acquire a particular <code>identity</code>.</p>
+</div>
+<div class="card">
+<p>Differentiation includes the acquisition of properties such as:</p>
+<ul>
+<li>neuronal morphology</li>
+<li>neurotransmitter phenotype</li>
+<li>receptor and ion-channel expression</li>
+<li>patterns of gene expression</li>
+<li>characteristic connectivity</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> progression from neural progenitor to differentiated neuronal types</p>
+<p>Suggested file: <code>images/2_ns_neuronal_differentiation.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="intrinsic-and-extrinsic-factors" class="slide level2 center">
+<h2>Intrinsic and extrinsic factors</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Intrinsic factors</code></p>
+<p>Information already present inside the cell can bias developmental fate.</p>
+<p>Examples include:</p>
+<ul>
+<li>transcription factors</li>
+<li>asymmetric inheritance of cellular components</li>
+<li>previous developmental history</li>
+<li>current state of competence</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p><code>Extrinsic factors</code></p>
+<p>The cell also receives information from its environment.</p>
+<p>Examples include:</p>
+<ul>
+<li>secreted signaling molecules</li>
+<li>signals from neighboring cells</li>
+<li>extracellular matrix</li>
+<li>target-derived factors</li>
+</ul>
+</div>
+</div></div>
+<div class="card">
+<p>Neuronal identity emerges from the <u>interaction</u> between intrinsic state and extracellular signals.</p>
+</div>
+</section>
+<section id="notch-delta-lateral-inhibition" class="slide level2 center">
+<h2>Notch-Delta: lateral inhibition</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Neighboring progenitor cells can influence each other’s fate through <code>Notch-Delta signaling</code>.</p>
+</div>
+<div class="card">
+<p>A small initial difference between neighboring cells can be amplified:</p>
+<ul>
+<li>a cell with stronger proneural/Delta activity promotes neuronal differentiation</li>
+<li>Delta activates Notch in neighboring cells</li>
+<li>Notch signaling suppresses the neuronal program in those neighboring cells</li>
+</ul>
+</div>
+<div class="card">
+<p>This process is called <code>lateral inhibition</code>.</p>
+<p>It allows a group of initially similar cells to acquire <u>different fates</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> Notch-Delta lateral inhibition</p>
+<p>Suggested file: <code>images/2_ns_notch_delta.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="numb-and-asymmetric-fate" class="slide level2 center">
+<h2>Numb and asymmetric fate</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Cell division can distribute regulatory molecules unequally between daughter cells.</p>
+<p>One example is <code>Numb</code>, which can antagonize Notch signaling.</p>
+</div>
+<div class="card">
+<p>If the two daughter cells inherit different amounts of fate-regulating molecules, they can respond differently even though they originated from the <u>same progenitor</u>.</p>
+</div>
+<div class="card">
+<p>Asymmetric inheritance therefore provides one mechanism through which cell division can create <u>different developmental trajectories</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> Numb and Notch in asymmetric cell-fate decisions</p>
+<p>Suggested file: <code>images/2_ns_numb_notch.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="transcription-factors-can-constrain-fate-and-migration" class="slide level2 center">
+<h2>Transcription factors can constrain fate and migration</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Intrinsic developmental programs can control not only neuronal identity, but also the ability of neurons to reach the correct region.</p>
+</div>
+<div class="card">
+<p>An example is provided by <code>Dlx1/Dlx2</code>, transcription factors involved in the development of forebrain interneurons.</p>
+<p>Disrupting this program strongly alters the normal migration of interneuron precursors toward the neocortex.</p>
+</div>
+<div class="card">
+<p>Gene expression can therefore influence:</p>
+<p><code>cell identity</code> + <code>migration</code> + <code>final regional organization</code></p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> Dlx1/Dlx2 mutant and cortical interneuron migration</p>
+<p>Suggested file: <code>images/2_ns_dlx_interneurons.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="the-environment-also-instructs-cell-fate" class="slide level2 center">
+<h2>The environment also instructs cell fate</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>The fate of a developing cell is not determined only by where it was born.</p>
+<p>Cells encounter new extracellular environments as they <u>migrate</u>.</p>
+</div>
+<div class="card">
+<p>These environments contain different:</p>
+<ul>
+<li>signaling molecules</li>
+<li>neighboring cell types</li>
+<li>extracellular matrix components</li>
+<li>target tissues</li>
+</ul>
+</div>
+<div class="card">
+<p>A migrating precursor can therefore receive <u>new developmental instructions</u> along its path.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> neural crest migration pathways</p>
+<p>Suggested file: <code>images/2_ns_neural_crest_migration.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="neural-crest-one-population-many-outcomes" class="slide level2 center">
+<h2>Neural crest: one population, many outcomes</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Neural crest cells provide a clear example of <u>multipotent progenitors</u> whose fate depends strongly on the signals encountered during migration.</p>
+</div>
+<div class="card">
+<p>Neural crest derivatives include, among others:</p>
+<ul>
+<li>sensory neurons</li>
+<li>autonomic neurons</li>
+<li>enteric neurons</li>
+<li>Schwann cells</li>
+<li>melanocytes</li>
+<li>smooth-muscle-related derivatives</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> neural crest derivatives and examples of extracellular signals controlling fate</p>
+<p>Suggested file: <code>images/2_ns_neural_crest_fates.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="cell-fate-is-an-interaction" class="slide level2 center">
+<h2>Cell fate is an interaction</h2>
+<div class="info-box">
+<p>There is rarely a single factor that completely determines what a neural progenitor will become.</p>
+</div>
+<div class="card">
+<p>A useful way to think about differentiation is:</p>
+<p><code>cell fate</code> = <code>intrinsic state</code> + <code>extracellular signals</code> + <code>developmental time</code> + <code>competence</code></p>
+</div>
+<div class="card">
+<p>The same extracellular signal can produce different outcomes in different cells because each cell has a different <u>history</u>, expresses different <u>receptors</u>, and activates different <u>gene-regulatory programs</u>.</p>
+</div>
+<blockquote>
+<p>Developmental signals provide information, but the cell must be <u>competent to interpret it</u>.</p>
+</blockquote>
+</section>
+<section id="neuronal-survival" class="slide level2 center">
+<h2>Neuronal survival</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Neurogenesis produces more neurons than will ultimately be retained in many developing neuronal populations.</p>
+</div>
+<div class="card">
+<p>Becoming a neuron therefore does not guarantee becoming part of the mature nervous system.</p>
+<p>Newly generated neurons must also pass through a period of <u>selective survival</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> neuronal overproduction followed by developmental cell death</p>
+<p>Suggested file: <code>images/2_ns_neuronal_survival.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="development-includes-programmed-cell-death" class="slide level2 center">
+<h2>Development includes programmed cell death</h2>
+<div class="info-box">
+<p><code>Programmed cell death</code> is a normal component of nervous system development.</p>
+<p>It is not simply the consequence of developmental failure.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Constructive processes</code></p>
+<ul>
+<li>proliferation</li>
+<li>neurogenesis</li>
+<li>migration</li>
+<li>differentiation</li>
+<li>growth</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Regressive processes</code></p>
+<ul>
+<li>programmed cell death</li>
+<li>elimination of transient cells</li>
+<li>elimination of inappropriate projections</li>
+<li>later elimination of synapses and branches</li>
+</ul>
+</div>
+</div></div>
+<div class="card">
+<p>The mature nervous system emerges through a balance between <u>production</u> and <u>selective elimination</u>.</p>
+</div>
+</section>
+<section id="apoptosis-is-not-necrosis" class="slide level2 center">
+<h2>Apoptosis is not necrosis</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Apoptosis</code></p>
+<p>A regulated form of cell death.</p>
+<p>Typical features include:</p>
+<ul>
+<li>cell shrinkage</li>
+<li>chromatin condensation</li>
+<li>fragmentation into apoptotic bodies</li>
+<li>removal by phagocytic cells</li>
+<li>little inflammatory response</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p><code>Necrosis</code></p>
+<p>Usually follows severe cellular injury.</p>
+<p>Typical features include:</p>
+<ul>
+<li>cell swelling</li>
+<li>membrane disruption</li>
+<li>release of intracellular contents</li>
+<li>inflammatory response</li>
+</ul>
+</div>
+</div></div>
+<div class="card image-needed">
+<p><u>Image:</u> comparison between apoptosis and necrosis</p>
+<p>Suggested file: <code>images/2_ns_apoptosis_necrosis.png</code></p>
+</div>
+</section>
+<section id="apoptosis-is-an-active-molecular-program" class="slide level2 center">
+<h2>Apoptosis is an active molecular program</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Developmental apoptosis is an <u>active biological program</u> controlled by intracellular molecular pathways.</p>
+</div>
+<div class="card">
+<p>Examples of important regulators include:</p>
+<ul>
+<li><code>BCL-2 family proteins</code> that can promote survival</li>
+<li><code>BAX</code> and related proteins that promote apoptosis</li>
+<li><code>caspases</code> that execute the cell-death program</li>
+</ul>
+</div>
+<div class="card">
+<p>Cell survival therefore depends on the balance between <u>pro-survival</u> and <u>pro-apoptotic</u> signals.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> BCL-2, BAX and caspase apoptotic pathway</p>
+<p>Suggested file: <code>images/2_ns_apoptosis_pathway.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="why-eliminate-neurons-during-development" class="slide level2 center">
+<h2>Why eliminate neurons during development?</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Programmed cell death can contribute to several developmental functions.</p>
+</div>
+<div class="card">
+<p>It can help:</p>
+<ul>
+<li>match the size of interconnected neuronal populations</li>
+<li>remove cells with inappropriate identities or connections</li>
+<li>eliminate cells that served only a transient developmental function</li>
+<li>refine developing structures</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> programmed cell death occurring at different stages of neural development</p>
+<p>Suggested file: <code>images/2_ns_pcd_stages.png</code></p>
+</div>
+</div></div>
+<blockquote>
+<p>Cell death is not the opposite of development. In many systems, <u>cell death is part of the developmental program</u>.</p>
+</blockquote>
+</section>
+<section id="target-tissues-regulate-neuronal-survival" class="slide level2 center">
+<h2>Target tissues regulate neuronal survival</h2>
+<div class="info-box">
+<p>One of the most important principles of developmental neuronal survival is that neurons interact with the <u>tissues they innervate</u>.</p>
+</div>
+<div class="card">
+<p>Many developing neuronal populations initially contain more neurons than their targets can support.</p>
+<p>Neurons that successfully interact with appropriate targets receive <u>survival signals</u>.</p>
+<p>Neurons that do not receive sufficient support activate the apoptotic program.</p>
+</div>
+<div class="card">
+<p>This mechanism helps match the <u>number of neurons</u> to the <u>size and requirements of the target tissue</u>.</p>
+</div>
+</section>
+<section id="hamburger-and-levi-montalcini" class="slide level2 center">
+<h2>Hamburger and Levi-Montalcini</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="info-box">
+<p>Experiments in chick embryos by <code>Viktor Hamburger</code> and <code>Rita Levi-Montalcini</code> showed that peripheral target tissues influence the survival of developing neurons.</p>
+</div>
+<div class="card">
+<p>Manipulating the developing limb changed the number of spinal motor neurons that survived:</p>
+<ul>
+<li><u>removing target tissue</u> increased neuronal loss</li>
+<li><u>adding extra target tissue</u> increased neuronal survival</li>
+</ul>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="card image-needed">
+<p><u>Image:</u> Hamburger and Levi-Montalcini chick limb-bud experiment</p>
+<p>Suggested file: <code>images/2_ns_hamburger_levi_montalcini.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="the-target-manipulation-experiment" class="slide level2 center">
+<h2>The target-manipulation experiment</h2>
+<div class="experiment-card">
+<div class="exp-header">
+<p>Changing the amount of target tissue</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Manipulation</p>
+</div>
+<p>The amount of peripheral tissue available to developing neurons is experimentally reduced or increased.</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Result</p>
+</div>
+<p>Less target tissue → <u>more neuronal death</u></p>
+<p>More target tissue → <u>more neuronal survival</u></p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Interpretation</p>
+</div>
+<p>Targets provide a limited resource required for neuronal survival.</p>
+</div>
+</div>
+<div class="card image-needed">
+<p><u>Image:</u> limb removal and extra-limb transplantation with surviving motor neurons</p>
+<p>Suggested file: <code>images/2_ns_target_manipulation.png</code></p>
+</div>
+</section>
+<section id="the-neurotrophic-hypothesis" class="slide level2 center">
+<h2>The neurotrophic hypothesis</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>The <code>classical neurotrophic hypothesis</code> proposes that developing neurons compete for a <u>limited amount of target-derived survival factors</u>.</p>
+</div>
+<div class="card">
+<p>The logic is:</p>
+<ol type="1">
+<li>many neurons project toward a target</li>
+<li>the target produces limited trophic support</li>
+<li>neurons compete for access to this support</li>
+<li>neurons obtaining sufficient support survive</li>
+<li>neurons receiving insufficient support undergo apoptosis</li>
+</ol>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> classical neurotrophic hypothesis</p>
+<p>Suggested file: <code>images/2_ns_neurotrophic_hypothesis.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="ngf-and-neurotrophic-factors" class="slide level2 center">
+<h2>NGF and neurotrophic factors</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>NGF</code> — Nerve Growth Factor — provided a molecular mechanism for the idea that target tissues can support neuronal survival.</p>
+</div>
+<div class="card">
+<p>NGF is essential for the development and survival of particular populations of peripheral sensory and sympathetic neurons.</p>
+<p>It is <u>not a universal survival factor for every neuron</u>.</p>
+</div>
+<div class="card">
+<p>Different neuronal populations depend on different members of the broader family of <code>neurotrophic factors</code>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> NGF and other neurotrophic factors supporting distinct neuronal populations</p>
+<p>Suggested file: <code>images/2_ns_ngf_neurotrophins.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="competition-matches-neurons-to-their-targets" class="slide level2 center">
+<h2>Competition matches neurons to their targets</h2>
+<div class="info-box">
+<p>Neurotrophic competition provides a mechanism for matching the size of a neuronal population to the size of the tissue it innervates.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><u>Small or reduced target</u></p>
+<p>less trophic support → stronger competition → more neuronal death</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><u>Large or additional target</u></p>
+<p>more trophic support → weaker competition → more neuronal survival</p>
+</div>
+</div></div>
+<div class="card image-needed">
+<p><u>Image:</u> relation between target size and percentage of neuronal survival</p>
+<p>Suggested file: <code>images/2_ns_target_matching.png</code></p>
+</div>
+</section>
+<section id="survival-signals-control-the-apoptotic-program" class="slide level2 center">
+<h2>Survival signals control the apoptotic program</h2>
+<div class="info-box">
+<p>Target-derived trophic factors do not simply “feed” neurons.</p>
+<p>They activate receptors and intracellular pathways that influence the balance between <u>survival</u> and <u>apoptosis</u>.</p>
+</div>
+<div class="card">
+<p>The extracellular environment can therefore regulate whether the intrinsic cell-death machinery is:</p>
+<p><code>inhibited</code> → neuron survives</p>
+<p>or</p>
+<p><code>activated</code> → neuron undergoes apoptosis</p>
+</div>
+<div class="card">
+<p>This is another example of the general developmental principle introduced earlier:</p>
+<p><u>extracellular signals regulate intracellular molecular programs and gene expression</u>.</p>
+</div>
+</section>
+<section id="constructive-and-regressive-processes" class="slide level2 center">
+<h2>Constructive and regressive processes</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Constructive</code></p>
+<ul>
+<li>progenitor expansion</li>
+<li>neurogenesis</li>
+<li>migration</li>
+<li>differentiation</li>
+<li>neuronal growth</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p><code>Regressive</code></p>
+<ul>
+<li>programmed neuronal death</li>
+<li>elimination of inappropriate cells</li>
+<li>later pruning of axons and synapses</li>
+</ul>
+</div>
+</div></div>
+<div class="card">
+<p>The mature nervous system is not created by simply adding cells.</p>
+<p>It is produced by repeated cycles of <u>generation</u>, <u>selection</u>, and <u>refinement</u>.</p>
+</div>
+</section>
+<section id="from-cells-to-circuits" class="slide level2 center">
+<h2>From cells to circuits</h2>
+<div class="info-box">
+<p>At this point development has generated neuronal populations with characteristic identities and has adjusted how many of those neurons survive.</p>
+</div>
+<div class="card">
+<p>The next problem is how these neurons become connected into functional circuits:</p>
+<ul>
+<li>how axons find their targets</li>
+<li>how synapses are formed</li>
+<li>how connections are refined</li>
+<li>how axons become myelinated</li>
+</ul>
+</div>
+<blockquote>
+<p>Neurogenesis creates the cells. The next stage of development must <u>connect them</u>.</p>
+</blockquote>
 
 
 
@@ -187,7 +984,6 @@ Raffaele M Mazziotti, PhD
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
 'jumpToSlide': true,
-'scrollActivationWidth': 0,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":false},
 'smaller': false,
@@ -343,7 +1139,7 @@ Raffaele M Mazziotti, PhD
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -370,78 +1166,151 @@ Raffaele M Mazziotti, PhD
       });
     </script>
     <script>
+
     (function () {
+
       function injectHomeLink() {
+
         const link = document.createElement("a");
+
         link.href = "index.html";
+
         link.className = "home-link";
+
         link.setAttribute("aria-label", "Back to Index");
+
         link.title = "Back to Index";
 
+    
+
         // Positioning
+
         link.style.position = "absolute";
+
         link.style.bottom = "20px";
+
         link.style.left = "50%";
+
         link.style.transform = "translateX(-50%)";
+
         link.style.width = "34px";
+
         link.style.height = "34px";
+
         link.style.zIndex = "1000";
+
         link.style.display = "none";
+
         link.style.opacity = "0.75";
+
         link.style.cursor = "pointer";
 
+    
+
         // Home icon image
+
         const img = document.createElement("img");
+
         img.src = "./images/home.svg";
+
         img.alt = "Home";
+
         img.width = 34;
+
         img.height = 34;
+
         img.style.width = "34px";
+
         img.style.height = "34px";
+
         img.style.display = "block";
 
+    
+
         link.appendChild(img);
+
         document.body.appendChild(link);
 
+    
+
         // Hover feedback
+
         link.addEventListener("mouseenter", () => {
+
           link.style.opacity = "1";
+
           link.style.transform = "translateX(-50%) scale(2)";
+
         });
+
+    
 
         link.addEventListener("mouseleave", () => {
+
           link.style.opacity = "0.75";
+
           link.style.transform = "translateX(-50%) scale(1)";
+
         });
+
+    
 
         // Show only on title slide
+
         function updateVisibility() {
+
           const currentSlide = Reveal.getCurrentSlide();
+
           const isTitleSlide = currentSlide &&
+
             (currentSlide.id === "title-slide" ||
+
               currentSlide.classList.contains("title-slide"));
 
+    
+
           if (isTitleSlide) {
+
             link.style.display = "block";
+
           } else {
+
             link.style.display = "none";
+
           }
+
         }
 
+    
+
         updateVisibility();
+
         Reveal.on("slidechanged", updateVisibility);
+
         Reveal.on("ready", updateVisibility);
+
       }
 
+    
+
       if (window.Reveal && Reveal.isReady()) {
+
         injectHomeLink();
+
       } else {
+
         document.addEventListener("DOMContentLoaded", function () {
+
           Reveal.on("ready", injectHomeLink);
+
         });
+
       }
+
     })();
+
     </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
@@ -490,13 +1359,14 @@ Raffaele M Mazziotti, PhD
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy

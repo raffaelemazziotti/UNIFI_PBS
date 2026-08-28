@@ -537,5 +537,250 @@
     "title": "Embryonic development of the nervous system",
     "section": "Self-check",
     "text": "Self-check"
+  },
+  {
+    "objectID": "2_neurogenesis.html#neurogenesis-differentiation-and-neuronal-survival",
+    "href": "2_neurogenesis.html#neurogenesis-differentiation-and-neuronal-survival",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Neurogenesis, differentiation and neuronal survival",
+    "text": "Neurogenesis, differentiation and neuronal survival\n\n\n\nOnce the nervous system has been regionalized, each region still has to be populated with the right number and the right types of cells.\n\n\nThis requires three closely connected processes:\n\nneurogenesis: generation of neurons from neural progenitors\ndifferentiation: acquisition of a specific neuronal identity\nneuronal survival: selective maintenance or elimination of newly generated neurons\n\n\n\nVideo"
+  },
+  {
+    "objectID": "2_neurogenesis.html#from-a-progenitor-to-a-neuronal-population",
+    "href": "2_neurogenesis.html#from-a-progenitor-to-a-neuronal-population",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "From a progenitor to a neuronal population",
+    "text": "From a progenitor to a neuronal population\n\nNeural development is not simply the production of neurons.\nA progenitor population must be expanded, neurons must be generated at the correct time, acquire the correct identity, migrate to the correct place, and finally survive.\n\n\nThe final organization of the nervous system therefore depends on both constructive and selective processes."
+  },
+  {
+    "objectID": "2_neurogenesis.html#neurogenesis",
+    "href": "2_neurogenesis.html#neurogenesis",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Neurogenesis",
+    "text": "Neurogenesis\n\n\n\nNeurogenesis is the process by which neural progenitor cells generate neurons.\nDuring prenatal development, enormous numbers of neurons are produced in a relatively short period of time.\nDifferent brain regions and different neuronal populations are generated according to distinct developmental schedules.\n\n\nDuring prenatal development, neurogenesis reaches an extraordinary rate.\nAt its peak, the human developing brain can generate approximately:\n250k neurons per minute"
+  },
+  {
+    "objectID": "2_neurogenesis.html#neural-progenitors-in-the-developing-cortex",
+    "href": "2_neurogenesis.html#neural-progenitors-in-the-developing-cortex",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Neural progenitors in the developing cortex",
+    "text": "Neural progenitors in the developing cortex\n\n\n\nEarly cortical progenitors are located close to the cerebral ventricles in the ventricular zone.\nMany of these progenitors later acquire characteristics of radial glial cells.\n\n\nRadial glial cells have two important developmental roles:\n\nthey act as neural progenitors\ntheir long processes provide a scaffold for neuronal migration"
+  },
+  {
+    "objectID": "2_neurogenesis.html#expansion-before-differentiation",
+    "href": "2_neurogenesis.html#expansion-before-differentiation",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Expansion before differentiation",
+    "text": "Expansion before differentiation\n\nAt the beginning of development, the priority is to increase the progenitor pool.\nLater, progressively more divisions generate neurons and other neural cell types.\n\n\n\n\nProliferative divisions\nBoth daughter cells remain progenitors.\nResult: expansion of the progenitor population.\n\n\n\nNeurogenic divisions\nOne or both daughter cells leave the proliferative state and begin a neuronal developmental program.\nResult: production of neurons.\n\n\n\nDevelopment therefore requires a balance between making more progenitors and using progenitors to make neurons."
+  },
+  {
+    "objectID": "2_neurogenesis.html#symmetric-and-asymmetric-divisions",
+    "href": "2_neurogenesis.html#symmetric-and-asymmetric-divisions",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Symmetric and asymmetric divisions",
+    "text": "Symmetric and asymmetric divisions\n\n\n\nThe outcome of a progenitor division can be different for the two daughter cells.\n\n\nA symmetric proliferative division (or horizontal division) can generate:\nprogenitor: progenitor + progenitor\n\n\nAn asymmetric neurogenic division (or vertical division) can generate:\nprogenitor: progenitor + neuron"
+  },
+  {
+    "objectID": "2_neurogenesis.html#intermediate-progenitors-amplify-neurogenesis",
+    "href": "2_neurogenesis.html#intermediate-progenitors-amplify-neurogenesis",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Intermediate progenitors amplify neurogenesis",
+    "text": "Intermediate progenitors amplify neurogenesis\n\n\n\nNot every neuron is generated directly by an apical progenitor.\nRadial glial cells can also generate intermediate progenitor cells, which divide away from the ventricular surface.\n\n\nIntermediate progenitors provide an additional amplification step:\nradial glia → intermediate progenitor → neurons\n\n\nThis strategy increases the number of neurons that can be produced from the original progenitor population.\n\n\n\nImage: apical progenitors and intermediate/basal progenitors\nSuggested file: images/2_ns_intermediate_progenitors.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#radial-glia-progenitors-and-scaffolds",
+    "href": "2_neurogenesis.html#radial-glia-progenitors-and-scaffolds",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Radial glia: progenitors and scaffolds",
+    "text": "Radial glia: progenitors and scaffolds\n\n\n\nA newly generated cortical neuron must leave the proliferative zones and reach its final position in the cortical wall.\n\n\nMany excitatory cortical neurons migrate along the long processes of radial glial cells.\nThe same cell type therefore participates in both:\n\ngenerating neurons\nguiding their migration\n\n\n\n\nImage: neuron migrating along a radial glial fiber\nSuggested file: images/2_ns_radial_migration.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#from-the-ventricular-zone-to-the-cortical-plate",
+    "href": "2_neurogenesis.html#from-the-ventricular-zone-to-the-cortical-plate",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "From the ventricular zone to the cortical plate",
+    "text": "From the ventricular zone to the cortical plate\n\n\n\nThe developing cortex is organized into transient developmental zones.\nNew neurons are generated near the ventricle and migrate toward the developing cortical plate.\n\n\nAs development proceeds:\n\nprogenitors remain concentrated in proliferative zones\nnewly generated neurons become postmitotic\nneurons migrate outward\nsuccessive neuronal populations occupy different cortical positions\n\n\n\n\nImage: ventricular zone, subventricular zone, intermediate zone and cortical plate\nSuggested file: images/2_ns_cortical_zones.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#the-cortex-is-built-inside-out",
+    "href": "2_neurogenesis.html#the-cortex-is-built-inside-out",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "The cortex is built inside-out",
+    "text": "The cortex is built inside-out\n\n\n\nMost cortical projection neurons are generated in a characteristic temporal sequence.\nEarlier-born neurons settle in deeper cortical layers, whereas later-born neurons migrate past them and occupy progressively more superficial layers.\n\n\nSimplified sequence:\nearly neurogenesis → deep layers\nlate neurogenesis → superficial layers\n\n\n\nImage: formation of cortical layers showing inside-out development\nSuggested file: images/2_ns_cortical_layers.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#neuronal-birthdate-carries-information",
+    "href": "2_neurogenesis.html#neuronal-birthdate-carries-information",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Neuronal birthdate carries information",
+    "text": "Neuronal birthdate carries information\n\nThe time at which a progenitor undergoes its final mitosis is strongly related to the identity that its neuronal descendants can acquire.\n\n\nDevelopmental time therefore acts as another source of information.\nIn the previous chapter, cells used spatial signals to understand where they were.\nDuring neurogenesis, cells also change their developmental potential according to when they are generated.\n\n\nposition + developmental time + gene expression + extracellular signals → neuronal identity"
+  },
+  {
+    "objectID": "2_neurogenesis.html#heterochronic-transplantation",
+    "href": "2_neurogenesis.html#heterochronic-transplantation",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Heterochronic transplantation",
+    "text": "Heterochronic transplantation\n\n\n\n\nHeterochronic transplantation of cortical progenitors\n\n\n\nQuestion\n\nDoes a cortical progenitor acquire its laminar identity only from the environment in which it is placed?\n\n\n\nApproach\n\nProgenitor cells are transplanted between hosts at different developmental ages.\n\n\n\nObservation\n\nThe capacity of transplanted progenitors to adopt a new laminar fate depends on their developmental age and cell-cycle state.\n\n\n\n\nImage: heterochronic cortical transplantation experiment\nSuggested file: images/2_ns_heterochronic_transplant.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#what-heterochronic-transplants-show",
+    "href": "2_neurogenesis.html#what-heterochronic-transplants-show",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "What heterochronic transplants show",
+    "text": "What heterochronic transplants show\n\nCortical progenitors do not remain equally flexible throughout development.\nTheir competence changes with developmental time.\n\n\n\n\nYounger progenitors can still respond to environmental information and can, under appropriate conditions, adopt later neuronal fates.\n\n\n\nAs progenitors progress through development, their possible fates become progressively restricted.\nAfter commitment and cell-cycle exit, neuronal identity becomes much less flexible.\n\n\n\nA cell’s fate depends on both the environment it encounters and the developmental state of the cell when that signal is received."
+  },
+  {
+    "objectID": "2_neurogenesis.html#differentiation",
+    "href": "2_neurogenesis.html#differentiation",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Differentiation",
+    "text": "Differentiation\n\n\n\nGenerating a neuron is only the beginning.\nThe newborn neuron must acquire a particular identity.\n\n\nDifferentiation includes the acquisition of properties such as:\n\nneuronal morphology\nneurotransmitter phenotype\nreceptor and ion-channel expression\npatterns of gene expression\ncharacteristic connectivity\n\n\n\n\nImage: progression from neural progenitor to differentiated neuronal types\nSuggested file: images/2_ns_neuronal_differentiation.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#intrinsic-and-extrinsic-factors",
+    "href": "2_neurogenesis.html#intrinsic-and-extrinsic-factors",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Intrinsic and extrinsic factors",
+    "text": "Intrinsic and extrinsic factors\n\n\n\nIntrinsic factors\nInformation already present inside the cell can bias developmental fate.\nExamples include:\n\ntranscription factors\nasymmetric inheritance of cellular components\nprevious developmental history\ncurrent state of competence\n\n\n\n\nExtrinsic factors\nThe cell also receives information from its environment.\nExamples include:\n\nsecreted signaling molecules\nsignals from neighboring cells\nextracellular matrix\ntarget-derived factors\n\n\n\n\nNeuronal identity emerges from the interaction between intrinsic state and extracellular signals."
+  },
+  {
+    "objectID": "2_neurogenesis.html#notch-delta-lateral-inhibition",
+    "href": "2_neurogenesis.html#notch-delta-lateral-inhibition",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Notch-Delta: lateral inhibition",
+    "text": "Notch-Delta: lateral inhibition\n\n\n\nNeighboring progenitor cells can influence each other’s fate through Notch-Delta signaling.\n\n\nA small initial difference between neighboring cells can be amplified:\n\na cell with stronger proneural/Delta activity promotes neuronal differentiation\nDelta activates Notch in neighboring cells\nNotch signaling suppresses the neuronal program in those neighboring cells\n\n\n\nThis process is called lateral inhibition.\nIt allows a group of initially similar cells to acquire different fates.\n\n\n\nImage: Notch-Delta lateral inhibition\nSuggested file: images/2_ns_notch_delta.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#numb-and-asymmetric-fate",
+    "href": "2_neurogenesis.html#numb-and-asymmetric-fate",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Numb and asymmetric fate",
+    "text": "Numb and asymmetric fate\n\n\n\nCell division can distribute regulatory molecules unequally between daughter cells.\nOne example is Numb, which can antagonize Notch signaling.\n\n\nIf the two daughter cells inherit different amounts of fate-regulating molecules, they can respond differently even though they originated from the same progenitor.\n\n\nAsymmetric inheritance therefore provides one mechanism through which cell division can create different developmental trajectories.\n\n\n\nImage: Numb and Notch in asymmetric cell-fate decisions\nSuggested file: images/2_ns_numb_notch.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#transcription-factors-can-constrain-fate-and-migration",
+    "href": "2_neurogenesis.html#transcription-factors-can-constrain-fate-and-migration",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Transcription factors can constrain fate and migration",
+    "text": "Transcription factors can constrain fate and migration\n\n\n\nIntrinsic developmental programs can control not only neuronal identity, but also the ability of neurons to reach the correct region.\n\n\nAn example is provided by Dlx1/Dlx2, transcription factors involved in the development of forebrain interneurons.\nDisrupting this program strongly alters the normal migration of interneuron precursors toward the neocortex.\n\n\nGene expression can therefore influence:\ncell identity + migration + final regional organization\n\n\n\nImage: Dlx1/Dlx2 mutant and cortical interneuron migration\nSuggested file: images/2_ns_dlx_interneurons.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#the-environment-also-instructs-cell-fate",
+    "href": "2_neurogenesis.html#the-environment-also-instructs-cell-fate",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "The environment also instructs cell fate",
+    "text": "The environment also instructs cell fate\n\n\n\nThe fate of a developing cell is not determined only by where it was born.\nCells encounter new extracellular environments as they migrate.\n\n\nThese environments contain different:\n\nsignaling molecules\nneighboring cell types\nextracellular matrix components\ntarget tissues\n\n\n\nA migrating precursor can therefore receive new developmental instructions along its path.\n\n\n\nImage: neural crest migration pathways\nSuggested file: images/2_ns_neural_crest_migration.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#neural-crest-one-population-many-outcomes",
+    "href": "2_neurogenesis.html#neural-crest-one-population-many-outcomes",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Neural crest: one population, many outcomes",
+    "text": "Neural crest: one population, many outcomes\n\n\n\nNeural crest cells provide a clear example of multipotent progenitors whose fate depends strongly on the signals encountered during migration.\n\n\nNeural crest derivatives include, among others:\n\nsensory neurons\nautonomic neurons\nenteric neurons\nSchwann cells\nmelanocytes\nsmooth-muscle-related derivatives\n\n\n\n\nImage: neural crest derivatives and examples of extracellular signals controlling fate\nSuggested file: images/2_ns_neural_crest_fates.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#cell-fate-is-an-interaction",
+    "href": "2_neurogenesis.html#cell-fate-is-an-interaction",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Cell fate is an interaction",
+    "text": "Cell fate is an interaction\n\nThere is rarely a single factor that completely determines what a neural progenitor will become.\n\n\nA useful way to think about differentiation is:\ncell fate = intrinsic state + extracellular signals + developmental time + competence\n\n\nThe same extracellular signal can produce different outcomes in different cells because each cell has a different history, expresses different receptors, and activates different gene-regulatory programs.\n\n\nDevelopmental signals provide information, but the cell must be competent to interpret it."
+  },
+  {
+    "objectID": "2_neurogenesis.html#neuronal-survival",
+    "href": "2_neurogenesis.html#neuronal-survival",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Neuronal survival",
+    "text": "Neuronal survival\n\n\n\nNeurogenesis produces more neurons than will ultimately be retained in many developing neuronal populations.\n\n\nBecoming a neuron therefore does not guarantee becoming part of the mature nervous system.\nNewly generated neurons must also pass through a period of selective survival.\n\n\n\nImage: neuronal overproduction followed by developmental cell death\nSuggested file: images/2_ns_neuronal_survival.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#development-includes-programmed-cell-death",
+    "href": "2_neurogenesis.html#development-includes-programmed-cell-death",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Development includes programmed cell death",
+    "text": "Development includes programmed cell death\n\nProgrammed cell death is a normal component of nervous system development.\nIt is not simply the consequence of developmental failure.\n\n\n\n\nConstructive processes\n\nproliferation\nneurogenesis\nmigration\ndifferentiation\ngrowth\n\n\n\n\nRegressive processes\n\nprogrammed cell death\nelimination of transient cells\nelimination of inappropriate projections\nlater elimination of synapses and branches\n\n\n\n\nThe mature nervous system emerges through a balance between production and selective elimination."
+  },
+  {
+    "objectID": "2_neurogenesis.html#apoptosis-is-not-necrosis",
+    "href": "2_neurogenesis.html#apoptosis-is-not-necrosis",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Apoptosis is not necrosis",
+    "text": "Apoptosis is not necrosis\n\n\n\nApoptosis\nA regulated form of cell death.\nTypical features include:\n\ncell shrinkage\nchromatin condensation\nfragmentation into apoptotic bodies\nremoval by phagocytic cells\nlittle inflammatory response\n\n\n\n\nNecrosis\nUsually follows severe cellular injury.\nTypical features include:\n\ncell swelling\nmembrane disruption\nrelease of intracellular contents\ninflammatory response\n\n\n\n\nImage: comparison between apoptosis and necrosis\nSuggested file: images/2_ns_apoptosis_necrosis.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#apoptosis-is-an-active-molecular-program",
+    "href": "2_neurogenesis.html#apoptosis-is-an-active-molecular-program",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Apoptosis is an active molecular program",
+    "text": "Apoptosis is an active molecular program\n\n\n\nDevelopmental apoptosis is an active biological program controlled by intracellular molecular pathways.\n\n\nExamples of important regulators include:\n\nBCL-2 family proteins that can promote survival\nBAX and related proteins that promote apoptosis\ncaspases that execute the cell-death program\n\n\n\nCell survival therefore depends on the balance between pro-survival and pro-apoptotic signals.\n\n\n\nImage: BCL-2, BAX and caspase apoptotic pathway\nSuggested file: images/2_ns_apoptosis_pathway.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#why-eliminate-neurons-during-development",
+    "href": "2_neurogenesis.html#why-eliminate-neurons-during-development",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Why eliminate neurons during development?",
+    "text": "Why eliminate neurons during development?\n\n\n\nProgrammed cell death can contribute to several developmental functions.\n\n\nIt can help:\n\nmatch the size of interconnected neuronal populations\nremove cells with inappropriate identities or connections\neliminate cells that served only a transient developmental function\nrefine developing structures\n\n\n\n\nImage: programmed cell death occurring at different stages of neural development\nSuggested file: images/2_ns_pcd_stages.png\n\n\n\nCell death is not the opposite of development. In many systems, cell death is part of the developmental program."
+  },
+  {
+    "objectID": "2_neurogenesis.html#target-tissues-regulate-neuronal-survival",
+    "href": "2_neurogenesis.html#target-tissues-regulate-neuronal-survival",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Target tissues regulate neuronal survival",
+    "text": "Target tissues regulate neuronal survival\n\nOne of the most important principles of developmental neuronal survival is that neurons interact with the tissues they innervate.\n\n\nMany developing neuronal populations initially contain more neurons than their targets can support.\nNeurons that successfully interact with appropriate targets receive survival signals.\nNeurons that do not receive sufficient support activate the apoptotic program.\n\n\nThis mechanism helps match the number of neurons to the size and requirements of the target tissue."
+  },
+  {
+    "objectID": "2_neurogenesis.html#hamburger-and-levi-montalcini",
+    "href": "2_neurogenesis.html#hamburger-and-levi-montalcini",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Hamburger and Levi-Montalcini",
+    "text": "Hamburger and Levi-Montalcini\n\n\n\nExperiments in chick embryos by Viktor Hamburger and Rita Levi-Montalcini showed that peripheral target tissues influence the survival of developing neurons.\n\n\nManipulating the developing limb changed the number of spinal motor neurons that survived:\n\nremoving target tissue increased neuronal loss\nadding extra target tissue increased neuronal survival\n\n\n\n\nImage: Hamburger and Levi-Montalcini chick limb-bud experiment\nSuggested file: images/2_ns_hamburger_levi_montalcini.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#the-target-manipulation-experiment",
+    "href": "2_neurogenesis.html#the-target-manipulation-experiment",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "The target-manipulation experiment",
+    "text": "The target-manipulation experiment\n\n\nChanging the amount of target tissue\n\n\n\nManipulation\n\nThe amount of peripheral tissue available to developing neurons is experimentally reduced or increased.\n\n\n\nResult\n\nLess target tissue → more neuronal death\nMore target tissue → more neuronal survival\n\n\n\nInterpretation\n\nTargets provide a limited resource required for neuronal survival.\n\n\n\nImage: limb removal and extra-limb transplantation with surviving motor neurons\nSuggested file: images/2_ns_target_manipulation.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#the-neurotrophic-hypothesis",
+    "href": "2_neurogenesis.html#the-neurotrophic-hypothesis",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "The neurotrophic hypothesis",
+    "text": "The neurotrophic hypothesis\n\n\n\nThe classical neurotrophic hypothesis proposes that developing neurons compete for a limited amount of target-derived survival factors.\n\n\nThe logic is:\n\nmany neurons project toward a target\nthe target produces limited trophic support\nneurons compete for access to this support\nneurons obtaining sufficient support survive\nneurons receiving insufficient support undergo apoptosis\n\n\n\n\nImage: classical neurotrophic hypothesis\nSuggested file: images/2_ns_neurotrophic_hypothesis.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#ngf-and-neurotrophic-factors",
+    "href": "2_neurogenesis.html#ngf-and-neurotrophic-factors",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "NGF and neurotrophic factors",
+    "text": "NGF and neurotrophic factors\n\n\n\nNGF — Nerve Growth Factor — provided a molecular mechanism for the idea that target tissues can support neuronal survival.\n\n\nNGF is essential for the development and survival of particular populations of peripheral sensory and sympathetic neurons.\nIt is not a universal survival factor for every neuron.\n\n\nDifferent neuronal populations depend on different members of the broader family of neurotrophic factors.\n\n\n\nImage: NGF and other neurotrophic factors supporting distinct neuronal populations\nSuggested file: images/2_ns_ngf_neurotrophins.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#competition-matches-neurons-to-their-targets",
+    "href": "2_neurogenesis.html#competition-matches-neurons-to-their-targets",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Competition matches neurons to their targets",
+    "text": "Competition matches neurons to their targets\n\nNeurotrophic competition provides a mechanism for matching the size of a neuronal population to the size of the tissue it innervates.\n\n\n\n\nSmall or reduced target\nless trophic support → stronger competition → more neuronal death\n\n\n\nLarge or additional target\nmore trophic support → weaker competition → more neuronal survival\n\n\n\nImage: relation between target size and percentage of neuronal survival\nSuggested file: images/2_ns_target_matching.png"
+  },
+  {
+    "objectID": "2_neurogenesis.html#survival-signals-control-the-apoptotic-program",
+    "href": "2_neurogenesis.html#survival-signals-control-the-apoptotic-program",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Survival signals control the apoptotic program",
+    "text": "Survival signals control the apoptotic program\n\nTarget-derived trophic factors do not simply “feed” neurons.\nThey activate receptors and intracellular pathways that influence the balance between survival and apoptosis.\n\n\nThe extracellular environment can therefore regulate whether the intrinsic cell-death machinery is:\ninhibited → neuron survives\nor\nactivated → neuron undergoes apoptosis\n\n\nThis is another example of the general developmental principle introduced earlier:\nextracellular signals regulate intracellular molecular programs and gene expression."
+  },
+  {
+    "objectID": "2_neurogenesis.html#constructive-and-regressive-processes",
+    "href": "2_neurogenesis.html#constructive-and-regressive-processes",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Constructive and regressive processes",
+    "text": "Constructive and regressive processes\n\n\n\nConstructive\n\nprogenitor expansion\nneurogenesis\nmigration\ndifferentiation\nneuronal growth\n\n\n\n\nRegressive\n\nprogrammed neuronal death\nelimination of inappropriate cells\nlater pruning of axons and synapses\n\n\n\n\nThe mature nervous system is not created by simply adding cells.\nIt is produced by repeated cycles of generation, selection, and refinement."
+  },
+  {
+    "objectID": "2_neurogenesis.html#from-cells-to-circuits",
+    "href": "2_neurogenesis.html#from-cells-to-circuits",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "From cells to circuits",
+    "text": "From cells to circuits\n\nAt this point development has generated neuronal populations with characteristic identities and has adjusted how many of those neurons survive.\n\n\nThe next problem is how these neurons become connected into functional circuits:\n\nhow axons find their targets\nhow synapses are formed\nhow connections are refined\nhow axons become myelinated\n\n\n\nNeurogenesis creates the cells. The next stage of development must connect them."
   }
 ]

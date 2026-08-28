@@ -19,7 +19,7 @@ The nervous system emerges through a coordinated sequence of:
 :::
 
 ::: {.card}
-**Guiding idea**
+`Guiding idea`
 
 Development does more than enlarge a structure. It progressively creates differences between cells and regions.
 :::
