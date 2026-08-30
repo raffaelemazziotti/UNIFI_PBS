@@ -606,6 +606,10 @@
   color: #003366 !important;
 }
 
+.centerimg {
+  text-align: center;
+}
+
 
 /* ==========================
    Mobile: match notebook theme + better reading + snap

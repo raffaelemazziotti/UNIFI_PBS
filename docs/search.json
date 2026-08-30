@@ -585,42 +585,42 @@
     "href": "2_neurogenesis.html#intermediate-progenitors-amplify-neurogenesis",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Intermediate progenitors amplify neurogenesis",
-    "text": "Intermediate progenitors amplify neurogenesis\n\n\n\nNot every neuron is generated directly by an apical progenitor.\nRadial glial cells can also generate intermediate progenitor cells, which divide away from the ventricular surface.\n\n\nIntermediate progenitors provide an additional amplification step:\nradial glia → intermediate progenitor → neurons\n\n\nThis strategy increases the number of neurons that can be produced from the original progenitor population.\n\n\n\nImage: apical progenitors and intermediate/basal progenitors\nSuggested file: images/2_ns_intermediate_progenitors.png"
+    "text": "Intermediate progenitors amplify neurogenesis\n\n\n\n\n\n\nNot every neuron is generated directly by an apical progenitor.\nRadial glial cells can also generate intermediate progenitor cells, which divide away from the ventricular surface.\n\n\n\nIntermediate progenitors provide an additional amplification step. This strategy increases the number of neurons that can be produced from the original progenitor population."
   },
   {
     "objectID": "2_neurogenesis.html#radial-glia-progenitors-and-scaffolds",
     "href": "2_neurogenesis.html#radial-glia-progenitors-and-scaffolds",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Radial glia: progenitors and scaffolds",
-    "text": "Radial glia: progenitors and scaffolds\n\n\n\nA newly generated cortical neuron must leave the proliferative zones and reach its final position in the cortical wall.\n\n\nMany excitatory cortical neurons migrate along the long processes of radial glial cells.\nThe same cell type therefore participates in both:\n\ngenerating neurons\nguiding their migration\n\n\n\n\nImage: neuron migrating along a radial glial fiber\nSuggested file: images/2_ns_radial_migration.png"
+    "text": "Radial glia: progenitors and scaffolds\n\n\n\nA newly generated cortical neuron must leave the proliferative zones and reach its final position in the cortical wall.\n\n\nMany excitatory cortical neurons migrate along the long processes of radial glial cells.\nThe same cell type therefore participates in both:\n\ngenerating neurons\nguiding their migration"
   },
   {
     "objectID": "2_neurogenesis.html#from-the-ventricular-zone-to-the-cortical-plate",
     "href": "2_neurogenesis.html#from-the-ventricular-zone-to-the-cortical-plate",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "From the ventricular zone to the cortical plate",
-    "text": "From the ventricular zone to the cortical plate\n\n\n\nThe developing cortex is organized into transient developmental zones.\nNew neurons are generated near the ventricle and migrate toward the developing cortical plate.\n\n\nAs development proceeds:\n\nprogenitors remain concentrated in proliferative zones\nnewly generated neurons become postmitotic\nneurons migrate outward\nsuccessive neuronal populations occupy different cortical positions\n\n\n\n\nImage: ventricular zone, subventricular zone, intermediate zone and cortical plate\nSuggested file: images/2_ns_cortical_zones.png"
+    "text": "From the ventricular zone to the cortical plate\n\n\n\nThe developing cortex is organized into transient developmental zones.\nNew neurons are generated near the ventricle and migrate toward the developing cortical plate.\n\n\nAs development proceeds:\n\nprogenitors remain concentrated in proliferative zones\nnewly generated neurons become postmitotic\nneurons migrate outward\nsuccessive neuronal populations occupy different cortical positions"
   },
   {
     "objectID": "2_neurogenesis.html#the-cortex-is-built-inside-out",
     "href": "2_neurogenesis.html#the-cortex-is-built-inside-out",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "The cortex is built inside-out",
-    "text": "The cortex is built inside-out\n\n\n\nMost cortical projection neurons are generated in a characteristic temporal sequence.\nEarlier-born neurons settle in deeper cortical layers, whereas later-born neurons migrate past them and occupy progressively more superficial layers.\n\n\nSimplified sequence:\nearly neurogenesis → deep layers\nlate neurogenesis → superficial layers\n\n\n\nImage: formation of cortical layers showing inside-out development\nSuggested file: images/2_ns_cortical_layers.png"
+    "text": "The cortex is built inside-out\n\n\n\nMost cortical projection neurons are generated in a characteristic temporal sequence.\nEarlier-born neurons settle in deeper cortical layers, whereas later-born neurons migrate past them and occupy progressively more superficial layers.\n\n\nSimplified sequence:\nearly neurogenesis -&gt; deep layers\nlate neurogenesis -&gt; superficial layers"
   },
   {
     "objectID": "2_neurogenesis.html#neuronal-birthdate-carries-information",
     "href": "2_neurogenesis.html#neuronal-birthdate-carries-information",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Neuronal birthdate carries information",
-    "text": "Neuronal birthdate carries information\n\nThe time at which a progenitor undergoes its final mitosis is strongly related to the identity that its neuronal descendants can acquire.\n\n\nDevelopmental time therefore acts as another source of information.\nIn the previous chapter, cells used spatial signals to understand where they were.\nDuring neurogenesis, cells also change their developmental potential according to when they are generated.\n\n\nposition + developmental time + gene expression + extracellular signals → neuronal identity"
+    "text": "Neuronal birthdate carries information\n\nThe time at which a progenitor undergoes its final mitosis is strongly related to the identity that its neuronal descendants can acquire.\n\n\nDevelopmental time therefore acts as another source of information.\nIn the previous chapter, cells used spatial signals to understand where they were.\nDuring neurogenesis, cells also change their developmental potential according to when they are generated."
   },
   {
     "objectID": "2_neurogenesis.html#heterochronic-transplantation",
     "href": "2_neurogenesis.html#heterochronic-transplantation",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Heterochronic transplantation",
-    "text": "Heterochronic transplantation\n\n\n\n\nHeterochronic transplantation of cortical progenitors\n\n\n\nQuestion\n\nDoes a cortical progenitor acquire its laminar identity only from the environment in which it is placed?\n\n\n\nApproach\n\nProgenitor cells are transplanted between hosts at different developmental ages.\n\n\n\nObservation\n\nThe capacity of transplanted progenitors to adopt a new laminar fate depends on their developmental age and cell-cycle state.\n\n\n\n\nImage: heterochronic cortical transplantation experiment\nSuggested file: images/2_ns_heterochronic_transplant.png"
+    "text": "Heterochronic transplantation\n\n\n\n\nHeterochronic transplantation of cortical progenitors\n\n\n\nQuestion\n\nDoes a cortical progenitor acquire its laminar identity only from the environment in which it is placed?\n\n\n\nApproach\n\nProgenitor cells are transplanted between hosts at different developmental ages.\n\n\n\nObservation\n\nThe capacity of transplanted progenitors to adopt a new laminar fate depends on their developmental age and cell-cycle state."
   },
   {
     "objectID": "2_neurogenesis.html#what-heterochronic-transplants-show",
@@ -634,7 +634,7 @@
     "href": "2_neurogenesis.html#differentiation",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Differentiation",
-    "text": "Differentiation\n\n\n\nGenerating a neuron is only the beginning.\nThe newborn neuron must acquire a particular identity.\n\n\nDifferentiation includes the acquisition of properties such as:\n\nneuronal morphology\nneurotransmitter phenotype\nreceptor and ion-channel expression\npatterns of gene expression\ncharacteristic connectivity\n\n\n\n\nImage: progression from neural progenitor to differentiated neuronal types\nSuggested file: images/2_ns_neuronal_differentiation.png"
+    "text": "Differentiation\n\n\n\nGenerating a neuron is only the beginning.\nThe newborn neuron must acquire a particular identity.\n\n\nDifferentiation includes the acquisition of properties such as:\n\npatterns of gene expression\nneuronal morphology\nneurotransmitter phenotype\nreceptor and ion-channel expression\ncharacteristic connectivity"
   },
   {
     "objectID": "2_neurogenesis.html#intrinsic-and-extrinsic-factors",

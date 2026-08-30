@@ -44,7 +44,7 @@ The final organization of the nervous system therefore depends on both <u>constr
 ## Neurogenesis
 
 ::: {.columns}
-::: {.column}
+::: {.column width="50%"}
 
 ::: {.info-box}
 `Neurogenesis` is the process by which neural progenitor cells generate neurons.
@@ -64,15 +64,14 @@ At its peak, the human developing brain can generate approximately:
 :::
 
 :::
-::: {.column}
+::: {.column width="50%"}
 
 
 
-![](images/2_ndm_neurogenesis.png)
+![](images/2_ndm_neurogenesis2.png){title="Progression of cortical neurogenesis over developmental time. Early neuroepithelial cells (NECs) first expand through symmetric proliferative divisions, then transition into radial glial cells (RGCs). RGCs generate neurons directly or indirectly through intermediate progenitors (IPs) and basal radial glia (bRGs). As neurogenesis proceeds, newly generated neurons migrate toward the cortical plate, with deep-layer neurons produced earlier and upper-layer neurons later. During late neurogenesis, progenitors also generate macroglial cells such as astrocytes and oligodendrocytes."}
 
 :::
 :::
-
 
 
 ## Neural progenitors in the developing cortex
@@ -169,6 +168,10 @@ progenitor: progenitor + neuron
 
 ## Intermediate progenitors amplify neurogenesis
 
+::: {.centerimg}
+![](images/2_ndm_neurogenesis_IP.png)
+:::
+
 ::: {.columns}
 ::: {.column}
 
@@ -178,23 +181,13 @@ Not every neuron is generated directly by an apical progenitor.
 Radial glial cells can also generate `intermediate progenitor cells`, which divide away from the ventricular surface.
 :::
 
-::: {.card}
-Intermediate progenitors provide an additional <u>amplification step</u>:
-
-`radial glia` → `intermediate progenitor` → `neurons`
-:::
-
-::: {.card}
-This strategy increases the number of neurons that can be produced from the original progenitor population.
-:::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> apical progenitors and intermediate/basal progenitors
-
-Suggested file: `images/2_ns_intermediate_progenitors.png`
+::: {.card}
+Intermediate progenitors provide an additional <u>amplification step</u>.
+This strategy increases the number of neurons that can be produced from the original progenitor population.
 :::
 
 :::
@@ -221,11 +214,7 @@ The same cell type therefore participates in both:
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> neuron migrating along a radial glial fiber
-
-Suggested file: `images/2_ns_radial_migration.png`
-:::
+![](images/2_ndm_neurogenesis_RGC.jpg){width="70%"}
 
 :::
 :::
@@ -253,11 +242,7 @@ As development proceeds:
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> ventricular zone, subventricular zone, intermediate zone and cortical plate
-
-Suggested file: `images/2_ns_cortical_zones.png`
-:::
+![](images/2_ndm_neurogenesis_CP.png)
 
 :::
 :::
@@ -276,19 +261,18 @@ Most cortical projection neurons are generated in a characteristic temporal sequ
 ::: {.card}
 Simplified sequence:
 
-`early neurogenesis` → deep layers
+`early neurogenesis` -> deep layers
 
-`late neurogenesis` → superficial layers
+`late neurogenesis` -> superficial layers
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> formation of cortical layers showing inside-out development
-
-Suggested file: `images/2_ns_cortical_layers.png`
-:::
+![](images/2_ndm_neurogenesis_insideout.png){
+  width="100%"
+  title="Temporal sequence of cortical neurogenesis. Early neuroepithelial cells (NE), radial glial cells (RG), intermediate progenitors (IP), and outer radial glial cells (oRG) generate different neuronal classes in a stereotyped temporal order. Early-born neurons include Cajal–Retzius cells (CR) and subplate neurons (SP), followed by corticothalamic projection neurons (CThPN), subcerebral projection neurons (SCPN), layer IV granule neurons (layer IV GN), and later callosal projection neurons (CPN). Newly generated neurons migrate outward past earlier-born neurons, producing the characteristic inside-out organization of the cerebral cortex."
+}
 
 :::
 :::
@@ -304,11 +288,7 @@ Developmental time therefore acts as another source of information.
 
 In the previous chapter, cells used <u>spatial signals</u> to understand where they were.
 
-During neurogenesis, cells also change their developmental potential according to <u>when they are generated</u>.
-:::
-
-::: {.card}
-`position` + `developmental time` + `gene expression` + `extracellular signals` → neuronal identity
+During neurogenesis, cells also change their developmental potential according to <u>when</u> they are generated.
 :::
 
 ## Heterochronic transplantation
@@ -346,11 +326,7 @@ The capacity of transplanted progenitors to adopt a new laminar fate depends on 
 :::
 ::: {.column width="45%"}
 
-::: {.card .image-needed}
-<u>Image:</u> heterochronic cortical transplantation experiment
-
-Suggested file: `images/2_ns_heterochronic_transplant.png`
-:::
+![](images/2_ndm_neurogenesis_heterochronic.png){width="70%"}
 
 :::
 :::
@@ -367,7 +343,7 @@ Their `competence` changes with developmental time.
 ::: {.column}
 
 ::: {.card}
-Younger progenitors can still respond to environmental information and can, under appropriate conditions, adopt later neuronal fates.
+<u>Younger</u> progenitors can still respond to environmental information and can, under appropriate conditions, adopt later neuronal fates.
 :::
 
 :::
@@ -376,7 +352,7 @@ Younger progenitors can still respond to environmental information and can, unde
 ::: {.card}
 As progenitors progress through development, their possible fates become progressively <u>restricted</u>.
 
-After commitment and cell-cycle exit, neuronal identity becomes much less flexible.
+After commitment and [cell-cycle](https://en.wikipedia.org/wiki/Cell_cycle){target="_blank"} exit, neuronal identity becomes much less flexible.
 :::
 
 :::
@@ -398,21 +374,17 @@ The newborn neuron must acquire a particular `identity`.
 ::: {.card}
 Differentiation includes the acquisition of properties such as:
 
+- patterns of gene expression
 - neuronal morphology
 - neurotransmitter phenotype
 - receptor and ion-channel expression
-- patterns of gene expression
 - characteristic connectivity
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> progression from neural progenitor to differentiated neuronal types
-
-Suggested file: `images/2_ns_neuronal_differentiation.png`
-:::
+![](images/2_ndm_differentiation.png){width="100%"}
 
 :::
 :::
