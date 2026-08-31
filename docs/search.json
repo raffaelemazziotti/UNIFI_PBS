@@ -648,35 +648,35 @@
     "href": "2_neurogenesis.html#notch-delta-lateral-inhibition",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Notch-Delta: lateral inhibition",
-    "text": "Notch-Delta: lateral inhibition\n\n\n\nNeighboring progenitor cells can influence each other’s fate through Notch-Delta signaling.\n\n\nA small initial difference between neighboring cells can be amplified:\n\na cell with stronger proneural/Delta activity promotes neuronal differentiation\nDelta activates Notch in neighboring cells\nNotch signaling suppresses the neuronal program in those neighboring cells\n\n\n\nThis process is called lateral inhibition.\nIt allows a group of initially similar cells to acquire different fates.\n\n\n\nImage: Notch-Delta lateral inhibition\nSuggested file: images/2_ns_notch_delta.png"
+    "text": "Notch-Delta: lateral inhibition\n\n\n\nNeighboring progenitor cells can influence whether they adopt a neuronal or support cell fate through Notch-Delta signaling. This process is called lateral inhibition and generates salt and pepper patterns.\n\n\nA small initial difference between neighboring cells can be amplified:\n\na cell with stronger Delta activity (proneural) is driven toward a neuronal fate\nDelta activates Notch in neighboring cells\nNotch suppresses the proneural program in those cells (they remain in a progenitor/non-neuronal fate)"
   },
   {
     "objectID": "2_neurogenesis.html#numb-and-asymmetric-fate",
     "href": "2_neurogenesis.html#numb-and-asymmetric-fate",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Numb and asymmetric fate",
-    "text": "Numb and asymmetric fate\n\n\n\nCell division can distribute regulatory molecules unequally between daughter cells.\nOne example is Numb, which can antagonize Notch signaling.\n\n\nIf the two daughter cells inherit different amounts of fate-regulating molecules, they can respond differently even though they originated from the same progenitor.\n\n\nAsymmetric inheritance therefore provides one mechanism through which cell division can create different developmental trajectories.\n\n\n\nImage: Numb and Notch in asymmetric cell-fate decisions\nSuggested file: images/2_ns_numb_notch.png"
+    "text": "Numb and asymmetric fate\n\n\n\nCell division can distribute molecules unequally between daughter cells.\nOne example is Numb, which can antagonize Notch signaling.\n\n\nIf the two daughter cells inherit different amounts of fate-regulating molecules, they can respond differently even though they originated from the same progenitor.\n\n\nAsymmetric inheritance therefore provides one mechanism through which cell division can create different developmental trajectories."
   },
   {
     "objectID": "2_neurogenesis.html#transcription-factors-can-constrain-fate-and-migration",
     "href": "2_neurogenesis.html#transcription-factors-can-constrain-fate-and-migration",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Transcription factors can constrain fate and migration",
-    "text": "Transcription factors can constrain fate and migration\n\n\n\nIntrinsic developmental programs can control not only neuronal identity, but also the ability of neurons to reach the correct region.\n\n\nAn example is provided by Dlx1/Dlx2, transcription factors involved in the development of forebrain interneurons.\nDisrupting this program strongly alters the normal migration of interneuron precursors toward the neocortex.\n\n\nGene expression can therefore influence:\ncell identity + migration + final regional organization\n\n\n\nImage: Dlx1/Dlx2 mutant and cortical interneuron migration\nSuggested file: images/2_ns_dlx_interneurons.png"
+    "text": "Transcription factors can constrain fate and migration\n\n\n\nIntrinsic developmental programs can control not only neuronal identity, but also the ability of neurons to reach the correct region.\n\n\nAn example is provided by Dlx1/Dlx2, transcription factors involved in the development of forebrain GABAergic interneurons.\nDisrupting this program strongly alters the normal migration of interneuron precursors toward the neocortex.\n\n\nDisruption of the Dlx developmental program reduce the number and function of cortical interneurons. This produces less inhibitory control of cortical circuits: In Dlx1 mutant mice, interneuron loss produces spontaneous generalized epileptic activity.\n\n\n\n\nDlx1/Dlx2-expressing interneuron progenitors are generated in the ganglionic eminences of the ventral telencephalon, adjacent to the developing striatum.\nFrom there, they migrate tangentially into the developing cerebral cortex, where they differentiate into cortical GABAergic interneurons."
   },
   {
     "objectID": "2_neurogenesis.html#the-environment-also-instructs-cell-fate",
     "href": "2_neurogenesis.html#the-environment-also-instructs-cell-fate",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "The environment also instructs cell fate",
-    "text": "The environment also instructs cell fate\n\n\n\nThe fate of a developing cell is not determined only by where it was born.\nCells encounter new extracellular environments as they migrate.\n\n\nThese environments contain different:\n\nsignaling molecules\nneighboring cell types\nextracellular matrix components\ntarget tissues\n\n\n\nA migrating precursor can therefore receive new developmental instructions along its path.\n\n\n\nImage: neural crest migration pathways\nSuggested file: images/2_ns_neural_crest_migration.png"
+    "text": "The environment also instructs cell fate\n\n\n\nThe fate of a developing cell is not determined only by where it was born.\nCells encounter new extracellular environments as they migrate.\n\n\nThese environments contain different:\n\nsignaling molecules\nneighboring cell types\nextracellular matrix components\ntarget tissues\n\n\n\nA migrating precursor can therefore receive new developmental instructions along its path."
   },
   {
     "objectID": "2_neurogenesis.html#neural-crest-one-population-many-outcomes",
     "href": "2_neurogenesis.html#neural-crest-one-population-many-outcomes",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Neural crest: one population, many outcomes",
-    "text": "Neural crest: one population, many outcomes\n\n\n\nNeural crest cells provide a clear example of multipotent progenitors whose fate depends strongly on the signals encountered during migration.\n\n\nNeural crest derivatives include, among others:\n\nsensory neurons\nautonomic neurons\nenteric neurons\nSchwann cells\nmelanocytes\nsmooth-muscle-related derivatives\n\n\n\n\nImage: neural crest derivatives and examples of extracellular signals controlling fate\nSuggested file: images/2_ns_neural_crest_fates.png"
+    "text": "Neural crest: one population, many outcomes\n\n\n\nNeural crest cells provide a clear example of multipotent progenitors whose fate depends strongly on the signals encountered during migration.\n\n\nNeural crest derivatives include, among others:\n\nsensory neurons\nautonomic neurons\nenteric neurons\nSchwann cells\nmelanocytes\nsmooth-muscletarget=“_blank”}"
   },
   {
     "objectID": "2_neurogenesis.html#cell-fate-is-an-interaction",

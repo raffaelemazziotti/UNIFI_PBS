@@ -419,7 +419,7 @@ Examples include:
 
 - secreted signaling molecules
 - signals <u>from neighboring cells</u>
-- extracellular matrix
+- [extracellular matrix](https://en.wikipedia.org/wiki/Extracellular_matrix){target="_blank"}
 - target-derived factors
 :::
 
@@ -436,31 +436,22 @@ Neuronal identity emerges from the <u>interaction</u> between intrinsic state an
 ::: {.column}
 
 ::: {.info-box}
-Neighboring progenitor cells can influence each other's fate through `Notch-Delta signaling`.
+Neighboring progenitor cells can influence whether they adopt a <u>neuronal</u> or <u>support</u> cell fate through `Notch-Delta` signaling. This process is called `lateral inhibition` and generates <u>salt and pepper</u> patterns.
 :::
 
 ::: {.card}
 A small initial difference between neighboring cells can be amplified:
 
-- a cell with stronger proneural/Delta activity promotes neuronal differentiation
+- a cell with stronger <u>Delta</u> activity (<u>proneural</u>) is driven toward a <u>neuronal fate</u>
 - Delta activates Notch in neighboring cells
-- Notch signaling suppresses the neuronal program in those neighboring cells
-:::
+- <u>Notch suppresses the proneural program</u> in those cells (they remain in a <u>progenitor/non-neuronal fate</u>)
 
-::: {.card}
-This process is called `lateral inhibition`.
-
-It allows a group of initially similar cells to acquire <u>different fates</u>.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> Notch-Delta lateral inhibition
-
-Suggested file: `images/2_ns_notch_delta.png`
-:::
+![](images/2_ndm_diffe_delta_notch.png){width="100%"   title="Notch–Delta lateral inhibition. Neighboring progenitor cells communicate through membrane-bound Delta and Notch. Small initial differences in signaling are amplified over time, producing cells with high Delta and low Notch activity and neighboring cells with high Notch activity. Across a tissue, this generates a heterogeneous salt-and-pepper pattern. At the molecular level, Notch activation releases NICD, which enters the nucleus and induces HES proteins. HES suppresses proneural genes and Delta expression, thereby inhibiting neuronal differentiation in the Notch-high cell while allowing the neighboring Delta-high cell to adopt a neuronal fate."}
 
 :::
 :::
@@ -471,9 +462,9 @@ Suggested file: `images/2_ns_notch_delta.png`
 ::: {.column}
 
 ::: {.info-box}
-Cell division can distribute regulatory molecules unequally between daughter cells.
+Cell division can distribute molecules unequally between daughter cells.
 
-One example is `Numb`, which can antagonize Notch signaling.
+One example is `Numb`, which can <u>antagonize</u> Notch signaling.
 :::
 
 ::: {.card}
@@ -487,11 +478,8 @@ Asymmetric inheritance therefore provides one mechanism through which cell divis
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> Numb and Notch in asymmetric cell-fate decisions
+![](images/2_ndm_diffe_numb.png){width="100%" }
 
-Suggested file: `images/2_ns_numb_notch.png`
-:::
 
 :::
 :::
@@ -506,24 +494,27 @@ Intrinsic developmental programs can control not only neuronal identity, but als
 :::
 
 ::: {.card}
-An example is provided by `Dlx1/Dlx2`, transcription factors involved in the development of forebrain interneurons.
+An example is provided by `Dlx1/Dlx2`, transcription factors involved in the development of forebrain GABAergic [interneurons](https://en.wikipedia.org/wiki/Interneuron){target="_blank"}.
 
 Disrupting this program strongly alters the normal migration of interneuron precursors toward the neocortex.
 :::
 
 ::: {.card}
-Gene expression can therefore influence:
-
-`cell identity` + `migration` + `final regional organization`
+Disruption of the `Dlx` developmental program reduce the number and function of cortical interneurons.
+This produces less inhibitory control of cortical circuits:
+In `Dlx1` mutant mice, interneuron loss produces spontaneous generalized <u>epileptic</u> activity.
 :::
+
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> Dlx1/Dlx2 mutant and cortical interneuron migration
+![](images/2_ndm_diffe_dlx.png){width="100%" }
 
-Suggested file: `images/2_ns_dlx_interneurons.png`
+::: {.card}
+`Dlx1/Dlx2`-expressing interneuron progenitors are generated in the `ganglionic eminences` of the ventral telencephalon, adjacent to the developing striatum.
+
+From there, they <u>migrate tangentially</u> into the developing cerebral cortex, where they differentiate into cortical GABAergic interneurons.
 :::
 
 :::
@@ -537,7 +528,7 @@ Suggested file: `images/2_ns_dlx_interneurons.png`
 ::: {.info-box}
 The fate of a developing cell is not determined only by where it was born.
 
-Cells encounter new extracellular environments as they <u>migrate</u>.
+Cells encounter new extracellular <u>environments</u> as they <u>migrate</u>.
 :::
 
 ::: {.card}
@@ -556,11 +547,7 @@ A migrating precursor can therefore receive <u>new developmental instructions</u
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> neural crest migration pathways
-
-Suggested file: `images/2_ns_neural_crest_migration.png`
-:::
+![](images/2_ndm_diffe_neural_crest.png){width="100%" }
 
 :::
 :::
@@ -577,22 +564,18 @@ Neural crest cells provide a clear example of <u>multipotent progenitors</u> who
 ::: {.card}
 Neural crest derivatives include, among others:
 
-- sensory neurons
-- autonomic neurons
-- enteric neurons
-- Schwann cells
-- melanocytes
-- smooth-muscle-related derivatives
+- [sensory neurons](https://en.wikipedia.org/wiki/Sensory_neuron){target="_blank"}
+- [autonomic neurons](https://en.wikipedia.org/wiki/Autonomic_nervous_system){target="_blank"}
+- [enteric neurons](https://en.wikipedia.org/wiki/Enteric_nervous_system){target="_blank"}
+- [Schwann cells](https://en.wikipedia.org/wiki/Schwann_cell){target="_blank"}
+- [melanocytes](https://en.wikipedia.org/wiki/Melanocyte){target="_blank"}
+- [smooth-muscle](https://en.wikipedia.org/wiki/Smooth_muscle)target="_blank"}
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> neural crest derivatives and examples of extracellular signals controlling fate
-
-Suggested file: `images/2_ns_neural_crest_fates.png`
-:::
+![](images/2_ndm_diffe_neural_crest2.png){width="100%" }
 
 :::
 :::
