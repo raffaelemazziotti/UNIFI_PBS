@@ -372,13 +372,13 @@ The newborn neuron must acquire a particular `identity`.
 :::
 
 ::: {.card}
-Differentiation includes the acquisition of properties such as:
+`Differentiation` includes the acquisition of properties such as:
 
-- patterns of gene expression
-- neuronal morphology
-- neurotransmitter phenotype
-- receptor and ion-channel expression
-- characteristic connectivity
+- patterns of <u>gene expression</u>
+- neuronal <u>morphology</u>
+- <u>neurotransmitter</u> phenotype
+- <u>receptors</u> and <u>ion-channel</u> expression
+- characteristic <u>connectivity</u>
 :::
 
 :::
@@ -397,12 +397,12 @@ Differentiation includes the acquisition of properties such as:
 ::: {.info-box}
 `Intrinsic factors`
 
-Information already present inside the cell can bias developmental fate.
+Information <u>already present inside the cell</u> can bias developmental fate.
 
 Examples include:
 
-- transcription factors
-- asymmetric inheritance of cellular components
+- <u>transcription factors</u>
+- <u>asymmetric inheritance</u> of cellular components
 - previous developmental history
 - current state of competence
 :::
@@ -413,12 +413,12 @@ Examples include:
 ::: {.info-box}
 `Extrinsic factors`
 
-The cell also receives information from its environment.
+The cell also receives information from its <u>environment</u>.
 
 Examples include:
 
 - secreted signaling molecules
-- signals from neighboring cells
+- signals <u>from neighboring cells</u>
 - extracellular matrix
 - target-derived factors
 :::
