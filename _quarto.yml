@@ -15,7 +15,7 @@ format:
   revealjs:
     controls: true
     theme: default
-    slide-number: false
+    slide-number: true
     logo: images/logo/NEUROFARBA_logo.svg
     css: slide_style.css
     include-after-body: afterbody.html

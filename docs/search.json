@@ -760,21 +760,21 @@
     "href": "2_neurogenesis.html#competition-matches-neurons-to-their-targets",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Competition matches neurons to their targets",
-    "text": "Competition matches neurons to their targets\n\nNeurotrophic competition provides a mechanism for matching the size of a neuronal population to the size of the tissue it innervates.\n\n\n\n\nSmall or reduced target\nless trophic support → stronger competition → more neuronal death\n\n\n\nLarge or additional target\nmore trophic support → weaker competition → more neuronal survival\n\n\n\nImage: relation between target size and percentage of neuronal survival\nSuggested file: images/2_ns_target_matching.png"
+    "text": "Competition matches neurons to their targets\n\nNeurotrophic competition provides a mechanism for matching the size of a neuronal population to the size of the tissue it innervates.\n\n\n\n\nSmall or reduced target\nless trophic support -&gt; stronger competition -&gt; more neuronal death\n\n\n\nLarge or additional target\nmore trophic support -&gt; weaker competition -&gt; more neuronal survival"
   },
   {
     "objectID": "2_neurogenesis.html#survival-signals-control-the-apoptotic-program",
     "href": "2_neurogenesis.html#survival-signals-control-the-apoptotic-program",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Survival signals control the apoptotic program",
-    "text": "Survival signals control the apoptotic program\n\nTarget-derived trophic factors do not simply “feed” neurons.\nThey activate receptors and intracellular pathways that influence the balance between survival and apoptosis.\n\n\nThe extracellular environment can therefore regulate whether the intrinsic cell-death machinery is:\ninhibited → neuron survives\nor\nactivated → neuron undergoes apoptosis\n\n\nThis is another example of the general developmental principle introduced earlier:\nextracellular signals regulate intracellular molecular programs and gene expression."
+    "text": "Survival signals control the apoptotic program\n\nThis is another example of the general developmental principle introduced earlier:\nextracellular signals regulate intracellular molecular programs and gene expression."
   },
   {
     "objectID": "2_neurogenesis.html#constructive-and-regressive-processes",
     "href": "2_neurogenesis.html#constructive-and-regressive-processes",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Constructive and regressive processes",
-    "text": "Constructive and regressive processes\n\n\n\nConstructive\n\nprogenitor expansion\nneurogenesis\nmigration\ndifferentiation\nneuronal growth\n\n\n\n\nRegressive\n\nprogrammed neuronal death\nelimination of inappropriate cells\nlater pruning of axons and synapses\n\n\n\n\nThe mature nervous system is not created by simply adding cells.\nIt is produced by repeated cycles of generation, selection, and refinement."
+    "text": "Constructive and regressive processes\n\nThe mature nervous system is not created by simply adding cells. It is produced by repeated cycles of generation, selection, and refinement.\n\n\n\n\nConstructive\n\nprogenitor expansion\nneurogenesis\nmigration\ndifferentiation\nneuronal growth\n\n\n\n\nRegressive\n\nprogrammed neuronal death\nelimination of inappropriate cells\nlater pruning of axons and synapses"
   },
   {
     "objectID": "2_neurogenesis.html#from-cells-to-circuits",
@@ -810,5 +810,19 @@
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Neurotrophic factors",
     "text": "Neurotrophic factors\n\n\n\nNeurotrophic factors are extracellular signals that promote the survival, growth and differentiation of specific neuronal populations.\n\n\nNGF: Nerve Growth Factor\nNGF is especially important for the survival and development of particular populations of peripheral sensory and sympathetic neurons.\n\n\n\n\n\n\nBDNF: Brain-Derived Neurotrophic Factor\nBDNF supports the survival and differentiation of several neuronal populations in both the peripheral and central nervous system.\nIt also has important roles later in development in:\n\ndendritic and axonal growth\nsynapse formation\nsynaptic plasticity\n\n\n\nDifferent neurons depend on different neurotrophic signals.\nNGF, BDNF, NT-3, and NT-4 belong to the neurotrophin family and act through specific Trk receptors."
+  },
+  {
+    "objectID": "2_neurogenesis.html#competition-for-survival",
+    "href": "2_neurogenesis.html#competition-for-survival",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Competition for Survival",
+    "text": "Competition for Survival\n\n\n\nNeurotrophic competition provides a mechanism for matching the size of a neuronal population to the size of the tissue it innervates.\n\n\nSmall or reduced target\nless trophic support -&gt; stronger competition -&gt; more neuronal death\n\n\nLarge or additional target\nmore trophic support -&gt; weaker competition -&gt; more neuronal survival\n\n\n\nTarget-derived trophic factors do not simply “feed” neurons.\nThey activate receptors and intracellular pathways that influence the balance between survival and apoptosis.\n\n\nThe extracellular environment can therefore regulate whether the intrinsic cell-death machinery is:\ninhibited → neuron survives\nor\nactivated → neuron undergoes apoptosis"
+  },
+  {
+    "objectID": "2_neurogenesis.html#self-check",
+    "href": "2_neurogenesis.html#self-check",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Self-check",
+    "text": "Self-check"
   }
 ]

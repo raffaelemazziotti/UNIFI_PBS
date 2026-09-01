@@ -1,0 +1,555 @@
+{
+  "topic": "Neurogenesis, Differentiation and Neuronal Survival",
+  "questions": [
+    {
+      "question": "What does neurogenesis refer to?",
+      "options": [
+        "Expansion of neural tissue without producing new cells",
+        "Generation of neurons from neural progenitor cells",
+        "Migration of mature neurons to their final targets",
+        "Selective elimination of newly generated neurons"
+      ],
+      "correct": 1,
+      "feedback": "The lesson defines neurogenesis as the generation of neurons from neural progenitor cells."
+    },
+    {
+      "question": "What is the main difference between progenitor proliferation and neurogenesis?",
+      "options": [
+        "Proliferation expands the progenitor pool, whereas neurogenesis produces neurons",
+        "Proliferation produces neurons, whereas neurogenesis produces only progenitors",
+        "Proliferation occurs only after migration",
+        "Neurogenesis does not involve cell division"
+      ],
+      "correct": 0,
+      "feedback": "Proliferative divisions increase the number of progenitors, whereas neurogenic divisions generate cells that enter a neuronal developmental program."
+    },
+    {
+      "question": "Which sequence best represents the developmental progression described in the lesson?",
+      "options": [
+        "Migration → proliferation → apoptosis → differentiation",
+        "Progenitor proliferation → cell-cycle exit → migration → differentiation → survival or programmed cell death",
+        "Differentiation → proliferation → cell-cycle entry → migration",
+        "Programmed cell death → proliferation → migration → neurogenesis"
+      ],
+      "correct": 1,
+      "feedback": "The lesson presents proliferation, cell-cycle exit, migration, differentiation, and survival or programmed cell death as a connected developmental sequence."
+    },
+    {
+      "question": "Where are early cortical progenitors located?",
+      "options": [
+        "In the cortical plate",
+        "Close to the cerebral ventricles in the ventricular zone",
+        "Only in the subplate",
+        "Outside the developing telencephalon"
+      ],
+      "correct": 1,
+      "feedback": "Early cortical progenitors are concentrated near the cerebral ventricles in the ventricular zone."
+    },
+    {
+      "question": "What are the two major developmental roles of radial glial cells emphasized in the lesson?",
+      "options": [
+        "Producing myelin and eliminating synapses",
+        "Acting as neural progenitors and providing a scaffold for neuronal migration",
+        "Forming only inhibitory neurons and guiding axons",
+        "Generating blood vessels and synaptic targets"
+      ],
+      "correct": 1,
+      "feedback": "Radial glial cells act as neural progenitors and their long processes provide a scaffold for neuronal migration."
+    },
+    {
+      "question": "What is the outcome of a symmetric proliferative division?",
+      "options": [
+        "Two neurons",
+        "One progenitor and one neuron",
+        "Two progenitor cells",
+        "One neuron and one glial cell"
+      ],
+      "correct": 2,
+      "feedback": "A symmetric proliferative division produces two progenitor cells and therefore expands the progenitor population."
+    },
+    {
+      "question": "What is a typical outcome of an asymmetric neurogenic division?",
+      "options": [
+        "Two identical progenitors",
+        "One progenitor and one neuron",
+        "Two mature astrocytes",
+        "One apoptotic cell and one progenitor"
+      ],
+      "correct": 1,
+      "feedback": "The lesson uses progenitor → progenitor + neuron as the example of an asymmetric neurogenic division."
+    },
+    {
+      "question": "Why are intermediate progenitor cells important during cortical neurogenesis?",
+      "options": [
+        "They stop all further cell division",
+        "They provide an additional amplification step for neuron production",
+        "They form only the ventricular lining",
+        "They prevent radial migration"
+      ],
+      "correct": 1,
+      "feedback": "Intermediate progenitors divide away from the ventricular surface and provide an additional amplification step in neuron production."
+    },
+    {
+      "question": "How do many excitatory cortical neurons reach their final positions?",
+      "options": [
+        "They migrate along radial glial processes",
+        "They remain permanently in the ventricular zone",
+        "They migrate only along blood vessels",
+        "They are carried by neural crest cells"
+      ],
+      "correct": 0,
+      "feedback": "Many excitatory cortical neurons migrate outward along the long processes of radial glial cells."
+    },
+    {
+      "question": "What happens to newly generated cortical neurons after leaving proliferative zones?",
+      "options": [
+        "They become postmitotic and migrate outward",
+        "They immediately return to the ventricular zone",
+        "They remain proliferative throughout migration",
+        "They become neural crest cells"
+      ],
+      "correct": 0,
+      "feedback": "The lesson describes newly generated neurons as becoming postmitotic and migrating outward toward the cortical plate."
+    },
+    {
+      "question": "What does the inside-out pattern of cortical development mean?",
+      "options": [
+        "Later-born neurons remain in deep layers while early-born neurons move superficially",
+        "Earlier-born neurons occupy deeper layers and later-born neurons migrate past them to more superficial layers",
+        "All cortical layers are generated simultaneously",
+        "Only superficial neurons migrate"
+      ],
+      "correct": 1,
+      "feedback": "In inside-out development, early-born neurons settle deeper, while later-born neurons migrate past them to progressively more superficial layers."
+    },
+    {
+      "question": "What is strongly related to the laminar identity of cortical neurons?",
+      "options": [
+        "The time of the progenitor's final mitosis",
+        "Only the final size of the neuron",
+        "The number of synapses formed in adulthood",
+        "Whether the neuron is exposed to blood flow"
+      ],
+      "correct": 0,
+      "feedback": "The lesson emphasizes that neuronal birthdate, defined by the timing of the final mitosis, is strongly related to cortical identity."
+    },
+    {
+      "question": "What question is tested by heterochronic transplantation of cortical progenitors?",
+      "options": [
+        "Whether laminar identity is determined only by the environment in which a progenitor is placed",
+        "Whether neurons can survive without oxygen",
+        "Whether radial glia are generated from neural crest cells",
+        "Whether apoptosis occurs before neurogenesis"
+      ],
+      "correct": 0,
+      "feedback": "Heterochronic transplantation tests whether progenitor fate is determined only by the new environment or also by the progenitor's developmental state."
+    },
+    {
+      "question": "What does heterochronic transplantation show about cortical progenitors?",
+      "options": [
+        "Their developmental potential remains unchanged at all ages",
+        "Their ability to adopt a new laminar fate depends on developmental age and cell-cycle state",
+        "They cannot respond to environmental information",
+        "Their fate is fixed before any cell division"
+      ],
+      "correct": 1,
+      "feedback": "The lesson states that the capacity to adopt a new laminar fate depends on developmental age and cell-cycle state."
+    },
+    {
+      "question": "How does progenitor competence change during cortical development?",
+      "options": [
+        "It becomes progressively more restricted",
+        "It becomes progressively unlimited",
+        "It is unrelated to developmental time",
+        "It disappears before neurogenesis begins"
+      ],
+      "correct": 0,
+      "feedback": "As progenitors progress through development, their possible fates become progressively restricted."
+    },
+    {
+      "question": "What does neuronal differentiation involve?",
+      "options": [
+        "Only an increase in cell number",
+        "Acquisition of morphology, transmitter phenotype, receptor expression, gene-expression patterns, and characteristic connectivity",
+        "Only migration from the ventricular zone",
+        "Only elimination of excess neurons"
+      ],
+      "correct": 1,
+      "feedback": "Differentiation is presented as the acquisition of multiple features that define a specific neuronal identity."
+    },
+    {
+      "question": "Which of the following is an intrinsic factor influencing neural cell fate?",
+      "options": [
+        "A transcription factor already expressed by the cell",
+        "A secreted molecule from a neighboring tissue",
+        "An extracellular matrix signal",
+        "A target-derived trophic factor"
+      ],
+      "correct": 0,
+      "feedback": "Transcription factors, inherited cellular components, developmental history, and competence are listed as intrinsic influences on fate."
+    },
+    {
+      "question": "Which of the following is an extrinsic factor influencing neural cell fate?",
+      "options": [
+        "Previous developmental history",
+        "Asymmetric inheritance of intracellular components",
+        "Signals from neighboring cells",
+        "The cell's existing transcription-factor profile"
+      ],
+      "correct": 2,
+      "feedback": "Signals from neighboring cells are extrinsic because they originate outside the responding cell."
+    },
+    {
+      "question": "What is the role of Delta in Notch-Delta lateral inhibition?",
+      "options": [
+        "It activates Notch in neighboring cells",
+        "It directly activates caspases",
+        "It blocks all neuronal differentiation in the Delta-expressing cell",
+        "It acts only as an intracellular transcription factor"
+      ],
+      "correct": 0,
+      "feedback": "In the lesson, stronger proneural/Delta activity in one cell activates Notch in neighboring cells."
+    },
+    {
+      "question": "What effect does Notch activation have on the neuronal program in neighboring progenitor cells?",
+      "options": [
+        "It enhances the neuronal program",
+        "It suppresses the neuronal program",
+        "It directly causes necrosis",
+        "It converts neurons into radial glia after migration"
+      ],
+      "correct": 1,
+      "feedback": "Notch signaling suppresses the neuronal program in neighboring cells during lateral inhibition."
+    },
+    {
+      "question": "What is lateral inhibition?",
+      "options": [
+        "A mechanism that amplifies small differences between neighboring cells so they acquire different fates",
+        "A process that makes all neighboring cells adopt the same fate",
+        "A type of programmed cell death",
+        "A mechanism for radial migration"
+      ],
+      "correct": 0,
+      "feedback": "Lateral inhibition amplifies small initial differences and allows initially similar neighboring cells to acquire different developmental fates."
+    },
+    {
+      "question": "What role does Numb play in the lesson's example of asymmetric fate?",
+      "options": [
+        "It can antagonize Notch signaling",
+        "It directly activates NGF receptors",
+        "It acts as a target-derived trophic factor",
+        "It forms the radial glial scaffold"
+      ],
+      "correct": 0,
+      "feedback": "Numb is presented as a regulatory molecule that can antagonize Notch signaling."
+    },
+    {
+      "question": "Why can asymmetric inheritance during cell division produce different daughter-cell fates?",
+      "options": [
+        "The daughters can inherit different amounts of fate-regulating molecules",
+        "The daughters always receive different genomes",
+        "Only one daughter remains alive",
+        "One daughter necessarily leaves the nervous system"
+      ],
+      "correct": 0,
+      "feedback": "Unequal inheritance of regulatory molecules can cause daughter cells from the same progenitor to respond differently and follow different developmental trajectories."
+    },
+    {
+      "question": "What developmental role is associated with Dlx1/Dlx2 in the lesson?",
+      "options": [
+        "Development and migration of forebrain interneurons",
+        "Formation of the ventricular lumen",
+        "Activation of the apoptotic caspase cascade",
+        "Production of target-derived trophic factors"
+      ],
+      "correct": 0,
+      "feedback": "Dlx1/Dlx2 are presented as transcription factors involved in forebrain interneuron development, with disruption strongly affecting migration toward the neocortex."
+    },
+    {
+      "question": "What does the Dlx1/Dlx2 example demonstrate more generally?",
+      "options": [
+        "Gene expression can influence cell identity, migration, and final regional organization",
+        "Migration is independent of transcription factors",
+        "Only extracellular matrix determines neuronal identity",
+        "All interneurons are generated in the cortical plate"
+      ],
+      "correct": 0,
+      "feedback": "The lesson uses Dlx1/Dlx2 to show that intrinsic gene-expression programs can affect identity, migration, and regional organization."
+    },
+    {
+      "question": "Why can migration influence the fate of a developing neural cell?",
+      "options": [
+        "Migrating cells encounter new extracellular environments and signals",
+        "Migration removes all receptors from the cell",
+        "Migrating cells stop responding to neighboring tissues",
+        "Migration fixes cell fate before any environmental interaction"
+      ],
+      "correct": 0,
+      "feedback": "As cells migrate, they encounter different signaling molecules, neighboring cells, extracellular matrix components, and target tissues that can provide new developmental instructions."
+    },
+    {
+      "question": "Why are neural crest cells used as an example of environmental control of fate?",
+      "options": [
+        "They are multipotent progenitors whose fate depends strongly on signals encountered during migration",
+        "They generate only one neuronal subtype",
+        "They never migrate",
+        "Their fate is independent of extracellular signals"
+      ],
+      "correct": 0,
+      "feedback": "Neural crest cells are multipotent and can generate diverse derivatives depending strongly on the signals they encounter during migration."
+    },
+    {
+      "question": "Which combination best captures the lesson's model of cell fate?",
+      "options": [
+        "Intrinsic state + extracellular signals + developmental time + competence",
+        "Cell size + blood flow + synapse number + age",
+        "Migration + apoptosis only",
+        "Gene expression alone"
+      ],
+      "correct": 0,
+      "feedback": "The lesson summarizes cell fate as an interaction among intrinsic state, extracellular signals, developmental time, and competence."
+    },
+    {
+      "question": "Why can the same extracellular signal produce different outcomes in different cells?",
+      "options": [
+        "Cells can differ in developmental history, receptors, and gene-regulatory programs",
+        "Extracellular signals are always random",
+        "All cells interpret the same signal identically",
+        "Only cell size determines the response"
+      ],
+      "correct": 0,
+      "feedback": "The lesson explains that different histories, receptor expression, and gene-regulatory programs change how a cell interprets the same signal."
+    },
+    {
+      "question": "What is a central feature of neuronal survival during development?",
+      "options": [
+        "Every neuron generated by neurogenesis is retained",
+        "Many neuronal populations initially produce more neurons than will ultimately survive",
+        "Neuronal survival is determined before neurogenesis",
+        "Only glial cells undergo developmental selection"
+      ],
+      "correct": 1,
+      "feedback": "The lesson emphasizes that many developing neuronal populations are initially overproduced and then undergo selective survival."
+    },
+    {
+      "question": "How is programmed cell death presented in the lesson?",
+      "options": [
+        "As a normal component of nervous system development",
+        "As evidence that development has failed",
+        "As a process restricted to disease",
+        "As identical to necrosis"
+      ],
+      "correct": 0,
+      "feedback": "Programmed cell death is described as a normal and active component of nervous system development."
+    },
+    {
+      "question": "Which of the following is classified as a regressive developmental process?",
+      "options": [
+        "Progenitor expansion",
+        "Neurogenesis",
+        "Programmed neuronal death",
+        "Neuronal growth"
+      ],
+      "correct": 2,
+      "feedback": "Programmed neuronal death is listed among regressive processes, whereas progenitor expansion, neurogenesis, and growth are constructive processes."
+    },
+    {
+      "question": "Which feature is characteristic of apoptosis?",
+      "options": [
+        "Cell shrinkage and chromatin condensation",
+        "Cell swelling and membrane rupture",
+        "Release of intracellular contents with strong inflammation",
+        "Uncontrolled tissue injury"
+      ],
+      "correct": 0,
+      "feedback": "Apoptosis is characterized by cell shrinkage, chromatin condensation, fragmentation into apoptotic bodies, and little inflammatory response."
+    },
+    {
+      "question": "Which feature is characteristic of necrosis?",
+      "options": [
+        "Cell swelling and membrane disruption",
+        "Formation of apoptotic bodies with little inflammation",
+        "A tightly regulated developmental program",
+        "Selective survival after target competition"
+      ],
+      "correct": 0,
+      "feedback": "Necrosis is described as involving cell swelling, membrane disruption, release of intracellular contents, and inflammation."
+    },
+    {
+      "question": "What role is attributed to BCL-2 family proteins in the apoptosis slide?",
+      "options": [
+        "Some members promote cell survival",
+        "They are all caspases",
+        "They are extracellular target-derived factors",
+        "They generate radial glial cells"
+      ],
+      "correct": 0,
+      "feedback": "BCL-2 family proteins are presented as important regulators, with some members promoting survival."
+    },
+    {
+      "question": "What role is attributed to BAX and related proteins?",
+      "options": [
+        "They promote apoptosis",
+        "They inhibit all cell death",
+        "They provide a scaffold for migration",
+        "They act as neurotrophic targets"
+      ],
+      "correct": 0,
+      "feedback": "BAX and related proteins are presented as pro-apoptotic regulators."
+    },
+    {
+      "question": "What is the role of caspases in programmed cell death?",
+      "options": [
+        "They execute the cell-death program",
+        "They expand the progenitor pool",
+        "They guide radial migration",
+        "They determine cortical layer birthdate"
+      ],
+      "correct": 0,
+      "feedback": "The lesson identifies caspases as executors of the apoptotic cell-death program."
+    },
+    {
+      "question": "Why can programmed neuronal death be useful during development?",
+      "options": [
+        "It can match interconnected populations and remove inappropriate or transient cells",
+        "It prevents any refinement of neural structures",
+        "It ensures every generated neuron survives",
+        "It replaces neurogenesis"
+      ],
+      "correct": 0,
+      "feedback": "Programmed cell death can match population sizes, remove inappropriate identities or connections, eliminate transient cells, and refine developing structures."
+    },
+    {
+      "question": "What happens to developing neurons that successfully interact with appropriate target tissues?",
+      "options": [
+        "They receive survival signals",
+        "They necessarily undergo necrosis",
+        "They return to the ventricular zone",
+        "They lose their differentiated identity"
+      ],
+      "correct": 0,
+      "feedback": "The lesson states that successful interaction with appropriate targets provides survival signals to developing neurons."
+    },
+    {
+      "question": "What did the experiments of Viktor Hamburger and Rita Levi-Montalcini demonstrate?",
+      "options": [
+        "Peripheral target tissues influence the survival of developing neurons",
+        "Cortical layers form from superficial to deep",
+        "Notch directly activates neuronal differentiation",
+        "Neural crest cells never change fate"
+      ],
+      "correct": 0,
+      "feedback": "Their chick-embryo experiments showed that manipulating peripheral target tissue changes the number of developing neurons that survive."
+    },
+    {
+      "question": "What is the effect of removing developing target tissue in the Hamburger-Levi-Montalcini paradigm?",
+      "options": [
+        "Increased neuronal loss",
+        "Increased neuronal survival",
+        "No change in neuronal survival",
+        "Conversion of motor neurons into progenitors"
+      ],
+      "correct": 0,
+      "feedback": "Removing target tissue increases neuronal loss because fewer target-derived survival resources are available."
+    },
+    {
+      "question": "What is the effect of adding extra target tissue in the target-manipulation experiment?",
+      "options": [
+        "Increased neuronal survival",
+        "Complete elimination of the neuronal population",
+        "Suppression of neurogenesis",
+        "Loss of all radial glial cells"
+      ],
+      "correct": 0,
+      "feedback": "Adding extra target tissue increases neuronal survival by increasing the available target support."
+    },
+    {
+      "question": "What does the classical neurotrophic hypothesis propose?",
+      "options": [
+        "Developing neurons compete for a limited amount of target-derived survival factors",
+        "Every neuron receives unlimited trophic support",
+        "Target tissues determine only neuronal migration, not survival",
+        "Apoptosis is independent of extracellular signals"
+      ],
+      "correct": 0,
+      "feedback": "The classical neurotrophic hypothesis proposes competition among developing neurons for limited target-derived survival factors."
+    },
+    {
+      "question": "According to the neurotrophic hypothesis, which neurons are most likely to survive?",
+      "options": [
+        "Those that obtain sufficient trophic support from their targets",
+        "Those that never contact a target",
+        "Those that remain permanently proliferative",
+        "Those that activate the apoptotic program first"
+      ],
+      "correct": 0,
+      "feedback": "Neurons obtaining sufficient target-derived trophic support survive, whereas those receiving insufficient support undergo apoptosis."
+    },
+    {
+      "question": "What is the role of NGF emphasized in the lesson?",
+      "options": [
+        "It supports the development and survival of particular peripheral sensory and sympathetic neuronal populations",
+        "It is a universal survival factor for every neuron",
+        "It is an intracellular caspase",
+        "It determines the inside-out sequence of cortical layers"
+      ],
+      "correct": 0,
+      "feedback": "NGF is described as essential for particular peripheral sensory and sympathetic neuronal populations, but not as a universal survival factor."
+    },
+    {
+      "question": "What does the lesson emphasize about neurotrophic factors beyond NGF?",
+      "options": [
+        "Different neuronal populations can depend on different neurotrophic factors",
+        "All neurons depend exclusively on NGF",
+        "Neurotrophic factors act only during migration",
+        "Neurotrophic factors are produced only by progenitor cells"
+      ],
+      "correct": 0,
+      "feedback": "The lesson emphasizes that different neuronal populations depend on different members of the broader neurotrophic-factor family."
+    },
+    {
+      "question": "How does reducing target size affect neurotrophic competition?",
+      "options": [
+        "It reduces trophic support, increases competition, and increases neuronal death",
+        "It increases trophic support and reduces neuronal death",
+        "It eliminates competition without affecting survival",
+        "It causes all neurons to become progenitors"
+      ],
+      "correct": 0,
+      "feedback": "A smaller target provides less trophic support, creating stronger competition and more neuronal death."
+    },
+    {
+      "question": "How does enlarging the target affect neuronal survival in the lesson's model?",
+      "options": [
+        "More trophic support weakens competition and increases survival",
+        "More trophic support strengthens competition and increases death",
+        "Target size has no relation to survival",
+        "A larger target prevents neuronal differentiation"
+      ],
+      "correct": 0,
+      "feedback": "A larger or additional target provides more trophic support, reducing competition and allowing more neurons to survive."
+    },
+    {
+      "question": "How do target-derived trophic factors influence the intrinsic apoptotic machinery?",
+      "options": [
+        "They activate intracellular pathways that can inhibit or permit the cell-death program",
+        "They act only as nutrients and do not affect signaling",
+        "They always activate apoptosis",
+        "They influence only progenitor proliferation"
+      ],
+      "correct": 0,
+      "feedback": "The lesson emphasizes that trophic factors activate receptors and intracellular pathways that regulate the balance between survival and apoptosis."
+    },
+    {
+      "question": "Which statement best summarizes the overall developmental principle of the lesson?",
+      "options": [
+        "The mature nervous system emerges through generation, selection, and refinement",
+        "Development consists only of producing as many neurons as possible",
+        "Cell elimination is always pathological",
+        "Once neurons are generated, their identity and survival are fixed"
+      ],
+      "correct": 0,
+      "feedback": "The lesson concludes that the mature nervous system is produced through repeated cycles of generation, selection, and refinement."
+    }
+  ]
+}
