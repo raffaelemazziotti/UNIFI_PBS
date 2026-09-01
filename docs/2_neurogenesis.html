@@ -6,8 +6,8 @@
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.33">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.18">
 
   <meta name="author" content="Raffaele M Mazziotti, PhD">
   <title>Neurogenesis, differentiation and neuronal survival</title>
@@ -17,10 +17,16 @@
   <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
   <style>
-    code{white-space: pre-wrap;}
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -29,7 +35,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-2740581606dc327e82f18f789b69d8a0.css">
   <link rel="stylesheet" href="slide_style.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -136,7 +142,7 @@
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Raffaele M Mazziotti, PhD 
+Raffaele M Mazziotti, PhD
 </div>
         <p class="quarto-title-affiliation">
             Scuola di Psicologia, University of Florence
@@ -578,22 +584,19 @@ Raffaele M Mazziotti, PhD
 <p>Newly generated neurons must also pass through a period of <u>selective survival</u>.</p>
 </div>
 </div><div class="column">
-<div class="card image-needed">
-<p><u>Image:</u> neuronal overproduction followed by developmental cell death</p>
-<p>Suggested file: <code>images/2_ns_neuronal_survival.png</code></p>
-</div>
+<p><img data-src="images/2_ndm_pcd.png" style="width:80.0%"></p>
 </div></div>
 </section>
 <section id="development-includes-programmed-cell-death" class="slide level2 center">
 <h2>Development includes programmed cell death</h2>
 <div class="info-box">
 <p><code>Programmed cell death</code> is a normal component of nervous system development.</p>
-<p>It is not simply the consequence of developmental failure.</p>
+<p>It is not the consequence of developmental failure.</p>
 </div>
 <div class="columns">
 <div class="column">
 <div class="card">
-<p><code>Constructive processes</code></p>
+<p><code>Constructive</code> processes</p>
 <ul>
 <li>proliferation</li>
 <li>neurogenesis</li>
@@ -604,7 +607,7 @@ Raffaele M Mazziotti, PhD
 </div>
 </div><div class="column">
 <div class="card">
-<p><code>Regressive processes</code></p>
+<p><code>Regressive</code> processes</p>
 <ul>
 <li>programmed cell death</li>
 <li>elimination of transient cells</li>
@@ -646,9 +649,11 @@ Raffaele M Mazziotti, PhD
 </ul>
 </div>
 </div></div>
-<div class="card image-needed">
-<p><u>Image:</u> comparison between apoptosis and necrosis</p>
-<p>Suggested file: <code>images/2_ns_apoptosis_necrosis.png</code></p>
+</section>
+<section id="apoptosis-is-not-necrosis2" class="slide level2 center">
+<h2>Apoptosis is not necrosis2</h2>
+<div class="centerimg">
+<p><img data-src="images/2_ndm_pcd_apoptosis.png" style="width:100.0%"></p>
 </div>
 </section>
 <section id="apoptosis-is-an-active-molecular-program" class="slide level2 center">
@@ -667,13 +672,10 @@ Raffaele M Mazziotti, PhD
 </ul>
 </div>
 <div class="card">
-<p>Cell survival therefore depends on the balance between <u>pro-survival</u> and <u>pro-apoptotic</u> signals.</p>
+<p>Cell survival therefore depends on the <u>balance</u> between <u>pro-survival</u> and <u>pro-apoptotic</u> signals.</p>
 </div>
 </div><div class="column">
-<div class="card image-needed">
-<p><u>Image:</u> BCL-2, BAX and caspase apoptotic pathway</p>
-<p>Suggested file: <code>images/2_ns_apoptosis_pathway.png</code></p>
-</div>
+<p><img data-src="images/2_ndm_pcd_caspase.png" style="width:100.0%" title="In vertebrates, the apoptotic pathway is normally kept under control by anti-apoptotic Bcl-2 family proteins such as Bcl-2 and Bcl-XL, which prevent activation of the Apaf-1/caspase pathway. Pro-apoptotic proteins such as Bax, Bak, Bik and Bad inhibit or overcome this protective action, allowing Apaf-1 to activate caspases and trigger programmed cell death."></p>
 </div></div>
 </section>
 <section id="why-eliminate-neurons-during-development" class="slide level2 center">
@@ -686,24 +688,13 @@ Raffaele M Mazziotti, PhD
 <div class="card">
 <p>It can help:</p>
 <ul>
-<li>match the size of interconnected neuronal populations</li>
-<li>remove cells with inappropriate identities or connections</li>
-<li>eliminate cells that served only a transient developmental function</li>
-<li>refine developing structures</li>
+<li><u>match the size</u> of interconnected neuronal populations</li>
+<li>remove cells with <u>inappropriate</u> identities or connections</li>
+<li>eliminate cells that served only a <u>transient</u> developmental function</li>
+<li><u>refine</u> developing structures</li>
 </ul>
 </div>
 </div><div class="column">
-<div class="card image-needed">
-<p><u>Image:</u> programmed cell death occurring at different stages of neural development</p>
-<p>Suggested file: <code>images/2_ns_pcd_stages.png</code></p>
-</div>
-</div></div>
-<blockquote>
-<p>Cell death is not the opposite of development. In many systems, <u>cell death is part of the developmental program</u>.</p>
-</blockquote>
-</section>
-<section id="target-tissues-regulate-neuronal-survival" class="slide level2 center">
-<h2>Target tissues regulate neuronal survival</h2>
 <div class="info-box">
 <p>One of the most important principles of developmental neuronal survival is that neurons interact with the <u>tissues they innervate</u>.</p>
 </div>
@@ -712,9 +703,7 @@ Raffaele M Mazziotti, PhD
 <p>Neurons that successfully interact with appropriate targets receive <u>survival signals</u>.</p>
 <p>Neurons that do not receive sufficient support activate the apoptotic program.</p>
 </div>
-<div class="card">
-<p>This mechanism helps match the <u>number of neurons</u> to the <u>size and requirements of the target tissue</u>.</p>
-</div>
+</div></div>
 </section>
 <section id="hamburger-and-levi-montalcini" class="slide level2 center">
 <h2>Hamburger and Levi-Montalcini</h2>
@@ -731,10 +720,7 @@ Raffaele M Mazziotti, PhD
 </ul>
 </div>
 </div><div class="column" style="width:50%;">
-<div class="card image-needed">
-<p><u>Image:</u> Hamburger and Levi-Montalcini chick limb-bud experiment</p>
-<p>Suggested file: <code>images/2_ns_hamburger_levi_montalcini.png</code></p>
-</div>
+<p><img data-src="images/2_ndm_pcd_montalcini.png" style="width:70.0%" title="Target tissue controls developmental neuronal survival. Removing a developing limb bud reduces the peripheral target available to spinal motor neurons, so only a small fraction of those neurons survive. In contrast, transplanting an additional limb bud provides extra target tissue and increases motor-neuron survival. The experiment shows that developing neurons compete for limited target-derived survival signals, helping match the size of the neuronal population to the size of its target."></p>
 </div></div>
 </section>
 <section id="the-target-manipulation-experiment" class="slide level2 center">
@@ -760,12 +746,14 @@ Raffaele M Mazziotti, PhD
 <div class="exp-section-title">
 <p>Interpretation</p>
 </div>
-<p>Targets provide a limited resource required for neuronal survival.</p>
+<p>Targets provide a <u>limited resource</u> required for neuronal survival.</p>
 </div>
 </div>
-<div class="card image-needed">
-<p><u>Image:</u> limb removal and extra-limb transplantation with surviving motor neurons</p>
-<p>Suggested file: <code>images/2_ns_target_manipulation.png</code></p>
+</section>
+<section id="the-target-manipulation-experiment-2" class="slide level2 center">
+<h2>The target-manipulation experiment 2</h2>
+<div class="centerimg">
+<p><img data-src="images/2_ndm_pcd_montalcini_exp.png" style="width:70.0%" title="Developmental neuronal survival is influenced by both afferent inputs and synaptic targets. Under normal conditions about half of the neurons undergo developmental cell death. Ablation of afferent input increases neuronal death, whereas increasing afferent input promotes survival. Manipulating the postsynaptic target has an even stronger effect: target removal causes almost complete neuronal loss, partial removal produces an intermediate effect, and target enlargement increases survival. Neuronal survival therefore depends on signals received from both incoming connections and target tissues."></p>
 </div>
 </section>
 <section id="the-neurotrophic-hypothesis" class="slide level2 center">
@@ -779,16 +767,15 @@ Raffaele M Mazziotti, PhD
 <p>The logic is:</p>
 <ol type="1">
 <li>many neurons project toward a target</li>
-<li>the target produces limited trophic support</li>
-<li>neurons compete for access to this support</li>
-<li>neurons obtaining sufficient support survive</li>
-<li>neurons receiving insufficient support undergo apoptosis</li>
+<li>the target produces <u>limited trophic support</u></li>
+<li><u>neurons compete</u> for access to this support</li>
+<li>neurons obtaining sufficient support <u>survive</u></li>
+<li>neurons receiving insufficient support undergo <u>apoptosis</u></li>
 </ol>
 </div>
 </div><div class="column">
-<div class="card image-needed">
-<p><u>Image:</u> classical neurotrophic hypothesis</p>
-<p>Suggested file: <code>images/2_ns_neurotrophic_hypothesis.png</code></p>
+<div class="centerimg">
+<p><img data-src="images/2_ndm_pcd_neurotrophic.png"></p>
 </div>
 </div></div>
 </section>
@@ -797,19 +784,49 @@ Raffaele M Mazziotti, PhD
 <div class="columns">
 <div class="column">
 <div class="info-box">
-<p><code>NGF</code> — Nerve Growth Factor — provided a molecular mechanism for the idea that target tissues can support neuronal survival.</p>
+<p><code>NGF</code> (Nerve Growth Factor) provided a molecular mechanism for the idea that target tissues can support neuronal survival.</p>
 </div>
 <div class="card">
 <p>NGF is essential for the development and survival of particular populations of peripheral sensory and sympathetic neurons.</p>
 <p>It is <u>not a universal survival factor for every neuron</u>.</p>
 </div>
 <div class="card">
-<p>Different neuronal populations depend on different members of the broader family of <code>neurotrophic factors</code>.</p>
+<p>Different neuronal populations depend on different members of the broader family of <a href="https://en.wikipedia.org/wiki/Neurotrophic_factors" target="_blank">neurotrophic factors</a>.</p>
 </div>
 </div><div class="column">
-<div class="card image-needed">
-<p><u>Image:</u> NGF and other neurotrophic factors supporting distinct neuronal populations</p>
-<p>Suggested file: <code>images/2_ns_ngf_neurotrophins.png</code></p>
+<div class="centerimg">
+<p><img data-src="images/2_ndm_pcd_neurotrophic2.png"></p>
+</div>
+</div></div>
+</section>
+<section id="neurotrophic-factors" class="slide level2 center">
+<h2>Neurotrophic factors</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Neurotrophic factors</code> are extracellular signals that promote the survival, growth and differentiation of specific neuronal populations.</p>
+</div>
+<div class="card">
+<p><code>NGF</code>: Nerve Growth Factor</p>
+<p>NGF is especially important for the survival and development of particular populations of <u>peripheral</u> sensory and sympathetic neurons.</p>
+</div>
+<div class="centerimg">
+<p><img data-src="images/2_ndm_pcd_trk_receptors.png" title="Neurotrophins bind preferentially to specific Trk receptors: NGF mainly activates TrkA, BDNF and NT4/5 mainly activate TrkB, and NT3 mainly activates TrkC. Neurotrophins can also interact with the p75NTR receptor. The biological effect therefore depends on both the neurotrophin that is available and the receptors expressed by the neuron."></p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>BDNF</code>: Brain-Derived Neurotrophic Factor</p>
+<p>BDNF supports the survival and differentiation of several neuronal populations in both the peripheral and central nervous system.</p>
+<p>It also has important roles later in development in:</p>
+<ul>
+<li>dendritic and axonal growth</li>
+<li>synapse formation</li>
+<li>synaptic plasticity</li>
+</ul>
+</div>
+<div class="card">
+<p>Different neurons depend on different neurotrophic signals.</p>
+<p><code>NGF</code>, <code>BDNF</code>, <code>NT-3</code>, and <code>NT-4</code> belong to the <code>neurotrophin</code> family and act through specific <a href="https://en.wikipedia.org/wiki/Trk_receptor" target="_blank">Trk receptors</a>.</p>
 </div>
 </div></div>
 </section>
@@ -939,7 +956,6 @@ Raffaele M Mazziotti, PhD
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
 'jumpToSlide': true,
-'scrollActivationWidth': 0,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":false},
 'smaller': false,
@@ -1095,7 +1111,7 @@ Raffaele M Mazziotti, PhD
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -1122,78 +1138,151 @@ Raffaele M Mazziotti, PhD
       });
     </script>
     <script>
+
     (function () {
+
       function injectHomeLink() {
+
         const link = document.createElement("a");
+
         link.href = "index.html";
+
         link.className = "home-link";
+
         link.setAttribute("aria-label", "Back to Index");
+
         link.title = "Back to Index";
 
+    
+
         // Positioning
+
         link.style.position = "absolute";
+
         link.style.bottom = "20px";
+
         link.style.left = "50%";
+
         link.style.transform = "translateX(-50%)";
+
         link.style.width = "34px";
+
         link.style.height = "34px";
+
         link.style.zIndex = "1000";
+
         link.style.display = "none";
+
         link.style.opacity = "0.75";
+
         link.style.cursor = "pointer";
 
+    
+
         // Home icon image
+
         const img = document.createElement("img");
+
         img.src = "./images/home.svg";
+
         img.alt = "Home";
+
         img.width = 34;
+
         img.height = 34;
+
         img.style.width = "34px";
+
         img.style.height = "34px";
+
         img.style.display = "block";
 
+    
+
         link.appendChild(img);
+
         document.body.appendChild(link);
 
+    
+
         // Hover feedback
+
         link.addEventListener("mouseenter", () => {
+
           link.style.opacity = "1";
+
           link.style.transform = "translateX(-50%) scale(2)";
+
         });
+
+    
 
         link.addEventListener("mouseleave", () => {
+
           link.style.opacity = "0.75";
+
           link.style.transform = "translateX(-50%) scale(1)";
+
         });
+
+    
 
         // Show only on title slide
+
         function updateVisibility() {
+
           const currentSlide = Reveal.getCurrentSlide();
+
           const isTitleSlide = currentSlide &&
+
             (currentSlide.id === "title-slide" ||
+
               currentSlide.classList.contains("title-slide"));
 
+    
+
           if (isTitleSlide) {
+
             link.style.display = "block";
+
           } else {
+
             link.style.display = "none";
+
           }
+
         }
 
+    
+
         updateVisibility();
+
         Reveal.on("slidechanged", updateVisibility);
+
         Reveal.on("ready", updateVisibility);
+
       }
 
+    
+
       if (window.Reveal && Reveal.isReady()) {
+
         injectHomeLink();
+
       } else {
+
         document.addEventListener("DOMContentLoaded", function () {
+
           Reveal.on("ready", injectHomeLink);
+
         });
+
       }
+
     })();
+
     </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
@@ -1242,13 +1331,14 @@ Raffaele M Mazziotti, PhD
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy

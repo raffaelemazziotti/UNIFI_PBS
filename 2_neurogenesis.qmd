@@ -616,11 +616,7 @@ Newly generated neurons must also pass through a period of <u>selective survival
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> neuronal overproduction followed by developmental cell death
-
-Suggested file: `images/2_ns_neuronal_survival.png`
-:::
+![](images/2_ndm_pcd.png){width="80%" }
 
 :::
 :::
@@ -630,14 +626,14 @@ Suggested file: `images/2_ns_neuronal_survival.png`
 ::: {.info-box}
 `Programmed cell death` is a normal component of nervous system development.
 
-It is not simply the consequence of developmental failure.
+It is not the consequence of developmental failure.
 :::
 
 ::: {.columns}
 ::: {.column}
 
 ::: {.card}
-`Constructive processes`
+`Constructive` processes
 
 - proliferation
 - neurogenesis
@@ -650,7 +646,7 @@ It is not simply the consequence of developmental failure.
 ::: {.column}
 
 ::: {.card}
-`Regressive processes`
+`Regressive` processes
 
 - programmed cell death
 - elimination of transient cells
@@ -703,10 +699,10 @@ Typical features include:
 :::
 :::
 
-::: {.card .image-needed}
-<u>Image:</u> comparison between apoptosis and necrosis
+## Apoptosis is not necrosis2
 
-Suggested file: `images/2_ns_apoptosis_necrosis.png`
+:::{.centerimg}
+![](images/2_ndm_pcd_apoptosis.png){width="100%" }
 :::
 
 ## Apoptosis is an active molecular program
@@ -727,17 +723,14 @@ Examples of important regulators include:
 :::
 
 ::: {.card}
-Cell survival therefore depends on the balance between <u>pro-survival</u> and <u>pro-apoptotic</u> signals.
+Cell survival therefore depends on the <u>balance</u> between <u>pro-survival</u> and <u>pro-apoptotic</u> signals.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> BCL-2, BAX and caspase apoptotic pathway
-
-Suggested file: `images/2_ns_apoptosis_pathway.png`
-:::
+![](images/2_ndm_pcd_caspase.png){width="100%" 
+title="In vertebrates, the apoptotic pathway is normally kept under control by anti-apoptotic Bcl-2 family proteins such as Bcl-2 and Bcl-XL, which prevent activation of the Apaf-1/caspase pathway. Pro-apoptotic proteins such as Bax, Bak, Bik and Bad inhibit or overcome this protective action, allowing Apaf-1 to activate caspases and trigger programmed cell death."}
 
 :::
 :::
@@ -754,27 +747,14 @@ Programmed cell death can contribute to several developmental functions.
 ::: {.card}
 It can help:
 
-- match the size of interconnected neuronal populations
-- remove cells with inappropriate identities or connections
-- eliminate cells that served only a transient developmental function
-- refine developing structures
+- <u>match the size</u> of interconnected neuronal populations
+- remove cells with <u>inappropriate</u> identities or connections
+- eliminate cells that served only a <u>transient</u> developmental function
+- <u>refine</u> developing structures
 :::
 
 :::
 ::: {.column}
-
-::: {.card .image-needed}
-<u>Image:</u> programmed cell death occurring at different stages of neural development
-
-Suggested file: `images/2_ns_pcd_stages.png`
-:::
-
-:::
-:::
-
->Cell death is not the opposite of development. In many systems, <u>cell death is part of the developmental program</u>.
-
-## Target tissues regulate neuronal survival
 
 ::: {.info-box}
 One of the most important principles of developmental neuronal survival is that neurons interact with the <u>tissues they innervate</u>.
@@ -788,8 +768,8 @@ Neurons that successfully interact with appropriate targets receive <u>survival 
 Neurons that do not receive sufficient support activate the apoptotic program.
 :::
 
-::: {.card}
-This mechanism helps match the <u>number of neurons</u> to the <u>size and requirements of the target tissue</u>.
+
+:::
 :::
 
 ## Hamburger and Levi-Montalcini
@@ -811,11 +791,9 @@ Manipulating the developing limb changed the number of spinal motor neurons that
 :::
 ::: {.column width="50%"}
 
-::: {.card .image-needed}
-<u>Image:</u> Hamburger and Levi-Montalcini chick limb-bud experiment
-
-Suggested file: `images/2_ns_hamburger_levi_montalcini.png`
-:::
+![](images/2_ndm_pcd_montalcini.png){width="70%" 
+  title="Target tissue controls developmental neuronal survival. Removing a developing limb bud reduces the peripheral target available to spinal motor neurons, so only a small fraction of those neurons survive. In contrast, transplanting an additional limb bud provides extra target tissue and increases motor-neuron survival. The experiment shows that developing neurons compete for limited target-derived survival signals, helping match the size of the neuronal population to the size of its target."
+}
 
 :::
 :::
@@ -847,14 +825,15 @@ More target tissue → <u>more neuronal survival</u>
 ::: {.exp-section-title}
 Interpretation
 :::
-Targets provide a limited resource required for neuronal survival.
+Targets provide a <u>limited resource</u> required for neuronal survival.
 :::
 :::
 
-::: {.card .image-needed}
-<u>Image:</u> limb removal and extra-limb transplantation with surviving motor neurons
+## The target-manipulation experiment 2
 
-Suggested file: `images/2_ns_target_manipulation.png`
+:::{.centerimg}
+![](images/2_ndm_pcd_montalcini_exp.png){width="70%" 
+  title="Developmental neuronal survival is influenced by both afferent inputs and synaptic targets. Under normal conditions about half of the neurons undergo developmental cell death. Ablation of afferent input increases neuronal death, whereas increasing afferent input promotes survival. Manipulating the postsynaptic target has an even stronger effect: target removal causes almost complete neuronal loss, partial removal produces an intermediate effect, and target enlargement increases survival. Neuronal survival therefore depends on signals received from both incoming connections and target tissues."}
 :::
 
 ## The neurotrophic hypothesis
@@ -870,19 +849,17 @@ The `classical neurotrophic hypothesis` proposes that developing neurons compete
 The logic is:
 
 1. many neurons project toward a target
-2. the target produces limited trophic support
-3. neurons compete for access to this support
-4. neurons obtaining sufficient support survive
-5. neurons receiving insufficient support undergo apoptosis
+2. the target produces <u>limited trophic support</u>
+3. <u>neurons compete</u> for access to this support
+4. neurons obtaining sufficient support <u>survive</u>
+5. neurons receiving insufficient support undergo <u>apoptosis</u>
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> classical neurotrophic hypothesis
-
-Suggested file: `images/2_ns_neurotrophic_hypothesis.png`
+:::{.centerimg}
+![](images/2_ndm_pcd_neurotrophic.png)
 :::
 
 :::
@@ -894,7 +871,7 @@ Suggested file: `images/2_ns_neurotrophic_hypothesis.png`
 ::: {.column}
 
 ::: {.info-box}
-`NGF` — Nerve Growth Factor — provided a molecular mechanism for the idea that target tissues can support neuronal survival.
+`NGF` (Nerve Growth Factor) provided a molecular mechanism for the idea that target tissues can support neuronal survival.
 :::
 
 ::: {.card}
@@ -904,20 +881,66 @@ It is <u>not a universal survival factor for every neuron</u>.
 :::
 
 ::: {.card}
-Different neuronal populations depend on different members of the broader family of `neurotrophic factors`.
+Different neuronal populations depend on different members of the broader family of [neurotrophic factors](https://en.wikipedia.org/wiki/Neurotrophic_factors){target="_blank"}.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> NGF and other neurotrophic factors supporting distinct neuronal populations
-
-Suggested file: `images/2_ns_ngf_neurotrophins.png`
+:::{.centerimg}
+![](images/2_ndm_pcd_neurotrophic2.png)
 :::
 
+
 :::
 :::
+
+## Neurotrophic factors
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+`Neurotrophic factors` are extracellular signals that promote the survival, growth and differentiation of specific neuronal populations.
+:::
+
+::: {.card}
+`NGF`: Nerve Growth Factor
+
+NGF is especially important for the survival and development of particular populations of <u>peripheral</u> sensory and sympathetic neurons.
+:::
+
+:::{.centerimg}
+![](images/2_ndm_pcd_trk_receptors.png){
+title="Neurotrophins bind preferentially to specific Trk receptors: NGF mainly activates TrkA, BDNF and NT4/5 mainly activate TrkB, and NT3 mainly activates TrkC. Neurotrophins can also interact with the p75NTR receptor. The biological effect therefore depends on both the neurotrophin that is available and the receptors expressed by the neuron."
+}
+:::
+
+:::
+::: {.column}
+
+::: {.card}
+`BDNF`: Brain-Derived Neurotrophic Factor
+
+BDNF supports the survival and differentiation of several neuronal populations in both the peripheral and central nervous system.
+
+It also has important roles later in development in:
+
+- dendritic and axonal growth
+- synapse formation
+- synaptic plasticity
+:::
+
+::: {.card}
+Different neurons depend on different neurotrophic signals.
+
+`NGF`, `BDNF`, `NT-3`, and `NT-4` belong to the `neurotrophin` family and act through specific [Trk receptors](https://en.wikipedia.org/wiki/Trk_receptor){target="_blank"}.
+:::
+
+:::
+:::
+
+
 
 ## Competition matches neurons to their targets
 

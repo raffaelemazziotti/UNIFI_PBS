@@ -690,70 +690,70 @@
     "href": "2_neurogenesis.html#neuronal-survival",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Neuronal survival",
-    "text": "Neuronal survival\n\n\n\nNeurogenesis produces more neurons than will ultimately be retained in many developing neuronal populations.\n\n\nBecoming a neuron therefore does not guarantee becoming part of the mature nervous system.\nNewly generated neurons must also pass through a period of selective survival.\n\n\n\nImage: neuronal overproduction followed by developmental cell death\nSuggested file: images/2_ns_neuronal_survival.png"
+    "text": "Neuronal survival\n\n\n\nNeurogenesis produces more neurons than will ultimately be retained in many developing neuronal populations.\n\n\nBecoming a neuron therefore does not guarantee becoming part of the mature nervous system.\nNewly generated neurons must also pass through a period of selective survival."
   },
   {
     "objectID": "2_neurogenesis.html#development-includes-programmed-cell-death",
     "href": "2_neurogenesis.html#development-includes-programmed-cell-death",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Development includes programmed cell death",
-    "text": "Development includes programmed cell death\n\nProgrammed cell death is a normal component of nervous system development.\nIt is not simply the consequence of developmental failure.\n\n\n\n\nConstructive processes\n\nproliferation\nneurogenesis\nmigration\ndifferentiation\ngrowth\n\n\n\n\nRegressive processes\n\nprogrammed cell death\nelimination of transient cells\nelimination of inappropriate projections\nlater elimination of synapses and branches\n\n\n\n\nThe mature nervous system emerges through a balance between production and selective elimination."
+    "text": "Development includes programmed cell death\n\nProgrammed cell death is a normal component of nervous system development.\nIt is not the consequence of developmental failure.\n\n\n\n\nConstructive processes\n\nproliferation\nneurogenesis\nmigration\ndifferentiation\ngrowth\n\n\n\n\nRegressive processes\n\nprogrammed cell death\nelimination of transient cells\nelimination of inappropriate projections\nlater elimination of synapses and branches\n\n\n\n\nThe mature nervous system emerges through a balance between production and selective elimination."
   },
   {
     "objectID": "2_neurogenesis.html#apoptosis-is-not-necrosis",
     "href": "2_neurogenesis.html#apoptosis-is-not-necrosis",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Apoptosis is not necrosis",
-    "text": "Apoptosis is not necrosis\n\n\n\nApoptosis\nA regulated form of cell death.\nTypical features include:\n\ncell shrinkage\nchromatin condensation\nfragmentation into apoptotic bodies\nremoval by phagocytic cells\nlittle inflammatory response\n\n\n\n\nNecrosis\nUsually follows severe cellular injury.\nTypical features include:\n\ncell swelling\nmembrane disruption\nrelease of intracellular contents\ninflammatory response\n\n\n\n\nImage: comparison between apoptosis and necrosis\nSuggested file: images/2_ns_apoptosis_necrosis.png"
+    "text": "Apoptosis is not necrosis\n\n\n\nApoptosis\nA regulated form of cell death.\nTypical features include:\n\ncell shrinkage\nchromatin condensation\nfragmentation into apoptotic bodies\nremoval by phagocytic cells\nlittle inflammatory response\n\n\n\n\nNecrosis\nUsually follows severe cellular injury.\nTypical features include:\n\ncell swelling\nmembrane disruption\nrelease of intracellular contents\ninflammatory response"
   },
   {
     "objectID": "2_neurogenesis.html#apoptosis-is-an-active-molecular-program",
     "href": "2_neurogenesis.html#apoptosis-is-an-active-molecular-program",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Apoptosis is an active molecular program",
-    "text": "Apoptosis is an active molecular program\n\n\n\nDevelopmental apoptosis is an active biological program controlled by intracellular molecular pathways.\n\n\nExamples of important regulators include:\n\nBCL-2 family proteins that can promote survival\nBAX and related proteins that promote apoptosis\ncaspases that execute the cell-death program\n\n\n\nCell survival therefore depends on the balance between pro-survival and pro-apoptotic signals.\n\n\n\nImage: BCL-2, BAX and caspase apoptotic pathway\nSuggested file: images/2_ns_apoptosis_pathway.png"
+    "text": "Apoptosis is an active molecular program\n\n\n\nDevelopmental apoptosis is an active biological program controlled by intracellular molecular pathways.\n\n\nExamples of important regulators include:\n\nBCL-2 family proteins that can promote survival\nBAX and related proteins that promote apoptosis\ncaspases that execute the cell-death program\n\n\n\nCell survival therefore depends on the balance between pro-survival and pro-apoptotic signals."
   },
   {
     "objectID": "2_neurogenesis.html#why-eliminate-neurons-during-development",
     "href": "2_neurogenesis.html#why-eliminate-neurons-during-development",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Why eliminate neurons during development?",
-    "text": "Why eliminate neurons during development?\n\n\n\nProgrammed cell death can contribute to several developmental functions.\n\n\nIt can help:\n\nmatch the size of interconnected neuronal populations\nremove cells with inappropriate identities or connections\neliminate cells that served only a transient developmental function\nrefine developing structures\n\n\n\n\nImage: programmed cell death occurring at different stages of neural development\nSuggested file: images/2_ns_pcd_stages.png\n\n\n\nCell death is not the opposite of development. In many systems, cell death is part of the developmental program."
+    "text": "Why eliminate neurons during development?\n\n\n\nProgrammed cell death can contribute to several developmental functions.\n\n\nIt can help:\n\nmatch the size of interconnected neuronal populations\nremove cells with inappropriate identities or connections\neliminate cells that served only a transient developmental function\nrefine developing structures\n\n\n\n\nOne of the most important principles of developmental neuronal survival is that neurons interact with the tissues they innervate.\n\n\nMany developing neuronal populations initially contain more neurons than their targets can support.\nNeurons that successfully interact with appropriate targets receive survival signals.\nNeurons that do not receive sufficient support activate the apoptotic program."
   },
   {
     "objectID": "2_neurogenesis.html#target-tissues-regulate-neuronal-survival",
     "href": "2_neurogenesis.html#target-tissues-regulate-neuronal-survival",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Target tissues regulate neuronal survival",
-    "text": "Target tissues regulate neuronal survival\n\nOne of the most important principles of developmental neuronal survival is that neurons interact with the tissues they innervate.\n\n\nMany developing neuronal populations initially contain more neurons than their targets can support.\nNeurons that successfully interact with appropriate targets receive survival signals.\nNeurons that do not receive sufficient support activate the apoptotic program.\n\n\nThis mechanism helps match the number of neurons to the size and requirements of the target tissue."
+    "text": "Target tissues regulate neuronal survival\n\nThis mechanism helps match the number of neurons to the size and requirements of the target tissue."
   },
   {
     "objectID": "2_neurogenesis.html#hamburger-and-levi-montalcini",
     "href": "2_neurogenesis.html#hamburger-and-levi-montalcini",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Hamburger and Levi-Montalcini",
-    "text": "Hamburger and Levi-Montalcini\n\n\n\nExperiments in chick embryos by Viktor Hamburger and Rita Levi-Montalcini showed that peripheral target tissues influence the survival of developing neurons.\n\n\nManipulating the developing limb changed the number of spinal motor neurons that survived:\n\nremoving target tissue increased neuronal loss\nadding extra target tissue increased neuronal survival\n\n\n\n\nImage: Hamburger and Levi-Montalcini chick limb-bud experiment\nSuggested file: images/2_ns_hamburger_levi_montalcini.png"
+    "text": "Hamburger and Levi-Montalcini\n\n\n\nExperiments in chick embryos by Viktor Hamburger and Rita Levi-Montalcini showed that peripheral target tissues influence the survival of developing neurons.\n\n\nManipulating the developing limb changed the number of spinal motor neurons that survived:\n\nremoving target tissue increased neuronal loss\nadding extra target tissue increased neuronal survival"
   },
   {
     "objectID": "2_neurogenesis.html#the-target-manipulation-experiment",
     "href": "2_neurogenesis.html#the-target-manipulation-experiment",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "The target-manipulation experiment",
-    "text": "The target-manipulation experiment\n\n\nChanging the amount of target tissue\n\n\n\nManipulation\n\nThe amount of peripheral tissue available to developing neurons is experimentally reduced or increased.\n\n\n\nResult\n\nLess target tissue → more neuronal death\nMore target tissue → more neuronal survival\n\n\n\nInterpretation\n\nTargets provide a limited resource required for neuronal survival.\n\n\n\nImage: limb removal and extra-limb transplantation with surviving motor neurons\nSuggested file: images/2_ns_target_manipulation.png"
+    "text": "The target-manipulation experiment\n\n\nChanging the amount of target tissue\n\n\n\nManipulation\n\nThe amount of peripheral tissue available to developing neurons is experimentally reduced or increased.\n\n\n\nResult\n\nLess target tissue → more neuronal death\nMore target tissue → more neuronal survival\n\n\n\nInterpretation\n\nTargets provide a limited resource required for neuronal survival."
   },
   {
     "objectID": "2_neurogenesis.html#the-neurotrophic-hypothesis",
     "href": "2_neurogenesis.html#the-neurotrophic-hypothesis",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "The neurotrophic hypothesis",
-    "text": "The neurotrophic hypothesis\n\n\n\nThe classical neurotrophic hypothesis proposes that developing neurons compete for a limited amount of target-derived survival factors.\n\n\nThe logic is:\n\nmany neurons project toward a target\nthe target produces limited trophic support\nneurons compete for access to this support\nneurons obtaining sufficient support survive\nneurons receiving insufficient support undergo apoptosis\n\n\n\n\nImage: classical neurotrophic hypothesis\nSuggested file: images/2_ns_neurotrophic_hypothesis.png"
+    "text": "The neurotrophic hypothesis\n\n\n\nThe classical neurotrophic hypothesis proposes that developing neurons compete for a limited amount of target-derived survival factors.\n\n\nThe logic is:\n\nmany neurons project toward a target\nthe target produces limited trophic support\nneurons compete for access to this support\nneurons obtaining sufficient support survive\nneurons receiving insufficient support undergo apoptosis"
   },
   {
     "objectID": "2_neurogenesis.html#ngf-and-neurotrophic-factors",
     "href": "2_neurogenesis.html#ngf-and-neurotrophic-factors",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "NGF and neurotrophic factors",
-    "text": "NGF and neurotrophic factors\n\n\n\nNGF — Nerve Growth Factor — provided a molecular mechanism for the idea that target tissues can support neuronal survival.\n\n\nNGF is essential for the development and survival of particular populations of peripheral sensory and sympathetic neurons.\nIt is not a universal survival factor for every neuron.\n\n\nDifferent neuronal populations depend on different members of the broader family of neurotrophic factors.\n\n\n\nImage: NGF and other neurotrophic factors supporting distinct neuronal populations\nSuggested file: images/2_ns_ngf_neurotrophins.png"
+    "text": "NGF and neurotrophic factors\n\n\n\nNGF (Nerve Growth Factor) provided a molecular mechanism for the idea that target tissues can support neuronal survival.\n\n\nNGF is essential for the development and survival of particular populations of peripheral sensory and sympathetic neurons.\nIt is not a universal survival factor for every neuron.\n\n\nDifferent neuronal populations depend on different members of the broader family of neurotrophic factors."
   },
   {
     "objectID": "2_neurogenesis.html#competition-matches-neurons-to-their-targets",
@@ -782,5 +782,33 @@
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "From cells to circuits",
     "text": "From cells to circuits\n\nAt this point development has generated neuronal populations with characteristic identities and has adjusted how many of those neurons survive.\n\n\nThe next problem is how these neurons become connected into functional circuits:\n\nhow axons find their targets\nhow synapses are formed\nhow connections are refined\nhow axons become myelinated\n\n\n\nNeurogenesis creates the cells. The next stage of development must connect them."
+  },
+  {
+    "objectID": "2_neurogenesis.html#apoptosis-is-not-necrosis2",
+    "href": "2_neurogenesis.html#apoptosis-is-not-necrosis2",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Apoptosis is not necrosis2",
+    "text": "Apoptosis is not necrosis2"
+  },
+  {
+    "objectID": "2_neurogenesis.html#the-target-manipulation-experiment-1",
+    "href": "2_neurogenesis.html#the-target-manipulation-experiment-1",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "The target-manipulation experiment",
+    "text": "The target-manipulation experiment"
+  },
+  {
+    "objectID": "2_neurogenesis.html#the-target-manipulation-experiment-2",
+    "href": "2_neurogenesis.html#the-target-manipulation-experiment-2",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "The target-manipulation experiment 2",
+    "text": "The target-manipulation experiment 2"
+  },
+  {
+    "objectID": "2_neurogenesis.html#neurotrophic-factors",
+    "href": "2_neurogenesis.html#neurotrophic-factors",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Neurotrophic factors",
+    "text": "Neurotrophic factors\n\n\n\nNeurotrophic factors are extracellular signals that promote the survival, growth and differentiation of specific neuronal populations.\n\n\nNGF: Nerve Growth Factor\nNGF is especially important for the survival and development of particular populations of peripheral sensory and sympathetic neurons.\n\n\n\n\n\n\nBDNF: Brain-Derived Neurotrophic Factor\nBDNF supports the survival and differentiation of several neuronal populations in both the peripheral and central nervous system.\nIt also has important roles later in development in:\n\ndendritic and axonal growth\nsynapse formation\nsynaptic plasticity\n\n\n\nDifferent neurons depend on different neurotrophic signals.\nNGF, BDNF, NT-3, and NT-4 belong to the neurotrophin family and act through specific Trk receptors."
   }
 ]
