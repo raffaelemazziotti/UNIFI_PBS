@@ -824,5 +824,292 @@
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Self-check",
     "text": "Self-check"
+  },
+  {
+    "objectID": "3_circuit_development.html#development-of-neural-circuits",
+    "href": "3_circuit_development.html#development-of-neural-circuits",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Development of neural circuits",
+    "text": "Development of neural circuits\n\n\n\nAt this point, neurons have been generated, differentiated, migrated to their appropriate regions, and selected for survival.\nThe next developmental problem is to connect them into functional circuits.\n\n\nCircuit formation requires neurons to:\n\nextend axons toward appropriate targets\nrecognize the correct cells and subcellular regions\nform and stabilize synapses\neliminate inappropriate connections\norganize axons for efficient signal transmission"
+  },
+  {
+    "objectID": "3_circuit_development.html#three-major-phases",
+    "href": "3_circuit_development.html#three-major-phases",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Three major phases",
+    "text": "Three major phases\n\nThe formation of neural circuits can be organized into 3 major developmental processes.\n\n\n\n\n1. Axon growth and guidance\nAxons extend over (sometimes very long) distances and make a sequence of directional choices.\n\n\n\n2. Synaptogenesis\nAxons recognize appropriate targets and assemble functional synaptic contacts.\n\n\n\n3. Myelination\nGlial cells organize many axons into structures specialized for rapid and reliable conduction.\n\n\n\nBuilding a circuit requires not only reaching the correct region, but also selecting the correct cell, the correct subcellular target, and the correct connections to maintain."
+  },
+  {
+    "objectID": "3_circuit_development.html#axon-growth-and-guidance",
+    "href": "3_circuit_development.html#axon-growth-and-guidance",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Axon growth and guidance",
+    "text": "Axon growth and guidance\n\n\n\nA differentiating neuron develops an axon that may have to travel a distance many times larger than the diameter of the cell body.\n\n\nAxonal growth is a directed process.\nThe growing axon continuously samples its environment and changes direction in response to extracellular signals.\n\n\nThe structure that performs this exploration is the growth cone."
+  },
+  {
+    "objectID": "3_circuit_development.html#the-growth-cone",
+    "href": "3_circuit_development.html#the-growth-cone",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "The growth cone",
+    "text": "The growth cone\n\n\n\nThe growth cone is a highly dynamic structure located at the tip of a growing axon.\n\n\nIt contains:\n\nfilopodia that explore the surrounding environment\nlamellipodia that extend and retract\nan actin-rich peripheral domain\nmicrotubules extending from the axon into the growth cone\n\n\n\nSignals detected at the growth cone are translated into cytoskeletal changes that determine the direction of axonal growth.\n\n\n Video"
+  },
+  {
+    "objectID": "3_circuit_development.html#axons-do-not-find-their-target-in-one-step",
+    "href": "3_circuit_development.html#axons-do-not-find-their-target-in-one-step",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Axons do not find their target in one step",
+    "text": "Axons do not find their target in one step\n\nAxon guidance is a progressive and stepwise process.\nA growing axon does not need to identify its final target from the beginning.\n\n\nInstead, the growth cone encounters a sequence of intermediate cues and choice points.\nAt each stage it can:\n\ncontinue along a permissive substrate\nfollow another axon\nturn toward an attractive signal\nturn away from a repulsive signal\ncross or avoid a boundary\n\n\n\nlocal decision + local decision + local decision -&gt; correct long-range connection"
+  },
+  {
+    "objectID": "3_circuit_development.html#sperry-and-the-chemoaffinity-hypothesis",
+    "href": "3_circuit_development.html#sperry-and-the-chemoaffinity-hypothesis",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Sperry and the chemoaffinity hypothesis",
+    "text": "Sperry and the chemoaffinity hypothesis\n\n\n\nRoger Sperry proposed that neurons and their targets carry molecular labels that help axons recognize their appropriate destination.\n\n\nThis became known as the chemoaffinity hypothesis.\nThe idea was developed from experiments on the visual system, where retinal axons form an ordered map in the optic tectum.\n\n\nThe hypothesis predicted that axons do not connect randomly and then become organized later.\nThey possess molecular information that biases them toward specific target locations.\n\n\n\nImage: Roger Sperry and/or schematic of the frog retinotectal system\nSuggested file: images/3_ns_sperry_chemoaffinity.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#sperrys-eye-rotation-experiment",
+    "href": "3_circuit_development.html#sperrys-eye-rotation-experiment",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Sperry’s eye-rotation experiment",
+    "text": "Sperry’s eye-rotation experiment\n\n\n\n\nRotation of the eye and regeneration of the optic nerve\n\n\n\nManipulation\n\nThe frog eye was rotated by 180°, the optic nerve was cut, and retinal axons were allowed to regenerate.\n\n\n\nObservation\n\nAfter regeneration, axons returned to approximately their original tectal locations.\n\n\n\nBehavior\n\nBecause the eye had been rotated, the regenerated anatomical map produced systematically inappropriate visually guided behavior.\n\n\n\n\nImage: Sperry eye-rotation experiment\nSuggested file: images/3_ns_sperry_eye_rotation.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#what-sperrys-experiment-showed",
+    "href": "3_circuit_development.html#what-sperrys-experiment-showed",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "What Sperry’s experiment showed",
+    "text": "What Sperry’s experiment showed\n\nRegenerating retinal axons did not simply connect to the nearest available tectal neurons.\nThey showed a strong tendency to return to their previous topographic positions.\n\n\nThis supported the idea that:\nretinal position → molecular identity → preferred tectal position\n\n\nThe experiment introduced a central principle of circuit development:\nconnectivity can be specified by matching molecular information between projecting neurons and their targets."
+  },
+  {
+    "objectID": "3_circuit_development.html#topographic-maps",
+    "href": "3_circuit_development.html#topographic-maps",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Topographic maps",
+    "text": "Topographic maps\n\n\n\nMany sensory and motor pathways preserve spatial relationships between neighboring neurons.\nThis organization is called a topographic map.\n\n\nIn the visual system, neighboring retinal ganglion cells project to neighboring regions of their central target.\nThe spatial organization of the retina is therefore transformed into a retinotopic map.\n\n\nTopographic maps can be generated using graded molecular signals, rather than a unique molecular label for every single neuron.\n\n\n\nImage: retinal position mapped onto the optic tectum / superior colliculus\nSuggested file: images/3_ns_retinotopic_map.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#from-labels-to-molecular-gradients",
+    "href": "3_circuit_development.html#from-labels-to-molecular-gradients",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "From labels to molecular gradients",
+    "text": "From labels to molecular gradients\n\nChemoaffinity does not require a different molecule for every possible connection.\nA small number of molecules expressed as gradients can provide positional information.\n\n\nAxons expressing different levels of a receptor respond differently to a gradient of its ligand in the target tissue.\nThis converts a continuous molecular gradient into an ordered pattern of connections.\n\n\nThis is conceptually similar to the morphogen gradients encountered earlier:\nmolecular gradient → positional information → organized biological structure"
+  },
+  {
+    "objectID": "3_circuit_development.html#eph-receptors-and-ephrins",
+    "href": "3_circuit_development.html#eph-receptors-and-ephrins",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Eph receptors and ephrins",
+    "text": "Eph receptors and ephrins\n\n\n\nEph receptors and their ephrin ligands are important molecular cues for the formation of many topographic projections.\n\n\nIn the retinotectal system, graded Eph/ephrin expression helps retinal axons distinguish different positions along the target.\nFor some retinal axons, increasing ephrin concentration acts as a repulsive signal.\n\n\nDifferent levels of receptor expression therefore produce different preferred termination zones.\n\n\n\nImage: Eph/ephrin gradients in retinal and tectal mapping or stripe assay\nSuggested file: images/3_ns_ephrin_retinotopy.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#the-growth-cone-integrates-many-signals",
+    "href": "3_circuit_development.html#the-growth-cone-integrates-many-signals",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "The growth cone integrates many signals",
+    "text": "The growth cone integrates many signals\n\nAxon guidance is not controlled by a single class of molecule.\nThe growth cone integrates multiple signals present in the extracellular environment.\n\n\n\n\nContact-dependent signals\n\nextracellular matrix adhesion\ncell-surface adhesion\nfasciculation\ncontact-mediated repulsion\n\n\n\n\nDiffusible signals\n\nchemoattraction\nchemorepulsion\n\n\n\n\nThe direction of growth reflects the combined effect of these signals on the growth-cone cytoskeleton."
+  },
+  {
+    "objectID": "3_circuit_development.html#adhesion-to-the-extracellular-environment",
+    "href": "3_circuit_development.html#adhesion-to-the-extracellular-environment",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Adhesion to the extracellular environment",
+    "text": "Adhesion to the extracellular environment\n\n\n\nGrowing axons need a physical substrate on which the growth cone can attach and generate traction.\n\n\nExtracellular matrix molecules such as laminin can provide a permissive substrate for axonal growth.\nCell-adhesion molecules such as NCAM can also promote interactions between neural cells.\n\n\nAdhesion does more than attach the axon mechanically.\nBinding to extracellular molecules activates intracellular pathways that influence growth-cone movement.\n\n\n\nImage: axon growing on extracellular matrix / laminin\nSuggested file: images/3_ns_axon_adhesion.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#fasciculation-axons-can-follow-other-axons",
+    "href": "3_circuit_development.html#fasciculation-axons-can-follow-other-axons",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Fasciculation: axons can follow other axons",
+    "text": "Fasciculation: axons can follow other axons\n\n\n\nA growing axon does not always navigate through tissue independently.\nAxons can grow along previously established axons in a process called fasciculation.\n\n\nEarly pioneer axons can establish an initial route.\nLater axons can recognize adhesion molecules on those axons and use the existing pathway as a developmental scaffold.\n\n\nThis greatly reduces the number of independent navigational decisions required to build a long axonal tract.\n\n\n\nImage: pioneer axon followed by fasciculating axons\nSuggested file: images/3_ns_fasciculation.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#diffusible-guidance-cues",
+    "href": "3_circuit_development.html#diffusible-guidance-cues",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Diffusible guidance cues",
+    "text": "Diffusible guidance cues\n\nSome guidance molecules are secreted into the extracellular environment and form concentration gradients.\nThe growth cone can compare signal strength across its surface and turn relative to the source.\n\n\n\n\nChemoattraction\nThe growth cone turns toward a source of guidance molecules.\n\n\n\nChemorepulsion\nThe growth cone turns away from a source of guidance molecules.\n\n\n\nOne important family of diffusible axon-guidance molecules is the netrin family."
+  },
+  {
+    "objectID": "3_circuit_development.html#netrin-and-intermediate-targets",
+    "href": "3_circuit_development.html#netrin-and-intermediate-targets",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Netrin and intermediate targets",
+    "text": "Netrin and intermediate targets\n\n\n\nNetrins can guide growing axons over a distance and are especially important at developmental choice points such as the neural midline.\n\n\nFor some axons, netrin acts as an attractive cue that guides the growth cone toward an intermediate target.\nAfter reaching that region, the axon can change its molecular state and respond differently to subsequent cues.\n\n\nAn intermediate target therefore does not have to be the final destination.\nIt can act as a navigation checkpoint.\n\n\n\nImage: netrin-mediated attraction of commissural axons toward the midline\nSuggested file: images/3_ns_netrin_midline.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#guidance-depends-on-axonal-competence",
+    "href": "3_circuit_development.html#guidance-depends-on-axonal-competence",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Guidance depends on axonal competence",
+    "text": "Guidance depends on axonal competence\n\nA guidance molecule is not intrinsically “attractive” or “repulsive” for every axon.\nIts effect depends on the competence of the growth cone to interpret that signal.\n\n\nThe response depends on factors such as:\n\nwhich receptors are expressed\nthe level of receptor expression\nintracellular signaling state\nprevious signals encountered by the axon\ndevelopmental time\n\n\n\nThe same extracellular cue can therefore produce different responses in different axons — or in the same axon at different stages of its journey.\n\n\nAs in cell differentiation, the signal matters, but so does the state of the responding cell."
+  },
+  {
+    "objectID": "3_circuit_development.html#choice-points-cross-or-do-not-cross",
+    "href": "3_circuit_development.html#choice-points-cross-or-do-not-cross",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Choice points: cross or do not cross",
+    "text": "Choice points: cross or do not cross\n\n\n\nLong-range axons often encounter choice points where a small directional decision has major consequences for the final circuit.\n\n\nThe optic chiasm provides one example.\nRetinal axons reaching the midline must adopt either:\n\na contralateral projection that crosses the midline\nan ipsilateral projection that avoids crossing\n\n\n\nDistinct molecular programs alter the receptors expressed by the growth cone and therefore its response to cues at the chiasm.\n\n\n\nImage: retinal axons choosing to cross or avoid the optic chiasm\nSuggested file: images/3_ns_optic_chiasm_choice.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#reaching-the-correct-region-is-not-enough",
+    "href": "3_circuit_development.html#reaching-the-correct-region-is-not-enough",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Reaching the correct region is not enough",
+    "text": "Reaching the correct region is not enough\n\nAxon guidance brings an axon into the correct target region.\nBut a neural circuit requires much greater precision.\n\n\nThe axon must still identify:\n\nthe correct target cell type\nthe correct cell\noften the correct subcellular compartment\nan appropriate location at which to assemble a functional synapse\n\n\n\nThis transition from axon guidance to synaptic recognition is the beginning of synaptogenesis."
+  },
+  {
+    "objectID": "3_circuit_development.html#synaptogenesis",
+    "href": "3_circuit_development.html#synaptogenesis",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Synaptogenesis",
+    "text": "Synaptogenesis\n\n\n\nSynaptogenesis is the process by which neurons establish specialized communication sites with their target cells.\n\n\nA developing synapse requires coordinated changes on both sides:\npresynaptic terminal ↔︎ postsynaptic specialization\n\n\nThe process includes:\n\ntarget recognition\nstabilization of contact\nrecruitment of presynaptic vesicles and release machinery\nclustering of postsynaptic receptors\nassembly of scaffolding and adhesion proteins\n\n\n\n\nImage: stages of synapse formation from growth cone contact to mature synapse\nSuggested file: images/3_ns_synapse_formation.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#synapse-formation-is-a-coordinated-process",
+    "href": "3_circuit_development.html#synapse-formation-is-a-coordinated-process",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Synapse formation is a coordinated process",
+    "text": "Synapse formation is a coordinated process\n\nWhen an axon contacts an appropriate target, signals pass in both directions across the developing contact.\n\n\n\n\nPresynaptic side\n\ngrowth cone becomes a terminal\nsynaptic vesicles accumulate\nactive-zone proteins are recruited\nneurotransmitter release machinery is organized\n\n\n\n\nPostsynaptic side\n\nreceptors become concentrated\nscaffolding proteins accumulate\nthe cytoskeleton is reorganized\nthe membrane develops a specialized postsynaptic domain\n\n\n\n\nSynaptogenesis therefore transforms an initially simple cell-cell contact into a specialized communication structure."
+  },
+  {
+    "objectID": "3_circuit_development.html#the-neuromuscular-junction-as-a-model",
+    "href": "3_circuit_development.html#the-neuromuscular-junction-as-a-model",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "The neuromuscular junction as a model",
+    "text": "The neuromuscular junction as a model\n\n\n\nThe neuromuscular junction has been a particularly useful model for understanding how pre- and postsynaptic specializations become aligned.\n\n\nThe motor axon releases agrin, which activates signaling involving MuSK in the muscle membrane.\nThis promotes the clustering of acetylcholine receptors beneath the presynaptic terminal.\n\n\nA diffuse receptor distribution is therefore reorganized into a highly localized postsynaptic specialization.\n\n\n\nImage: agrin-MuSK pathway and clustering of acetylcholine receptors\nSuggested file: images/3_ns_agrin_musk.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#synaptic-specificity",
+    "href": "3_circuit_development.html#synaptic-specificity",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Synaptic specificity",
+    "text": "Synaptic specificity\n\nNeurons do not simply form synapses with any nearby cell.\nSynaptogenesis is highly selective.\n\n\nSpecificity can occur at multiple levels:\nbrain region → cell type → individual neuron → subcellular compartment\n\n\nThe same postsynaptic neuron can receive different classes of inputs at distinct locations on its dendrites, soma or axon.\n\n\nConnectivity is therefore not only a question of who connects to whom, but also where on the target cell the connection is made."
+  },
+  {
+    "objectID": "3_circuit_development.html#subcellular-target-specificity",
+    "href": "3_circuit_development.html#subcellular-target-specificity",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Subcellular target specificity",
+    "text": "Subcellular target specificity\n\n\n\nDifferent classes of inhibitory interneurons can preferentially innervate different compartments of the same pyramidal neuron.\n\n\nExamples:\n\nSST interneurons preferentially target distal dendritic regions\nmany PV interneurons preferentially target the soma and proximal dendrites\nchandelier cells selectively innervate the axon initial segment\n\n\n\nThis subcellular specificity gives different interneuron classes distinct effects on neuronal computation.\n\n\n\nImage: pyramidal neuron showing dendritic, somatic and axon-initial-segment inhibitory inputs\nSuggested file: images/3_ns_subcellular_specificity.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#molecular-cues-can-specify-a-synaptic-location",
+    "href": "3_circuit_development.html#molecular-cues-can-specify-a-synaptic-location",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Molecular cues can specify a synaptic location",
+    "text": "Molecular cues can specify a synaptic location\n\n\n\nSubcellular targeting can itself be guided by molecular information.\n\n\nA classic example is the precise targeting of the axon initial segment of Purkinje cells by cerebellar basket-cell axons.\nMolecules concentrated at particular neuronal compartments, including Neurofascin, can contribute to this highly specific organization.\n\n\nThe neuron therefore contains an internal molecular map that can help incoming axons identify the correct synaptic compartment.\n\n\n\nImage: basket-cell/Purkinje-cell pinceau and Neurofascin at the AIS\nSuggested file: images/3_ns_neurofascin_ais.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#glia-participate-in-synaptogenesis",
+    "href": "3_circuit_development.html#glia-participate-in-synaptogenesis",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Glia participate in synaptogenesis",
+    "text": "Glia participate in synaptogenesis\n\n\n\nSynapse formation is not exclusively a neuron-neuron process.\nAstrocytes actively influence the formation and maturation of synapses.\n\n\nAstrocytes release synaptogenic signals, including molecules such as thrombospondins, and regulate the extracellular environment around developing synapses.\n\n\nThe presence of glial signals can strongly increase the number of synaptic contacts formed by developing neurons.\n\n\n\nImage: experimental comparison of neurons cultured with and without glial signals\nSuggested file: images/3_ns_glia_synaptogenesis.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#trans-synaptic-adhesion-organizes-the-contact",
+    "href": "3_circuit_development.html#trans-synaptic-adhesion-organizes-the-contact",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Trans-synaptic adhesion organizes the contact",
+    "text": "Trans-synaptic adhesion organizes the contact\n\n\n\nThe developing pre- and postsynaptic membranes must become physically aligned and molecularly coordinated.\n\n\nTrans-synaptic adhesion systems such as neurexins and neuroligins contribute to:\n\nstabilization of cell-cell contact\nalignment of pre- and postsynaptic specializations\nrecruitment of synaptic proteins\nmaturation of synaptic properties\n\n\n\nThese molecules act as part of a larger molecular network rather than as a single universal “synapse switch.”\n\n\n\nImage: neurexin-neuroligin trans-synaptic complex\nSuggested file: images/3_ns_neurexin_neuroligin.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#early-circuits-contain-excess-connections",
+    "href": "3_circuit_development.html#early-circuits-contain-excess-connections",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Early circuits contain excess connections",
+    "text": "Early circuits contain excess connections\n\nAs with neuronal survival, development initially generates more connections than will ultimately be maintained.\n\n\nEarly synaptic organization can therefore be highly redundant.\nA clear example is the developing neuromuscular junction, where an individual muscle fiber is initially innervated by multiple motor axons.\n\n\nDuring maturation, most of these inputs are eliminated until each adult muscle fiber is normally innervated by a single motor neuron.\n\n\nImage: transient polyneuronal innervation of muscle and mature single innervation\nSuggested file: images/3_ns_polyinnervation.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#synaptic-competition-and-elimination",
+    "href": "3_circuit_development.html#synaptic-competition-and-elimination",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Synaptic competition and elimination",
+    "text": "Synaptic competition and elimination\n\n\n\nThe transition from multiple inputs to a smaller set of stable connections is not random.\nDeveloping inputs compete for maintenance.\n\n\nSynaptic stabilization depends in part on:\n\nsuccessful communication with the target\nrelative activity of competing inputs\ntrophic and molecular support\nlocal postsynaptic signaling\n\n\n\nLess successful connections retract, while selected connections become stronger and more stable.\n\n\n\nImage: competition between motor-neuron terminals and local receptor blockade\nSuggested file: images/3_ns_synaptic_competition.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#constructive-and-regressive-processes-shape-circuits",
+    "href": "3_circuit_development.html#constructive-and-regressive-processes-shape-circuits",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Constructive and regressive processes shape circuits",
+    "text": "Constructive and regressive processes shape circuits\n\n\n\nConstructive processes\n\naxon extension\naxonal branching\nsynapse formation\ndendritic growth\naddition of synaptic contacts\n\n\n\n\nRegressive processes\n\nbranch retraction\nsynapse elimination\npruning of inappropriate projections\nremoval of redundant connections\n\n\n\n\nAs in neuronal survival, mature circuitry emerges through overproduction followed by selective stabilization and elimination."
+  },
+  {
+    "objectID": "3_circuit_development.html#synaptic-density-changes-during-development",
+    "href": "3_circuit_development.html#synaptic-density-changes-during-development",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Synaptic density changes during development",
+    "text": "Synaptic density changes during development\n\n\n\nSynapse number is highly dynamic during brain development.\nPeriods of intense synaptogenesis can produce synaptic densities greater than those maintained in the mature brain.\n\n\nThis is followed by prolonged periods of synaptic pruning.\nThe timing differs across brain regions: primary sensory areas generally mature earlier, whereas association and prefrontal regions follow a more prolonged trajectory.\n\n\n\nImage: developmental curve of synaptic density in sensory and prefrontal cortex\nSuggested file: images/3_ns_synaptic_density.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#circuit-refinement-is-prolonged",
+    "href": "3_circuit_development.html#circuit-refinement-is-prolonged",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Circuit refinement is prolonged",
+    "text": "Circuit refinement is prolonged\n\nThe basic architecture of many circuits appears early, but connectivity continues to be modified for a long period after the first synapses are formed.\n\n\nCircuit maturation includes:\nformation → competition → stabilization → elimination → refinement\n\n\nThe relative contribution of genetically specified molecular signals and neural activity changes across development.\nEarly molecular programs provide substantial initial organization, while activity and experience progressively refine connectivity.\n\n\nThis interaction between initial wiring and experience will become central when we discuss developmental plasticity and critical periods."
+  },
+  {
+    "objectID": "3_circuit_development.html#myelination",
+    "href": "3_circuit_development.html#myelination",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Myelination",
+    "text": "Myelination\n\n\n\nA circuit is not mature simply because its neurons are connected.\nThe timing and reliability of signal transmission also depend on the structural organization of axons.\n\n\nMyelination surrounds selected axonal segments with a multilayered glial membrane.\nIn the CNS, myelin is produced by oligodendrocytes.\n\n\nMyelination allows rapid saltatory conduction between the nodes of Ranvier and changes the functional properties of neural circuits.\n\n\n\nImage: oligodendrocyte, myelin sheath and nodes of Ranvier\nSuggested file: images/3_ns_myelin_overview.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#oligodendrocytes-and-myelin",
+    "href": "3_circuit_development.html#oligodendrocytes-and-myelin",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Oligodendrocytes and myelin",
+    "text": "Oligodendrocytes and myelin\n\n\n\nA single oligodendrocyte can extend multiple processes and form myelin around segments of several CNS axons.\n\n\nMyelination can be considered in two broad developmental steps:\n\nproliferation and differentiation of oligodendrocyte-lineage cells\nrecognition of appropriate axons and formation of compact myelin wraps\n\n\n\nMyelin is therefore the product of an active axon-glia interaction.\n\n\n\nImage: oligodendrocyte extending processes to several axons\nSuggested file: images/3_ns_oligodendrocyte.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#nodes-of-ranvier-are-specialized-domains",
+    "href": "3_circuit_development.html#nodes-of-ranvier-are-specialized-domains",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Nodes of Ranvier are specialized domains",
+    "text": "Nodes of Ranvier are specialized domains\n\n\n\nMyelination does not simply insulate an axon.\nIt reorganizes the axonal membrane into distinct molecular domains.\n\n\nAt the node of Ranvier, voltage-gated sodium channels are highly concentrated.\nAdjacent regions contain different channel and adhesion complexes, including characteristic distributions of Nav and Kv channels.\n\n\nThe interaction between axons and myelinating glia therefore helps organize the molecular machinery required for saltatory conduction.\n\n\n\nImage: node of Ranvier showing Nav, paranodal and Kv domains\nSuggested file: images/3_ns_node_of_ranvier.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#myelination-has-a-long-developmental-trajectory",
+    "href": "3_circuit_development.html#myelination-has-a-long-developmental-trajectory",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Myelination has a long developmental trajectory",
+    "text": "Myelination has a long developmental trajectory\n\nHuman myelination begins prenatally but continues for many years after birth.\nDifferent pathways and brain regions mature at different times.\n\n\nThe general developmental progression is from systems required for early sensorimotor function toward increasingly distributed and associative networks.\n\n\nThis prolonged trajectory means that important changes in the speed and coordination of neural communication continue through childhood, adolescence and into adulthood.\n\n\nImage: timeline of human myelination from prenatal development to adulthood\nSuggested file: images/3_ns_myelination_timeline.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#myelination-follows-a-regional-sequence",
+    "href": "3_circuit_development.html#myelination-follows-a-regional-sequence",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Myelination follows a regional sequence",
+    "text": "Myelination follows a regional sequence\n\n\n\nMyelination does not progress uniformly across the nervous system.\n\n\nBroad developmental tendencies include:\n\nearlier maturation of many sensory and subcortical pathways\nlater maturation of long-range association pathways\nearlier maturation of posterior cortical systems relative to many frontotemporal association regions\n\n\n\nThe sequence broadly parallels the progressive maturation of increasingly complex neural functions.\n\n\n\nImage: regional progression of human brain myelination\nSuggested file: images/3_ns_regional_myelination.png"
+  },
+  {
+    "objectID": "3_circuit_development.html#from-neurons-to-functional-circuits",
+    "href": "3_circuit_development.html#from-neurons-to-functional-circuits",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "From neurons to functional circuits",
+    "text": "From neurons to functional circuits\n\nCircuit development is a multistage process in which molecular specificity and selective refinement operate repeatedly.\n\n\naxon guidance\nWhere should the axon go?\ntarget recognition\nWhich cell should it contact?\nsynaptogenesis\nWhere and how should the synapse be assembled?\nrefinement\nWhich of the initial connections should be maintained?\nmyelination\nHow should signals be transmitted efficiently across the final circuit?\n\n\nThe mature circuit is therefore not simply “wired.”\nIt is progressively guided, assembled, tested, selected and optimized."
+  },
+  {
+    "objectID": "3_circuit_development.html#a-general-principle-of-neural-development",
+    "href": "3_circuit_development.html#a-general-principle-of-neural-development",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "A general principle of neural development",
+    "text": "A general principle of neural development\n\n\n\nAcross the three chapters we repeatedly encounter the same developmental strategy.\n\n\nGeneration\n\ncells are produced\naxons are extended\nsynapses are formed\n\n\n\n\nSelection and refinement\n\ncell fates are restricted\nneurons compete for survival\naxons choose among possible routes\nsynapses compete and are pruned\nmyelination stabilizes efficient pathways\n\n\n\n\nDevelopment builds the nervous system through progressive specification followed by selective refinement."
+  },
+  {
+    "objectID": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions",
+    "href": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "How does the growth cone make local decisions?",
+    "text": "How does the growth cone make local decisions?\n\n\n\nExtracellular matrix adhesion (Laminin)\nProvides a permissive substrate on which the growth cone can attach and extend.\n\n\nCell-surface adhesion (NCAM)\nPromotes adhesion between the growing axon and neighboring neural cells.\n\n\nFasciculation (Fasciclin)\nAllows growing axons to adhere to and follow pre-existing axonal pathways.\n\n\n\n\n\nThe final direction of axonal growth reflects the integration of multiple local signals, not the action of a single cue."
+  },
+  {
+    "objectID": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions-2",
+    "href": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions-2",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "How does the growth cone make local decisions? 2",
+    "text": "How does the growth cone make local decisions? 2\n\n\n\nChemoattraction (Netrin)\nA diffusible cue that can attract the growth cone toward its source.\n\n\nContact-mediated repulsion (Ephrins)\nContact with ephrin-expressing cells can trigger growth-cone collapse or redirection.\n\n\nChemorepulsion (Netrin)\nDepending on the competence of the growth cone, netrin can also act as a repulsive cue.\n\n\n\n\n\nThe final direction of axonal growth reflects the integration of multiple local signals, not the action of a single cue."
   }
 ]

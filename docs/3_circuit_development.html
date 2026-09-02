@@ -1,32 +1,26 @@
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en-US"><head>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/tabby.min.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.10.18">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.7.33">
 
   <meta name="author" content="Raffaele M Mazziotti, PhD">
-  <title>Neural Circuit Development</title>
+  <title>Neurogenesis, differentiation and neuronal survival</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
   <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
   <style>
-    /* Default styles provided by pandoc.
-    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-    */
+    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: 1.5em;}
-    div.column{flex: auto;}
-    @media screen {
-    div.columns{gap: min(4vw, 1.5em);}
-    div.column{overflow-x: auto;}
-    }
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -35,7 +29,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-2740581606dc327e82f18f789b69d8a0.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
   <link rel="stylesheet" href="slide_style.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -136,12 +130,13 @@
     <div class="slides">
 
 <section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" class="quarto-title-block center">
-  <h1 class="title">Neural Circuit Development</h1>
+  <h1 class="title">Neurogenesis, differentiation and neuronal survival</h1>
+  <p class="subtitle">From neural progenitors to mature neuronal populations</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Raffaele M Mazziotti, PhD
+Raffaele M Mazziotti, PhD 
 </div>
         <p class="quarto-title-affiliation">
             Scuola di Psicologia, University of Florence
@@ -150,8 +145,938 @@ Raffaele M Mazziotti, PhD
 </div>
 
 </section>
-<section class="slide level2 center">
-
+<section id="development-of-neural-circuits" class="slide level2 center">
+<h2>Development of neural circuits</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>At this point, neurons have been generated, differentiated, migrated to their appropriate regions, and selected for survival.</p>
+<p>The next developmental problem is to <u>connect them into functional circuits</u>.</p>
+</div>
+<div class="card">
+<p>Circuit formation requires neurons to:</p>
+<ul>
+<li><u>extend</u> axons toward appropriate targets</li>
+<li><u>recognize</u> the correct cells and subcellular regions</li>
+<li>form and <u>stabilize</u> synapses</li>
+<li><u>eliminate</u> inappropriate connections</li>
+<li>organize axons for <u>efficient</u> signal transmission</li>
+</ul>
+</div>
+</div><div class="column">
+<p><img data-src="images/3_cf_invitro.gif" style="width:100.0%" title="In vitro cultured neurons"> <img data-src="images/3_cf_syn.gif" style="width:50.0%" title="Dynamics of synaptic formation"></p>
+</div></div>
+</section>
+<section id="three-major-phases" class="slide level2 center">
+<h2>Three major phases</h2>
+<div class="info-box">
+<p>The formation of neural circuits can be organized into 3 major developmental processes.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>1. Axon growth and guidance</code></p>
+<p>Axons extend over (sometimes very long) distances and make a sequence of <span class="core">directional choices</span>.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>2. Synaptogenesis</code></p>
+<p>Axons recognize appropriate targets and assemble functional <span class="core">synaptic contacts</span>.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>3. Myelination</code></p>
+<p>Glial cells organize many axons into structures specialized for <span class="core">rapid and reliable conduction</span>.</p>
+</div>
+</div><div class="column">
+<blockquote>
+<p>Building a circuit requires not only reaching the correct region, but also selecting the correct <u>cell</u>, the correct <u>subcellular target</u>, and the correct <u>connections to maintain</u>.</p>
+</blockquote>
+</div></div>
+</section>
+<section id="axon-growth-and-guidance" class="slide level2 center">
+<h2>Axon growth and guidance</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>A differentiating neuron develops an <code>axon</code> that may have to travel a distance many times larger than the diameter of the cell body.</p>
+</div>
+<div class="card">
+<p>Axonal growth is a <span class="core">directed</span> process.</p>
+<p>The growing axon continuously <u>samples its environment</u> and changes direction in response to extracellular signals.</p>
+</div>
+<div class="card">
+<p>The structure that performs this exploration is the <a href="https://en.wikipedia.org/wiki/Growth_cone">growth cone</a>.</p>
+</div>
+</div><div class="column">
+<p><img data-src="images/3_cf_growth_cone.jpg" style="width:90.0%"></p>
+</div></div>
+</section>
+<section id="the-growth-cone" class="slide level2 center">
+<h2>The growth cone</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>The <code>growth cone</code> is a highly dynamic structure located at the tip of a growing axon.</p>
+</div>
+<div class="card">
+<p>It contains:</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Filopodia" target="_blank">filopodia</a> that explore the surrounding environment</li>
+<li><a href="https://en.wikipedia.org/wiki/Lamellipodium" target="_blank">lamellipodia</a> that extend and retract</li>
+<li>an <a href="https://en.wikipedia.org/wiki/Actin" target="_blank">actin</a>-rich peripheral domain</li>
+<li><a href="https://en.wikipedia.org/wiki/Microtubule" target="_blank">microtubules</a> extending from the axon into the growth cone</li>
+</ul>
+</div>
+<div class="card">
+<p>Signals detected at the growth cone are translated into <u>cytoskeletal changes</u> that determine the direction of axonal growth.</p>
+</div>
+</div><div class="column">
+<p><img data-src="images/3_cf_growth_cone2.jpg" style="width:100.0%"> <video data-src="images/3_cf_growth_cone.mp4" style="width:100.0%" autoplay="true" muted="true" loop="true" controls=""><a href="images/3_cf_growth_cone.mp4">Video</a></video></p>
+</div></div>
+</section>
+<section id="axons-do-not-find-their-target-in-one-step" class="slide level2 center">
+<h2>Axons do not find their target in one step</h2>
+<div class="info-box">
+<p>Axon guidance is a <u>progressive and stepwise process</u>.</p>
+<p>A growing axon does not need to identify its final target from the beginning.</p>
+</div>
+<div class="card">
+<p>Instead, the growth cone encounters a sequence of <code>intermediate cues</code> and <code>choice points</code>.</p>
+<p>At each stage it can:</p>
+<ul>
+<li>continue along a permissive substrate</li>
+<li>follow another axon</li>
+<li>turn toward an attractive signal</li>
+<li>turn away from a repulsive signal</li>
+<li>cross or avoid a boundary</li>
+</ul>
+</div>
+<div class="card">
+<p><span class="core">local decision</span> + <span class="core">local decision</span> + <span class="core">local decision</span> -&gt; correct long-range connection</p>
+</div>
+</section>
+<section id="how-does-the-growth-cone-make-local-decisions" class="slide level2 center">
+<h2>How does the growth cone make local decisions?</h2>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Extracellular matrix adhesion</code> (Laminin)</p>
+<p>Provides a <span class="highlight">permissive</span> substrate on which the growth cone can attach and extend.</p>
+</div>
+<div class="card">
+<p><code>Cell-surface adhesion</code> (NCAM)</p>
+<p>Promotes adhesion between the growing axon and neighboring neural cells.</p>
+</div>
+<div class="card">
+<p><code>Fasciculation</code> (Fasciclin)</p>
+<p>Allows growing axons to adhere to and follow pre-existing axonal pathways.</p>
+</div>
+</div><div class="column">
+<p><img data-src="images/3_cf_growth_cone_decision.png" style="width:100.0%"></p>
+</div></div>
+<div class="card">
+<p>The final direction of axonal growth reflects the <u>integration</u> of multiple local signals, not the action of a single cue.</p>
+</div>
+</section>
+<section id="how-does-the-growth-cone-make-local-decisions-2" class="slide level2 center">
+<h2>How does the growth cone make local decisions? 2</h2>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Chemoattraction</code> (Netrin)</p>
+<p>A diffusible cue that can attract the growth cone toward its source.</p>
+</div>
+<div class="card">
+<p><code>Contact-mediated repulsion</code> (Ephrins)</p>
+<p>Contact with ephrin-expressing cells can trigger growth-cone collapse or redirection.</p>
+</div>
+<div class="card">
+<p><code>Chemorepulsion</code> (Netrin)</p>
+<p>Depending on the competence of the growth cone, netrin can also act as a <u>repulsive cue</u>.</p>
+</div>
+</div><div class="column">
+<p><img data-src="images/3_cf_growth_cone_decision.png" style="width:100.0%"></p>
+</div></div>
+<div class="card">
+<p>The final direction of axonal growth reflects the <u>integration</u> of multiple local signals, not the action of a single cue.</p>
+</div>
+</section>
+<section id="sperry-and-the-chemoaffinity-hypothesis" class="slide level2 center">
+<h2>Sperry and the chemoaffinity hypothesis</h2>
+<div class="columns">
+<div class="column" style="width:55%;">
+<div class="info-box">
+<p><code>Roger Sperry</code> proposed that neurons and their targets carry molecular labels that help axons recognize their appropriate destination.</p>
+</div>
+<div class="card">
+<p>This became known as the <code>chemoaffinity hypothesis</code>.</p>
+<p>The idea was developed from experiments on the visual system, where retinal axons form an ordered map in the optic tectum.</p>
+</div>
+<div class="card">
+<p>The hypothesis predicted that axons do not connect randomly and then become organized later.</p>
+<p>They possess molecular information that biases them toward <u>specific target locations</u>.</p>
+</div>
+</div><div class="column" style="width:45%;">
+<div class="card image-needed">
+<p><u>Image:</u> Roger Sperry and/or schematic of the frog retinotectal system</p>
+<p>Suggested file: <code>images/3_ns_sperry_chemoaffinity.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="sperrys-eye-rotation-experiment" class="slide level2 center">
+<h2>Sperry’s eye-rotation experiment</h2>
+<div class="columns">
+<div class="column" style="width:55%;">
+<div class="experiment-card">
+<div class="exp-header">
+<p>Rotation of the eye and regeneration of the optic nerve</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Manipulation</p>
+</div>
+<p>The frog eye was rotated by 180°, the optic nerve was cut, and retinal axons were allowed to regenerate.</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Observation</p>
+</div>
+<p>After regeneration, axons returned to approximately their <u>original tectal locations</u>.</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Behavior</p>
+</div>
+<p>Because the eye had been rotated, the regenerated anatomical map produced systematically inappropriate visually guided behavior.</p>
+</div>
+</div>
+</div><div class="column" style="width:45%;">
+<div class="card image-needed">
+<p><u>Image:</u> Sperry eye-rotation experiment</p>
+<p>Suggested file: <code>images/3_ns_sperry_eye_rotation.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="what-sperrys-experiment-showed" class="slide level2 center">
+<h2>What Sperry’s experiment showed</h2>
+<div class="info-box">
+<p>Regenerating retinal axons did not simply connect to the nearest available tectal neurons.</p>
+<p>They showed a strong tendency to return to their <u>previous topographic positions</u>.</p>
+</div>
+<div class="card">
+<p>This supported the idea that:</p>
+<p><code>retinal position</code> → <code>molecular identity</code> → <code>preferred tectal position</code></p>
+</div>
+<div class="card">
+<p>The experiment introduced a central principle of circuit development:</p>
+<p><u>connectivity can be specified by matching molecular information between projecting neurons and their targets</u>.</p>
+</div>
+</section>
+<section id="topographic-maps" class="slide level2 center">
+<h2>Topographic maps</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Many sensory and motor pathways preserve spatial relationships between neighboring neurons.</p>
+<p>This organization is called a <code>topographic map</code>.</p>
+</div>
+<div class="card">
+<p>In the visual system, neighboring retinal ganglion cells project to neighboring regions of their central target.</p>
+<p>The spatial organization of the retina is therefore transformed into a <u>retinotopic map</u>.</p>
+</div>
+<div class="card">
+<p>Topographic maps can be generated using <u>graded molecular signals</u>, rather than a unique molecular label for every single neuron.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> retinal position mapped onto the optic tectum / superior colliculus</p>
+<p>Suggested file: <code>images/3_ns_retinotopic_map.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="from-labels-to-molecular-gradients" class="slide level2 center">
+<h2>From labels to molecular gradients</h2>
+<div class="info-box">
+<p>Chemoaffinity does not require a different molecule for every possible connection.</p>
+<p>A small number of molecules expressed as <u>gradients</u> can provide positional information.</p>
+</div>
+<div class="card">
+<p>Axons expressing different levels of a receptor respond differently to a gradient of its ligand in the target tissue.</p>
+<p>This converts a continuous molecular gradient into an ordered pattern of connections.</p>
+</div>
+<div class="card">
+<p>This is conceptually similar to the morphogen gradients encountered earlier:</p>
+<p><code>molecular gradient</code> → <code>positional information</code> → <code>organized biological structure</code></p>
+</div>
+</section>
+<section id="eph-receptors-and-ephrins" class="slide level2 center">
+<h2>Eph receptors and ephrins</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Eph receptors</code> and their <code>ephrin</code> ligands are important molecular cues for the formation of many topographic projections.</p>
+</div>
+<div class="card">
+<p>In the retinotectal system, graded Eph/ephrin expression helps retinal axons distinguish different positions along the target.</p>
+<p>For some retinal axons, increasing ephrin concentration acts as a <u>repulsive signal</u>.</p>
+</div>
+<div class="card">
+<p>Different levels of receptor expression therefore produce different preferred termination zones.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> Eph/ephrin gradients in retinal and tectal mapping or stripe assay</p>
+<p>Suggested file: <code>images/3_ns_ephrin_retinotopy.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="the-growth-cone-integrates-many-signals" class="slide level2 center">
+<h2>The growth cone integrates many signals</h2>
+<div class="info-box">
+<p>Axon guidance is not controlled by a single class of molecule.</p>
+<p>The growth cone integrates multiple signals present in the extracellular environment.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Contact-dependent signals</code></p>
+<ul>
+<li>extracellular matrix adhesion</li>
+<li>cell-surface adhesion</li>
+<li>fasciculation</li>
+<li>contact-mediated repulsion</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Diffusible signals</code></p>
+<ul>
+<li>chemoattraction</li>
+<li>chemorepulsion</li>
+</ul>
+</div>
+</div></div>
+<div class="card">
+<p>The direction of growth reflects the <u>combined effect</u> of these signals on the growth-cone cytoskeleton.</p>
+</div>
+</section>
+<section id="adhesion-to-the-extracellular-environment" class="slide level2 center">
+<h2>Adhesion to the extracellular environment</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Growing axons need a physical substrate on which the growth cone can attach and generate traction.</p>
+</div>
+<div class="card">
+<p>Extracellular matrix molecules such as <code>laminin</code> can provide a permissive substrate for axonal growth.</p>
+<p>Cell-adhesion molecules such as <code>NCAM</code> can also promote interactions between neural cells.</p>
+</div>
+<div class="card">
+<p>Adhesion does more than attach the axon mechanically.</p>
+<p>Binding to extracellular molecules activates intracellular pathways that influence <u>growth-cone movement</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> axon growing on extracellular matrix / laminin</p>
+<p>Suggested file: <code>images/3_ns_axon_adhesion.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="fasciculation-axons-can-follow-other-axons" class="slide level2 center">
+<h2>Fasciculation: axons can follow other axons</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>A growing axon does not always navigate through tissue independently.</p>
+<p>Axons can grow along previously established axons in a process called <code>fasciculation</code>.</p>
+</div>
+<div class="card">
+<p>Early <code>pioneer axons</code> can establish an initial route.</p>
+<p>Later axons can recognize adhesion molecules on those axons and use the existing pathway as a <u>developmental scaffold</u>.</p>
+</div>
+<div class="card">
+<p>This greatly reduces the number of independent navigational decisions required to build a long axonal tract.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> pioneer axon followed by fasciculating axons</p>
+<p>Suggested file: <code>images/3_ns_fasciculation.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="diffusible-guidance-cues" class="slide level2 center">
+<h2>Diffusible guidance cues</h2>
+<div class="info-box">
+<p>Some guidance molecules are secreted into the extracellular environment and form concentration gradients.</p>
+<p>The growth cone can compare signal strength across its surface and turn relative to the source.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Chemoattraction</code></p>
+<p>The growth cone turns <u>toward</u> a source of guidance molecules.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Chemorepulsion</code></p>
+<p>The growth cone turns <u>away</u> from a source of guidance molecules.</p>
+</div>
+</div></div>
+<div class="card">
+<p>One important family of diffusible axon-guidance molecules is the <code>netrin</code> family.</p>
+</div>
+</section>
+<section id="netrin-and-intermediate-targets" class="slide level2 center">
+<h2>Netrin and intermediate targets</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Netrins</code> can guide growing axons over a distance and are especially important at developmental choice points such as the neural midline.</p>
+</div>
+<div class="card">
+<p>For some axons, netrin acts as an <u>attractive cue</u> that guides the growth cone toward an intermediate target.</p>
+<p>After reaching that region, the axon can change its molecular state and respond differently to subsequent cues.</p>
+</div>
+<div class="card">
+<p>An intermediate target therefore does not have to be the final destination.</p>
+<p>It can act as a <u>navigation checkpoint</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> netrin-mediated attraction of commissural axons toward the midline</p>
+<p>Suggested file: <code>images/3_ns_netrin_midline.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="guidance-depends-on-axonal-competence" class="slide level2 center">
+<h2>Guidance depends on axonal competence</h2>
+<div class="info-box">
+<p>A guidance molecule is not intrinsically “attractive” or “repulsive” for every axon.</p>
+<p>Its effect depends on the <code>competence</code> of the growth cone to interpret that signal.</p>
+</div>
+<div class="card">
+<p>The response depends on factors such as:</p>
+<ul>
+<li>which receptors are expressed</li>
+<li>the level of receptor expression</li>
+<li>intracellular signaling state</li>
+<li>previous signals encountered by the axon</li>
+<li>developmental time</li>
+</ul>
+</div>
+<div class="card">
+<p>The same extracellular cue can therefore produce <u>different responses in different axons</u> — or in the same axon at different stages of its journey.</p>
+</div>
+<blockquote>
+<p>As in cell differentiation, the signal matters, but so does the <u>state of the responding cell</u>.</p>
+</blockquote>
+</section>
+<section id="choice-points-cross-or-do-not-cross" class="slide level2 center">
+<h2>Choice points: cross or do not cross</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Long-range axons often encounter <code>choice points</code> where a small directional decision has major consequences for the final circuit.</p>
+</div>
+<div class="card">
+<p>The optic chiasm provides one example.</p>
+<p>Retinal axons reaching the midline must adopt either:</p>
+<ul>
+<li>a <u>contralateral projection</u> that crosses the midline</li>
+<li>an <u>ipsilateral projection</u> that avoids crossing</li>
+</ul>
+</div>
+<div class="card">
+<p>Distinct molecular programs alter the receptors expressed by the growth cone and therefore its response to cues at the chiasm.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> retinal axons choosing to cross or avoid the optic chiasm</p>
+<p>Suggested file: <code>images/3_ns_optic_chiasm_choice.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="reaching-the-correct-region-is-not-enough" class="slide level2 center">
+<h2>Reaching the correct region is not enough</h2>
+<div class="info-box">
+<p>Axon guidance brings an axon into the correct target region.</p>
+<p>But a neural circuit requires much greater precision.</p>
+</div>
+<div class="card">
+<p>The axon must still identify:</p>
+<ol type="1">
+<li>the correct <code>target cell type</code></li>
+<li>the correct <code>cell</code></li>
+<li>often the correct <code>subcellular compartment</code></li>
+<li>an appropriate location at which to assemble a functional synapse</li>
+</ol>
+</div>
+<div class="card">
+<p>This transition from <u>axon guidance</u> to <u>synaptic recognition</u> is the beginning of <code>synaptogenesis</code>.</p>
+</div>
+</section>
+<section id="synaptogenesis" class="slide level2 center">
+<h2>Synaptogenesis</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Synaptogenesis</code> is the process by which neurons establish specialized communication sites with their target cells.</p>
+</div>
+<div class="card">
+<p>A developing synapse requires coordinated changes on both sides:</p>
+<p><code>presynaptic terminal</code> ↔︎ <code>postsynaptic specialization</code></p>
+</div>
+<div class="card">
+<p>The process includes:</p>
+<ul>
+<li>target recognition</li>
+<li>stabilization of contact</li>
+<li>recruitment of presynaptic vesicles and release machinery</li>
+<li>clustering of postsynaptic receptors</li>
+<li>assembly of scaffolding and adhesion proteins</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> stages of synapse formation from growth cone contact to mature synapse</p>
+<p>Suggested file: <code>images/3_ns_synapse_formation.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="synapse-formation-is-a-coordinated-process" class="slide level2 center">
+<h2>Synapse formation is a coordinated process</h2>
+<div class="info-box">
+<p>When an axon contacts an appropriate target, signals pass in <u>both directions</u> across the developing contact.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Presynaptic side</code></p>
+<ul>
+<li>growth cone becomes a terminal</li>
+<li>synaptic vesicles accumulate</li>
+<li>active-zone proteins are recruited</li>
+<li>neurotransmitter release machinery is organized</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Postsynaptic side</code></p>
+<ul>
+<li>receptors become concentrated</li>
+<li>scaffolding proteins accumulate</li>
+<li>the cytoskeleton is reorganized</li>
+<li>the membrane develops a specialized postsynaptic domain</li>
+</ul>
+</div>
+</div></div>
+<div class="card">
+<p>Synaptogenesis therefore transforms an initially simple cell-cell contact into a <u>specialized communication structure</u>.</p>
+</div>
+</section>
+<section id="the-neuromuscular-junction-as-a-model" class="slide level2 center">
+<h2>The neuromuscular junction as a model</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>The <code>neuromuscular junction</code> has been a particularly useful model for understanding how pre- and postsynaptic specializations become aligned.</p>
+</div>
+<div class="card">
+<p>The motor axon releases <code>agrin</code>, which activates signaling involving <code>MuSK</code> in the muscle membrane.</p>
+<p>This promotes the clustering of <code>acetylcholine receptors</code> beneath the presynaptic terminal.</p>
+</div>
+<div class="card">
+<p>A diffuse receptor distribution is therefore reorganized into a <u>highly localized postsynaptic specialization</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> agrin-MuSK pathway and clustering of acetylcholine receptors</p>
+<p>Suggested file: <code>images/3_ns_agrin_musk.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="synaptic-specificity" class="slide level2 center">
+<h2>Synaptic specificity</h2>
+<div class="info-box">
+<p>Neurons do not simply form synapses with any nearby cell.</p>
+<p>Synaptogenesis is highly selective.</p>
+</div>
+<div class="card">
+<p>Specificity can occur at multiple levels:</p>
+<p><code>brain region</code> → <code>cell type</code> → <code>individual neuron</code> → <code>subcellular compartment</code></p>
+</div>
+<div class="card">
+<p>The same postsynaptic neuron can receive different classes of inputs at distinct locations on its dendrites, soma or axon.</p>
+</div>
+<blockquote>
+<p>Connectivity is therefore not only a question of <u>who connects to whom</u>, but also <u>where on the target cell the connection is made</u>.</p>
+</blockquote>
+</section>
+<section id="subcellular-target-specificity" class="slide level2 center">
+<h2>Subcellular target specificity</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Different classes of inhibitory interneurons can preferentially innervate different compartments of the same pyramidal neuron.</p>
+</div>
+<div class="card">
+<p>Examples:</p>
+<ul>
+<li><code>SST interneurons</code> preferentially target distal dendritic regions</li>
+<li>many <code>PV interneurons</code> preferentially target the soma and proximal dendrites</li>
+<li><code>chandelier cells</code> selectively innervate the axon initial segment</li>
+</ul>
+</div>
+<div class="card">
+<p>This subcellular specificity gives different interneuron classes distinct effects on neuronal computation.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> pyramidal neuron showing dendritic, somatic and axon-initial-segment inhibitory inputs</p>
+<p>Suggested file: <code>images/3_ns_subcellular_specificity.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="molecular-cues-can-specify-a-synaptic-location" class="slide level2 center">
+<h2>Molecular cues can specify a synaptic location</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Subcellular targeting can itself be guided by molecular information.</p>
+</div>
+<div class="card">
+<p>A classic example is the precise targeting of the axon initial segment of <code>Purkinje cells</code> by cerebellar basket-cell axons.</p>
+<p>Molecules concentrated at particular neuronal compartments, including <code>Neurofascin</code>, can contribute to this highly specific organization.</p>
+</div>
+<div class="card">
+<p>The neuron therefore contains an internal molecular map that can help incoming axons identify the <u>correct synaptic compartment</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> basket-cell/Purkinje-cell pinceau and Neurofascin at the AIS</p>
+<p>Suggested file: <code>images/3_ns_neurofascin_ais.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="glia-participate-in-synaptogenesis" class="slide level2 center">
+<h2>Glia participate in synaptogenesis</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Synapse formation is not exclusively a neuron-neuron process.</p>
+<p><code>Astrocytes</code> actively influence the formation and maturation of synapses.</p>
+</div>
+<div class="card">
+<p>Astrocytes release synaptogenic signals, including molecules such as <code>thrombospondins</code>, and regulate the extracellular environment around developing synapses.</p>
+</div>
+<div class="card">
+<p>The presence of glial signals can strongly increase the number of synaptic contacts formed by developing neurons.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> experimental comparison of neurons cultured with and without glial signals</p>
+<p>Suggested file: <code>images/3_ns_glia_synaptogenesis.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="trans-synaptic-adhesion-organizes-the-contact" class="slide level2 center">
+<h2>Trans-synaptic adhesion organizes the contact</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>The developing pre- and postsynaptic membranes must become physically aligned and molecularly coordinated.</p>
+</div>
+<div class="card">
+<p>Trans-synaptic adhesion systems such as <code>neurexins</code> and <code>neuroligins</code> contribute to:</p>
+<ul>
+<li>stabilization of cell-cell contact</li>
+<li>alignment of pre- and postsynaptic specializations</li>
+<li>recruitment of synaptic proteins</li>
+<li>maturation of synaptic properties</li>
+</ul>
+</div>
+<div class="card">
+<p>These molecules act as part of a larger molecular network rather than as a single universal “synapse switch.”</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> neurexin-neuroligin trans-synaptic complex</p>
+<p>Suggested file: <code>images/3_ns_neurexin_neuroligin.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="early-circuits-contain-excess-connections" class="slide level2 center">
+<h2>Early circuits contain excess connections</h2>
+<div class="info-box">
+<p>As with neuronal survival, development initially generates <u>more connections than will ultimately be maintained</u>.</p>
+</div>
+<div class="card">
+<p>Early synaptic organization can therefore be highly redundant.</p>
+<p>A clear example is the developing neuromuscular junction, where an individual muscle fiber is initially innervated by <u>multiple motor axons</u>.</p>
+</div>
+<div class="card">
+<p>During maturation, most of these inputs are eliminated until each adult muscle fiber is normally innervated by a <u>single motor neuron</u>.</p>
+</div>
+<div class="card image-needed">
+<p><u>Image:</u> transient polyneuronal innervation of muscle and mature single innervation</p>
+<p>Suggested file: <code>images/3_ns_polyinnervation.png</code></p>
+</div>
+</section>
+<section id="synaptic-competition-and-elimination" class="slide level2 center">
+<h2>Synaptic competition and elimination</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>The transition from multiple inputs to a smaller set of stable connections is not random.</p>
+<p>Developing inputs <u>compete</u> for maintenance.</p>
+</div>
+<div class="card">
+<p>Synaptic stabilization depends in part on:</p>
+<ul>
+<li>successful communication with the target</li>
+<li>relative activity of competing inputs</li>
+<li>trophic and molecular support</li>
+<li>local postsynaptic signaling</li>
+</ul>
+</div>
+<div class="card">
+<p>Less successful connections retract, while selected connections become stronger and more stable.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> competition between motor-neuron terminals and local receptor blockade</p>
+<p>Suggested file: <code>images/3_ns_synaptic_competition.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="constructive-and-regressive-processes-shape-circuits" class="slide level2 center">
+<h2>Constructive and regressive processes shape circuits</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Constructive processes</code></p>
+<ul>
+<li>axon extension</li>
+<li>axonal branching</li>
+<li>synapse formation</li>
+<li>dendritic growth</li>
+<li>addition of synaptic contacts</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p><code>Regressive processes</code></p>
+<ul>
+<li>branch retraction</li>
+<li>synapse elimination</li>
+<li>pruning of inappropriate projections</li>
+<li>removal of redundant connections</li>
+</ul>
+</div>
+</div></div>
+<div class="card">
+<p>As in neuronal survival, mature circuitry emerges through <u>overproduction followed by selective stabilization and elimination</u>.</p>
+</div>
+</section>
+<section id="synaptic-density-changes-during-development" class="slide level2 center">
+<h2>Synaptic density changes during development</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Synapse number is highly dynamic during brain development.</p>
+<p>Periods of intense <code>synaptogenesis</code> can produce synaptic densities greater than those maintained in the mature brain.</p>
+</div>
+<div class="card">
+<p>This is followed by prolonged periods of <code>synaptic pruning</code>.</p>
+<p>The timing differs across brain regions: primary sensory areas generally mature earlier, whereas association and prefrontal regions follow a more prolonged trajectory.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> developmental curve of synaptic density in sensory and prefrontal cortex</p>
+<p>Suggested file: <code>images/3_ns_synaptic_density.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="circuit-refinement-is-prolonged" class="slide level2 center">
+<h2>Circuit refinement is prolonged</h2>
+<div class="info-box">
+<p>The basic architecture of many circuits appears early, but connectivity continues to be modified for a long period after the first synapses are formed.</p>
+</div>
+<div class="card">
+<p>Circuit maturation includes:</p>
+<p><code>formation</code> → <code>competition</code> → <code>stabilization</code> → <code>elimination</code> → <code>refinement</code></p>
+</div>
+<div class="card">
+<p>The relative contribution of genetically specified molecular signals and neural activity changes across development.</p>
+<p>Early molecular programs provide substantial initial organization, while <u>activity and experience progressively refine connectivity</u>.</p>
+</div>
+<blockquote>
+<p>This interaction between initial wiring and experience will become central when we discuss developmental plasticity and critical periods.</p>
+</blockquote>
+</section>
+<section id="myelination" class="slide level2 center">
+<h2>Myelination</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>A circuit is not mature simply because its neurons are connected.</p>
+<p>The timing and reliability of signal transmission also depend on the structural organization of axons.</p>
+</div>
+<div class="card">
+<p><code>Myelination</code> surrounds selected axonal segments with a multilayered glial membrane.</p>
+<p>In the CNS, myelin is produced by <code>oligodendrocytes</code>.</p>
+</div>
+<div class="card">
+<p>Myelination allows rapid <code>saltatory conduction</code> between the nodes of Ranvier and changes the functional properties of neural circuits.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> oligodendrocyte, myelin sheath and nodes of Ranvier</p>
+<p>Suggested file: <code>images/3_ns_myelin_overview.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="oligodendrocytes-and-myelin" class="slide level2 center">
+<h2>Oligodendrocytes and myelin</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>A single <code>oligodendrocyte</code> can extend multiple processes and form myelin around segments of several CNS axons.</p>
+</div>
+<div class="card">
+<p>Myelination can be considered in two broad developmental steps:</p>
+<ol type="1">
+<li>proliferation and differentiation of oligodendrocyte-lineage cells</li>
+<li>recognition of appropriate axons and formation of compact myelin wraps</li>
+</ol>
+</div>
+<div class="card">
+<p>Myelin is therefore the product of an active <u>axon-glia interaction</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> oligodendrocyte extending processes to several axons</p>
+<p>Suggested file: <code>images/3_ns_oligodendrocyte.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="nodes-of-ranvier-are-specialized-domains" class="slide level2 center">
+<h2>Nodes of Ranvier are specialized domains</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Myelination does not simply insulate an axon.</p>
+<p>It reorganizes the axonal membrane into distinct molecular domains.</p>
+</div>
+<div class="card">
+<p>At the <code>node of Ranvier</code>, voltage-gated sodium channels are highly concentrated.</p>
+<p>Adjacent regions contain different channel and adhesion complexes, including characteristic distributions of <code>Nav</code> and <code>Kv</code> channels.</p>
+</div>
+<div class="card">
+<p>The interaction between axons and myelinating glia therefore helps organize the molecular machinery required for <u>saltatory conduction</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> node of Ranvier showing Nav, paranodal and Kv domains</p>
+<p>Suggested file: <code>images/3_ns_node_of_ranvier.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="myelination-has-a-long-developmental-trajectory" class="slide level2 center">
+<h2>Myelination has a long developmental trajectory</h2>
+<div class="info-box">
+<p>Human myelination begins <u>prenatally</u> but continues for many years after birth.</p>
+<p>Different pathways and brain regions mature at different times.</p>
+</div>
+<div class="card">
+<p>The general developmental progression is from systems required for early sensorimotor function toward increasingly distributed and associative networks.</p>
+</div>
+<div class="card">
+<p>This prolonged trajectory means that important changes in the <u>speed and coordination of neural communication</u> continue through childhood, adolescence and into adulthood.</p>
+</div>
+<div class="card image-needed">
+<p><u>Image:</u> timeline of human myelination from prenatal development to adulthood</p>
+<p>Suggested file: <code>images/3_ns_myelination_timeline.png</code></p>
+</div>
+</section>
+<section id="myelination-follows-a-regional-sequence" class="slide level2 center">
+<h2>Myelination follows a regional sequence</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Myelination does not progress uniformly across the nervous system.</p>
+</div>
+<div class="card">
+<p>Broad developmental tendencies include:</p>
+<ul>
+<li>earlier maturation of many <u>sensory and subcortical pathways</u></li>
+<li>later maturation of long-range <u>association pathways</u></li>
+<li>earlier maturation of posterior cortical systems relative to many <u>frontotemporal association regions</u></li>
+</ul>
+</div>
+<div class="card">
+<p>The sequence broadly parallels the progressive maturation of increasingly complex neural functions.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> regional progression of human brain myelination</p>
+<p>Suggested file: <code>images/3_ns_regional_myelination.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="from-neurons-to-functional-circuits" class="slide level2 center">
+<h2>From neurons to functional circuits</h2>
+<div class="info-box">
+<p>Circuit development is a multistage process in which molecular specificity and selective refinement operate repeatedly.</p>
+</div>
+<div class="card">
+<p><code>axon guidance</code></p>
+<p>Where should the axon go?</p>
+<p><code>target recognition</code></p>
+<p>Which cell should it contact?</p>
+<p><code>synaptogenesis</code></p>
+<p>Where and how should the synapse be assembled?</p>
+<p><code>refinement</code></p>
+<p>Which of the initial connections should be maintained?</p>
+<p><code>myelination</code></p>
+<p>How should signals be transmitted efficiently across the final circuit?</p>
+</div>
+<div class="card">
+<p>The mature circuit is therefore not simply “wired.”</p>
+<p>It is progressively <u>guided, assembled, tested, selected and optimized</u>.</p>
+</div>
+</section>
+<section id="a-general-principle-of-neural-development" class="slide level2 center">
+<h2>A general principle of neural development</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Across the three chapters we repeatedly encounter the same developmental strategy.</p>
+</div>
+<div class="card">
+<p><code>Generation</code></p>
+<ul>
+<li>cells are produced</li>
+<li>axons are extended</li>
+<li>synapses are formed</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Selection and refinement</code></p>
+<ul>
+<li>cell fates are restricted</li>
+<li>neurons compete for survival</li>
+<li>axons choose among possible routes</li>
+<li>synapses compete and are pruned</li>
+<li>myelination stabilizes efficient pathways</li>
+</ul>
+</div>
+</div></div>
+<blockquote>
+<p>Development builds the nervous system through <u>progressive specification followed by selective refinement</u>.</p>
+</blockquote>
 
 
 
@@ -193,6 +1118,7 @@ Raffaele M Mazziotti, PhD
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
 'jumpToSlide': true,
+'scrollActivationWidth': 0,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":false},
 'smaller': false,
@@ -348,7 +1274,7 @@ Raffaele M Mazziotti, PhD
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -375,151 +1301,78 @@ Raffaele M Mazziotti, PhD
       });
     </script>
     <script>
-
     (function () {
-
       function injectHomeLink() {
-
         const link = document.createElement("a");
-
         link.href = "index.html";
-
         link.className = "home-link";
-
         link.setAttribute("aria-label", "Back to Index");
-
         link.title = "Back to Index";
 
-    
-
         // Positioning
-
         link.style.position = "absolute";
-
         link.style.bottom = "20px";
-
         link.style.left = "50%";
-
         link.style.transform = "translateX(-50%)";
-
         link.style.width = "34px";
-
         link.style.height = "34px";
-
         link.style.zIndex = "1000";
-
         link.style.display = "none";
-
         link.style.opacity = "0.75";
-
         link.style.cursor = "pointer";
 
-    
-
         // Home icon image
-
         const img = document.createElement("img");
-
         img.src = "./images/home.svg";
-
         img.alt = "Home";
-
         img.width = 34;
-
         img.height = 34;
-
         img.style.width = "34px";
-
         img.style.height = "34px";
-
         img.style.display = "block";
 
-    
-
         link.appendChild(img);
-
         document.body.appendChild(link);
 
-    
-
         // Hover feedback
-
         link.addEventListener("mouseenter", () => {
-
           link.style.opacity = "1";
-
           link.style.transform = "translateX(-50%) scale(2)";
-
         });
-
-    
 
         link.addEventListener("mouseleave", () => {
-
           link.style.opacity = "0.75";
-
           link.style.transform = "translateX(-50%) scale(1)";
-
         });
-
-    
 
         // Show only on title slide
-
         function updateVisibility() {
-
           const currentSlide = Reveal.getCurrentSlide();
-
           const isTitleSlide = currentSlide &&
-
             (currentSlide.id === "title-slide" ||
-
               currentSlide.classList.contains("title-slide"));
 
-    
-
           if (isTitleSlide) {
-
             link.style.display = "block";
-
           } else {
-
             link.style.display = "none";
-
           }
-
         }
 
-    
-
         updateVisibility();
-
         Reveal.on("slidechanged", updateVisibility);
-
         Reveal.on("ready", updateVisibility);
-
       }
-
-    
 
       if (window.Reveal && Reveal.isReady()) {
-
         injectHomeLink();
-
       } else {
-
         document.addEventListener("DOMContentLoaded", function () {
-
           Reveal.on("ready", injectHomeLink);
-
         });
-
       }
-
     })();
-
     </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
@@ -568,14 +1421,13 @@ Raffaele M Mazziotti, PhD
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-          const outerScaffold = trigger.parentElement.cloneNode(true);
-          const codeEl = outerScaffold.querySelector('code');
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
+            const codeEl = trigger.previousElementSibling.cloneNode(true);
+            for (const childEl of codeEl.children) {
+              if (isCodeAnnotation(childEl)) {
+                childEl.remove();
+              }
             }
-          }
-          return codeEl.innerText;
+            return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy

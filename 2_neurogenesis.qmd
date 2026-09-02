@@ -73,7 +73,6 @@ At its peak, the human developing brain can generate approximately:
 :::
 :::
 
-
 ## Neural progenitors in the developing cortex
 
 ::: {.columns}
@@ -164,7 +163,6 @@ progenitor: progenitor + neuron
 
 :::
 :::
-
 
 ## Intermediate progenitors amplify neurogenesis
 
@@ -985,9 +983,7 @@ or
 :::
 
 ::: 
-::: 
-
-
+:::
 
 ## Constructive and regressive processes
 
