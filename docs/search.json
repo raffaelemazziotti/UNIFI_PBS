@@ -851,7 +851,7 @@
     "href": "3_circuit_development.html#the-growth-cone",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "The growth cone",
-    "text": "The growth cone\n\n\n\nThe growth cone is a highly dynamic structure located at the tip of a growing axon.\n\n\nIt contains:\n\nfilopodia that explore the surrounding environment\nlamellipodia that extend and retract\nan actin-rich peripheral domain\nmicrotubules extending from the axon into the growth cone\n\n\n\nSignals detected at the growth cone are translated into cytoskeletal changes that determine the direction of axonal growth.\n\n\n Video"
+    "text": "The growth cone\n\n\n\nThe growth cone is a highly dynamic structure located at the tip of a growing axon.\n\n\nIt contains:\n\nfilopodia that explore the surrounding environment\nlamellipodia that extend and retract\nan actin-rich peripheral domain\nmicrotubules extending from the axon into the growth cone\n\n\n\nSignals detected at the growth cone are translated into cytoskeletal changes that determine the direction of axonal growth."
   },
   {
     "objectID": "3_circuit_development.html#axons-do-not-find-their-target-in-one-step",
@@ -865,42 +865,42 @@
     "href": "3_circuit_development.html#sperry-and-the-chemoaffinity-hypothesis",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Sperry and the chemoaffinity hypothesis",
-    "text": "Sperry and the chemoaffinity hypothesis\n\n\n\nRoger Sperry proposed that neurons and their targets carry molecular labels that help axons recognize their appropriate destination.\n\n\nThis became known as the chemoaffinity hypothesis.\nThe idea was developed from experiments on the visual system, where retinal axons form an ordered map in the optic tectum.\n\n\nThe hypothesis predicted that axons do not connect randomly and then become organized later.\nThey possess molecular information that biases them toward specific target locations.\n\n\n\nImage: Roger Sperry and/or schematic of the frog retinotectal system\nSuggested file: images/3_ns_sperry_chemoaffinity.png"
+    "text": "Sperry and the chemoaffinity hypothesis\n\n\n\nRoger Sperry proposed that neurons and their targets carry molecular labels that help axons recognize their appropriate destination.\n\n\nThis became known as the chemoaffinity hypothesis.\nThe idea was developed from experiments on the visual system, where retinal axons form an ordered map in the optic tectum.\n\n\nThe hypothesis predicted that axons do not connect randomly and then become organized later.\nThey possess molecular information that biases them toward specific target locations."
   },
   {
     "objectID": "3_circuit_development.html#sperrys-eye-rotation-experiment",
     "href": "3_circuit_development.html#sperrys-eye-rotation-experiment",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Sperry’s eye-rotation experiment",
-    "text": "Sperry’s eye-rotation experiment\n\n\n\n\nRotation of the eye and regeneration of the optic nerve\n\n\n\nManipulation\n\nThe frog eye was rotated by 180°, the optic nerve was cut, and retinal axons were allowed to regenerate.\n\n\n\nObservation\n\nAfter regeneration, axons returned to approximately their original tectal locations.\n\n\n\nBehavior\n\nBecause the eye had been rotated, the regenerated anatomical map produced systematically inappropriate visually guided behavior.\n\n\n\n\nImage: Sperry eye-rotation experiment\nSuggested file: images/3_ns_sperry_eye_rotation.png"
+    "text": "Sperry’s eye-rotation experiment\n\n\n\n\nRegeneration of the optic nerve (1963)\n\n\n\nManipulation\n\nThe frog eye was rotated by 180°, the optic nerve was cut, and retinal axons were allowed to regenerate.\n\n\n\nObservation\n\nAfter regeneration, axons returned to approximately their original tectal locations.\n\n\n\nBehavior\n\nBecause the eye had been rotated, the regenerated anatomical map produced systematically inappropriate visually guided behavior."
   },
   {
     "objectID": "3_circuit_development.html#what-sperrys-experiment-showed",
     "href": "3_circuit_development.html#what-sperrys-experiment-showed",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "What Sperry’s experiment showed",
-    "text": "What Sperry’s experiment showed\n\nRegenerating retinal axons did not simply connect to the nearest available tectal neurons.\nThey showed a strong tendency to return to their previous topographic positions.\n\n\nThis supported the idea that:\nretinal position → molecular identity → preferred tectal position\n\n\nThe experiment introduced a central principle of circuit development:\nconnectivity can be specified by matching molecular information between projecting neurons and their targets."
+    "text": "What Sperry’s experiment showed\n\nRegenerating retinal axons did not simply connect to the nearest available tectal neurons.\nThey showed a strong tendency to return to their previous topographic positions.\n\n\nThis supported the idea that:\nretinal position -&gt; molecular identity -&gt; preferred tectal position\n\n\nThe experiment introduced a central principle of circuit development:\nconnectivity can be specified by matching molecular information between projecting neurons and their targets."
   },
   {
     "objectID": "3_circuit_development.html#topographic-maps",
     "href": "3_circuit_development.html#topographic-maps",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Topographic maps",
-    "text": "Topographic maps\n\n\n\nMany sensory and motor pathways preserve spatial relationships between neighboring neurons.\nThis organization is called a topographic map.\n\n\nIn the visual system, neighboring retinal ganglion cells project to neighboring regions of their central target.\nThe spatial organization of the retina is therefore transformed into a retinotopic map.\n\n\nTopographic maps can be generated using graded molecular signals, rather than a unique molecular label for every single neuron.\n\n\n\nImage: retinal position mapped onto the optic tectum / superior colliculus\nSuggested file: images/3_ns_retinotopic_map.png"
+    "text": "Topographic maps\n\n\n\nMany sensory and motor pathways preserve spatial relationships between neighboring neurons.\nThis organization is called a topographic map.\n\n\nIn the visual system, neighboring retinal ganglion cells project to neighboring regions of their central target.\nThe spatial organization of the retina is therefore transformed into a retinotopic map.\n\n\nTopographic maps can be generated using graded molecular signals, rather than a unique molecular label for every single neuron."
   },
   {
     "objectID": "3_circuit_development.html#from-labels-to-molecular-gradients",
     "href": "3_circuit_development.html#from-labels-to-molecular-gradients",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "From labels to molecular gradients",
-    "text": "From labels to molecular gradients\n\nChemoaffinity does not require a different molecule for every possible connection.\nA small number of molecules expressed as gradients can provide positional information.\n\n\nAxons expressing different levels of a receptor respond differently to a gradient of its ligand in the target tissue.\nThis converts a continuous molecular gradient into an ordered pattern of connections.\n\n\nThis is conceptually similar to the morphogen gradients encountered earlier:\nmolecular gradient → positional information → organized biological structure"
+    "text": "From labels to molecular gradients\n\nChemoaffinity does not require a different molecule for every possible connection.\nA small number of molecules expressed as gradients can provide positional information.\n\n\nAxons expressing different levels of a receptor respond differently to a gradient of its ligand in the target tissue.\nThis converts a continuous molecular gradient into an ordered pattern of connections.\n\n\nThis is conceptually similar to the morphogen gradients encountered earlier."
   },
   {
     "objectID": "3_circuit_development.html#eph-receptors-and-ephrins",
     "href": "3_circuit_development.html#eph-receptors-and-ephrins",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Eph receptors and ephrins",
-    "text": "Eph receptors and ephrins\n\n\n\nEph receptors and their ephrin ligands are important molecular cues for the formation of many topographic projections.\n\n\nIn the retinotectal system, graded Eph/ephrin expression helps retinal axons distinguish different positions along the target.\nFor some retinal axons, increasing ephrin concentration acts as a repulsive signal.\n\n\nDifferent levels of receptor expression therefore produce different preferred termination zones.\n\n\n\nImage: Eph/ephrin gradients in retinal and tectal mapping or stripe assay\nSuggested file: images/3_ns_ephrin_retinotopy.png"
+    "text": "Eph receptors and ephrins\n\n\n\nEph receptors and their ephrin ligands are important molecular cues for the formation of many topographic projections.\n\n\nIn the retinotectal system, graded Eph/ephrin expression helps retinal axons distinguish different positions along the target.\nFor some retinal axons, increasing ephrin concentration acts as a repulsive signal.\n\n\nDifferent levels of receptor expression therefore produce different preferred termination zones."
   },
   {
     "objectID": "3_circuit_development.html#the-growth-cone-integrates-many-signals",
@@ -914,14 +914,14 @@
     "href": "3_circuit_development.html#adhesion-to-the-extracellular-environment",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Adhesion to the extracellular environment",
-    "text": "Adhesion to the extracellular environment\n\n\n\nGrowing axons need a physical substrate on which the growth cone can attach and generate traction.\n\n\nExtracellular matrix molecules such as laminin can provide a permissive substrate for axonal growth.\nCell-adhesion molecules such as NCAM can also promote interactions between neural cells.\n\n\nAdhesion does more than attach the axon mechanically.\nBinding to extracellular molecules activates intracellular pathways that influence growth-cone movement.\n\n\n\nImage: axon growing on extracellular matrix / laminin\nSuggested file: images/3_ns_axon_adhesion.png"
+    "text": "Adhesion to the extracellular environment\n\n\n\nGrowing axons need a physical substrate on which the growth cone can attach and generate traction.\n\n\nExtracellular matrix molecules such as laminin can provide a permissive substrate for axonal growth.\nCell-adhesion molecules such as NCAM can also promote interactions between neural cells.\n\n\nAdhesion does more than attach the axon mechanically.\nBinding to extracellular molecules activates intracellular pathways that influence growth-cone movement.\n\n\nVideo"
   },
   {
     "objectID": "3_circuit_development.html#fasciculation-axons-can-follow-other-axons",
     "href": "3_circuit_development.html#fasciculation-axons-can-follow-other-axons",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Fasciculation: axons can follow other axons",
-    "text": "Fasciculation: axons can follow other axons\n\n\n\nA growing axon does not always navigate through tissue independently.\nAxons can grow along previously established axons in a process called fasciculation.\n\n\nEarly pioneer axons can establish an initial route.\nLater axons can recognize adhesion molecules on those axons and use the existing pathway as a developmental scaffold.\n\n\nThis greatly reduces the number of independent navigational decisions required to build a long axonal tract.\n\n\n\nImage: pioneer axon followed by fasciculating axons\nSuggested file: images/3_ns_fasciculation.png"
+    "text": "Fasciculation: axons can follow other axons\n\n\n\nA growing axon does not always navigate through tissue independently.\nAxons can grow along previously established axons in a process called fasciculation.\n\n\nEarly pioneer axons can establish an initial route.\nLater axons can recognize adhesion molecules on those axons and use the existing pathway as a developmental scaffold.\n\n\nThis greatly reduces the number of independent navigational decisions required to build a long axonal tract."
   },
   {
     "objectID": "3_circuit_development.html#diffusible-guidance-cues",
@@ -935,14 +935,14 @@
     "href": "3_circuit_development.html#netrin-and-intermediate-targets",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Netrin and intermediate targets",
-    "text": "Netrin and intermediate targets\n\n\n\nNetrins can guide growing axons over a distance and are especially important at developmental choice points such as the neural midline.\n\n\nFor some axons, netrin acts as an attractive cue that guides the growth cone toward an intermediate target.\nAfter reaching that region, the axon can change its molecular state and respond differently to subsequent cues.\n\n\nAn intermediate target therefore does not have to be the final destination.\nIt can act as a navigation checkpoint.\n\n\n\nImage: netrin-mediated attraction of commissural axons toward the midline\nSuggested file: images/3_ns_netrin_midline.png"
+    "text": "Netrin and intermediate targets\n\n\n\nNetrins can guide growing axons over a distance and are especially important at developmental choice points such as the neural midline.\n\n\nThe optic chiasm provides one example. Retinal axons reaching the midline must adopt either:\n\na contralateral projection that crosses the midline\nan ipsilateral projection that avoids crossing\n\n\n\nFor some axons, netrin acts as an attractive cue that guides the growth cone toward an intermediate target. After reaching that region, the axon can change its molecular state and respond differently to subsequent cues.\n\n\n\n\nAn intermediate target therefore does not have to be the final destination.\nIt can act as a navigation checkpoint."
   },
   {
     "objectID": "3_circuit_development.html#guidance-depends-on-axonal-competence",
     "href": "3_circuit_development.html#guidance-depends-on-axonal-competence",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Guidance depends on axonal competence",
-    "text": "Guidance depends on axonal competence\n\nA guidance molecule is not intrinsically “attractive” or “repulsive” for every axon.\nIts effect depends on the competence of the growth cone to interpret that signal.\n\n\nThe response depends on factors such as:\n\nwhich receptors are expressed\nthe level of receptor expression\nintracellular signaling state\nprevious signals encountered by the axon\ndevelopmental time\n\n\n\nThe same extracellular cue can therefore produce different responses in different axons — or in the same axon at different stages of its journey.\n\n\nAs in cell differentiation, the signal matters, but so does the state of the responding cell."
+    "text": "Guidance depends on axonal competence\n\nA guidance molecule is not intrinsically “attractive” or “repulsive” for every axon.\nIts effect depends on the competence of the growth cone to interpret that signal.\n\n\nThe response depends on factors such as:\n\nwhich receptors are expressed\nthe level of receptor expression\nintracellular signaling state\n\n\n\nThe same extracellular cue can therefore produce different responses in different axons or in the same axon at different stages of its journey.\n\n\nAs in cell differentiation, the signal matters, but so does the state of the responding cell."
   },
   {
     "objectID": "3_circuit_development.html#choice-points-cross-or-do-not-cross",

@@ -128,9 +128,7 @@ Signals detected at the growth cone are translated into <u>cytoskeletal changes<
 ::: {.column}
 
 ![](images/3_cf_growth_cone2.jpg){width="100%"}
-![](images/3_cf_growth_cone.mp4){width="100%" autoplay="true"
-  muted="true"
-  loop="true"}
+![](images/3_cf_growth_cone_fluo.jpg){width="100%"}
 
 :::
 :::
@@ -195,8 +193,6 @@ Allows growing axons to adhere to and follow pre-existing axonal pathways.
 The final direction of axonal growth reflects the <u>integration</u> of multiple local signals, not the action of a single cue.
 :::
 
-
-
 ## How does the growth cone make local decisions? 2
 
 
@@ -233,20 +229,19 @@ Depending on the competence of the growth cone, netrin can also act as a <u>repu
 The final direction of axonal growth reflects the <u>integration</u> of multiple local signals, not the action of a single cue.
 :::
 
-
 ## Sperry and the chemoaffinity hypothesis
 
 ::: {.columns}
 ::: {.column width="55%"}
 
 ::: {.info-box}
-`Roger Sperry` proposed that neurons and their targets carry molecular labels that help axons recognize their appropriate destination.
+[Roger Sperry](https://en.wikipedia.org/wiki/Roger_Wolcott_Sperry){target="_blank"} proposed that neurons and their targets carry <u>molecular labels</u> that help axons recognize their appropriate destination.
 :::
 
 ::: {.card}
 This became known as the `chemoaffinity hypothesis`.
 
-The idea was developed from experiments on the visual system, where retinal axons form an ordered map in the optic tectum.
+The idea was developed from experiments on the visual system, where retinal axons form an <u>ordered map</u> in the optic tectum.
 :::
 
 ::: {.card}
@@ -258,11 +253,10 @@ They possess molecular information that biases them toward <u>specific target lo
 :::
 ::: {.column width="45%"}
 
-::: {.card .image-needed}
-<u>Image:</u> Roger Sperry and/or schematic of the frog retinotectal system
 
-Suggested file: `images/3_ns_sperry_chemoaffinity.png`
-:::
+![](images/3_cf_sperry_map.png){width="50%" title="Retinotopic map in the Tectum."}
+![](images/3_cf_sperry_v1_map.png){width="60%" title="Maps are everywhere in the brain. This for example is the retinotopic map in V1."}
+
 
 :::
 :::
@@ -274,14 +268,14 @@ Suggested file: `images/3_ns_sperry_chemoaffinity.png`
 
 ::: {.experiment-card}
 ::: {.exp-header}
-Rotation of the eye and regeneration of the optic nerve
+Regeneration of the optic nerve (1963)
 :::
 
 ::: {.exp-section}
 ::: {.exp-section-title}
 Manipulation
 :::
-The frog eye was rotated by 180°, the optic nerve was cut, and retinal axons were allowed to regenerate.
+The frog eye was rotated by 180°, the optic nerve was `cut`, and retinal axons were allowed to `regenerate`.
 :::
 
 ::: {.exp-section}
@@ -302,11 +296,7 @@ Because the eye had been rotated, the regenerated anatomical map produced system
 :::
 ::: {.column width="45%"}
 
-::: {.card .image-needed}
-<u>Image:</u> Sperry eye-rotation experiment
-
-Suggested file: `images/3_ns_sperry_eye_rotation.png`
-:::
+![](images/3_cf_sperry_frog.jpg){width="80%" title="Frog optic nerve axons can regenerate and re-establish central connections after injury. In humans, optic nerve axons generally fail to regenerate sufficiently to restore vision."}
 
 :::
 :::
@@ -322,19 +312,19 @@ They showed a strong tendency to return to their <u>previous topographic positio
 ::: {.card}
 This supported the idea that:
 
-`retinal position` → `molecular identity` → `preferred tectal position`
+`retinal position` -> `molecular identity` -> `preferred tectal position`
 :::
 
 ::: {.card}
 The experiment introduced a central principle of circuit development:
 
-<u>connectivity can be specified by matching molecular information between projecting neurons and their targets</u>.
+connectivity can be specified by <u>matching molecular information between projecting neurons and their targets</u>.
 :::
 
 ## Topographic maps
 
 ::: {.columns}
-::: {.column}
+::: {.column width="50%"}
 
 ::: {.info-box}
 Many sensory and motor pathways preserve spatial relationships between neighboring neurons.
@@ -353,13 +343,19 @@ Topographic maps can be generated using <u>graded molecular signals</u>, rather 
 :::
 
 :::
-::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> retinal position mapped onto the optic tectum / superior colliculus
+::: {.column width="50%"}
 
-Suggested file: `images/3_ns_retinotopic_map.png`
+::: {layout-ncol=2}
+
+![](images/3_cf_maps_somatosensory.jpg){width="100%" title="Homunculus in the somatosensory cortex."}
+
+![](images/3_cf_maps_tonotopy.jpg){width="100%" title="Tonotopic organization in A1"}
+
 :::
+
+![](images/3_cf_maps_whiskers.jpg){width="45%" title="Whiskers map in mice."}
+
 
 :::
 :::
@@ -378,11 +374,7 @@ Axons expressing different levels of a receptor respond differently to a gradien
 This converts a continuous molecular gradient into an ordered pattern of connections.
 :::
 
-::: {.card}
-This is conceptually similar to the morphogen gradients encountered earlier:
-
-`molecular gradient` → `positional information` → `organized biological structure`
-:::
+> This is conceptually similar to the morphogen gradients encountered earlier.
 
 ## Eph receptors and ephrins
 
@@ -390,27 +382,24 @@ This is conceptually similar to the morphogen gradients encountered earlier:
 ::: {.column}
 
 ::: {.info-box}
-`Eph receptors` and their `ephrin` ligands are important molecular cues for the formation of many topographic projections.
+`Eph receptors` and their [ephrin](https://en.wikipedia.org/wiki/Ephrin){target="_blank"} ligands are important molecular cues for the formation of many topographic projections.
 :::
 
 ::: {.card}
 In the retinotectal system, graded Eph/ephrin expression helps retinal axons distinguish different positions along the target.
 
-For some retinal axons, increasing ephrin concentration acts as a <u>repulsive signal</u>.
+For some retinal axons, increasing ephrin concentration acts as a <u>repulsive</u> signal.
 :::
 
 ::: {.card}
 Different levels of receptor expression therefore produce different preferred termination zones.
 :::
 
-:::
-::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> Eph/ephrin gradients in retinal and tectal mapping or stripe assay
-
-Suggested file: `images/3_ns_ephrin_retinotopy.png`
 :::
+:::{.column}
+
+![](images/3_cf_maps_ephrins_retina.jpg){width="80%" title="Localization of EphB Receptors and Ephrin-Bs in Developing Retina."}
 
 :::
 :::
@@ -427,7 +416,7 @@ The growth cone integrates multiple signals present in the extracellular environ
 ::: {.column}
 
 ::: {.card}
-`Contact-dependent signals`
+`Contact-dependent` signals
 
 - extracellular matrix adhesion
 - cell-surface adhesion
@@ -439,7 +428,7 @@ The growth cone integrates multiple signals present in the extracellular environ
 ::: {.column}
 
 ::: {.card}
-`Diffusible signals`
+`Diffusible` signals
 
 - chemoattraction
 - chemorepulsion
@@ -458,7 +447,7 @@ The direction of growth reflects the <u>combined effect</u> of these signals on 
 ::: {.column}
 
 ::: {.info-box}
-Growing axons need a physical substrate on which the growth cone can attach and generate traction.
+Growing axons need a physical substrate on which the growth cone can attach and generate <u>traction</u>.
 :::
 
 ::: {.card}
@@ -476,11 +465,9 @@ Binding to extracellular molecules activates intracellular pathways that influen
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> axon growing on extracellular matrix / laminin
-
-Suggested file: `images/3_ns_axon_adhesion.png`
-:::
+![](images/3_cf_growth_cone.mp4){width="100%" autoplay="true"
+  muted="true"
+  loop="true"}
 
 :::
 :::
@@ -509,11 +496,7 @@ This greatly reduces the number of independent navigational decisions required t
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> pioneer axon followed by fasciculating axons
-
-Suggested file: `images/3_ns_fasciculation.png`
-:::
+![](images/3_cf_growth_cone_pioneer.jpg){width="100%"}
 
 :::
 :::
@@ -521,7 +504,7 @@ Suggested file: `images/3_ns_fasciculation.png`
 ## Diffusible guidance cues
 
 ::: {.info-box}
-Some guidance molecules are secreted into the extracellular environment and form concentration gradients.
+Some guidance molecules are <u>secreted</u> into the extracellular environment and form concentration gradients.
 
 The growth cone can compare signal strength across its surface and turn relative to the source.
 :::
@@ -561,24 +544,29 @@ One important family of diffusible axon-guidance molecules is the `netrin` famil
 :::
 
 ::: {.card}
-For some axons, netrin acts as an <u>attractive cue</u> that guides the growth cone toward an intermediate target.
+The optic chiasm provides one example.
+Retinal axons reaching the midline must adopt either:
 
+- a <u>contralateral projection</u> that crosses the midline
+- an <u>ipsilateral projection</u> that avoids crossing
+:::
+
+::: {.card}
+For some axons, netrin acts as an <u>attractive cue</u> that guides the growth cone toward an intermediate target.
 After reaching that region, the axon can change its molecular state and respond differently to subsequent cues.
 :::
+
+
+
+:::
+::: {.column}
+
+![](images/3_cf_growth_cone_cross_not_cross.png){width="60%"}
 
 ::: {.card}
 An intermediate target therefore does not have to be the final destination.
 
 It can act as a <u>navigation checkpoint</u>.
-:::
-
-:::
-::: {.column}
-
-::: {.card .image-needed}
-<u>Image:</u> netrin-mediated attraction of commissural axons toward the midline
-
-Suggested file: `images/3_ns_netrin_midline.png`
 :::
 
 :::
@@ -598,49 +586,14 @@ The response depends on factors such as:
 - which receptors are expressed
 - the level of receptor expression
 - intracellular signaling state
-- previous signals encountered by the axon
-- developmental time
 :::
 
 ::: {.card}
-The same extracellular cue can therefore produce <u>different responses in different axons</u> — or in the same axon at different stages of its journey.
+The same extracellular cue can therefore produce <u>different responses in different axons</u> or in the same axon at different stages of its journey.
 :::
 
 >As in cell differentiation, the signal matters, but so does the <u>state of the responding cell</u>.
 
-## Choice points: cross or do not cross
-
-::: {.columns}
-::: {.column}
-
-::: {.info-box}
-Long-range axons often encounter `choice points` where a small directional decision has major consequences for the final circuit.
-:::
-
-::: {.card}
-The optic chiasm provides one example.
-
-Retinal axons reaching the midline must adopt either:
-
-- a <u>contralateral projection</u> that crosses the midline
-- an <u>ipsilateral projection</u> that avoids crossing
-:::
-
-::: {.card}
-Distinct molecular programs alter the receptors expressed by the growth cone and therefore its response to cues at the chiasm.
-:::
-
-:::
-::: {.column}
-
-::: {.card .image-needed}
-<u>Image:</u> retinal axons choosing to cross or avoid the optic chiasm
-
-Suggested file: `images/3_ns_optic_chiasm_choice.png`
-:::
-
-:::
-:::
 
 ## Reaching the correct region is not enough
 
