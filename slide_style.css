@@ -606,6 +606,91 @@
   color: #003366 !important;
 }
 
+/* PDF layout: preserve the print palette above while making each slide fit. */
+html.print-pdf .reveal {
+  font-size: 21px;
+  line-height: 1.2;
+}
+
+html.print-pdf .reveal .slides section {
+  box-sizing: border-box;
+  padding: 18px 28px 34px;
+}
+
+html.print-pdf .reveal h1,
+html.print-pdf .reveal h2,
+html.print-pdf .reveal h3 {
+  margin-top: 0;
+  margin-bottom: 0.25em;
+}
+
+html.print-pdf .reveal p {
+  margin-top: 0.25em;
+  margin-bottom: 0.35em;
+}
+
+html.print-pdf .reveal li {
+  margin-bottom: 0.15em;
+}
+
+/* Quarto's inline column fallback gives Reveal an incorrect print height. */
+html.print-pdf .reveal .columns {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: flex-start;
+  gap: 0.8em;
+  width: 100%;
+}
+
+html.print-pdf .reveal .columns > :not(.column) {
+  grid-column: 1 / -1;
+  width: 100%;
+}
+
+html.print-pdf .reveal .columns > .column {
+  display: block !important;
+  width: auto !important;
+  min-width: 0;
+}
+
+html.print-pdf .card,
+html.print-pdf .info-box,
+html.print-pdf .tip,
+html.print-pdf .list-box,
+html.print-pdf .disorder-card,
+html.print-pdf .experiment-card {
+  margin: 4px 0;
+  padding: 5px 8px;
+}
+
+html.print-pdf .reveal img:not(.slide-logo) {
+  max-height: 420px;
+  object-fit: contain;
+}
+
+html.print-pdf .home-link,
+html.print-pdf .slide-menu-wrapper,
+html.print-pdf .slide-menu-button,
+html.print-pdf .slide-chalkboard-buttons {
+  display: none !important;
+}
+
+html.print-pdf .quiz-wrap {
+  display: block;
+  padding: 1em;
+  border: 1px solid #9aaec4;
+  border-radius: 8px;
+  color: #111111;
+}
+
+html.print-pdf .quiz-frame {
+  display: none;
+}
+
+html.print-pdf .quiz-wrap::after {
+  content: "This interactive self-check is available in the online presentation.";
+}
+
 .centerimg {
   text-align: center;
 }

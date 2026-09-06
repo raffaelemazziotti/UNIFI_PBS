@@ -4,7 +4,7 @@
     "href": "index.html#index",
     "title": "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo (Modulo 1)",
     "section": "Index",
-    "text": "Index\n\nWelcome to the course! Brief introduction to the course.\n\nChapters\n\n\n\n\nNervous System Development\nNeurogenesis and Differentiation\nNeural Circuit Development\n\n\n\n\n\nMethods in Developmental Psychobiology\nExperience-Dependent Development\nParental Care"
+    "text": "Index\n\nWelcome to the course! This is the course program.\n\nChapters\n\n\n\n\nNervous System Development\nNeurogenesis and Differentiation\nNeural Circuit Development\nMethods in Developmental Psychobiology\n\n\n\n\n\nNeuroplasticity\nExperience-Dependent Development\nParental Care"
   },
   {
     "objectID": "index.html#how-to-use-these-slides",
@@ -14,529 +14,18 @@
     "text": "How to use these slides\n\n\n\n⛵ Navigation\n\nThese slides are interactive\nUse keyboard or mouse\nPress F for full-screen mode\n\n\n\n⏱️ Quick access\n\nIn the lower-left corner, click the ☰ icon to open the slide index\nClick any slide title to jump directly to it\nUse the ⚙️ Tools menu to see all available shortcuts\n\n\n\n\n🧭 Course structure\n\nThe Index slide links all sections\nEach section starts with a title slide\nA 🏠 Home button on the first slide\nbrings you back to the Index\n\n\n\n📄 PDF version\n\nGo to the first slide of a section\nPress E\nA PDF-compatible version appears\nPrint or save it for clean notes"
   },
   {
-    "objectID": "1_ns_development.html#sviluppare-un-sistema-nervoso",
-    "href": "1_ns_development.html#sviluppare-un-sistema-nervoso",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "1. Sviluppare un sistema nervoso",
-    "text": "1. Sviluppare un sistema nervoso\n\n\n\nIl sistema nervoso emerge attraverso una sequenza coordinata di:\n\ncambiamenti di forma\nmovimenti cellulari\nsegnali tra tessuti\nacquisizione di identità regionali\n\n\n\n\nIdea guida\nLo sviluppo non consiste nel semplice ingrandimento di una struttura: costruisce progressivamente differenze tra cellule e regioni.\n\n\nPer la psicologia, comprendere questi passaggi aiuta a collegare organizzazione cerebrale, plasticità e vincoli dello sviluppo."
-  },
-  {
-    "objectID": "1_ns_development.html#foglietti-embrionali-ed-ectoderma",
-    "href": "1_ns_development.html#foglietti-embrionali-ed-ectoderma",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "2. Foglietti embrionali ed ectoderma",
-    "text": "2. Foglietti embrionali ed ectoderma\n\n\n\nDurante le prime fasi embrionali si distinguono tre foglietti:\n\nectoderma\nmesoderma\nendoderma\n\n\n\nIl tessuto nervoso deriva da una porzione specializzata dell’ectoderma.\n\n\n\nImmagine necessaria: schema dei tre foglietti embrionali con evidenza dell’ectoderma neurale\nFile proposto: images/nsdev_germ_layers.png"
-  },
-  {
-    "objectID": "1_ns_development.html#neurulazione",
-    "href": "1_ns_development.html#neurulazione",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "3. Neurulazione",
-    "text": "3. Neurulazione\n\n\n\nLa neurulazione trasforma una regione piatta dell’ectoderma in una struttura tubulare.\n\ncompare la placca neurale\ni margini si sollevano\nla regione centrale si incurva\nle pieghe si avvicinano e si fondono\n\n\n\n\nImmagine necessaria: sequenza schematica della neurulazione\nFile proposto: images/nsdev_neurulation.png"
-  },
-  {
-    "objectID": "1_ns_development.html#placca-doccia-e-tubo-neurale",
-    "href": "1_ns_development.html#placca-doccia-e-tubo-neurale",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "4. Placca, doccia e tubo neurale",
-    "text": "4. Placca, doccia e tubo neurale\n\n\n\nPlacca neurale\nIspessimento dell’ectoderma destinato a formare gran parte del sistema nervoso centrale.\n\n\nDoccia neurale\nDepressione mediana delimitata dalle pieghe neurali.\n\n\n\nTubo neurale\nStruttura chiusa da cui si svilupperanno encefalo e midollo spinale.\n\n\nAi margini della placca si forma anche la cresta neurale, che seguirà un percorso distinto."
-  },
-  {
-    "objectID": "1_ns_development.html#timeline-giorno-18-e-giorno-21",
-    "href": "1_ns_development.html#timeline-giorno-18-e-giorno-21",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "5. Timeline: giorno 18 e giorno 21",
-    "text": "5. Timeline: giorno 18 e giorno 21\n\n\n\nIntorno al giorno 18\n\nla placca neurale è riconoscibile\ninizia il rimodellamento dell’ectoderma\n\nSi definisce progressivamente la linea mediana.\n\n\n\nIntorno al giorno 21\n\nla doccia neurale è evidente\nle pieghe neurali si avvicinano\n\nLa formazione del tubo è in corso.\n\n\n\nImmagine necessaria: confronto tra embrione al giorno 18 e al giorno 21\nFile proposto: images/nsdev_timeline_day18_day21.png\n\n\nLe date servono come orientamento: i cambiamenti sono continui e parzialmente sovrapposti, non passaggi istantanei."
-  },
-  {
-    "objectID": "1_ns_development.html#chiusura-del-tubo-neurale",
-    "href": "1_ns_development.html#chiusura-del-tubo-neurale",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "6. Chiusura del tubo neurale",
-    "text": "6. Chiusura del tubo neurale\n\n\n\nLa fusione non avviene simultaneamente lungo tutto l’embrione:\n\ninizia in una regione intermedia\nprocede verso le estremità\nlascia temporaneamente aperti i neuropori\n\n\n\nLa corretta chiusura separa il tubo neurale dall’ectoderma superficiale.\n\n\n\nImmagine necessaria: progressione della chiusura del tubo neurale\nFile proposto: images/nsdev_neural_tube_closure.png"
-  },
-  {
-    "objectID": "1_ns_development.html#cresta-neurale-e-principali-derivati",
-    "href": "1_ns_development.html#cresta-neurale-e-principali-derivati",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "7. Cresta neurale e principali derivati",
-    "text": "7. Cresta neurale e principali derivati\n\n\n\nLe cellule della cresta neurale originano ai margini del tubo, si separano dal neuroepitelio e migrano in diverse regioni, dove assumono destini differenti.\n\n\n\nTra i principali derivati:\n\ngangli sensitivi e autonomici\ncellule di Schwann\nmelanociti\nmidollare del surrene\ncomponenti craniofacciali\n\n\n\nImmagine necessaria: vie migratorie e derivati della cresta neurale\nFile proposto: images/nsdev_neural_crest_derivatives.png"
-  },
-  {
-    "objectID": "1_ns_development.html#induzione-neurale",
-    "href": "1_ns_development.html#induzione-neurale",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "8. Induzione neurale",
-    "text": "8. Induzione neurale\n\n\n\nL’induzione neurale è il processo con cui segnali provenienti da tessuti vicini orientano una parte dell’ectoderma verso un destino neurale.\n\n\nLa posizione di una cellula determina quali segnali riceve, ma la risposta dipende anche dal suo stato interno.\n\n\n\nImmagine necessaria: interazione tra tessuto induttore ed ectoderma competente\nFile proposto: images/nsdev_neural_induction.png"
-  },
-  {
-    "objectID": "1_ns_development.html#spemann-e-mangold-lesperimento",
-    "href": "1_ns_development.html#spemann-e-mangold-lesperimento",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "9. Spemann e Mangold: l’esperimento",
-    "text": "9. Spemann e Mangold: l’esperimento\n\n\n\nProcedura\n\nprelievo del labbro dorsale da una gastrula donatrice\ntrapianto nella regione ventrale di un embrione ospite\nosservazione dello sviluppo successivo\n\n\n\nIl trapianto induce la formazione di un secondo asse embrionale.\n\n\n\nImmagine necessaria: schema del trapianto di Spemann e Mangold\nFile proposto: images/nsdev_spemann_mangold.png\n\n\n\nSottolineare che il tessuto trapiantato non costruisce da solo il secondo embrione: organizza anche cellule dell’ospite."
-  },
-  {
-    "objectID": "1_ns_development.html#lorganizzatore-di-spemann",
-    "href": "1_ns_development.html#lorganizzatore-di-spemann",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "10. L’organizzatore di Spemann",
-    "text": "10. L’organizzatore di Spemann\n\n\n\nIl tessuto trapiantato viene definito organizzatore perché può:\n\nmodificare il destino dei tessuti vicini\nindurre strutture neurali\ncontribuire all’organizzazione degli assi corporei\n\n\n\n\nChe cosa dimostra?\nLo sviluppo dipende da interazioni tra gruppi cellulari, non soltanto da istruzioni autonome già presenti in ogni cellula.\n\n\n“Organizzare” non significa fornire un progetto completo: significa creare condizioni e segnali che coordinano risposte diverse."
-  },
-  {
-    "objectID": "1_ns_development.html#evidenze-sperimentali-in-vitro",
-    "href": "1_ns_development.html#evidenze-sperimentali-in-vitro",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "11. Evidenze sperimentali in vitro",
-    "text": "11. Evidenze sperimentali in vitro\n\n\n\nIn coltura è possibile:\n\nisolare porzioni di ectoderma\ncontrollare i tessuti con cui interagiscono\nmodificare i segnali presenti\nosservare l’acquisizione di caratteristiche neurali\n\n\n\n\nIl confronto tra condizioni sperimentali mostra che l’identità neurale può essere influenzata dall’ambiente cellulare.\n\n\nLimite\nUna coltura semplifica il sistema: chiarisce relazioni causali, ma non riproduce l’intero contesto embrionale.\n\n\n\nCollegare l’esperimento in vitro al trapianto: il primo isola variabili, il secondo conserva meglio l’organizzazione dell’embrione."
-  },
-  {
-    "objectID": "1_ns_development.html#regionalizzazione-del-tubo-neurale",
-    "href": "1_ns_development.html#regionalizzazione-del-tubo-neurale",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "12. Regionalizzazione del tubo neurale",
-    "text": "12. Regionalizzazione del tubo neurale\n\n\n\nIl tubo neurale inizialmente continuo acquisisce identità differenti lungo due assi:\n\nanteroposteriore\ndorsoventrale\n\n\n\nLe regioni diventano progressivamente diverse per struttura, tipi cellulari e connessioni future.\n\n\n\nImmagine necessaria: tubo neurale con assi anteroposteriore e dorsoventrale\nFile proposto: images/nsdev_neural_tube_axes.png"
-  },
-  {
-    "objectID": "1_ns_development.html#asse-dorsoventrale-e-morfogeni",
-    "href": "1_ns_development.html#asse-dorsoventrale-e-morfogeni",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "13. Asse dorsoventrale e morfogeni",
-    "text": "13. Asse dorsoventrale e morfogeni\n\n\n\nSegnali provenienti dalle regioni dorsali e ventrali formano distribuzioni graduate.\nQuesti segnali agiscono come morfogeni: cellule esposte a condizioni diverse possono acquisire identità diverse.\n\n\n\nLa risposta dipende da:\n\nintensità del segnale\ndurata dell’esposizione\ncombinazione con altri segnali\ncompetenza della cellula\n\n\n\nImmagine necessaria: gradienti dorsoventrali nel tubo neurale\nFile proposto: images/nsdev_dorsoventral_morphogens.png"
-  },
-  {
-    "objectID": "1_ns_development.html#competenza-cellulare-e-risposta-ai-segnali",
-    "href": "1_ns_development.html#competenza-cellulare-e-risposta-ai-segnali",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "14. Competenza cellulare e risposta ai segnali",
-    "text": "14. Competenza cellulare e risposta ai segnali\n\n\n\nLa competenza è la capacità di una cellula di rispondere a un determinato segnale.\n\n\nCellule diverse possono ricevere lo stesso segnale e produrre risposte differenti.\n\n\n\nLa risposta dipende da:\n\nrecettori disponibili\nstoria precedente della cellula\nstato di differenziamento\nmomento dello sviluppo\n\n\n\nIl significato di un segnale non è quindi fisso: dipende dal contesto."
-  },
-  {
-    "objectID": "1_ns_development.html#regionalizzazione-anteroposteriore",
-    "href": "1_ns_development.html#regionalizzazione-anteroposteriore",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "15. Regionalizzazione anteroposteriore",
-    "text": "15. Regionalizzazione anteroposteriore\n\n\n\nLungo l’asse anteroposteriore emergono grandi identità:\n\nregioni encefaliche anteriori\nmesencefalo\nromboencefalo\nmidollo spinale\n\n\n\n\nImmagine necessaria: identità regionali lungo l’asse anteroposteriore\nFile proposto: images/nsdev_anteroposterior_axis.png\n\n\nLa regionalizzazione è progressiva: domini inizialmente ampi vengono successivamente raffinati."
-  },
-  {
-    "objectID": "1_ns_development.html#acido-retinoico-e-fgf",
-    "href": "1_ns_development.html#acido-retinoico-e-fgf",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "16. Acido retinoico e FGF",
-    "text": "16. Acido retinoico e FGF\n\n\n\nL’acido retinoico e i segnali FGF contribuiscono alla specificazione di identità posteriori del tessuto neurale.\n\n\nNon agiscono come etichette isolate: il loro effetto dipende da quantità, tempo e contesto cellulare.\n\n\n\nPrincipio generale\nLa posizione lungo un asse può essere tradotta in identità cellulare attraverso segnali distribuiti nello spazio e nel tempo.\n\n\nSegnali simili possono sostenere funzioni diverse in fasi o regioni differenti."
-  },
-  {
-    "objectID": "1_ns_development.html#geni-hox-e-romboencefalo",
-    "href": "1_ns_development.html#geni-hox-e-romboencefalo",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "17. Geni Hox e romboencefalo",
-    "text": "17. Geni Hox e romboencefalo\n\n\n\nI geni Hox contribuiscono a specificare l’identità anteroposteriore nel romboencefalo.\n\nsono espressi in combinazioni regionali\naiutano a distinguere domini adiacenti\ninfluenzano i destini neuronali\n\n\n\n\nImmagine necessaria: romboencefalo segmentato con domini di espressione Hox\nFile proposto: images/nsdev_hox_hindbrain.png\n\n\nNon vale una corrispondenza semplice “un gene = una struttura”: conta il profilo combinato."
-  },
-  {
-    "objectID": "1_ns_development.html#vescicole-encefaliche",
-    "href": "1_ns_development.html#vescicole-encefaliche",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "18. Vescicole encefaliche",
-    "text": "18. Vescicole encefaliche\n\n\n\nVescicole primarie\n\nprosencefalo\nmesencefalo\nromboencefalo\n\n\n\nQueste espansioni rendono visibile la prima organizzazione macroscopica dell’encefalo.\n\n\n\nSuddivisioni successive\nIl prosencefalo dà origine a telencefalo e diencefalo; il mesencefalo mantiene la propria denominazione; il romboencefalo si suddivide in metencefalo e mielencefalo.\n\n\nImmagine necessaria: passaggio dalle vescicole primarie alle suddivisioni successive\nFile proposto: images/nsdev_brain_vesicles.png"
-  },
-  {
-    "objectID": "1_ns_development.html#regionalizzazione-della-neocorteccia",
-    "href": "1_ns_development.html#regionalizzazione-della-neocorteccia",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "19. Regionalizzazione della neocorteccia",
-    "text": "19. Regionalizzazione della neocorteccia\n\n\n\nLe future aree corticali emergono dall’interazione tra:\n\ndifferenze iniziali nei progenitori\nsegnali locali\nmaturazione delle connessioni\nattività proveniente da altre regioni\n\n\n\n\nImmagine necessaria: graduale comparsa delle aree nella neocorteccia\nFile proposto: images/nsdev_neocortex_regionalization.png\n\n\nLe identità corticali iniziali non sono confini adulti già completi: vengono stabilizzate e raffinate durante lo sviluppo."
-  },
-  {
-    "objectID": "1_ns_development.html#protomap-hypothesis",
-    "href": "1_ns_development.html#protomap-hypothesis",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "20. Protomap hypothesis",
-    "text": "20. Protomap hypothesis\n\n\n\nLa protomap hypothesis propone che i progenitori corticali possiedano differenze regionali precoci.\n\n\nQueste differenze forniscono una prima mappa delle future aree corticali prima della piena maturazione delle connessioni.\n\n\n\nPredizione concettuale\nParte dell’identità di un’area dovrebbe essere riconoscibile anche prima dell’arrivo degli input sensoriali maturi.\n\n\nGli input successivi possono comunque modificare e affinare questa organizzazione iniziale."
-  },
-  {
-    "objectID": "1_ns_development.html#protocortex-hypothesis-e-input-talamici",
-    "href": "1_ns_development.html#protocortex-hypothesis-e-input-talamici",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "21. Protocortex hypothesis e input talamici",
-    "text": "21. Protocortex hypothesis e input talamici\n\n\n\nLa protocortex hypothesis attribuisce un ruolo centrale agli input talamici nel modellare l’identità funzionale delle aree corticali.\n\n\nLa corteccia iniziale viene considerata relativamente flessibile e progressivamente specializzata dalle connessioni in arrivo.\n\n\n\nImmagine necessaria: confronto tra protomap e protocortex\nFile proposto: images/nsdev_cortical_hypotheses.png\n\n\nVisione integrata\nFattori intrinseci e input talamici cooperano: le due ipotesi evidenziano pesi diversi, non processi necessariamente incompatibili.\n\n\n\nPresentare protomap e protocortex come estremi interpretativi utili. La lettura contemporanea integra specificazione precoce e raffinamento dipendente dagli input."
-  },
-  {
-    "objectID": "1_ns_development.html#sintesi-finale",
-    "href": "1_ns_development.html#sintesi-finale",
-    "title": "Sviluppo embrionale del sistema nervoso",
-    "section": "22. Sintesi finale",
-    "text": "22. Sintesi finale\n\n\n\nDal tessuto alla struttura:\n\nl’ectoderma acquisisce identità neurale\nla neurulazione costruisce tubo e cresta neurale\nla chiusura modifica la geometria dell’embrione\n\n\n\n\nDa struttura a organizzazione:\nInduzione e competenza guidano le risposte; gli assi regionalizzano il tubo neurale; fattori intrinseci e input affinano la corteccia.\n\n\nMessaggio chiave: lo sviluppo nervoso nasce dall’interazione continua tra posizione, segnali, storia cellulare e attività."
-  },
-  {
-    "objectID": "1_ns_development.html#building-a-nervous-system",
-    "href": "1_ns_development.html#building-a-nervous-system",
-    "title": "Embryonic development of the nervous system",
-    "section": "Building a nervous system",
-    "text": "Building a nervous system\n\n\n\nThe nervous system emerges through a coordinated sequence of:\n\nchanges in tissue shape\ncell movements\nsignals between tissues\nacquisition of regional identities\n\n\n\nGuiding idea\nDevelopment does more than enlarge a structure. It progressively creates differences between cells and regions."
-  },
-  {
-    "objectID": "1_ns_development.html#germ-layers-and-ectoderm",
-    "href": "1_ns_development.html#germ-layers-and-ectoderm",
-    "title": "Embryonic development of the nervous system",
-    "section": "Germ layers and ectoderm",
-    "text": "Germ layers and ectoderm\n\n\n\nThree germ layers become distinct during early embryonic development:\n\nectoderm\nmesoderm\nendoderm\n\n\n\nNeural tissue develops from a specialized region of the ectoderm."
-  },
-  {
-    "objectID": "1_ns_development.html#neurulation",
-    "href": "1_ns_development.html#neurulation",
-    "title": "Embryonic development of the nervous system",
-    "section": "Neurulation",
-    "text": "Neurulation\n\n\n\nNeurulation transforms a flat region of ectoderm into a tubular structure.\n\nthe neural plate appears\nits edges become elevated\nthe central region bends inward\nthe neural folds approach and fuse\n\n\n\nVideo"
-  },
-  {
-    "objectID": "1_ns_development.html#neural-plate-neural-groove-and-neural-tube",
-    "href": "1_ns_development.html#neural-plate-neural-groove-and-neural-tube",
-    "title": "Embryonic development of the nervous system",
-    "section": "Neural plate, neural groove, and neural tube",
-    "text": "Neural plate, neural groove, and neural tube\n\n\n\nNeural plate\nA thickened region of ectoderm that will form much of the central nervous system.\n\n\nNeural groove\nA midline depression bordered by the neural folds.\n\n\nNeural tube\nThe closed structure from which the brain and spinal cord will develop.\n\n\nThe neural crest gives rise to much of the peripheral nervous system, including sensory and autonomic neurons.\n\n\nVideo"
-  },
-  {
-    "objectID": "1_ns_development.html#developmental-timeline-day-18-and-day-21",
-    "href": "1_ns_development.html#developmental-timeline-day-18-and-day-21",
-    "title": "Embryonic development of the nervous system",
-    "section": "5. Developmental timeline: day 18 and day 21",
-    "text": "5. Developmental timeline: day 18 and day 21\n\n\n\nAround day 18\n\nthe neural plate is recognisable\nremodelling of the ectoderm begins\n\nThe embryonic midline becomes progressively defined.\n\n\n\nAround day 21\n\nthe neural groove is evident\nthe neural folds approach one another\n\nTransformation towards a neural tube is under way.\n\n\n\nImage needed: comparison of neural development around day 18 and day 21\nSuggested file: images/nsdev_timeline_day18_day21.png\n\n\nThe dates provide orientation rather than sharp boundaries. These changes are continuous and partly overlap."
-  },
-  {
-    "objectID": "1_ns_development.html#neural-tube-closure",
-    "href": "1_ns_development.html#neural-tube-closure",
-    "title": "Embryonic development of the nervous system",
-    "section": "Neural tube closure",
-    "text": "Neural tube closure\n\n\n\nDuring closure:\n\nopposing neural folds meet and fuse\nsurface ectoderm reconnects above the tube\nthe neural tube separates from the surface\nthe neuropores remain temporarily open\n\n\n\nDisrupted closure can produce neural tube defects. The outcome depends on the affected region. Example: Spina Bifida"
-  },
-  {
-    "objectID": "1_ns_development.html#neural-crest-and-its-main-derivatives",
-    "href": "1_ns_development.html#neural-crest-and-its-main-derivatives",
-    "title": "Embryonic development of the nervous system",
-    "section": "Neural crest and its main derivatives",
-    "text": "Neural crest and its main derivatives\n\n\n\nNeural crest specification begins at the neural plate border, while the neural plate is still open.\n\n\nAfter fusion, neural crest cells occupy the dorsal neural tube. They later delaminate and migrate to distant regions.\n\n\n\nMajor derivatives include:\n\nsensory and autonomic ganglia\nSchwann cells\nmelanocytes\nthe adrenal medulla\ncraniofacial components\n\n\n\nImage needed: neural crest specification, delamination, and major derivatives\nSuggested file: images/nsdev_neural_crest_derivatives.png"
-  },
-  {
-    "objectID": "1_ns_development.html#neural-induction",
-    "href": "1_ns_development.html#neural-induction",
-    "title": "Embryonic development of the nervous system",
-    "section": "Neural induction",
-    "text": "Neural induction"
-  },
-  {
-    "objectID": "1_ns_development.html#the-spemann-and-mangold-experiment",
-    "href": "1_ns_development.html#the-spemann-and-mangold-experiment",
-    "title": "Embryonic development of the nervous system",
-    "section": "The Spemann and Mangold experiment",
-    "text": "The Spemann and Mangold experiment\n\n\n\nProcedure\n\nthe dorsal lip was taken from a donor amphibian gastrula\nit was transplanted into the ventral region of a host embryo\nsubsequent development was observed\n\n\n\nThe graft induced the formation of a secondary embryonic axis.\n\n\n\n\n\nThe graft did not build the entire secondary axis by itself. It also organized cells from the host embryo."
-  },
-  {
-    "objectID": "1_ns_development.html#the-spemann-organiser",
-    "href": "1_ns_development.html#the-spemann-organiser",
-    "title": "Embryonic development of the nervous system",
-    "section": "10. The Spemann organiser",
-    "text": "10. The Spemann organiser\n\n\n\nThe transplanted tissue is called an organiser because it can:\n\nalter the fate of nearby tissues\ninduce neural structures\ncontribute to the organisation of body axes\n\n\n\n\nWhat does this show?\nDevelopment depends on interactions between groups of cells, not only on autonomous instructions within each cell.\n\n\nTo “organise” does not mean to provide a complete blueprint. It means creating signals and conditions that coordinate different responses."
-  },
-  {
-    "objectID": "1_ns_development.html#in-vitro-experimental-evidence",
-    "href": "1_ns_development.html#in-vitro-experimental-evidence",
-    "title": "Embryonic development of the nervous system",
-    "section": "11. In vitro experimental evidence",
-    "text": "11. In vitro experimental evidence\n\n\n\nIn culture, researchers can:\n\nisolate regions of ectoderm\ncontrol which tissues interact\nvary the signals that are present\nobserve the acquisition of neural characteristics\n\n\n\n\nComparisons between experimental conditions show that the cellular environment can influence neural identity.\n\n\nLimitation\nA culture simplifies the system. It can clarify causal relationships but does not reproduce the complete embryonic context.\n\n\n\nConnect the in vitro approach with transplantation: culture isolates selected variables, whereas transplantation preserves more of the embryo’s organisation."
-  },
-  {
-    "objectID": "1_ns_development.html#regionalisation-of-the-neural-tube",
-    "href": "1_ns_development.html#regionalisation-of-the-neural-tube",
-    "title": "Embryonic development of the nervous system",
-    "section": "12. Regionalisation of the neural tube",
-    "text": "12. Regionalisation of the neural tube\n\n\n\nThe initially continuous neural tube acquires distinct identities along two axes:\n\nanteroposterior\ndorsoventral\n\n\n\nIts regions progressively differ in structure, cell types, and future connections.\n\n\n\nImage needed: neural tube showing its anteroposterior and dorsoventral axes\nSuggested file: images/nsdev_neural_tube_axes.png"
-  },
-  {
-    "objectID": "1_ns_development.html#the-dorsoventral-axis-and-morphogens",
-    "href": "1_ns_development.html#the-dorsoventral-axis-and-morphogens",
-    "title": "Embryonic development of the nervous system",
-    "section": "13. The dorsoventral axis and morphogens",
-    "text": "13. The dorsoventral axis and morphogens\n\n\n\nSignals from dorsal and ventral regions form graded distributions.\nThese signals act as morphogens: cells exposed to different conditions can acquire different identities.\n\n\n\nThe response depends on:\n\nsignal strength\nduration of exposure\ncombination with other signals\ncellular competence\n\n\n\nImage needed: dorsoventral signalling gradients in the neural tube\nSuggested file: images/nsdev_dorsoventral_morphogens.png"
-  },
-  {
-    "objectID": "1_ns_development.html#cellular-competence-and-response-to-signalling-cues",
-    "href": "1_ns_development.html#cellular-competence-and-response-to-signalling-cues",
-    "title": "Embryonic development of the nervous system",
-    "section": "14. Cellular competence and response to signalling cues",
-    "text": "14. Cellular competence and response to signalling cues\n\n\n\nCompetence is a cell’s ability to respond to a particular signal.\n\n\nDifferent cells can receive the same signal yet produce different responses.\n\n\n\nThe response depends on:\n\navailable receptors\nthe cell’s previous history\nits state of differentiation\ndevelopmental timing\n\n\n\nThe meaning of a signal is therefore not fixed: it depends on context."
-  },
-  {
-    "objectID": "1_ns_development.html#anteroposterior-regionalisation",
-    "href": "1_ns_development.html#anteroposterior-regionalisation",
-    "title": "Embryonic development of the nervous system",
-    "section": "15. Anteroposterior regionalisation",
-    "text": "15. Anteroposterior regionalisation\n\n\n\nBroad identities emerge along the anteroposterior axis:\n\nanterior brain regions\nmidbrain\nhindbrain\nspinal cord\n\n\n\n\nImage needed: regional identities along the anteroposterior axis\nSuggested file: images/nsdev_anteroposterior_axis.png\n\n\nRegionalisation is progressive: initially broad domains are subsequently refined."
-  },
-  {
-    "objectID": "1_ns_development.html#retinoic-acid-and-fgf",
-    "href": "1_ns_development.html#retinoic-acid-and-fgf",
-    "title": "Embryonic development of the nervous system",
-    "section": "16. Retinoic acid and FGF",
-    "text": "16. Retinoic acid and FGF\n\n\n\nRetinoic acid and FGF signalling contribute to the specification of posterior neural identities.\n\n\nThey do not act as isolated labels. Their effects depend on signal level, timing, and cellular context.\n\n\n\nGeneral principle\nPosition along an axis can be translated into cellular identity through signals distributed across space and time.\n\n\nThe same signalling system can support different functions in different regions or developmental phases."
-  },
-  {
-    "objectID": "1_ns_development.html#hox-genes-and-hindbrain-organisation",
-    "href": "1_ns_development.html#hox-genes-and-hindbrain-organisation",
-    "title": "Embryonic development of the nervous system",
-    "section": "17. Hox genes and hindbrain organisation",
-    "text": "17. Hox genes and hindbrain organisation\n\n\n\nHox genes contribute to anteroposterior identity in the hindbrain.\n\nthey are expressed in regional combinations\nthey help distinguish adjacent domains\nthey influence neuronal fates\n\n\n\n\nImage needed: segmented hindbrain with regional Hox expression\nSuggested file: images/nsdev_hox_hindbrain.png\n\n\nThere is no simple correspondence between one gene and one structure. The combined expression profile matters."
-  },
-  {
-    "objectID": "1_ns_development.html#brain-vesicles",
-    "href": "1_ns_development.html#brain-vesicles",
-    "title": "Embryonic development of the nervous system",
-    "section": "Brain vesicles",
-    "text": "Brain vesicles\n\n\n\n\nPrimary brain vesicles\n\nforebrain\nmidbrain\nhindbrain\n\n\n\n\nSubdivisions\nThe forebrain forms the telencephalon and diencephalon.\nThe midbrain retains its name.\nThe hindbrain forms the metencephalon and myelencephalon."
-  },
-  {
-    "objectID": "1_ns_development.html#neocortical-regionalisation",
-    "href": "1_ns_development.html#neocortical-regionalisation",
-    "title": "Embryonic development of the nervous system",
-    "section": "19. Neocortical regionalisation",
-    "text": "19. Neocortical regionalisation\n\n\n\nFuture cortical areas emerge through interactions between:\n\nearly differences among progenitor cells\nlocal signalling cues\nmaturation of connections\nactivity arriving from other regions\n\n\n\n\nImage needed: progressive emergence of areas in the developing neocortex\nSuggested file: images/nsdev_neocortex_regionalisation.png\n\n\nEarly cortical identities are not complete adult boundaries. They are stabilised and refined during development."
-  },
-  {
-    "objectID": "1_ns_development.html#the-protomap-hypothesis",
-    "href": "1_ns_development.html#the-protomap-hypothesis",
-    "title": "Embryonic development of the nervous system",
-    "section": "20. The protomap hypothesis",
-    "text": "20. The protomap hypothesis\n\n\n\nThe protomap hypothesis proposes that cortical progenitor cells possess early regional differences.\n\n\nThese differences provide an initial map of future cortical areas before connections have fully matured.\n\n\n\nConceptual prediction\nSome aspects of areal identity should be detectable before the arrival of mature sensory inputs.\n\n\nLater inputs can nevertheless modify and refine this initial organisation."
-  },
-  {
-    "objectID": "1_ns_development.html#the-protocortex-hypothesis-and-thalamic-inputs",
-    "href": "1_ns_development.html#the-protocortex-hypothesis-and-thalamic-inputs",
-    "title": "Embryonic development of the nervous system",
-    "section": "21. The protocortex hypothesis and thalamic inputs",
-    "text": "21. The protocortex hypothesis and thalamic inputs\n\n\n\nThe protocortex hypothesis gives thalamic inputs a central role in shaping the functional identity of cortical areas.\n\n\nThe early cortex is regarded as relatively flexible and progressively specialised by incoming connections.\n\n\n\nImage needed: comparison of the protomap and protocortex hypotheses\nSuggested file: images/nsdev_cortical_hypotheses.png\n\n\nIntegrated view\nIntrinsic factors and thalamic inputs cooperate. The two hypotheses emphasise different influences rather than necessarily incompatible processes.\n\n\n\nPresent the protomap and protocortex hypotheses as useful interpretative poles. Current accounts integrate early specification with input-dependent refinement."
-  },
-  {
-    "objectID": "1_ns_development.html#final-summary",
-    "href": "1_ns_development.html#final-summary",
-    "title": "Embryonic development of the nervous system",
-    "section": "Final summary",
-    "text": "Final summary\n\n\n\nKey steps:\n\nhuman embryology and model organisms provide complementary evidence\nBMP inhibition supports neural induction\nneurulation forms the neural tube and neural crest\n\n\n\n\nRegional signals:\n\nSHH patterns ventral neural tissue, while BMP and WNT pattern dorsal tissue\nWNT, FGF, and retinoic acid contribute to anteroposterior identity\n\n\n\nKey message: intrinsic patterning and external inputs work together throughout nervous system development."
-  },
-  {
-    "objectID": "1_ns_development.html#sources-of-evidence",
-    "href": "1_ns_development.html#sources-of-evidence",
-    "title": "Embryonic development of the nervous system",
-    "section": "Sources of evidence",
-    "text": "Sources of evidence\n\n\nTo understand how the nervous system develops (and how brain activity gives rise to behaviour) we need a comparative perspective across species.\n\n\nWhat can this comparison tell us?\n\nWhich mechanisms are conserved across species?\nWhich features are specific to humans?\n\n\n\nWhy study other animals?\n\nAnimal models allow us to manipulate genes, cells and circuits.\nMany of these experiments would be impossible or unethical in humans."
-  },
-  {
-    "objectID": "1_ns_development.html#human-neurulation-timeline",
-    "href": "1_ns_development.html#human-neurulation-timeline",
-    "title": "Embryonic development of the nervous system",
-    "section": "Human neurulation timeline",
-    "text": "Human neurulation timeline\n\n\n\nEarly neurulation\n\naround day 18: the neural plate is visible\naround days 20-22: neural-fold fusion begins\n\n\n\n\nNeuropore closure\n\naround day 25: the cranial neuropore closes\naround days 27-28: the caudal neuropore closes"
-  },
-  {
-    "objectID": "1_ns_development.html#neural-induction-and-bmp-inhibition",
-    "href": "1_ns_development.html#neural-induction-and-bmp-inhibition",
-    "title": "Embryonic development of the nervous system",
-    "section": "Neural induction and BMP inhibition",
-    "text": "Neural induction and BMP inhibition\n\n\n\nBMP signaling promotes non-neural, epidermal development in the ectoderm.\nReducing BMP signaling allows competent ectoderm to adopt a neural fate.\n\n\nThe organizer releases BMP antagonists, including Noggin, Chordin and Follistatin. These signals support neural induction.\n\n\n\n\n\nBMP inhibition is a central introductory model of neural induction. It does not represent every signal involved in neural development."
-  },
-  {
-    "objectID": "1_ns_development.html#the-spemann-organizer",
-    "href": "1_ns_development.html#the-spemann-organizer",
-    "title": "Embryonic development of the nervous system",
-    "section": "The Spemann organizer",
-    "text": "The Spemann organizer\n\n\n\nThe transplanted tissue is called an organizer because it can:\n\nalter the fate of nearby tissues\ninduce neural structures\ncontribute to the organization of body axes\n\n\n\n\nWhat does this show?\nDevelopment depends on interactions between groups of cells, not only on autonomous instructions within each cell.\n\n\nAn organizer is not a complete blueprint. It creates signals and conditions that coordinate different cellular responses.\n\n\n\nEven when the organizer is transplanted between different species, it can induce a secondary axis. For example, a chick organizer node transplanted into a zebrafish embryo recruits surrounding zebrafish cells to form a secondary axis.\nThe induced structures have the characteristics of the host species, not of the donor.\nOrganizer → instructive signals\nHost cells → build the new tissues"
-  },
-  {
-    "objectID": "1_ns_development.html#animal-cap-explant-experiments",
-    "href": "1_ns_development.html#animal-cap-explant-experiments",
-    "title": "Embryonic development of the nervous system",
-    "section": "Animal-cap explant experiments",
-    "text": "Animal-cap explant experiments\n\n\n\nAn animal cap is a small ectoderm explant removed from an amphibian blastula.\nResearchers can culture it using in vitro Experimental techniques:\n\nalone\nwith defined signaling conditions\n\n\n\nThe assay provides a simple test of how signals change ectodermal fate."
-  },
-  {
-    "objectID": "1_ns_development.html#regionalization-of-the-neural-tube",
-    "href": "1_ns_development.html#regionalization-of-the-neural-tube",
-    "title": "Embryonic development of the nervous system",
-    "section": "Regionalization of the neural tube",
-    "text": "Regionalization of the neural tube\n\n\n\nThe initially continuous neural tube acquires distinct identities along two axes:\n\nanteroposterior\ndorsoventral\n\n\n\nIts regions progressively differ in structure, cell types, and future connections."
-  },
-  {
-    "objectID": "1_ns_development.html#dorsoventral-signals-and-morphogens",
-    "href": "1_ns_development.html#dorsoventral-signals-and-morphogens",
-    "title": "Embryonic development of the nervous system",
-    "section": "Dorsoventral signals and morphogens",
-    "text": "Dorsoventral signals and morphogens\n\n\n\nVentral patterning: The notochord and floor plate provide SHH, a major ventral signal.\nDorsal patterning: The roof plate and nearby ectoderm provide BMP and WNT dorsal signals.\n\n\nThese signals form gradients. Cell identity depends on:\n\nsignal level\nduration of exposure\ninteractions with other signals\ncellular competence"
-  },
-  {
-    "objectID": "1_ns_development.html#cellular-competence",
-    "href": "1_ns_development.html#cellular-competence",
-    "title": "Embryonic development of the nervous system",
-    "section": "Cellular competence",
-    "text": "Cellular competence\n\n\n\nCompetence is a cell’s ability to respond to a particular signal.\n\n\nDifferent cells can receive the same signal but produce different responses.\n\n\n\nThe response depends on:\n\navailable receptors\nthe cell’s previous history\nits state of differentiation\ndevelopmental timing\n\n\n\n\nA signal has no fixed meaning outside its cellular and developmental context."
-  },
-  {
-    "objectID": "1_ns_development.html#anteroposterior-regionalization",
-    "href": "1_ns_development.html#anteroposterior-regionalization",
-    "title": "Embryonic development of the nervous system",
-    "section": "Anteroposterior regionalization",
-    "text": "Anteroposterior regionalization\n\n\n\nBroad identities emerge along the anteroposterior axis:\n\nanterior brain regions\nmidbrain\nhindbrain\nspinal cord\n\n\n\nRegionalization is progressive. Broad early domains are later refined into more specific territories."
-  },
-  {
-    "objectID": "1_ns_development.html#wnt-fgf-and-retinoic-acid",
-    "href": "1_ns_development.html#wnt-fgf-and-retinoic-acid",
-    "title": "Embryonic development of the nervous system",
-    "section": "WNT, FGF, and retinoic acid",
-    "text": "WNT, FGF, and retinoic acid\n\n\n\nWNT, FGF, and retinoic acid contribute to anteroposterior patterning.\nTheir level and timing help distinguish anterior from posterior neural identities.\n\n\n\nRetinoic acid contributes to patterning anterior neural regions.\nWNT and FGF support posterior neural character.\n\n\n\nThis model works well for the posterior neural tube and spinal cord. Patterning of the anterior nervous system is more complex and cannot be described by a single anteroposterior gradient alone."
-  },
-  {
-    "objectID": "1_ns_development.html#hox-genes-and-hindbrain-organization",
-    "href": "1_ns_development.html#hox-genes-and-hindbrain-organization",
-    "title": "Embryonic development of the nervous system",
-    "section": "Hox genes and hindbrain organization",
-    "text": "Hox genes and hindbrain organization\n\n\n\nThe early hindbrain is organized into transient segments called rhombomeres.\nHox genes help assign anteroposterior identity to these regions.\n\n\nHox genes:\n\nare expressed in regional combinations\nhelp distinguish adjacent domains\ninfluence neuronal identity\n\n\n\n\nImage needed: hindbrain rhombomeres with regional Hox expression\nSuggested file: images/nsdev_hox_hindbrain.png\n\n\nThere is no simple relationship between one Hox gene and one structure. The combined expression pattern matters."
-  },
-  {
-    "objectID": "1_ns_development.html#neocortical-regionalization",
-    "href": "1_ns_development.html#neocortical-regionalization",
-    "title": "Embryonic development of the nervous system",
-    "section": "Neocortical regionalization",
-    "text": "Neocortical regionalization\n\n\n\nFuture cortical areas emerge through interactions between:\n\nearly differences among progenitor cells\nlocal signaling cues\nmaturation of connections\nactivity arriving from other regions\n\n\n\n\nImage needed: progressive emergence of areas in the developing neocortex\nSuggested file: images/nsdev_neocortex_regionalization.png\n\n\nEarly cortical identities are not complete adult boundaries. They are stabilized and refined during development."
-  },
-  {
-    "objectID": "1_ns_development.html#classical-hypotheses-of-cortical-regionalization",
-    "href": "1_ns_development.html#classical-hypotheses-of-cortical-regionalization",
-    "title": "Embryonic development of the nervous system",
-    "section": "Classical hypotheses of cortical regionalization",
-    "text": "Classical hypotheses of cortical regionalization\n\n\n\nClassical protomap hypothesis\nEarly regional differences in cortical progenitors provide an initial map of future cortical areas.\n\n\nClassical protocortex hypothesis\nThe early cortex is relatively flexible. Thalamic inputs play a major role in shaping areal identity.\n\n\nIntegrated interpretation\nIntrinsic patterning establishes early regional biases. Thalamic inputs and activity refine the developing cortical map."
-  },
-  {
-    "objectID": "1_ns_development.html#from-ectoderm-to-neural-tube",
-    "href": "1_ns_development.html#from-ectoderm-to-neural-tube",
-    "title": "Embryonic development of the nervous system",
-    "section": "From ectoderm to neural tube",
-    "text": "From ectoderm to neural tube"
-  },
-  {
-    "objectID": "1_ns_development.html#from-brain-vesicles-to-cortical-areas",
-    "href": "1_ns_development.html#from-brain-vesicles-to-cortical-areas",
-    "title": "Embryonic development of the nervous system",
-    "section": "From brain vesicles to cortical areas",
-    "text": "From brain vesicles to cortical areas"
-  },
-  {
-    "objectID": "1_ns_development.html#key-concepts",
-    "href": "1_ns_development.html#key-concepts",
-    "title": "Embryonic development of the nervous system",
-    "section": "Key concepts",
-    "text": "Key concepts"
-  },
-  {
-    "objectID": "1_ns_development.html#sources-of-evidence-1",
-    "href": "1_ns_development.html#sources-of-evidence-1",
-    "title": "Embryonic development of the nervous system",
-    "section": "Sources of evidence",
-    "text": "Sources of evidence\n\n\n\nHuman embryology\nMainly supports observation and description of developmental timing and anatomy.\n\n\nSome experiments and developmental perturbations cannot be performed in humans for ethical and practical reasons.\n\n\n\n\n\n\n\nAnimal models\nAmphibian, chick, and mouse models allow controlled manipulation of:\n\ngenes and tissues\nsignaling pathways\ndevelopmental conditions\n\n\n\nControlled perturbations make it possible to test causal hypotheses, rather than only describe development.\nMany fundamental mechanisms are highly conserved across vertebrates. Species differences must still be considered when interpreting results.\n\n\n\nResults from model organisms guide the interpretation of human development, but similarities should not be treated as complete equivalence."
-  },
-  {
-    "objectID": "1_ns_development.html#from-one-cell-to-many-cell-types",
-    "href": "1_ns_development.html#from-one-cell-to-many-cell-types",
-    "title": "Embryonic development of the nervous system",
-    "section": "From one cell to many cell types",
-    "text": "From one cell to many cell types\n\n\n\nEverything starts with a single cell: the fertilized egg, or zygote.\n\nAfter fertilization, the zygote begins to divide repeatedly.\nThese first divisions produce cells that are different from most cells in the adult body. Stem cells differ in their developmental potential, that is, in how many different cell types they can generate.\n\nStem cells are not all the same. Their potential changes during development:\ntotipotent → pluripotent → multipotent → specialized cells\n\n\n\n\nTotipotent cells: can generate all tissues\nPluripotent cells: can generate almost every cell type of the body\nMultipotent cells: can generate several related cell types within a tissue\nOligopotent cells: can generate only a few closely related cell types\nUnipotent cells: can generate only one specialized cell type\n\n\n\nDifferentiation: the process by which stem cells become specialized into specific cell types."
-  },
-  {
-    "objectID": "1_ns_development.html#dorsoventral-signals-and-morphogens-1",
-    "href": "1_ns_development.html#dorsoventral-signals-and-morphogens-1",
-    "title": "Embryonic development of the nervous system",
-    "section": "Dorsoventral signals and morphogens",
-    "text": "Dorsoventral signals and morphogens\nDorsoventral gradients contribute to the identity of neural progenitor cells.\n\nSHH is highest ventrally, whereas BMP/WNT signals are stronger dorsally.\nCells sense the local concentration of these morphogens.\nThe gradient therefore acts as a positional map: it provides information about where a cell is located along the dorsoventral axis.\nDifferent levels of morphogen exposure activate different intracellular signaling pathways and patterns of gene expression.\nThese molecular programs progressively specify different progenitor domains and neuronal identities.\n\n\nA morphogen does not simply tell a cell what to become. Its concentration provides information about where the cell is, and the cell translates this positional information into a specific developmental fate."
-  },
-  {
-    "objectID": "1_ns_development.html#dorsoventral-signals-and-morphogens-2",
-    "href": "1_ns_development.html#dorsoventral-signals-and-morphogens-2",
-    "title": "Embryonic development of the nervous system",
-    "section": "Dorsoventral signals and morphogens 2",
-    "text": "Dorsoventral signals and morphogens 2\n\n\n\nDorsoventral gradients contribute to the identity of neural progenitor cells.\n\nSHH is highest ventrally, whereas BMP/WNT signals are stronger dorsally.\nCells sense the local concentration of these morphogens.\nThe gradient acts as a positional map: it provides information about where a cell is located along the dorsoventral axis.\nDifferent levels of morphogen exposure activate different intracellular signaling pathways and patterns of gene expression that progressively specify different progenitor domains and neuronal identities."
-  },
-  {
-    "objectID": "1_ns_development.html#ventral-patterning-sonic-hedgehog",
-    "href": "1_ns_development.html#ventral-patterning-sonic-hedgehog",
-    "title": "Embryonic development of the nervous system",
-    "section": "Ventral patterning: Sonic Hedgehog",
-    "text": "Ventral patterning: Sonic Hedgehog\n\n\n\nSHH forms a ventral-to-dorsal concentration gradient in the developing neural tube.\n\nDifferent SHH levels specify different ventral progenitor domains.\nSHH binds PTCH, relieving its inhibition of SMO.\nThis activates GLI-dependent gene expression and promotes specific neuronal identities."
-  },
-  {
-    "objectID": "1_ns_development.html#dorsal-patterning-bmp-signaling",
-    "href": "1_ns_development.html#dorsal-patterning-bmp-signaling",
-    "title": "Embryonic development of the nervous system",
-    "section": "Dorsal patterning: BMP signaling",
-    "text": "Dorsal patterning: BMP signaling\n\n\nBMPs are produced dorsally and form a gradient opposite to SHH.\n\n\nDifferent BMP levels contribute to the specification of dorsal progenitor domains.\nBMP activates its receptors and the SMAD1/5–SMAD4 pathway.\nActivated SMADs regulate gene expression and promote dorsal neuronal identities.\n\n\n\n\nBMPs from the RP specify dorsal progenitors that become commissural interneurons.\nBMP signaling also direct them to their ventral migration and axon guidance."
-  },
-  {
-    "objectID": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions",
-    "href": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions",
-    "title": "Embryonic development of the nervous system",
-    "section": "Hox genes: from gradients to discrete regions",
-    "text": "Hox genes: from gradients to discrete regions\n\n\n\nMorphogen gradients provide continuous positional information, but the nervous system must eventually be organized into distinct regions.\nOne example is the developing hindbrain, which is divided into transient segments called rhombomeres.\n\n\nRhombomeres are transient developmental structures.\nThey do not persist as separate units in the adult brain. During development, their cells are reorganized and contribute to the formation of the mature hindbrain, including structures and nuclei of the pons, medulla, cerebellar-related systems and cranial nerves."
-  },
-  {
-    "objectID": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-1",
-    "href": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-1",
-    "title": "Embryonic development of the nervous system",
-    "section": "Hox genes: from gradients to discrete regions",
-    "text": "Hox genes: from gradients to discrete regions\n\n\n\nMorphogen gradients provide continuous positional information, but the nervous system must eventually be organized into distinct regions.\nOne example is the developing hindbrain, which is divided into transient segments called rhombomeres.\n\n\nRhombomeres are transient developmental structures.\nThey do not persist as separate units in the adult brain. During development, their cells are reorganized and contribute to the formation of the mature hindbrain, including structures and nuclei of the pons, medulla, and cerebellar-related systems.\n\n\nHox genes translate positional information into regional identity.\n\ndifferent regions express different combinations of Hox genes\nthese combinations define distinct developmental domains\ncells within each domain acquire related neuronal identities\nthese domains later contribute to the formation of distinct structures and nuclei\n\n\n\n\nImage needed: hindbrain rhombomeres with regional Hox expression\nSuggested file: images/nsdev_hox_hindbrain.png\n\n\nThe important principle is combinatorial coding:\ncontinuous gradients → combinations of gene expression → discrete tissue identities\nThere is no simple correspondence between one Hox gene and one structure: it is the combination of expressed genes that matters."
-  },
-  {
-    "objectID": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-2",
-    "href": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-2",
-    "title": "Embryonic development of the nervous system",
-    "section": "Hox genes: from gradients to discrete regions 2",
-    "text": "Hox genes: from gradients to discrete regions 2\n\n\n\nHox genes translate positional information into regional identity.\n\n\n\ndifferent regions express different combinations of Hox genes\nthese combinations define distinct developmental domains\ncells within each domain acquire related neuronal identities\nthese domains later contribute to the formation of distinct structures and nuclei"
-  },
-  {
-    "objectID": "1_ns_development.html#from-extracellular-signals-to-brain-regions",
-    "href": "1_ns_development.html#from-extracellular-signals-to-brain-regions",
-    "title": "Embryonic development of the nervous system",
-    "section": "From extracellular signals to brain regions",
-    "text": "From extracellular signals to brain regions\n\nThe Hox pattern in the hindbrain is just one example of a more general principle of nervous system development.\nGene expression is not established in isolation: it is continuously influenced by signals present in the extracellular environment.\n\n\nMorphogens and other extracellular signals interact with receptors on the cell and activate intracellular molecular pathways.\nThese pathways modify the expression of transcription factors and other genes, initiating different developmental programs.\n\n\nThrough this process, initially similar cells acquire different identities and progressively organize into distinct domains, nuclei, and brain areas."
-  },
-  {
-    "objectID": "1_ns_development.html#why-is-there-no-single-anterior-morphogen",
-    "href": "1_ns_development.html#why-is-there-no-single-anterior-morphogen",
-    "title": "Embryonic development of the nervous system",
-    "section": "Why is there no single “anterior morphogen”?",
-    "text": "Why is there no single “anterior morphogen”?\n\n\n\nThe anterior nervous system is much more structurally complex than the spinal cord. For this reason, anterior patterning depends on multiple local organizing centers, rather than on a single morphogen gradient.\n\n\nExample: the isthmic organizer\nThe isthmus is located at the boundary between the developing midbrain and hindbrain.\nIt acts as an organizer by releasing signaling molecules, especially WNT1 and FGF8, that pattern the surrounding tissue and promote the development of the mesencephalon and metencephalon."
-  },
-  {
-    "objectID": "1_ns_development.html#regionalization-of-the-neocortex",
-    "href": "1_ns_development.html#regionalization-of-the-neocortex",
-    "title": "Embryonic development of the nervous system",
-    "section": "Regionalization of the neocortex",
-    "text": "Regionalization of the neocortex\n\nThe developing neocortex initially appears relatively homogeneous, but it will become organized into many functionally distinct cortical areas.\n\n\nExtracellular signals provide positional information. Different signaling centers produce gradients across the developing cortex:\n\nFGFs particularly FGF8, from the anterior region\nWNTs and BMPs from dorsocaudal regions"
-  },
-  {
-    "objectID": "1_ns_development.html#fgf8-helps-organize-the-cortical-map",
-    "href": "1_ns_development.html#fgf8-helps-organize-the-cortical-map",
-    "title": "Embryonic development of the nervous system",
-    "section": "FGF8 helps organize the cortical map",
-    "text": "FGF8 helps organize the cortical map\n\n\nExperimental manipulation of FGF8 changes the position of cortical areas:\n\nincreasing anterior FGF8 shifts cortical area boundaries posteriorly\nadding an ectopic posterior source of FGF8 can generate a second, partially duplicated cortical map\neven a second somatosensory area can appear\n\nThis shows that FGF8 is not simply correlated with cortical organization: it can instruct the position of cortical areas."
-  },
-  {
-    "objectID": "1_ns_development.html#gene-expression-defines-cortical-regions",
-    "href": "1_ns_development.html#gene-expression-defines-cortical-regions",
-    "title": "Embryonic development of the nervous system",
-    "section": "Gene expression defines cortical regions",
-    "text": "Gene expression defines cortical regions\n\n\nMorphogen gradients are translated into gradients of transcription factor expression.\nTwo important examples are Emx2 and Pax6, which are expressed in approximately opposing gradients across the developing neocortex.\n\n\n\nEmx2 is higher toward caudomedial cortex.\nPax6 is higher toward rostrolateral cortex.\nDifferent combinations and levels of these transcription factors give progenitor cells different regional identities."
-  },
-  {
-    "objectID": "1_ns_development.html#self-check",
-    "href": "1_ns_development.html#self-check",
-    "title": "Embryonic development of the nervous system",
-    "section": "Self-check",
-    "text": "Self-check"
+    "objectID": "index.html#search-course-slides",
+    "href": "index.html#search-course-slides",
+    "title": "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo (Modulo 1)",
+    "section": "Search course slides",
+    "text": "Search course slides\n\n  \n    Search the course\n    \n      \n      Search\n    \n  \n  Search across all course slides."
+  },
+  {
+    "objectID": "index.html#course-introduction",
+    "href": "index.html#course-introduction",
+    "title": "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo (Modulo 1)",
+    "section": "Course introduction",
+    "text": "Course introduction\n\n\n\nMaterials and resources\n\nMoodle\nTextbook: Chapters: 2, 3, 4, 5, 6, 7, 8, 12, 13\n\n\n\nSchedule\n\nCourse hours organization\n\n\n\n\nExam\nWritten exam\n\n8 open-ended questions - 4 per module, maximum 2 points each\n16 true/false questions - 8 per module, with mandatory justification\nTrue/false score: from -0.25 to 1 point\n\nOral exam\nMandatory only if the written-exam grade is below 21.\n\n\nContact\nraffaelemario.mazziotti@unifi.it"
   },
   {
     "objectID": "2_neurogenesis.html#neurogenesis-differentiation-and-neuronal-survival",
@@ -707,6 +196,13 @@
     "text": "Apoptosis is not necrosis\n\n\n\nApoptosis\nA regulated form of cell death.\nTypical features include:\n\ncell shrinkage\nchromatin condensation\nfragmentation into apoptotic bodies\nremoval by phagocytic cells\nlittle inflammatory response\n\n\n\n\nNecrosis\nUsually follows severe cellular injury.\nTypical features include:\n\ncell swelling\nmembrane disruption\nrelease of intracellular contents\ninflammatory response"
   },
   {
+    "objectID": "2_neurogenesis.html#apoptosis-is-not-necrosis2",
+    "href": "2_neurogenesis.html#apoptosis-is-not-necrosis2",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Apoptosis is not necrosis2",
+    "text": "Apoptosis is not necrosis2"
+  },
+  {
     "objectID": "2_neurogenesis.html#apoptosis-is-an-active-molecular-program",
     "href": "2_neurogenesis.html#apoptosis-is-an-active-molecular-program",
     "title": "Neurogenesis, differentiation and neuronal survival",
@@ -719,13 +215,6 @@
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Why eliminate neurons during development?",
     "text": "Why eliminate neurons during development?\n\n\n\nProgrammed cell death can contribute to several developmental functions.\n\n\nIt can help:\n\nmatch the size of interconnected neuronal populations\nremove cells with inappropriate identities or connections\neliminate cells that served only a transient developmental function\nrefine developing structures\n\n\n\n\nOne of the most important principles of developmental neuronal survival is that neurons interact with the tissues they innervate.\n\n\nMany developing neuronal populations initially contain more neurons than their targets can support.\nNeurons that successfully interact with appropriate targets receive survival signals.\nNeurons that do not receive sufficient support activate the apoptotic program."
-  },
-  {
-    "objectID": "2_neurogenesis.html#target-tissues-regulate-neuronal-survival",
-    "href": "2_neurogenesis.html#target-tissues-regulate-neuronal-survival",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Target tissues regulate neuronal survival",
-    "text": "Target tissues regulate neuronal survival\n\nThis mechanism helps match the number of neurons to the size and requirements of the target tissue."
   },
   {
     "objectID": "2_neurogenesis.html#hamburger-and-levi-montalcini",
@@ -742,6 +231,13 @@
     "text": "The target-manipulation experiment\n\n\nChanging the amount of target tissue\n\n\n\nManipulation\n\nThe amount of peripheral tissue available to developing neurons is experimentally reduced or increased.\n\n\n\nResult\n\nLess target tissue → more neuronal death\nMore target tissue → more neuronal survival\n\n\n\nInterpretation\n\nTargets provide a limited resource required for neuronal survival."
   },
   {
+    "objectID": "2_neurogenesis.html#the-target-manipulation-experiment-2",
+    "href": "2_neurogenesis.html#the-target-manipulation-experiment-2",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "The target-manipulation experiment 2",
+    "text": "The target-manipulation experiment 2"
+  },
+  {
     "objectID": "2_neurogenesis.html#the-neurotrophic-hypothesis",
     "href": "2_neurogenesis.html#the-neurotrophic-hypothesis",
     "title": "Neurogenesis, differentiation and neuronal survival",
@@ -754,55 +250,6 @@
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "NGF and neurotrophic factors",
     "text": "NGF and neurotrophic factors\n\n\n\nNGF (Nerve Growth Factor) provided a molecular mechanism for the idea that target tissues can support neuronal survival.\n\n\nNGF is essential for the development and survival of particular populations of peripheral sensory and sympathetic neurons.\nIt is not a universal survival factor for every neuron.\n\n\nDifferent neuronal populations depend on different members of the broader family of neurotrophic factors."
-  },
-  {
-    "objectID": "2_neurogenesis.html#competition-matches-neurons-to-their-targets",
-    "href": "2_neurogenesis.html#competition-matches-neurons-to-their-targets",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Competition matches neurons to their targets",
-    "text": "Competition matches neurons to their targets\n\nNeurotrophic competition provides a mechanism for matching the size of a neuronal population to the size of the tissue it innervates.\n\n\n\n\nSmall or reduced target\nless trophic support -&gt; stronger competition -&gt; more neuronal death\n\n\n\nLarge or additional target\nmore trophic support -&gt; weaker competition -&gt; more neuronal survival"
-  },
-  {
-    "objectID": "2_neurogenesis.html#survival-signals-control-the-apoptotic-program",
-    "href": "2_neurogenesis.html#survival-signals-control-the-apoptotic-program",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Survival signals control the apoptotic program",
-    "text": "Survival signals control the apoptotic program\n\nThis is another example of the general developmental principle introduced earlier:\nextracellular signals regulate intracellular molecular programs and gene expression."
-  },
-  {
-    "objectID": "2_neurogenesis.html#constructive-and-regressive-processes",
-    "href": "2_neurogenesis.html#constructive-and-regressive-processes",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Constructive and regressive processes",
-    "text": "Constructive and regressive processes\n\nThe mature nervous system is not created by simply adding cells. It is produced by repeated cycles of generation, selection, and refinement.\n\n\n\n\nConstructive\n\nprogenitor expansion\nneurogenesis\nmigration\ndifferentiation\nneuronal growth\n\n\n\n\nRegressive\n\nprogrammed neuronal death\nelimination of inappropriate cells\nlater pruning of axons and synapses"
-  },
-  {
-    "objectID": "2_neurogenesis.html#from-cells-to-circuits",
-    "href": "2_neurogenesis.html#from-cells-to-circuits",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "From cells to circuits",
-    "text": "From cells to circuits\n\nAt this point development has generated neuronal populations with characteristic identities and has adjusted how many of those neurons survive.\n\n\nThe next problem is how these neurons become connected into functional circuits:\n\nhow axons find their targets\nhow synapses are formed\nhow connections are refined\nhow axons become myelinated\n\n\n\nNeurogenesis creates the cells. The next stage of development must connect them."
-  },
-  {
-    "objectID": "2_neurogenesis.html#apoptosis-is-not-necrosis2",
-    "href": "2_neurogenesis.html#apoptosis-is-not-necrosis2",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Apoptosis is not necrosis2",
-    "text": "Apoptosis is not necrosis2"
-  },
-  {
-    "objectID": "2_neurogenesis.html#the-target-manipulation-experiment-1",
-    "href": "2_neurogenesis.html#the-target-manipulation-experiment-1",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "The target-manipulation experiment",
-    "text": "The target-manipulation experiment"
-  },
-  {
-    "objectID": "2_neurogenesis.html#the-target-manipulation-experiment-2",
-    "href": "2_neurogenesis.html#the-target-manipulation-experiment-2",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "The target-manipulation experiment 2",
-    "text": "The target-manipulation experiment 2"
   },
   {
     "objectID": "2_neurogenesis.html#neurotrophic-factors",
@@ -819,9 +266,233 @@
     "text": "Competition for Survival\n\n\n\nNeurotrophic competition provides a mechanism for matching the size of a neuronal population to the size of the tissue it innervates.\n\n\nSmall or reduced target\nless trophic support -&gt; stronger competition -&gt; more neuronal death\n\n\nLarge or additional target\nmore trophic support -&gt; weaker competition -&gt; more neuronal survival\n\n\n\nTarget-derived trophic factors do not simply “feed” neurons.\nThey activate receptors and intracellular pathways that influence the balance between survival and apoptosis.\n\n\nThe extracellular environment can therefore regulate whether the intrinsic cell-death machinery is:\ninhibited → neuron survives\nor\nactivated → neuron undergoes apoptosis"
   },
   {
+    "objectID": "2_neurogenesis.html#constructive-and-regressive-processes",
+    "href": "2_neurogenesis.html#constructive-and-regressive-processes",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Constructive and regressive processes",
+    "text": "Constructive and regressive processes\n\nThe mature nervous system is not created by simply adding cells. It is produced by repeated cycles of generation, selection, and refinement.\n\n\n\n\nConstructive\n\nprogenitor expansion\nneurogenesis\nmigration\ndifferentiation\nneuronal growth\n\n\n\n\nRegressive\n\nprogrammed neuronal death\nelimination of inappropriate cells\nlater pruning of axons and synapses"
+  },
+  {
     "objectID": "2_neurogenesis.html#self-check",
     "href": "2_neurogenesis.html#self-check",
     "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Self-check",
+    "text": "Self-check"
+  },
+  {
+    "objectID": "1_ns_development.html#building-a-nervous-system",
+    "href": "1_ns_development.html#building-a-nervous-system",
+    "title": "Embryonic development of the nervous system",
+    "section": "Building a nervous system",
+    "text": "Building a nervous system\n\n\n\nThe nervous system emerges through a coordinated sequence of:\n\nchanges in tissue shape\ncell movements\nsignals between tissues\nacquisition of regional identities\n\n\n\nGuiding idea\nDevelopment does more than enlarge a structure. It progressively creates differences between cells and regions."
+  },
+  {
+    "objectID": "1_ns_development.html#sources-of-evidence",
+    "href": "1_ns_development.html#sources-of-evidence",
+    "title": "Embryonic development of the nervous system",
+    "section": "Sources of evidence",
+    "text": "Sources of evidence\n\n\nTo understand how the nervous system develops (and how brain activity gives rise to behaviour) we need a comparative perspective across species.\n\n\nWhat can this comparison tell us?\n\nWhich mechanisms are conserved across species?\nWhich features are specific to humans?\n\n\n\nWhy study other animals?\n\nAnimal models allow us to manipulate genes, cells and circuits.\nMany of these experiments would be impossible or unethical in humans."
+  },
+  {
+    "objectID": "1_ns_development.html#sources-of-evidence-1",
+    "href": "1_ns_development.html#sources-of-evidence-1",
+    "title": "Embryonic development of the nervous system",
+    "section": "Sources of evidence",
+    "text": "Sources of evidence\n\n\n\nHuman embryology\nMainly supports observation and description of developmental timing and anatomy.\n\n\nSome experiments and developmental perturbations cannot be performed in humans for ethical and practical reasons.\n\n\n\n\n\n\n\nAnimal models\nAmphibian, chick, and mouse models allow controlled manipulation of:\n\ngenes and tissues\nsignaling pathways\ndevelopmental conditions\n\n\n\nControlled perturbations make it possible to test causal hypotheses, rather than only describe development.\nMany fundamental mechanisms are highly conserved across vertebrates. Species differences must still be considered when interpreting results.\n\n\n\nResults from model organisms guide the interpretation of human development, but similarities should not be treated as complete equivalence."
+  },
+  {
+    "objectID": "1_ns_development.html#from-one-cell-to-many-cell-types",
+    "href": "1_ns_development.html#from-one-cell-to-many-cell-types",
+    "title": "Embryonic development of the nervous system",
+    "section": "From one cell to many cell types",
+    "text": "From one cell to many cell types\n\n\n\nEverything starts with a single cell: the fertilized egg, or zygote.\n\nAfter fertilization, the zygote begins to divide repeatedly.\nThese first divisions produce cells that are different from most cells in the adult body. Stem cells differ in their developmental potential, that is, in how many different cell types they can generate.\n\nStem cells are not all the same. Their potential changes during development:\ntotipotent → pluripotent → multipotent → specialized cells\n\n\n\n\nTotipotent cells: can generate all tissues\nPluripotent cells: can generate almost every cell type of the body\nMultipotent cells: can generate several related cell types within a tissue\nOligopotent cells: can generate only a few closely related cell types\nUnipotent cells: can generate only one specialized cell type\n\n\n\nDifferentiation: the process by which stem cells become specialized into specific cell types."
+  },
+  {
+    "objectID": "1_ns_development.html#germ-layers-and-ectoderm",
+    "href": "1_ns_development.html#germ-layers-and-ectoderm",
+    "title": "Embryonic development of the nervous system",
+    "section": "Germ layers and ectoderm",
+    "text": "Germ layers and ectoderm\n\n\n\nThree germ layers become distinct during early embryonic development:\n\nectoderm\nmesoderm\nendoderm\n\n\n\nNeural tissue develops from a specialized region of the ectoderm."
+  },
+  {
+    "objectID": "1_ns_development.html#neurulation",
+    "href": "1_ns_development.html#neurulation",
+    "title": "Embryonic development of the nervous system",
+    "section": "Neurulation",
+    "text": "Neurulation\n\n\n\nNeurulation transforms a flat region of ectoderm into a tubular structure.\n\nthe neural plate appears\nits edges become elevated\nthe central region bends inward\nthe neural folds approach and fuse\n\n\n\nVideo"
+  },
+  {
+    "objectID": "1_ns_development.html#neural-plate-neural-groove-and-neural-tube",
+    "href": "1_ns_development.html#neural-plate-neural-groove-and-neural-tube",
+    "title": "Embryonic development of the nervous system",
+    "section": "Neural plate, neural groove, and neural tube",
+    "text": "Neural plate, neural groove, and neural tube\n\n\n\nNeural plate\nA thickened region of ectoderm that will form much of the central nervous system.\n\n\nNeural groove\nA midline depression bordered by the neural folds.\n\n\nNeural tube\nThe closed structure from which the brain and spinal cord will develop.\n\n\nThe neural crest gives rise to much of the peripheral nervous system, including sensory and autonomic neurons.\n\n\nVideo"
+  },
+  {
+    "objectID": "1_ns_development.html#human-neurulation-timeline",
+    "href": "1_ns_development.html#human-neurulation-timeline",
+    "title": "Embryonic development of the nervous system",
+    "section": "Human neurulation timeline",
+    "text": "Human neurulation timeline\n\n\n\nEarly neurulation\n\naround day 18: the neural plate is visible\naround days 20-22: neural-fold fusion begins\n\n\n\n\nNeuropore closure\n\naround day 25: the cranial neuropore closes\naround days 27-28: the caudal neuropore closes"
+  },
+  {
+    "objectID": "1_ns_development.html#neural-tube-closure",
+    "href": "1_ns_development.html#neural-tube-closure",
+    "title": "Embryonic development of the nervous system",
+    "section": "Neural tube closure",
+    "text": "Neural tube closure\n\n\n\nDuring closure:\n\nopposing neural folds meet and fuse\nsurface ectoderm reconnects above the tube\nthe neural tube separates from the surface\nthe neuropores remain temporarily open\n\n\n\nDisrupted closure can produce neural tube defects. The outcome depends on the affected region. Example: Spina Bifida"
+  },
+  {
+    "objectID": "1_ns_development.html#the-spemann-and-mangold-experiment",
+    "href": "1_ns_development.html#the-spemann-and-mangold-experiment",
+    "title": "Embryonic development of the nervous system",
+    "section": "The Spemann and Mangold experiment",
+    "text": "The Spemann and Mangold experiment\n\n\n\nProcedure\n\nthe dorsal lip of the blastopore was taken from a donor amphibian gastrula\nit was transplanted into the ventral region of a host embryo\nsubsequent development was observed\n\n\n\nThe graft induced the formation of a secondary embryonic axis.\n\n\n\n\n\nThe graft did not build the entire secondary axis by itself. It also organized cells from the host embryo."
+  },
+  {
+    "objectID": "1_ns_development.html#the-spemann-organizer",
+    "href": "1_ns_development.html#the-spemann-organizer",
+    "title": "Embryonic development of the nervous system",
+    "section": "The Spemann organizer",
+    "text": "The Spemann organizer\n\n\n\nThe transplanted tissue is called an organizer because it can:\n\nalter the fate of nearby tissues\ninduce neural structures\ncontribute to the organization of body axes\n\n\n\n\nWhat does this show?\nDevelopment depends on interactions between groups of cells, not only on autonomous instructions within each cell.\n\n\nAn organizer is not a complete blueprint. It creates signals and conditions that coordinate different cellular responses.\n\n\n\nEven when the organizer is transplanted between different species, it can induce a secondary axis. For example, a chick organizer node transplanted into a zebrafish embryo recruits surrounding zebrafish cells to form a secondary axis.\nThe induced structures have the characteristics of the host species, not of the donor.\nOrganizer → instructive signals\nHost cells → build the new tissues"
+  },
+  {
+    "objectID": "1_ns_development.html#animal-cap-explant-experiments",
+    "href": "1_ns_development.html#animal-cap-explant-experiments",
+    "title": "Embryonic development of the nervous system",
+    "section": "Animal-cap explant experiments",
+    "text": "Animal-cap explant experiments\n\n\n\nAn animal cap is a small ectoderm explant removed from an amphibian blastula.\nResearchers can culture it using in vitro Experimental techniques:\n\nalone\nwith defined signaling conditions\n\n\n\nThe assay provides a simple test of how signals change ectodermal fate."
+  },
+  {
+    "objectID": "1_ns_development.html#neural-induction-and-bmp-inhibition",
+    "href": "1_ns_development.html#neural-induction-and-bmp-inhibition",
+    "title": "Embryonic development of the nervous system",
+    "section": "Neural induction and BMP inhibition",
+    "text": "Neural induction and BMP inhibition\n\n\n\nBMP signaling promotes non-neural, epidermal development in the ectoderm.\nReducing BMP signaling allows competent ectoderm to adopt a neural fate.\n\n\nThe organizer releases BMP antagonists, including Noggin, Chordin and Follistatin. These signals support neural induction.\n\n\n\n\n\nBMP inhibition is a central introductory model of neural induction. It does not represent every signal involved in neural development."
+  },
+  {
+    "objectID": "1_ns_development.html#regionalization-of-the-neural-tube",
+    "href": "1_ns_development.html#regionalization-of-the-neural-tube",
+    "title": "Embryonic development of the nervous system",
+    "section": "Regionalization of the neural tube",
+    "text": "Regionalization of the neural tube\n\n\n\nThe initially continuous neural tube acquires distinct identities along two axes:\n\nanteroposterior\ndorsoventral\n\n\n\nIts regions progressively differ in structure, cell types, and future connections."
+  },
+  {
+    "objectID": "1_ns_development.html#dorsoventral-signals-and-morphogens",
+    "href": "1_ns_development.html#dorsoventral-signals-and-morphogens",
+    "title": "Embryonic development of the nervous system",
+    "section": "Dorsoventral signals and morphogens",
+    "text": "Dorsoventral signals and morphogens\n\n\n\nVentral patterning: The notochord and floor plate provide SHH, a major ventral signal.\nDorsal patterning: The roof plate and nearby ectoderm provide BMP and WNT dorsal signals.\n\n\nThese signals form gradients. Cell identity depends on:\n\nsignal level\nduration of exposure\ninteractions with other signals\ncellular competence"
+  },
+  {
+    "objectID": "1_ns_development.html#dorsoventral-signals-and-morphogens-2",
+    "href": "1_ns_development.html#dorsoventral-signals-and-morphogens-2",
+    "title": "Embryonic development of the nervous system",
+    "section": "Dorsoventral signals and morphogens 2",
+    "text": "Dorsoventral signals and morphogens 2\n\n\n\nDorsoventral gradients contribute to the identity of neural progenitor cells.\n\nSHH is highest ventrally, whereas BMP/WNT signals are stronger dorsally.\nCells sense the local concentration of these morphogens.\nThe gradient acts as a positional map: it provides information about where a cell is located along the dorsoventral axis.\nDifferent levels of morphogen exposure activate different intracellular signaling pathways and patterns of gene expression that progressively specify different progenitor domains and neuronal identities."
+  },
+  {
+    "objectID": "1_ns_development.html#ventral-patterning-sonic-hedgehog",
+    "href": "1_ns_development.html#ventral-patterning-sonic-hedgehog",
+    "title": "Embryonic development of the nervous system",
+    "section": "Ventral patterning: Sonic Hedgehog",
+    "text": "Ventral patterning: Sonic Hedgehog\n\n\n\nSHH forms a ventral-to-dorsal concentration gradient in the developing neural tube.\n\nDifferent SHH levels specify different ventral progenitor domains.\nSHH binds PTCH, relieving its inhibition of SMO.\nThis activates GLI-dependent gene expression and promotes specific neuronal identities."
+  },
+  {
+    "objectID": "1_ns_development.html#dorsal-patterning-bmp-signaling",
+    "href": "1_ns_development.html#dorsal-patterning-bmp-signaling",
+    "title": "Embryonic development of the nervous system",
+    "section": "Dorsal patterning: BMP signaling",
+    "text": "Dorsal patterning: BMP signaling\n\n\nBMPs are produced dorsally and form a gradient opposite to SHH.\n\n\nDifferent BMP levels contribute to the specification of dorsal progenitor domains.\nBMP activates its receptors and the SMAD1/5–SMAD4 pathway.\nActivated SMADs regulate gene expression and promote dorsal neuronal identities.\n\n\n\n\nBMPs from the RP specify dorsal progenitors that become commissural interneurons.\nBMP signaling also direct them to their ventral migration and axon guidance."
+  },
+  {
+    "objectID": "1_ns_development.html#cellular-competence",
+    "href": "1_ns_development.html#cellular-competence",
+    "title": "Embryonic development of the nervous system",
+    "section": "Cellular competence",
+    "text": "Cellular competence\n\n\n\nCompetence is a cell’s ability to respond to a particular signal.\n\n\nDifferent cells can receive the same signal but produce different responses.\n\n\n\nThe response depends on:\n\navailable receptors\nthe cell’s previous history\nits state of differentiation\ndevelopmental timing\n\n\n\n\nA signal has no fixed meaning outside its cellular and developmental context."
+  },
+  {
+    "objectID": "1_ns_development.html#brain-vesicles",
+    "href": "1_ns_development.html#brain-vesicles",
+    "title": "Embryonic development of the nervous system",
+    "section": "Brain vesicles",
+    "text": "Brain vesicles\n\n\n\n\nPrimary brain vesicles\n\nforebrain\nmidbrain\nhindbrain\n\n\n\n\nSubdivisions\nThe forebrain forms the telencephalon and diencephalon.\nThe midbrain retains its name.\nThe hindbrain forms the metencephalon and myelencephalon."
+  },
+  {
+    "objectID": "1_ns_development.html#anteroposterior-regionalization",
+    "href": "1_ns_development.html#anteroposterior-regionalization",
+    "title": "Embryonic development of the nervous system",
+    "section": "Anteroposterior regionalization",
+    "text": "Anteroposterior regionalization\n\n\n\nBroad identities emerge along the anteroposterior axis:\n\nanterior brain regions\nmidbrain\nhindbrain\nspinal cord\n\n\n\nRegionalization is progressive. Broad early domains are later refined into more specific territories."
+  },
+  {
+    "objectID": "1_ns_development.html#wnt-fgf-and-retinoic-acid",
+    "href": "1_ns_development.html#wnt-fgf-and-retinoic-acid",
+    "title": "Embryonic development of the nervous system",
+    "section": "WNT, FGF, and retinoic acid",
+    "text": "WNT, FGF, and retinoic acid\n\n\n\nWNT, FGF, and retinoic acid contribute to anteroposterior patterning.\nTheir level and timing help distinguish anterior from posterior neural identities.\n\n\n\nRetinoic acid contributes to patterning anterior neural regions.\nWNT and FGF support posterior neural character.\n\n\n\nThis model works well for the posterior neural tube and spinal cord. Patterning of the anterior nervous system is more complex and cannot be described by a single anteroposterior gradient alone."
+  },
+  {
+    "objectID": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions",
+    "href": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions",
+    "title": "Embryonic development of the nervous system",
+    "section": "Hox genes: from gradients to discrete regions",
+    "text": "Hox genes: from gradients to discrete regions\n\n\n\nMorphogen gradients provide continuous positional information, but the nervous system must eventually be organized into distinct regions.\nOne example is the developing hindbrain, which is divided into transient segments called rhombomeres.\n\n\nRhombomeres are transient developmental structures.\nThey do not persist as separate units in the adult brain. During development, their cells are reorganized and contribute to the formation of the mature hindbrain, including structures and nuclei of the pons, medulla, cerebellar-related systems and cranial nerves."
+  },
+  {
+    "objectID": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-2",
+    "href": "1_ns_development.html#hox-genes-from-gradients-to-discrete-regions-2",
+    "title": "Embryonic development of the nervous system",
+    "section": "Hox genes: from gradients to discrete regions 2",
+    "text": "Hox genes: from gradients to discrete regions 2\n\n\n\nHox genes translate positional information into regional identity.\n\n\n\ndifferent regions express different combinations of Hox genes\nthese combinations define distinct developmental domains\ncells within each domain acquire related neuronal identities\nthese domains later contribute to the formation of distinct structures and nuclei"
+  },
+  {
+    "objectID": "1_ns_development.html#from-extracellular-signals-to-brain-regions",
+    "href": "1_ns_development.html#from-extracellular-signals-to-brain-regions",
+    "title": "Embryonic development of the nervous system",
+    "section": "From extracellular signals to brain regions",
+    "text": "From extracellular signals to brain regions\n\nThe Hox pattern in the hindbrain is just one example of a more general principle of nervous system development.\nGene expression is not established in isolation: it is continuously influenced by signals present in the extracellular environment.\n\n\nMorphogens and other extracellular signals interact with receptors on the cell and activate intracellular molecular pathways.\nThese pathways modify the expression of transcription factors and other genes, initiating different developmental programs.\n\n\nThrough this process, initially similar cells acquire different identities and progressively organize into distinct domains, nuclei, and brain areas."
+  },
+  {
+    "objectID": "1_ns_development.html#why-is-there-no-single-anterior-morphogen",
+    "href": "1_ns_development.html#why-is-there-no-single-anterior-morphogen",
+    "title": "Embryonic development of the nervous system",
+    "section": "Why is there no single “anterior morphogen”?",
+    "text": "Why is there no single “anterior morphogen”?\n\n\n\nThe anterior nervous system is much more structurally complex than the spinal cord. For this reason, anterior patterning depends on multiple local organizing centers, rather than on a single morphogen gradient.\n\n\nExample: the isthmic organizer\nThe isthmus is located at the boundary between the developing midbrain and hindbrain.\nIt acts as an organizer by releasing signaling molecules, especially WNT1 and FGF8, that pattern the surrounding tissue and promote the development of the mesencephalon and metencephalon."
+  },
+  {
+    "objectID": "1_ns_development.html#regionalization-of-the-neocortex",
+    "href": "1_ns_development.html#regionalization-of-the-neocortex",
+    "title": "Embryonic development of the nervous system",
+    "section": "Regionalization of the neocortex",
+    "text": "Regionalization of the neocortex\n\nThe developing neocortex initially appears relatively homogeneous, but it will become organized into many functionally distinct cortical areas.\n\n\nExtracellular signals provide positional information. Different signaling centers produce gradients across the developing cortex:\n\nFGFs particularly FGF8, from the anterior region\nWNTs and BMPs from dorsocaudal regions"
+  },
+  {
+    "objectID": "1_ns_development.html#fgf8-helps-organize-the-cortical-map",
+    "href": "1_ns_development.html#fgf8-helps-organize-the-cortical-map",
+    "title": "Embryonic development of the nervous system",
+    "section": "FGF8 helps organize the cortical map",
+    "text": "FGF8 helps organize the cortical map\n\n\nExperimental manipulation of FGF8 changes the position of cortical areas:\n\nincreasing anterior FGF8 shifts cortical area boundaries posteriorly\nadding an ectopic posterior source of FGF8 can generate a second, partially duplicated cortical map\neven a second somatosensory area can appear\n\nThis shows that FGF8 is not simply correlated with cortical organization: it can instruct the position of cortical areas."
+  },
+  {
+    "objectID": "1_ns_development.html#gene-expression-defines-cortical-regions",
+    "href": "1_ns_development.html#gene-expression-defines-cortical-regions",
+    "title": "Embryonic development of the nervous system",
+    "section": "Gene expression defines cortical regions",
+    "text": "Gene expression defines cortical regions\n\n\nMorphogen gradients are translated into gradients of transcription factor expression.\nTwo important examples are Emx2 and Pax6, which are expressed in approximately opposing gradients across the developing neocortex.\n\n\n\nEmx2 is higher toward caudomedial cortex.\nPax6 is higher toward rostrolateral cortex.\nDifferent combinations and levels of these transcription factors give progenitor cells different regional identities."
+  },
+  {
+    "objectID": "1_ns_development.html#classical-hypotheses-of-cortical-regionalization",
+    "href": "1_ns_development.html#classical-hypotheses-of-cortical-regionalization",
+    "title": "Embryonic development of the nervous system",
+    "section": "Classical hypotheses of cortical regionalization",
+    "text": "Classical hypotheses of cortical regionalization\n\n\n\nClassical protomap hypothesis\nEarly regional differences in cortical progenitors provide an initial map of future cortical areas.\n\n\nClassical protocortex hypothesis\nThe early cortex is relatively flexible. Thalamic inputs play a major role in shaping areal identity.\n\n\nIntegrated interpretation\nIntrinsic patterning establishes early regional biases. Thalamic inputs and activity refine the developing cortical map."
+  },
+  {
+    "objectID": "1_ns_development.html#self-check",
+    "href": "1_ns_development.html#self-check",
+    "title": "Embryonic development of the nervous system",
     "section": "Self-check",
     "text": "Self-check"
   },
@@ -859,6 +530,20 @@
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Axons do not find their target in one step",
     "text": "Axons do not find their target in one step\n\nAxon guidance is a progressive and stepwise process.\nA growing axon does not need to identify its final target from the beginning.\n\n\nInstead, the growth cone encounters a sequence of intermediate cues and choice points.\nAt each stage it can:\n\ncontinue along a permissive substrate\nfollow another axon\nturn toward an attractive signal\nturn away from a repulsive signal\ncross or avoid a boundary\n\n\n\nlocal decision + local decision + local decision -&gt; correct long-range connection"
+  },
+  {
+    "objectID": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions",
+    "href": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "How does the growth cone make local decisions?",
+    "text": "How does the growth cone make local decisions?\n\n\n\nExtracellular matrix adhesion (Laminin)\nProvides a permissive substrate on which the growth cone can attach and extend.\n\n\nCell-surface adhesion (NCAM)\nPromotes adhesion between the growing axon and neighboring neural cells.\n\n\nFasciculation (Fasciclin)\nAllows growing axons to adhere to and follow pre-existing axonal pathways.\n\n\n\n\n\nThe final direction of axonal growth reflects the integration of multiple local signals, not the action of a single cue."
+  },
+  {
+    "objectID": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions-2",
+    "href": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions-2",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "How does the growth cone make local decisions? 2",
+    "text": "How does the growth cone make local decisions? 2\n\n\n\nChemoattraction (Netrin)\nA diffusible cue that can attract the growth cone toward its source.\n\n\nContact-mediated repulsion (Ephrins)\nContact with ephrin-expressing cells can trigger growth-cone collapse or redirection.\n\n\nChemorepulsion (Netrin)\nDepending on the competence of the growth cone, netrin can also act as a repulsive cue.\n\n\n\n\n\nThe final direction of axonal growth reflects the integration of multiple local signals, not the action of a single cue."
   },
   {
     "objectID": "3_circuit_development.html#sperry-and-the-chemoaffinity-hypothesis",
@@ -945,13 +630,6 @@
     "text": "Guidance depends on axonal competence\n\nA guidance molecule is not intrinsically “attractive” or “repulsive” for every axon.\nIts effect depends on the competence of the growth cone to interpret that signal.\n\n\nThe response depends on factors such as:\n\nwhich receptors are expressed\nthe level of receptor expression\nintracellular signaling state\n\n\n\nThe same extracellular cue can therefore produce different responses in different axons or in the same axon at different stages of its journey.\n\n\nAs in cell differentiation, the signal matters, but so does the state of the responding cell."
   },
   {
-    "objectID": "3_circuit_development.html#choice-points-cross-or-do-not-cross",
-    "href": "3_circuit_development.html#choice-points-cross-or-do-not-cross",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Choice points: cross or do not cross",
-    "text": "Choice points: cross or do not cross\n\n\n\nLong-range axons often encounter choice points where a small directional decision has major consequences for the final circuit.\n\n\nThe optic chiasm provides one example.\nRetinal axons reaching the midline must adopt either:\n\na contralateral projection that crosses the midline\nan ipsilateral projection that avoids crossing\n\n\n\nDistinct molecular programs alter the receptors expressed by the growth cone and therefore its response to cues at the chiasm.\n\n\n\nImage: retinal axons choosing to cross or avoid the optic chiasm\nSuggested file: images/3_ns_optic_chiasm_choice.png"
-  },
-  {
     "objectID": "3_circuit_development.html#reaching-the-correct-region-is-not-enough",
     "href": "3_circuit_development.html#reaching-the-correct-region-is-not-enough",
     "title": "Neurogenesis, differentiation and neuronal survival",
@@ -963,7 +641,7 @@
     "href": "3_circuit_development.html#synaptogenesis",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Synaptogenesis",
-    "text": "Synaptogenesis\n\n\n\nSynaptogenesis is the process by which neurons establish specialized communication sites with their target cells.\n\n\nA developing synapse requires coordinated changes on both sides:\npresynaptic terminal ↔︎ postsynaptic specialization\n\n\nThe process includes:\n\ntarget recognition\nstabilization of contact\nrecruitment of presynaptic vesicles and release machinery\nclustering of postsynaptic receptors\nassembly of scaffolding and adhesion proteins\n\n\n\n\nImage: stages of synapse formation from growth cone contact to mature synapse\nSuggested file: images/3_ns_synapse_formation.png"
+    "text": "Synaptogenesis\n\n\n\nSynaptogenesis is the process by which neurons establish specialized communication sites with their target cells.\nA developing synapse requires coordinated changes on both sides: the presynaptic terminal and the postsynaptic specialization\n\n\nThe process includes:\n\ntarget recognition\nstabilization of contact\nrecruitment of presynaptic vesicles\nclustering of postsynaptic receptors\nassembly of scaffolding and adhesion proteins"
   },
   {
     "objectID": "3_circuit_development.html#synapse-formation-is-a-coordinated-process",
@@ -977,139 +655,146 @@
     "href": "3_circuit_development.html#the-neuromuscular-junction-as-a-model",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "The neuromuscular junction as a model",
-    "text": "The neuromuscular junction as a model\n\n\n\nThe neuromuscular junction has been a particularly useful model for understanding how pre- and postsynaptic specializations become aligned.\n\n\nThe motor axon releases agrin, which activates signaling involving MuSK in the muscle membrane.\nThis promotes the clustering of acetylcholine receptors beneath the presynaptic terminal.\n\n\nA diffuse receptor distribution is therefore reorganized into a highly localized postsynaptic specialization.\n\n\n\nImage: agrin-MuSK pathway and clustering of acetylcholine receptors\nSuggested file: images/3_ns_agrin_musk.png"
+    "text": "The neuromuscular junction as a model\n\n\n\nThe neuromuscular junction has been a particularly useful model for understanding how pre- and postsynaptic specializations become aligned.\n\n\nIt is organized into three main components:\n\nPresynaptic terminal: the motor axon ending\nSynaptic basal lamina: specialized extracellular matrix\nPostsynaptic membrane: the muscle fiber\n\nTogether, these three components form the functional cholinergic synapse between motor neuron and muscle."
   },
   {
-    "objectID": "3_circuit_development.html#synaptic-specificity",
-    "href": "3_circuit_development.html#synaptic-specificity",
+    "objectID": "3_circuit_development.html#regeneration-preserves-synaptic-specificity",
+    "href": "3_circuit_development.html#regeneration-preserves-synaptic-specificity",
     "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Synaptic specificity",
-    "text": "Synaptic specificity\n\nNeurons do not simply form synapses with any nearby cell.\nSynaptogenesis is highly selective.\n\n\nSpecificity can occur at multiple levels:\nbrain region → cell type → individual neuron → subcellular compartment\n\n\nThe same postsynaptic neuron can receive different classes of inputs at distinct locations on its dendrites, soma or axon.\n\n\nConnectivity is therefore not only a question of who connects to whom, but also where on the target cell the connection is made."
+    "section": "Regeneration preserves synaptic specificity",
+    "text": "Regeneration preserves synaptic specificity\n\n\n\n\nRegeneration experiment\n\n\n\nMuscle regeneration\n\nThe muscle fiber and nerve terminal are removed. If nerve regrowth is prevented, the new muscle fiber still forms postsynaptic specializations at the original synaptic site.\n\n\n\nNerve regeneration\n\nThe muscle fiber and nerve terminal are removed. When the nerve regenerates, motor axons preferentially re-form presynaptic terminals at the original synaptic site\n\n\n\n\n\nThe experiment shows that the synaptic basal lamina is not simply structural.\nIt contains stable molecular cues capable of organizing both presynaptic and postsynaptic differentiation."
   },
   {
-    "objectID": "3_circuit_development.html#subcellular-target-specificity",
-    "href": "3_circuit_development.html#subcellular-target-specificity",
+    "objectID": "3_circuit_development.html#the-basal-lamina-contains-synaptic-information",
+    "href": "3_circuit_development.html#the-basal-lamina-contains-synaptic-information",
     "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Subcellular target specificity",
-    "text": "Subcellular target specificity\n\n\n\nDifferent classes of inhibitory interneurons can preferentially innervate different compartments of the same pyramidal neuron.\n\n\nExamples:\n\nSST interneurons preferentially target distal dendritic regions\nmany PV interneurons preferentially target the soma and proximal dendrites\nchandelier cells selectively innervate the axon initial segment\n\n\n\nThis subcellular specificity gives different interneuron classes distinct effects on neuronal computation.\n\n\n\nImage: pyramidal neuron showing dendritic, somatic and axon-initial-segment inhibitory inputs\nSuggested file: images/3_ns_subcellular_specificity.png"
+    "section": "The basal lamina contains synaptic information",
+    "text": "The basal lamina contains synaptic information\n\n\n\nThe synaptic basal lamina is a specialized extracellular matrix that remains associated with the site of the neuromuscular junction.\n\n\nIt contains molecules such as:\n\nlaminins\nagrin\nextracellular matrix proteins\nacetylcholinesterase\n\nThese molecules help maintain the spatial organization of the synapse."
   },
   {
-    "objectID": "3_circuit_development.html#molecular-cues-can-specify-a-synaptic-location",
-    "href": "3_circuit_development.html#molecular-cues-can-specify-a-synaptic-location",
+    "objectID": "3_circuit_development.html#agrin-organizes-the-postsynaptic-specialization",
+    "href": "3_circuit_development.html#agrin-organizes-the-postsynaptic-specialization",
     "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Molecular cues can specify a synaptic location",
-    "text": "Molecular cues can specify a synaptic location\n\n\n\nSubcellular targeting can itself be guided by molecular information.\n\n\nA classic example is the precise targeting of the axon initial segment of Purkinje cells by cerebellar basket-cell axons.\nMolecules concentrated at particular neuronal compartments, including Neurofascin, can contribute to this highly specific organization.\n\n\nThe neuron therefore contains an internal molecular map that can help incoming axons identify the correct synaptic compartment.\n\n\n\nImage: basket-cell/Purkinje-cell pinceau and Neurofascin at the AIS\nSuggested file: images/3_ns_neurofascin_ais.png"
+    "section": "Agrin organizes the postsynaptic specialization",
+    "text": "Agrin organizes the postsynaptic specialization\n\n\n\nThe motor neuron releases agrin, which becomes concentrated in the synaptic basal lamina.\n\n\nAgrin binds the muscle receptor LRP4, which activates MuSK.\nThis signaling pathway recruits proteins including rapsyn and promotes the clustering of acetylcholine receptors.\n\n\nThe result is a transition from a relatively diffuse distribution of receptors to a highly concentrated postsynaptic specialization directly opposite the motor terminal."
   },
   {
-    "objectID": "3_circuit_development.html#glia-participate-in-synaptogenesis",
-    "href": "3_circuit_development.html#glia-participate-in-synaptogenesis",
+    "objectID": "3_circuit_development.html#activity-dependent-synaptic-refinement",
+    "href": "3_circuit_development.html#activity-dependent-synaptic-refinement",
     "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Glia participate in synaptogenesis",
-    "text": "Glia participate in synaptogenesis\n\n\n\nSynapse formation is not exclusively a neuron-neuron process.\nAstrocytes actively influence the formation and maturation of synapses.\n\n\nAstrocytes release synaptogenic signals, including molecules such as thrombospondins, and regulate the extracellular environment around developing synapses.\n\n\nThe presence of glial signals can strongly increase the number of synaptic contacts formed by developing neurons.\n\n\n\nImage: experimental comparison of neurons cultured with and without glial signals\nSuggested file: images/3_ns_glia_synaptogenesis.png"
-  },
-  {
-    "objectID": "3_circuit_development.html#trans-synaptic-adhesion-organizes-the-contact",
-    "href": "3_circuit_development.html#trans-synaptic-adhesion-organizes-the-contact",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Trans-synaptic adhesion organizes the contact",
-    "text": "Trans-synaptic adhesion organizes the contact\n\n\n\nThe developing pre- and postsynaptic membranes must become physically aligned and molecularly coordinated.\n\n\nTrans-synaptic adhesion systems such as neurexins and neuroligins contribute to:\n\nstabilization of cell-cell contact\nalignment of pre- and postsynaptic specializations\nrecruitment of synaptic proteins\nmaturation of synaptic properties\n\n\n\nThese molecules act as part of a larger molecular network rather than as a single universal “synapse switch.”\n\n\n\nImage: neurexin-neuroligin trans-synaptic complex\nSuggested file: images/3_ns_neurexin_neuroligin.png"
-  },
-  {
-    "objectID": "3_circuit_development.html#early-circuits-contain-excess-connections",
-    "href": "3_circuit_development.html#early-circuits-contain-excess-connections",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Early circuits contain excess connections",
-    "text": "Early circuits contain excess connections\n\nAs with neuronal survival, development initially generates more connections than will ultimately be maintained.\n\n\nEarly synaptic organization can therefore be highly redundant.\nA clear example is the developing neuromuscular junction, where an individual muscle fiber is initially innervated by multiple motor axons.\n\n\nDuring maturation, most of these inputs are eliminated until each adult muscle fiber is normally innervated by a single motor neuron.\n\n\nImage: transient polyneuronal innervation of muscle and mature single innervation\nSuggested file: images/3_ns_polyinnervation.png"
-  },
-  {
-    "objectID": "3_circuit_development.html#synaptic-competition-and-elimination",
-    "href": "3_circuit_development.html#synaptic-competition-and-elimination",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Synaptic competition and elimination",
-    "text": "Synaptic competition and elimination\n\n\n\nThe transition from multiple inputs to a smaller set of stable connections is not random.\nDeveloping inputs compete for maintenance.\n\n\nSynaptic stabilization depends in part on:\n\nsuccessful communication with the target\nrelative activity of competing inputs\ntrophic and molecular support\nlocal postsynaptic signaling\n\n\n\nLess successful connections retract, while selected connections become stronger and more stable.\n\n\n\nImage: competition between motor-neuron terminals and local receptor blockade\nSuggested file: images/3_ns_synaptic_competition.png"
+    "section": "Activity-dependent synaptic refinement",
+    "text": "Activity-dependent synaptic refinement\n\n\n\nDuring development, immature muscle fibers show transient polyinnervation: several motor axons initially contact the same muscle fiber.\n\n\nWith maturation, these competing inputs are progressively refined.\n\nsome branches are stabilized and strengthened\nothers retract and disappear\n\nEventually, each muscle fiber is normally innervated by a single motor neuron.\n\n\n\n\nThis refinement is activity-dependent.\nLocal blockade of ACh receptors reduces effective neuromuscular activity and causes withdrawal of presynaptic branches from the blocked region."
   },
   {
     "objectID": "3_circuit_development.html#constructive-and-regressive-processes-shape-circuits",
     "href": "3_circuit_development.html#constructive-and-regressive-processes-shape-circuits",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Constructive and regressive processes shape circuits",
-    "text": "Constructive and regressive processes shape circuits\n\n\n\nConstructive processes\n\naxon extension\naxonal branching\nsynapse formation\ndendritic growth\naddition of synaptic contacts\n\n\n\n\nRegressive processes\n\nbranch retraction\nsynapse elimination\npruning of inappropriate projections\nremoval of redundant connections\n\n\n\n\nAs in neuronal survival, mature circuitry emerges through overproduction followed by selective stabilization and elimination."
+    "text": "Constructive and regressive processes shape circuits\n\n\n\nConstructive processes\n\naxon extension\naxonal branching\nsynapse formation\ndendritic growth\naddition of synaptic contacts\n\n\n\n\nRegressive processes\n\nbranch retraction\nsynapse elimination\npruning of inappropriate projections\nremoval of redundant connections\n\n\n\n\nAs in neuronal survival, mature circuitry emerges through overproduction followed by selective stabilization and elimination and is guided by activity dependent processes."
+  },
+  {
+    "objectID": "3_circuit_development.html#why-the-neuromuscular-junction-became-a-model-synapse",
+    "href": "3_circuit_development.html#why-the-neuromuscular-junction-became-a-model-synapse",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Why the neuromuscular junction became a model synapse",
+    "text": "Why the neuromuscular junction became a model synapse\n\n\n\nSynapses in the central nervous system are extremely small and lie close to the resolution limit of conventional light microscopy.\nFor a long time, their structure could be just inferred, but not directly visualized in detail.\n\n\n1870s - Golgi staining reveals the complex morphology of neurons.\n1880s–1890s - Cajal develops the neuron doctrine: neurons are discrete cells rather than a continuous network.\n1897 - Sherrington introduces the term synapse.\n1950s - Electron microscopy provides direct structural visualization of CNS synapses."
+  },
+  {
+    "objectID": "3_circuit_development.html#why-the-neuromuscular-junction-became-a-model-synapse-1",
+    "href": "3_circuit_development.html#why-the-neuromuscular-junction-became-a-model-synapse-1",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Why the neuromuscular junction became a model synapse",
+    "text": "Why the neuromuscular junction became a model synapse\n\n\n\nAnother reason is that synapses in the central nervous system are much more heterogeneous and complex.\nThey can:\n\nuse different neurotransmitters\ndiffer greatly in structure and function\nbe more dynamic and less stable\nsometimes show co-release of multiple neurotransmitters\n\nThis makes CNS synapses much more difficult to study as a single, standardized model.\n\n\n\nBecause brain synapses were so difficult to observe and manipulate, much of the early experimental work on synaptic development was performed in more accessible systems.\nThe neuromuscular junction is large, anatomically well defined and experimentally accessible, making it an ideal model for studying synapse formation, organization and elimination."
+  },
+  {
+    "objectID": "3_circuit_development.html#synaptic-specificity",
+    "href": "3_circuit_development.html#synaptic-specificity",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Synaptic specificity",
+    "text": "Synaptic specificity\n\n\n\nNeurons do not simply form synapses with any nearby cell. Synaptogenesis is highly selective.\n\n\nThe same postsynaptic neuron can receive different classes of inputs at distinct locations on its dendrites, soma or axon.\n\n\nConnectivity is therefore not only a question of who connects to whom, but also where on the target cell the connection is made."
+  },
+  {
+    "objectID": "3_circuit_development.html#subcellular-target-specificity",
+    "href": "3_circuit_development.html#subcellular-target-specificity",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Subcellular target specificity",
+    "text": "Subcellular target specificity\n\n\n\nDifferent classes of inhibitory interneurons can preferentially innervate different compartments of the same pyramidal neuron.\n\n\nExamples:\n\nSST interneurons preferentially target distal dendritic regions\nmany PV interneurons preferentially target the soma and proximal dendrites\nchandelier cells (a type of PV) selectively innervate the axon initial segment\n\n\n\n\n\nThis subcellular specificity gives different interneuron classes distinct effects on neuronal computation."
+  },
+  {
+    "objectID": "3_circuit_development.html#molecular-cues-can-specify-a-synaptic-location",
+    "href": "3_circuit_development.html#molecular-cues-can-specify-a-synaptic-location",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Molecular cues can specify a synaptic location",
+    "text": "Molecular cues can specify a synaptic location\n\n\n\nSubcellular targeting can itself be guided by molecular information.\n\n\nA classic example is the precise targeting of the axon initial segment (AIS) of Purkinje cells by cerebellar basket-cell axons.\nMolecules concentrated at particular neuronal compartments, including Neurofascin, can contribute to this highly specific organization.\n\n\nThe neuron therefore contains an internal molecular map that can help incoming axons identify the correct synaptic compartment."
+  },
+  {
+    "objectID": "3_circuit_development.html#glia-participate-in-synaptogenesis",
+    "href": "3_circuit_development.html#glia-participate-in-synaptogenesis",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Glia participate in synaptogenesis",
+    "text": "Glia participate in synaptogenesis\n\n\n\nSynapse formation is not exclusively a neuron-neuron process.\nAstrocytes actively influence the formation and maturation of synapses.\n\n\nAstrocytes release synaptogenic signals, including molecules such as thrombospondins, and regulate the extracellular environment around developing synapses.\n\n\nThe presence of glial signals can strongly increase the number of synaptic contacts formed by developing neurons."
+  },
+  {
+    "objectID": "3_circuit_development.html#trans-synaptic-adhesion-organizes-the-contact",
+    "href": "3_circuit_development.html#trans-synaptic-adhesion-organizes-the-contact",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Trans-synaptic adhesion organizes the contact",
+    "text": "Trans-synaptic adhesion organizes the contact\n\n\n\nThe developing pre- and postsynaptic membranes must become physically aligned and molecularly coordinated.\n\n\nTrans-synaptic adhesion systems such as neurexins and neuroligins contribute to:\n\nstabilization of cell-cell contact\nalignment of pre- and postsynaptic specializations\nrecruitment of synaptic proteins\nmaturation of synaptic properties\n\n\n\n\n\nThese molecules act as part of a larger molecular network rather than as a single universal “synapse switch.”"
   },
   {
     "objectID": "3_circuit_development.html#synaptic-density-changes-during-development",
     "href": "3_circuit_development.html#synaptic-density-changes-during-development",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Synaptic density changes during development",
-    "text": "Synaptic density changes during development\n\n\n\nSynapse number is highly dynamic during brain development.\nPeriods of intense synaptogenesis can produce synaptic densities greater than those maintained in the mature brain.\n\n\nThis is followed by prolonged periods of synaptic pruning.\nThe timing differs across brain regions: primary sensory areas generally mature earlier, whereas association and prefrontal regions follow a more prolonged trajectory.\n\n\n\nImage: developmental curve of synaptic density in sensory and prefrontal cortex\nSuggested file: images/3_ns_synaptic_density.png"
+    "text": "Synaptic density changes during development\n\n\n\nSynapse number is highly dynamic during brain development.\nPeriods of intense synaptogenesis can produce synaptic densities greater than those maintained in the mature brain.\n\n\nThis is followed by prolonged periods of synaptic pruning.\nThe timing differs across brain regions: primary sensory areas generally mature earlier, whereas association and prefrontal regions follow a more prolonged trajectory."
   },
   {
     "objectID": "3_circuit_development.html#circuit-refinement-is-prolonged",
     "href": "3_circuit_development.html#circuit-refinement-is-prolonged",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Circuit refinement is prolonged",
-    "text": "Circuit refinement is prolonged\n\nThe basic architecture of many circuits appears early, but connectivity continues to be modified for a long period after the first synapses are formed.\n\n\nCircuit maturation includes:\nformation → competition → stabilization → elimination → refinement\n\n\nThe relative contribution of genetically specified molecular signals and neural activity changes across development.\nEarly molecular programs provide substantial initial organization, while activity and experience progressively refine connectivity.\n\n\nThis interaction between initial wiring and experience will become central when we discuss developmental plasticity and critical periods."
+    "text": "Circuit refinement is prolonged\n\nThe basic architecture of many circuits appears early, but connectivity continues to be modified for a long period after the first synapses are formed.\n\n\nThe relative contribution of genetically specified molecular signals and neural activity changes across development.\nEarly molecular programs provide substantial initial organization, while activity and experience progressively refine connectivity.\n\n\nThis interaction between initial wiring and experience will become central when we discuss developmental plasticity and critical periods."
   },
   {
     "objectID": "3_circuit_development.html#myelination",
     "href": "3_circuit_development.html#myelination",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Myelination",
-    "text": "Myelination\n\n\n\nA circuit is not mature simply because its neurons are connected.\nThe timing and reliability of signal transmission also depend on the structural organization of axons.\n\n\nMyelination surrounds selected axonal segments with a multilayered glial membrane.\nIn the CNS, myelin is produced by oligodendrocytes.\n\n\nMyelination allows rapid saltatory conduction between the nodes of Ranvier and changes the functional properties of neural circuits.\n\n\n\nImage: oligodendrocyte, myelin sheath and nodes of Ranvier\nSuggested file: images/3_ns_myelin_overview.png"
+    "text": "Myelination\n\n\n\nA circuit is not mature simply because its neurons are connected.\nThe timing and reliability of signal transmission also depend on the structural organization of axons.\n\n\nMyelination surrounds selected axonal segments with a multilayered glial membrane.\nIn the CNS, myelin is produced by oligodendrocytes.\n\n\nMyelination allows rapid and reliable saltatory conduction between the nodes of Ranvier and changes the functional properties of neural circuits."
   },
   {
     "objectID": "3_circuit_development.html#oligodendrocytes-and-myelin",
     "href": "3_circuit_development.html#oligodendrocytes-and-myelin",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Oligodendrocytes and myelin",
-    "text": "Oligodendrocytes and myelin\n\n\n\nA single oligodendrocyte can extend multiple processes and form myelin around segments of several CNS axons.\n\n\nMyelination can be considered in two broad developmental steps:\n\nproliferation and differentiation of oligodendrocyte-lineage cells\nrecognition of appropriate axons and formation of compact myelin wraps\n\n\n\nMyelin is therefore the product of an active axon-glia interaction.\n\n\n\nImage: oligodendrocyte extending processes to several axons\nSuggested file: images/3_ns_oligodendrocyte.png"
+    "text": "Oligodendrocytes and myelin\n\n\n\nA single oligodendrocyte can extend multiple processes and form myelin around segments of several CNS axons.\n\n\nMyelination can be considered in two broad developmental steps:\n\nproliferation and differentiation of oligodendrocyte-lineage cells\nrecognition of appropriate axons and formation of compact myelin wraps\n\n\n\nMyelin is therefore the product of an active axon-glia interaction."
   },
   {
     "objectID": "3_circuit_development.html#nodes-of-ranvier-are-specialized-domains",
     "href": "3_circuit_development.html#nodes-of-ranvier-are-specialized-domains",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Nodes of Ranvier are specialized domains",
-    "text": "Nodes of Ranvier are specialized domains\n\n\n\nMyelination does not simply insulate an axon.\nIt reorganizes the axonal membrane into distinct molecular domains.\n\n\nAt the node of Ranvier, voltage-gated sodium channels are highly concentrated.\nAdjacent regions contain different channel and adhesion complexes, including characteristic distributions of Nav and Kv channels.\n\n\nThe interaction between axons and myelinating glia therefore helps organize the molecular machinery required for saltatory conduction.\n\n\n\nImage: node of Ranvier showing Nav, paranodal and Kv domains\nSuggested file: images/3_ns_node_of_ranvier.png"
+    "text": "Nodes of Ranvier are specialized domains\n\n\n\nMyelination does not simply insulate an axon.\nIt reorganizes the axonal membrane into distinct molecular domains.\n\n\nAt the node of Ranvier, voltage-gated sodium channels are highly concentrated.\nAdjacent regions contain different channel and adhesion complexes, including characteristic distributions of Nav and Kv channels.\n\n\nThe interaction between axons and myelinating glia therefore helps organize the molecular machinery required for saltatory conduction."
   },
   {
     "objectID": "3_circuit_development.html#myelination-has-a-long-developmental-trajectory",
     "href": "3_circuit_development.html#myelination-has-a-long-developmental-trajectory",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Myelination has a long developmental trajectory",
-    "text": "Myelination has a long developmental trajectory\n\nHuman myelination begins prenatally but continues for many years after birth.\nDifferent pathways and brain regions mature at different times.\n\n\nThe general developmental progression is from systems required for early sensorimotor function toward increasingly distributed and associative networks.\n\n\nThis prolonged trajectory means that important changes in the speed and coordination of neural communication continue through childhood, adolescence and into adulthood.\n\n\nImage: timeline of human myelination from prenatal development to adulthood\nSuggested file: images/3_ns_myelination_timeline.png"
+    "text": "Myelination has a long developmental trajectory\n\n\n\nHuman myelination begins prenatally and continues into adulthood, with some brain regions still undergoing myelination beyond 30 years of age. Different pathways and brain regions mature at different times.\n\n\nThe general developmental progression is from systems required for early sensorimotor function toward increasingly distributed and associative networks."
   },
   {
     "objectID": "3_circuit_development.html#myelination-follows-a-regional-sequence",
     "href": "3_circuit_development.html#myelination-follows-a-regional-sequence",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Myelination follows a regional sequence",
-    "text": "Myelination follows a regional sequence\n\n\n\nMyelination does not progress uniformly across the nervous system.\n\n\nBroad developmental tendencies include:\n\nearlier maturation of many sensory and subcortical pathways\nlater maturation of long-range association pathways\nearlier maturation of posterior cortical systems relative to many frontotemporal association regions\n\n\n\nThe sequence broadly parallels the progressive maturation of increasingly complex neural functions.\n\n\n\nImage: regional progression of human brain myelination\nSuggested file: images/3_ns_regional_myelination.png"
+    "text": "Myelination follows a regional sequence\n\nMyelination does not progress uniformly across the nervous system.\n\n\nBroad developmental tendencies include:\n\nearlier maturation of many sensory and subcortical pathways\nlater maturation of long-range association pathways\nearlier maturation of posterior cortical systems relative to many frontotemporal association regions\n\n\n\nThe sequence broadly parallels the progressive maturation of increasingly complex neural functions."
   },
   {
-    "objectID": "3_circuit_development.html#from-neurons-to-functional-circuits",
-    "href": "3_circuit_development.html#from-neurons-to-functional-circuits",
+    "objectID": "3_circuit_development.html#self-check",
+    "href": "3_circuit_development.html#self-check",
     "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "From neurons to functional circuits",
-    "text": "From neurons to functional circuits\n\nCircuit development is a multistage process in which molecular specificity and selective refinement operate repeatedly.\n\n\naxon guidance\nWhere should the axon go?\ntarget recognition\nWhich cell should it contact?\nsynaptogenesis\nWhere and how should the synapse be assembled?\nrefinement\nWhich of the initial connections should be maintained?\nmyelination\nHow should signals be transmitted efficiently across the final circuit?\n\n\nThe mature circuit is therefore not simply “wired.”\nIt is progressively guided, assembled, tested, selected and optimized."
-  },
-  {
-    "objectID": "3_circuit_development.html#a-general-principle-of-neural-development",
-    "href": "3_circuit_development.html#a-general-principle-of-neural-development",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "A general principle of neural development",
-    "text": "A general principle of neural development\n\n\n\nAcross the three chapters we repeatedly encounter the same developmental strategy.\n\n\nGeneration\n\ncells are produced\naxons are extended\nsynapses are formed\n\n\n\n\nSelection and refinement\n\ncell fates are restricted\nneurons compete for survival\naxons choose among possible routes\nsynapses compete and are pruned\nmyelination stabilizes efficient pathways\n\n\n\n\nDevelopment builds the nervous system through progressive specification followed by selective refinement."
-  },
-  {
-    "objectID": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions",
-    "href": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "How does the growth cone make local decisions?",
-    "text": "How does the growth cone make local decisions?\n\n\n\nExtracellular matrix adhesion (Laminin)\nProvides a permissive substrate on which the growth cone can attach and extend.\n\n\nCell-surface adhesion (NCAM)\nPromotes adhesion between the growing axon and neighboring neural cells.\n\n\nFasciculation (Fasciclin)\nAllows growing axons to adhere to and follow pre-existing axonal pathways.\n\n\n\n\n\nThe final direction of axonal growth reflects the integration of multiple local signals, not the action of a single cue."
-  },
-  {
-    "objectID": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions-2",
-    "href": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions-2",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "How does the growth cone make local decisions? 2",
-    "text": "How does the growth cone make local decisions? 2\n\n\n\nChemoattraction (Netrin)\nA diffusible cue that can attract the growth cone toward its source.\n\n\nContact-mediated repulsion (Ephrins)\nContact with ephrin-expressing cells can trigger growth-cone collapse or redirection.\n\n\nChemorepulsion (Netrin)\nDepending on the competence of the growth cone, netrin can also act as a repulsive cue.\n\n\n\n\n\nThe final direction of axonal growth reflects the integration of multiple local signals, not the action of a single cue."
+    "section": "Self-check",
+    "text": "Self-check"
   }
 ]

@@ -1,0 +1,775 @@
+{
+  "topic": "Development of Neural Circuits",
+  "questions": [
+    {
+      "question": "What is the main developmental problem after neurons have been generated, differentiated, migrated, and selected for survival?",
+      "options": [
+        "Connecting them into functional circuits",
+        "Returning them to proliferative zones",
+        "Converting them into neural crest cells",
+        "Eliminating all remaining axons"
+      ],
+      "correct": 0,
+      "feedback": "The next developmental problem is to connect neurons into functional circuits."
+    },
+    {
+      "question": "Which three major phases organize neural-circuit development in the lesson?",
+      "options": [
+        "Axon growth and guidance, synaptogenesis, and myelination",
+        "Neurogenesis, migration, and apoptosis",
+        "Differentiation, pruning, and necrosis",
+        "Proliferation, migration, and myelination"
+      ],
+      "correct": 0,
+      "feedback": "The lesson organizes circuit formation into axon growth and guidance, synaptogenesis, and myelination."
+    },
+    {
+      "question": "What is the growth cone?",
+      "options": [
+        "A dynamic structure at the tip of a growing axon",
+        "A postsynaptic receptor cluster",
+        "A glial cell that produces myelin",
+        "A region of the muscle basal lamina"
+      ],
+      "correct": 0,
+      "feedback": "The growth cone is the highly dynamic structure at the tip of a growing axon."
+    },
+    {
+      "question": "What is the main role of filopodia in the growth cone?",
+      "options": [
+        "Exploring the surrounding environment",
+        "Producing neurotransmitter",
+        "Forming compact myelin",
+        "Breaking down acetylcholine"
+      ],
+      "correct": 0,
+      "feedback": "Filopodia extend from the growth cone and explore the surrounding environment."
+    },
+    {
+      "question": "What is the main role of lamellipodia in the growth cone?",
+      "options": [
+        "They extend and retract during growth",
+        "They form nodes of Ranvier",
+        "They synthesize myelin proteins",
+        "They cluster acetylcholine receptors"
+      ],
+      "correct": 0,
+      "feedback": "Lamellipodia are dynamic growth-cone structures that extend and retract."
+    },
+    {
+      "question": "How are guidance signals translated into changes in axonal direction?",
+      "options": [
+        "Through cytoskeletal changes in the growth cone",
+        "By changing the neuronal genome",
+        "By eliminating the nucleus",
+        "By producing myelin around the growth cone"
+      ],
+      "correct": 0,
+      "feedback": "Signals detected by the growth cone are translated into cytoskeletal changes that determine axonal direction."
+    },
+    {
+      "question": "Why is axon guidance described as a stepwise process?",
+      "options": [
+        "Axons encounter intermediate cues and choice points along their route",
+        "Axons stop growing after every cell division",
+        "The final target continuously moves",
+        "Guidance occurs only after synaptogenesis"
+      ],
+      "correct": 0,
+      "feedback": "Axons make a sequence of local decisions at intermediate cues and choice points."
+    },
+    {
+      "question": "Which statement best summarizes long-range axon guidance?",
+      "options": [
+        "Repeated local decisions can produce the correct long-range connection",
+        "One single cue determines the complete route",
+        "Axons connect randomly and are organized only later",
+        "Growth cones do not respond to extracellular signals"
+      ],
+      "correct": 0,
+      "feedback": "The lesson summarizes long-range guidance as a sequence of local decisions."
+    },
+    {
+      "question": "What role does laminin play in axon guidance?",
+      "options": [
+        "It can provide a permissive extracellular-matrix substrate",
+        "It blocks all growth-cone adhesion",
+        "It is a voltage-gated sodium channel",
+        "It causes synaptic vesicle release"
+      ],
+      "correct": 0,
+      "feedback": "Laminin can provide a permissive substrate on which growth cones attach and extend."
+    },
+    {
+      "question": "What role does NCAM play during axon growth?",
+      "options": [
+        "It promotes adhesion between neural cells",
+        "It breaks down acetylcholine",
+        "It acts as a myelin lipid",
+        "It is a diffusible chemorepellent"
+      ],
+      "correct": 0,
+      "feedback": "NCAM is a cell-adhesion molecule that promotes interactions between neural cells."
+    },
+    {
+      "question": "What is fasciculation?",
+      "options": [
+        "The growth of axons along other axons",
+        "The elimination of dendrites",
+        "The formation of postsynaptic receptor clusters",
+        "The production of extracellular matrix by muscle"
+      ],
+      "correct": 0,
+      "feedback": "Fasciculation is the process by which growing axons adhere to and follow pre-existing axons."
+    },
+    {
+      "question": "What is the role of pioneer axons?",
+      "options": [
+        "They establish an initial route that later axons can follow",
+        "They form the first oligodendrocytes",
+        "They prevent all later axon growth",
+        "They generate the synaptic basal lamina"
+      ],
+      "correct": 0,
+      "feedback": "Pioneer axons can establish an initial path used by later-growing axons."
+    },
+    {
+      "question": "Which molecule is used in the lesson as an example of chemoattraction?",
+      "options": [
+        "Netrin",
+        "Agrin",
+        "PSD-95",
+        "Caspr"
+      ],
+      "correct": 0,
+      "feedback": "Netrin is used as an example of a diffusible cue that can attract a growth cone."
+    },
+    {
+      "question": "Which molecule is used as an example of contact-mediated repulsion?",
+      "options": [
+        "Ephrins",
+        "AChE",
+        "Neuroligin",
+        "Rapsyn"
+      ],
+      "correct": 0,
+      "feedback": "Ephrins can produce contact-mediated growth-cone collapse or redirection."
+    },
+    {
+      "question": "Can netrin act as both an attractive and a repulsive cue?",
+      "options": [
+        "Yes, depending on the competence of the growth cone",
+        "No, it is always attractive",
+        "No, it acts only as an adhesion molecule",
+        "Only after myelination"
+      ],
+      "correct": 0,
+      "feedback": "The lesson emphasizes that netrin can attract or repel depending on the responding growth cone."
+    },
+    {
+      "question": "What determines the final direction of growth-cone movement?",
+      "options": [
+        "Integration of multiple local signals",
+        "A single universal guidance molecule",
+        "Only axon diameter",
+        "Only the position of the nucleus"
+      ],
+      "correct": 0,
+      "feedback": "Growth direction reflects the combined effect of multiple local signals."
+    },
+    {
+      "question": "What did Sperry's chemoaffinity hypothesis propose?",
+      "options": [
+        "Neurons and targets carry molecular information that helps specify appropriate connections",
+        "Axons connect randomly to the nearest target",
+        "Synapses form only after myelination",
+        "Circuit specificity is generated exclusively by activity"
+      ],
+      "correct": 0,
+      "feedback": "Sperry proposed matching molecular information between projecting neurons and their targets."
+    },
+    {
+      "question": "In Sperry's eye-rotation experiment, what happened after the optic nerve was cut?",
+      "options": [
+        "Retinal axons were allowed to regenerate",
+        "The eye was permanently removed",
+        "The tectum was replaced by muscle",
+        "All retinal neurons immediately died"
+      ],
+      "correct": 0,
+      "feedback": "The frog eye was rotated, the optic nerve was cut, and retinal axons were allowed to regenerate."
+    },
+    {
+      "question": "What was observed after retinal axons regenerated in Sperry's experiment?",
+      "options": [
+        "They returned approximately to their original tectal locations",
+        "They connected randomly across the tectum",
+        "They failed to enter the brain",
+        "They projected only to the ipsilateral side"
+      ],
+      "correct": 0,
+      "feedback": "Regenerating retinal axons tended to return to their previous topographic positions."
+    },
+    {
+      "question": "Why was visually guided behavior inappropriate after regeneration in Sperry's experiment?",
+      "options": [
+        "The eye remained rotated while axons re-established their original tectal map",
+        "The retina had no photoreceptors",
+        "The optic nerve regenerated to the spinal cord",
+        "The tectum no longer contained neurons"
+      ],
+      "correct": 0,
+      "feedback": "The original mapping was restored despite the 180-degree rotation of the eye."
+    },
+    {
+      "question": "What is a topographic map?",
+      "options": [
+        "An ordered projection that preserves spatial relationships between neighboring neurons",
+        "A random arrangement of synapses",
+        "A map of only glial cells",
+        "A list of neurotransmitters in a circuit in the context of normal nervous-system development"
+      ],
+      "correct": 0,
+      "feedback": "Topographic maps preserve spatial relationships between neighboring cells in a projection."
+    },
+    {
+      "question": "What is a retinotopic map?",
+      "options": [
+        "An ordered representation of retinal spatial organization in a central target",
+        "A map of muscle fibers in the spinal cord during the establishment of stable neural connections",
+        "A map of oligodendrocytes in white matter",
+        "A pattern of neurotransmitter release at the NMJ"
+      ],
+      "correct": 0,
+      "feedback": "A retinotopic map preserves the spatial organization of the retina in a central target."
+    },
+    {
+      "question": "How can topographic maps be generated without a unique molecular label for every neuron?",
+      "options": [
+        "Using graded molecular signals",
+        "Using only electrical synapses throughout the maturation of the circuit",
+        "Using random branching",
+        "Using apoptosis alone"
+      ],
+      "correct": 0,
+      "feedback": "Molecular gradients can provide continuous positional information."
+    },
+    {
+      "question": "What is the role of Eph receptors and ephrins in the lesson?",
+      "options": [
+        "They help guide the formation of topographic projections",
+        "They directly form synaptic vesicles at this stage of neural development",
+        "They produce myelin",
+        "They break down acetylcholine"
+      ],
+      "correct": 0,
+      "feedback": "Graded Eph/ephrin expression contributes to ordered topographic projections."
+    },
+    {
+      "question": "For some retinal axons, what effect does increasing ephrin concentration have?",
+      "options": [
+        "It acts as a repulsive signal",
+        "It always causes synapse formation in the context of normal nervous-system development",
+        "It stimulates myelin production",
+        "It removes all Eph receptors"
+      ],
+      "correct": 0,
+      "feedback": "Increasing ephrin concentration can act as a repulsive cue for some retinal axons."
+    },
+    {
+      "question": "Which of the following is a contact-dependent guidance mechanism?",
+      "options": [
+        "Fasciculation",
+        "Chemoattraction",
+        "Chemorepulsion by a diffusible cue",
+        "Long-range diffusion of netrin"
+      ],
+      "correct": 0,
+      "feedback": "Fasciculation is a contact-dependent guidance mechanism."
+    },
+    {
+      "question": "Which of the following is a diffusible guidance mechanism?",
+      "options": [
+        "Chemoattraction",
+        "Fasciculation",
+        "Cell-surface adhesion",
+        "Extracellular-matrix adhesion"
+      ],
+      "correct": 0,
+      "feedback": "Chemoattraction and chemorepulsion are diffusible guidance mechanisms."
+    },
+    {
+      "question": "Why does adhesion influence growth-cone movement beyond simply attaching the axon?",
+      "options": [
+        "It can activate intracellular signaling pathways",
+        "It changes the axon's DNA sequence",
+        "It directly produces myelin",
+        "It removes all actin from the growth cone"
+      ],
+      "correct": 0,
+      "feedback": "Adhesive interactions can trigger intracellular pathways that influence growth-cone movement."
+    },
+    {
+      "question": "What is a developmental choice point?",
+      "options": [
+        "A region where a growing axon must make a directional decision",
+        "A stage where all synapses are eliminated during the refinement of developing neural pathways",
+        "A point where myelin is synthesized",
+        "A location where neurons divide symmetrically"
+      ],
+      "correct": 0,
+      "feedback": "Choice points are intermediate regions where axons select between alternative routes."
+    },
+    {
+      "question": "What developmental decision is illustrated by the optic chiasm?",
+      "options": [
+        "Whether retinal axons cross the midline or remain ipsilateral",
+        "Whether muscle fibers receive myelin",
+        "Whether neurons undergo apoptosis",
+        "Whether synapses use acetylcholine or glutamate throughout the maturation of the circuit"
+      ],
+      "correct": 0,
+      "feedback": "At the optic chiasm, retinal axons may cross or remain ipsilateral."
+    },
+    {
+      "question": "Why can an intermediate target be important even if it is not the final destination?",
+      "options": [
+        "It can act as a navigation checkpoint",
+        "It permanently stops axon growth",
+        "It causes all axons to become glia throughout the maturation of the circuit",
+        "It removes all guidance receptors"
+      ],
+      "correct": 0,
+      "feedback": "Intermediate targets can act as navigation checkpoints during long-range growth."
+    },
+    {
+      "question": "What does axonal competence mean in the context of guidance?",
+      "options": [
+        "The ability of the growth cone to interpret a guidance signal",
+        "The speed of synaptic transmission",
+        "The number of muscle fibers in a motor unit during the establishment of stable neural connections",
+        "The amount of myelin around an axon"
+      ],
+      "correct": 0,
+      "feedback": "Axonal competence is the state that determines how a growth cone interprets a cue."
+    },
+    {
+      "question": "Which factor can influence how a growth cone responds to a guidance cue?",
+      "options": [
+        "Which receptors are expressed",
+        "Only the age of the organism",
+        "Only target-cell diameter",
+        "Only the presence of myelin"
+      ],
+      "correct": 0,
+      "feedback": "Receptor expression, receptor levels, and intracellular signaling state influence guidance responses."
+    },
+    {
+      "question": "Can the same extracellular cue produce different responses in different axons?",
+      "options": [
+        "Yes, because axons can differ in receptor expression and intracellular state",
+        "No, every axon always responds identically as development proceeds toward a mature circuit",
+        "Only after synaptogenesis",
+        "Only in muscle"
+      ],
+      "correct": 0,
+      "feedback": "Different axons can interpret the same signal differently because their competence differs."
+    },
+    {
+      "question": "Why is reaching the correct target region not sufficient for circuit formation?",
+      "options": [
+        "The axon must still select the correct cell and often the correct subcellular compartment",
+        "Axons cannot form synapses in target regions throughout the maturation of the circuit as development proceeds toward a mature circuit",
+        "Only glial cells determine final connectivity",
+        "All target cells in one region are identical throughout the maturation of the circuit as development proceeds toward a mature circuit"
+      ],
+      "correct": 0,
+      "feedback": "Circuit formation requires specificity at the level of target cell and often subcellular compartment."
+    },
+    {
+      "question": "What is synaptogenesis?",
+      "options": [
+        "The process by which neurons establish specialized communication sites with target cells",
+        "The formation of the neural tube once the relevant target region has been reached",
+        "The elimination of all immature neurons during the establishment of stable neural connections",
+        "The wrapping of axons by oligodendrocytes"
+      ],
+      "correct": 0,
+      "feedback": "Synaptogenesis is the formation of specialized synaptic communication sites."
+    },
+    {
+      "question": "Which event occurs on the presynaptic side during synapse formation?",
+      "options": [
+        "Synaptic vesicles accumulate",
+        "Acetylcholine receptors cluster in the muscle membrane",
+        "Postsynaptic scaffolds are eliminated",
+        "Myelin wraps are compacted"
+      ],
+      "correct": 0,
+      "feedback": "The presynaptic terminal accumulates vesicles and recruits active-zone and release machinery."
+    },
+    {
+      "question": "Which event occurs on the postsynaptic side during synapse formation?",
+      "options": [
+        "Receptors become concentrated",
+        "Synaptic vesicles accumulate in the postsynaptic membrane",
+        "The axon initial segment disappears",
+        "The basal lamina is removed"
+      ],
+      "correct": 0,
+      "feedback": "Postsynaptic receptors and scaffolding proteins become concentrated."
+    },
+    {
+      "question": "Why is synapse formation described as a coordinated process?",
+      "options": [
+        "Pre- and postsynaptic specializations develop together through bidirectional signaling",
+        "Only the presynaptic neuron changes at this stage of neural development",
+        "Only the postsynaptic cell changes as development proceeds toward a mature circuit",
+        "Synapses form without cell-cell interaction"
+      ],
+      "correct": 0,
+      "feedback": "Both sides of the developing synapse undergo coordinated changes."
+    },
+    {
+      "question": "Why has the neuromuscular junction been a useful model for synaptogenesis?",
+      "options": [
+        "It is large, anatomically well defined, and experimentally accessible",
+        "It is the smallest synapse in the nervous system during the refinement of developing neural pathways",
+        "It contains no extracellular matrix once the relevant target region has been reached",
+        "It uses many neurotransmitters simultaneously"
+      ],
+      "correct": 0,
+      "feedback": "Its accessibility and clear organization make the neuromuscular junction an effective experimental model."
+    },
+    {
+      "question": "What are the three main components of the neuromuscular junction?",
+      "options": [
+        "Presynaptic terminal, synaptic basal lamina, postsynaptic membrane",
+        "Axon hillock, node of Ranvier, oligodendrocyte in the context of normal nervous-system development",
+        "Dendrite, soma, nucleus",
+        "Retina, optic nerve, tectum during the refinement of developing neural pathways"
+      ],
+      "correct": 0,
+      "feedback": "The NMJ consists of the motor axon terminal, synaptic basal lamina, and postsynaptic muscle membrane."
+    },
+    {
+      "question": "What is the synaptic basal lamina at the neuromuscular junction?",
+      "options": [
+        "A specialized extracellular matrix between nerve and muscle",
+        "A layer of myelin around the motor axon during the refinement of developing neural pathways",
+        "A cluster of presynaptic vesicles",
+        "A region of the muscle nucleus during the establishment of stable neural connections"
+      ],
+      "correct": 0,
+      "feedback": "The synaptic basal lamina is the specialized extracellular matrix between the nerve terminal and muscle fiber."
+    },
+    {
+      "question": "What did the muscle-regeneration experiment show when nerve regrowth was prevented?",
+      "options": [
+        "The new muscle fiber still formed postsynaptic specializations at the original synaptic site",
+        "No muscle regeneration occurred at this stage of neural development in the context of normal nervous-system development",
+        "Postsynaptic specializations formed randomly",
+        "The basal lamina disappeared immediately in the context of normal nervous-system development once the relevant target region has been reached"
+      ],
+      "correct": 0,
+      "feedback": "Postsynaptic specializations re-formed at the original synaptic site even without nerve regrowth."
+    },
+    {
+      "question": "What did the nerve-regeneration experiment show?",
+      "options": [
+        "Regenerating motor axons preferentially re-formed terminals at the original synaptic site",
+        "Regenerating axons avoided the original synaptic site during the establishment of stable neural connections",
+        "Regenerated axons became oligodendrocytes",
+        "Only electrical synapses were formed in the context of normal nervous-system development"
+      ],
+      "correct": 0,
+      "feedback": "Regenerating motor axons preferentially re-formed terminals at the original synaptic site."
+    },
+    {
+      "question": "What conclusion follows from the NMJ regeneration experiments?",
+      "options": [
+        "The synaptic basal lamina contains stable molecular cues that help organize synaptic differentiation",
+        "The basal lamina has only a passive structural role during the establishment of stable neural connections",
+        "Synaptic location is determined only by activity in the context of normal nervous-system development",
+        "Muscle fibers cannot regenerate without nerve contact"
+      ],
+      "correct": 0,
+      "feedback": "The experiments show that the basal lamina preserves instructive information about synaptic location."
+    },
+    {
+      "question": "Which molecule in the synaptic basal lamina breaks down acetylcholine?",
+      "options": [
+        "Acetylcholinesterase",
+        "Agrin during normal circuit development",
+        "Neuroligin during the refinement of developing neural pathways",
+        "Netrin"
+      ],
+      "correct": 0,
+      "feedback": "Acetylcholinesterase (AChE) hydrolyzes acetylcholine."
+    },
+    {
+      "question": "Which molecule released by the motor neuron becomes concentrated in the synaptic basal lamina?",
+      "options": [
+        "Agrin",
+        "Caspr",
+        "PSD-95",
+        "Kv1.2"
+      ],
+      "correct": 0,
+      "feedback": "Agrin is released by the motor neuron and becomes concentrated in the synaptic basal lamina."
+    },
+    {
+      "question": "What receptor does agrin bind on the muscle side?",
+      "options": [
+        "LRP4",
+        "Nav once the relevant target region has been reached",
+        "NMDAR once the relevant target region has been reached",
+        "NCAM"
+      ],
+      "correct": 0,
+      "feedback": "Agrin binds LRP4, which activates MuSK signaling."
+    },
+    {
+      "question": "What is the main consequence of agrin-LRP4-MuSK signaling?",
+      "options": [
+        "Clustering of acetylcholine receptors",
+        "Elimination of all muscle receptors",
+        "Formation of myelin",
+        "Retraction of all motor axons"
+      ],
+      "correct": 0,
+      "feedback": "Agrin-LRP4-MuSK signaling promotes ACh receptor clustering through proteins including rapsyn."
+    },
+    {
+      "question": "What is transient polyinnervation?",
+      "options": [
+        "Temporary innervation of one immature muscle fiber by several motor axons",
+        "Permanent innervation of one muscle fiber by many motor axons during normal circuit development",
+        "Myelination of one axon by several oligodendrocytes during the establishment of stable neural connections",
+        "Formation of several nuclei in one neuron during the refinement of developing neural pathways"
+      ],
+      "correct": 0,
+      "feedback": "During development, immature muscle fibers are initially contacted by several motor axons."
+    },
+    {
+      "question": "What normally happens to transient polyinnervation during maturation?",
+      "options": [
+        "Some inputs are stabilized while others retract, leaving one motor-neuron input per muscle fiber",
+        "All motor inputs remain permanently in the context of normal nervous-system development once the relevant target region has been reached",
+        "All motor inputs are eliminated during normal circuit development during the refinement of developing neural pathways",
+        "The muscle becomes innervated only by sensory neurons at this stage of neural development during the refinement of developing neural pathways"
+      ],
+      "correct": 0,
+      "feedback": "Competing motor inputs are progressively refined until a single motor-neuron input remains."
+    },
+    {
+      "question": "What happens when ACh receptors are locally blocked at a developing neuromuscular junction?",
+      "options": [
+        "Presynaptic branches withdraw from the blocked region",
+        "Presynaptic branches become permanently stabilized during the establishment of stable neural connections",
+        "All muscle fibers die immediately once the relevant target region has been reached",
+        "Myelination increases locally throughout the maturation of the circuit"
+      ],
+      "correct": 0,
+      "feedback": "Local ACh receptor blockade causes withdrawal of presynaptic branches from the less active region."
+    },
+    {
+      "question": "What does the ACh-receptor blockade experiment demonstrate?",
+      "options": [
+        "Synaptic refinement is activity-dependent",
+        "Synaptic refinement is independent of activity",
+        "Only the basal lamina determines branch survival",
+        "Motor axons cannot retract during development"
+      ],
+      "correct": 0,
+      "feedback": "The experiment demonstrates that stabilization and elimination of developing contacts depend on activity."
+    },
+    {
+      "question": "Which of the following is a constructive process in circuit development?",
+      "options": [
+        "Synapse formation",
+        "Branch retraction",
+        "Synapse elimination",
+        "Pruning of inappropriate projections"
+      ],
+      "correct": 0,
+      "feedback": "Constructive processes include axon extension, branching, dendritic growth, and synapse formation."
+    },
+    {
+      "question": "Which of the following is a regressive process in circuit development?",
+      "options": [
+        "Branch retraction",
+        "Axon extension once the relevant target region has been reached",
+        "Dendritic growth throughout the maturation of the circuit",
+        "Synapse formation once the relevant target region has been reached"
+      ],
+      "correct": 0,
+      "feedback": "Regressive processes include branch retraction, synapse elimination, and pruning."
+    },
+    {
+      "question": "What general principle is illustrated by activity-dependent synaptic refinement?",
+      "options": [
+        "Overproduction followed by selective stabilization and elimination",
+        "Perfect specificity from the first contact at this stage of neural development",
+        "Elimination without prior growth throughout the maturation of the circuit",
+        "Circuit formation without activity at this stage of neural development"
+      ],
+      "correct": 0,
+      "feedback": "Mature circuitry emerges through overproduction followed by selective stabilization and elimination."
+    },
+    {
+      "question": "Why were CNS synapses historically difficult to study directly?",
+      "options": [
+        "They are extremely small and near the resolution limit of conventional light microscopy",
+        "They exist only during sleep throughout the maturation of the circuit during the refinement of developing neural pathways",
+        "They contain no membranes during the establishment of stable neural connections as development proceeds toward a mature circuit",
+        "They are larger than entire neurons in the context of normal nervous-system development once the relevant target region has been reached"
+      ],
+      "correct": 0,
+      "feedback": "CNS synapses are very small and lie close to the resolution limit of light microscopy."
+    },
+    {
+      "question": "What technological development enabled direct structural visualization of CNS synapses?",
+      "options": [
+        "Electron microscopy",
+        "Golgi staining alone",
+        "PCR",
+        "Magnetic stimulation"
+      ],
+      "correct": 0,
+      "feedback": "Electron microscopy provided direct structural visualization of synaptic ultrastructure."
+    },
+    {
+      "question": "Why is the neuromuscular junction simpler to use as a model than many CNS synapses?",
+      "options": [
+        "CNS synapses are more heterogeneous in transmitter, structure, stability, and can show co-release",
+        "CNS synapses are all identical during the establishment of stable neural connections in the context of normal nervous-system development",
+        "The NMJ has no receptors during the establishment of stable neural connections once the relevant target region has been reached",
+        "The NMJ does not use neurotransmitters during normal circuit development during the establishment of stable neural connections"
+      ],
+      "correct": 0,
+      "feedback": "CNS synapses are more heterogeneous and can differ in transmitter, structure, stability, and co-release."
+    },
+    {
+      "question": "What does synaptic specificity mean?",
+      "options": [
+        "Neurons form synapses selectively with particular targets and compartments",
+        "Neurons connect with any nearby cell equally in the context of normal nervous-system development",
+        "All synapses occur on the soma at this stage of neural development",
+        "All synapses use the same neurotransmitter in the context of normal nervous-system development"
+      ],
+      "correct": 0,
+      "feedback": "Synaptic specificity means that neurons select particular targets and often particular subcellular compartments."
+    },
+    {
+      "question": "What is an axosomatic synapse?",
+      "options": [
+        "A synapse onto the cell body",
+        "A synapse onto another axon at this stage of neural development",
+        "A synapse onto a dendrite once the relevant target region has been reached",
+        "A synapse between two muscle fibers during the establishment of stable neural connections"
+      ],
+      "correct": 0,
+      "feedback": "Axosomatic synapses contact the postsynaptic soma."
+    },
+    {
+      "question": "What is an axodendritic synapse?",
+      "options": [
+        "A synapse onto a dendrite",
+        "A synapse onto a muscle fiber",
+        "A synapse onto another axon",
+        "A synapse between glial cells"
+      ],
+      "correct": 0,
+      "feedback": "Axodendritic synapses contact a postsynaptic dendrite."
+    },
+    {
+      "question": "What is an axoaxonic synapse?",
+      "options": [
+        "A synapse in which an axon contacts another axon",
+        "A synapse in which a dendrite contacts a muscle fiber",
+        "A synapse between two dendrites only",
+        "A synapse between oligodendrocytes"
+      ],
+      "correct": 0,
+      "feedback": "Axoaxonic synapses are contacts made onto another axon."
+    },
+    {
+      "question": "Which interneuron class preferentially targets distal dendritic regions?",
+      "options": [
+        "SST interneurons",
+        "Chandelier cells only",
+        "Motor neurons",
+        "Retinal ganglion cells"
+      ],
+      "correct": 0,
+      "feedback": "The lesson states that SST interneurons preferentially target distal dendritic regions."
+    },
+    {
+      "question": "Which interneuron class often targets the soma and proximal dendrites?",
+      "options": [
+        "PV interneurons",
+        "SST interneurons only",
+        "Oligodendrocytes",
+        "Retinal ganglion cells"
+      ],
+      "correct": 0,
+      "feedback": "Many PV interneurons preferentially target the soma and proximal dendrites."
+    },
+    {
+      "question": "Which interneuron type selectively innervates the axon initial segment?",
+      "options": [
+        "Chandelier cells",
+        "SST interneurons in the context of normal nervous-system development",
+        "Astrocytes during the establishment of stable neural connections",
+        "Motor neurons during the establishment of stable neural connections"
+      ],
+      "correct": 0,
+      "feedback": "Chandelier cells selectively target the axon initial segment."
+    },
+    {
+      "question": "What does the Purkinje-cell example illustrate?",
+      "options": [
+        "Neuronal compartments can contain molecular cues that help incoming axons identify the correct synaptic location",
+        "All synapses form randomly within a neuron in the context of normal nervous-system development during the establishment of stable neural connections",
+        "Only extracellular matrix determines targeting in the context of normal nervous-system development throughout the maturation of the circuit",
+        "Subcellular targeting occurs only in muscle during the refinement of developing neural pathways in the context of normal nervous-system development"
+      ],
+      "correct": 0,
+      "feedback": "The example illustrates molecular specification of a precise subcellular synaptic target."
+    },
+    {
+      "question": "What role do astrocytes play in synaptogenesis?",
+      "options": [
+        "They release signals that promote synapse formation and maturation",
+        "They prevent all synapse formation during the establishment of stable neural connections",
+        "They function only as passive structural cells throughout the maturation of the circuit",
+        "They replace presynaptic neurons throughout the maturation of the circuit"
+      ],
+      "correct": 0,
+      "feedback": "Astrocytes actively influence synapse formation and maturation."
+    },
+    {
+      "question": "Which astrocyte-derived molecules are mentioned as synaptogenic signals?",
+      "options": [
+        "Thrombospondins",
+        "Ephrins",
+        "Nav channels",
+        "Agrin only"
+      ],
+      "correct": 0,
+      "feedback": "The lesson mentions thrombospondins as astrocyte-derived synaptogenic signals."
+    },
+    {
+      "question": "What is the role of neurexins and neuroligins during synapse development?",
+      "options": [
+        "They contribute to trans-synaptic adhesion and alignment of pre- and postsynaptic specializations",
+        "They form compact myelin throughout the maturation of the circuit as development proceeds toward a mature circuit",
+        "They break down neurotransmitters in the context of normal nervous-system development at this stage of neural development",
+        "They guide retinal axons to the tectum once the relevant target region has been reached"
+      ],
+      "correct": 0,
+      "feedback": "Neurexin-neuroligin interactions help stabilize and organize developing synaptic contacts."
+    }
+  ]
+}

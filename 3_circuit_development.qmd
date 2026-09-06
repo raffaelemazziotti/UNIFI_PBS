@@ -594,7 +594,6 @@ The same extracellular cue can therefore produce <u>different responses in diffe
 
 >As in cell differentiation, the signal matters, but so does the <u>state of the responding cell</u>.
 
-
 ## Reaching the correct region is not enough
 
 ::: {.info-box}
@@ -623,20 +622,18 @@ This transition from <u>axon guidance</u> to <u>synaptic recognition</u> is the 
 
 ::: {.info-box}
 `Synaptogenesis` is the process by which neurons establish specialized communication sites with their target cells.
+
+A developing synapse requires <u>coordinated changes</u> on both sides: the `presynaptic terminal` and the `postsynaptic specialization`
+
 :::
 
-::: {.card}
-A developing synapse requires coordinated changes on both sides:
-
-`presynaptic terminal` ↔ `postsynaptic specialization`
-:::
 
 ::: {.card}
 The process includes:
 
 - target recognition
 - stabilization of contact
-- recruitment of presynaptic vesicles and release machinery
+- recruitment of presynaptic vesicles
 - clustering of postsynaptic receptors
 - assembly of scaffolding and adhesion proteins
 :::
@@ -644,11 +641,8 @@ The process includes:
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> stages of synapse formation from growth cone contact to mature synapse
 
-Suggested file: `images/3_ns_synapse_formation.png`
-:::
+![](images/3_cf_synaptogenesis.png){width="38%"}
 
 :::
 :::
@@ -696,233 +690,165 @@ Synaptogenesis therefore transforms an initially simple cell-cell contact into a
 ::: {.column}
 
 ::: {.info-box}
-The `neuromuscular junction` has been a particularly useful model for understanding how pre- and postsynaptic specializations become aligned.
+The [neuromuscular junction](https://en.wikipedia.org/wiki/Neuromuscular_junction){target="_blank"} has been a particularly useful <u>model</u> for understanding how pre- and postsynaptic specializations become aligned.
 :::
 
 ::: {.card}
-The motor axon releases `agrin`, which activates signaling involving `MuSK` in the muscle membrane.
+It is organized into three main components:
 
-This promotes the clustering of `acetylcholine receptors` beneath the presynaptic terminal.
-:::
+- `Presynaptic terminal`: the motor axon ending
+- `Synaptic basal lamina`: specialized extracellular matrix 
+- `Postsynaptic membrane`: the muscle fiber
 
-::: {.card}
-A diffuse receptor distribution is therefore reorganized into a <u>highly localized postsynaptic specialization</u>.
+Together, these three components form the functional cholinergic synapse between motor neuron and muscle.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> agrin-MuSK pathway and clustering of acetylcholine receptors
+![](images/3_cf_neuromuscular_junction.png){width="100%"}
 
-Suggested file: `images/3_ns_agrin_musk.png`
-:::
 
 :::
 :::
 
-## Synaptic specificity
+## Regeneration preserves synaptic specificity
 
-::: {.info-box}
-Neurons do not simply form synapses with any nearby cell.
+::: {.columns}
+::: {.column width="48%"}
 
-Synaptogenesis is highly selective.
+::: {.experiment-card}
+::: {.exp-header}
+Regeneration experiment
 :::
+
+::: {.exp-section}
+::: {.exp-section-title}
+Muscle regeneration
+:::
+The muscle fiber and nerve terminal are <u>removed</u>.
+If nerve regrowth is prevented, the new muscle fiber still forms postsynaptic specializations at the <u>original synaptic site</u>.
+
+:::
+
+::: {.exp-section}
+::: {.exp-section-title}
+Nerve regeneration
+:::
+The muscle fiber and nerve terminal are <u>removed</u>.
+When the nerve regenerates, motor axons preferentially re-form presynaptic terminals at the <u>original synaptic site</u>
+
+:::
+:::
+
+:::
+::: {.column width="52%"}
+
+![](images/3_cf_neuromuscular_experiment.png){
+  width="100%"
+  title="Regeneration experiments at the neuromuscular junction show that the synaptic basal lamina preserves information about the location of the original synapse. When muscle regenerates within the preserved basal lamina sheath, postsynaptic specializations preferentially reappear at the old synaptic site. Conversely, regenerating motor axons preferentially contact the synaptic region of the preserved basal lamina and differentiate into nerve terminals there."
+}
 
 ::: {.card}
-Specificity can occur at multiple levels:
+The experiment shows that the `synaptic basal lamina` is not simply structural.
 
-`brain region` → `cell type` → `individual neuron` → `subcellular compartment`
+It contains stable molecular cues capable of organizing <u>both presynaptic and postsynaptic differentiation</u>.
 :::
 
-::: {.card}
-The same postsynaptic neuron can receive different classes of inputs at distinct locations on its dendrites, soma or axon.
+:::
 :::
 
->Connectivity is therefore not only a question of <u>who connects to whom</u>, but also <u>where on the target cell the connection is made</u>.
-
-## Subcellular target specificity
+## The basal lamina contains synaptic information
 
 ::: {.columns}
 ::: {.column}
 
 ::: {.info-box}
-Different classes of inhibitory interneurons can preferentially innervate different compartments of the same pyramidal neuron.
+The `synaptic basal lamina` is a specialized extracellular matrix that remains associated with the site of the neuromuscular junction.
 :::
 
 ::: {.card}
-Examples:
+It contains molecules such as:
 
-- `SST interneurons` preferentially target distal dendritic regions
-- many `PV interneurons` preferentially target the soma and proximal dendrites
-- `chandelier cells` selectively innervate the axon initial segment
+- `laminins`
+- `agrin`
+- extracellular matrix proteins
+- [acetylcholinesterase](https://en.wikipedia.org/wiki/Acetylcholinesterase){target="_blank"}
+
+These molecules help maintain the <u>spatial organization</u> of the synapse.
 :::
 
-::: {.card}
-This subcellular specificity gives different interneuron classes distinct effects on neuronal computation.
-:::
+
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> pyramidal neuron showing dendritic, somatic and axon-initial-segment inhibitory inputs
+![](images/3_cf_basal_lamina.png){width="70%"
+  title="Basal lamina of the neuromuscular junction. The synaptic basal lamina lies between the motor nerve terminal and the muscle fiber and has a specialized molecular composition. It contains laminins, type IV collagen, agrin, acetylcholinesterase (AChE), neuregulin and other extracellular-matrix molecules. AChE = acetylcholinesterase, which breaks down acetylcholine; agrin helps organize the postsynaptic specialization and clustering of acetylcholine receptors; laminins and collagen IV provide structural organization and also contribute to signaling and synaptic stability. The molecular composition differs between the synaptic and extrasynaptic basal lamina, helping define the precise location of the neuromuscular junction."}
 
-Suggested file: `images/3_ns_subcellular_specificity.png`
-:::
 
 :::
 :::
 
-## Molecular cues can specify a synaptic location
+## Agrin organizes the postsynaptic specialization
 
 ::: {.columns}
 ::: {.column}
 
 ::: {.info-box}
-Subcellular targeting can itself be guided by molecular information.
+The motor neuron releases `agrin`, which becomes concentrated in the `synaptic basal lamina`.
 :::
 
 ::: {.card}
-A classic example is the precise targeting of the axon initial segment of `Purkinje cells` by cerebellar basket-cell axons.
+Agrin binds the muscle receptor `LRP4`, which activates `MuSK`.
 
-Molecules concentrated at particular neuronal compartments, including `Neurofascin`, can contribute to this highly specific organization.
+This signaling pathway recruits proteins including `rapsyn` and promotes the clustering of `acetylcholine receptors`.
 :::
 
+
 ::: {.card}
-The neuron therefore contains an internal molecular map that can help incoming axons identify the <u>correct synaptic compartment</u>.
+The result is a transition from a relatively diffuse distribution of receptors to a <u>highly concentrated postsynaptic specialization</u> directly opposite the motor terminal.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> basket-cell/Purkinje-cell pinceau and Neurofascin at the AIS
-
-Suggested file: `images/3_ns_neurofascin_ais.png`
-:::
+![](images/3_cf_agrin_musk.png){width="100%"}
 
 :::
 :::
 
-## Glia participate in synaptogenesis
+## Activity-dependent synaptic refinement
 
 ::: {.columns}
-::: {.column}
+::: {.column width="45%"}
 
 ::: {.info-box}
-Synapse formation is not exclusively a neuron-neuron process.
-
-`Astrocytes` actively influence the formation and maturation of synapses.
+During development, immature muscle fibers show `transient polyinnervation`: several motor axons initially contact the same muscle fiber.
 :::
 
 ::: {.card}
-Astrocytes release synaptogenic signals, including molecules such as `thrombospondins`, and regulate the extracellular environment around developing synapses.
+With maturation, these competing inputs are progressively refined.
+
+- some branches are <u>stabilized and strengthened</u>
+- others <u>retract and disappear</u>
+
+Eventually, each muscle fiber is normally innervated by a single motor neuron.
 :::
+
+
+:::
+::: {.column width="55%"}
+
+![](images/3_cf_transient_polyinnervation.png){
+  width="100%"
+  title="Activity-dependent refinement at the neuromuscular junction. Immature muscle fibers are initially innervated by several motor axons, a condition called transient polyinnervation. During maturation, competition between inputs leads to stabilization of some branches and elimination of others, leaving a single motor neuron innervating each muscle fiber. Local blockade of acetylcholine receptors (AChRs) causes presynaptic branches contacting the less active region to withdraw, showing that synaptic stabilization and elimination depend on activity."
+}
 
 ::: {.card}
-The presence of glial signals can strongly increase the number of synaptic contacts formed by developing neurons.
-:::
+This refinement is `activity-dependent`.
 
-:::
-::: {.column}
-
-::: {.card .image-needed}
-<u>Image:</u> experimental comparison of neurons cultured with and without glial signals
-
-Suggested file: `images/3_ns_glia_synaptogenesis.png`
-:::
-
-:::
-:::
-
-## Trans-synaptic adhesion organizes the contact
-
-::: {.columns}
-::: {.column}
-
-::: {.info-box}
-The developing pre- and postsynaptic membranes must become physically aligned and molecularly coordinated.
-:::
-
-::: {.card}
-Trans-synaptic adhesion systems such as `neurexins` and `neuroligins` contribute to:
-
-- stabilization of cell-cell contact
-- alignment of pre- and postsynaptic specializations
-- recruitment of synaptic proteins
-- maturation of synaptic properties
-:::
-
-::: {.card}
-These molecules act as part of a larger molecular network rather than as a single universal "synapse switch."
-:::
-
-:::
-::: {.column}
-
-::: {.card .image-needed}
-<u>Image:</u> neurexin-neuroligin trans-synaptic complex
-
-Suggested file: `images/3_ns_neurexin_neuroligin.png`
-:::
-
-:::
-:::
-
-## Early circuits contain excess connections
-
-::: {.info-box}
-As with neuronal survival, development initially generates <u>more connections than will ultimately be maintained</u>.
-:::
-
-::: {.card}
-Early synaptic organization can therefore be highly redundant.
-
-A clear example is the developing neuromuscular junction, where an individual muscle fiber is initially innervated by <u>multiple motor axons</u>.
-:::
-
-::: {.card}
-During maturation, most of these inputs are eliminated until each adult muscle fiber is normally innervated by a <u>single motor neuron</u>.
-:::
-
-::: {.card .image-needed}
-<u>Image:</u> transient polyneuronal innervation of muscle and mature single innervation
-
-Suggested file: `images/3_ns_polyinnervation.png`
-:::
-
-## Synaptic competition and elimination
-
-::: {.columns}
-::: {.column}
-
-::: {.info-box}
-The transition from multiple inputs to a smaller set of stable connections is not random.
-
-Developing inputs <u>compete</u> for maintenance.
-:::
-
-::: {.card}
-Synaptic stabilization depends in part on:
-
-- successful communication with the target
-- relative activity of competing inputs
-- trophic and molecular support
-- local postsynaptic signaling
-:::
-
-::: {.card}
-Less successful connections retract, while selected connections become stronger and more stable.
-:::
-
-:::
-::: {.column}
-
-::: {.card .image-needed}
-<u>Image:</u> competition between motor-neuron terminals and local receptor blockade
-
-Suggested file: `images/3_ns_synaptic_competition.png`
+Local blockade of `ACh receptors` reduces effective neuromuscular activity and causes withdrawal of presynaptic branches from the blocked region.
 :::
 
 :::
@@ -959,7 +885,237 @@ Suggested file: `images/3_ns_synaptic_competition.png`
 :::
 
 ::: {.card}
-As in neuronal survival, mature circuitry emerges through <u>overproduction followed by selective stabilization and elimination</u>.
+As in neuronal survival, mature circuitry emerges through <u>overproduction followed by selective stabilization and elimination</u> and is guided by <u>activity dependent processes</u>.
+:::
+
+## Why the neuromuscular junction became a model synapse
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+Synapses in the `central nervous system` are extremely <u>small</u> and lie close to the [resolution limit](https://en.wikipedia.org/wiki/Diffraction-limited_system){target="_blank"} of conventional light microscopy.
+
+For a long time, their structure could be just <u>inferred</u>, but not directly visualized in detail.
+:::
+
+::: {.card}
+`1870s` - Golgi staining reveals the complex morphology of neurons.
+
+`1880s–1890s` - Cajal develops the `neuron doctrine`: neurons are discrete cells rather than a continuous network.
+
+`1897` - Sherrington introduces the term `synapse`.
+
+`1950s` - Electron microscopy provides direct structural visualization of CNS synapses.
+:::
+
+:::
+::: {.column}
+
+
+::: {.centerimg}
+![](images/3_cf_syn_cajal.png){width="65%"
+  title="Golgi staining of human cortex. This technique reveals the morphology and organization of neurons and their processes, but individual synaptic contacts cannot be resolved with conventional light microscopy."
+}
+:::
+
+
+::: {layout-ncol=2}
+
+![](images/3_cf_syn_electron_micro.png){width="30%"
+  title="Electron micrograph of a chemical synapse. The presynaptic terminal contains numerous synaptic vesicles and is separated from the postsynaptic membrane by a narrow synaptic cleft."
+}
+
+![](images/3_cf_syn_electron_micro2.png){width="30%"
+  title="Electron micrograph of a chemical synapse showing the presynaptic terminal, synaptic vesicles and mitochondria. Electron microscopy allows direct visualization of synaptic ultrastructure."
+}
+
+:::
+
+
+:::
+:::
+
+## Why the neuromuscular junction became a model synapse
+
+::: {.columns}
+::: {.column width="50%"}
+
+::: {.card}
+Another reason is that synapses in the `central nervous system` are much more heterogeneous and complex.
+
+They can:
+
+- use different `neurotransmitters`
+- differ greatly in structure and function
+- be more dynamic and less stable
+- sometimes show `co-release` of multiple neurotransmitters
+
+This makes CNS synapses much more difficult to study as a single, standardized model.
+:::
+
+
+
+:::
+::: {.column width="50%"}
+
+::: {.card}
+Because brain synapses were so difficult to observe and manipulate, much of the early experimental work on synaptic development was performed in more accessible systems.
+
+The `neuromuscular junction` is large, anatomically well defined and experimentally accessible, making it an ideal model for studying <u>synapse formation, organization and elimination</u>.
+:::
+
+
+:::
+:::
+
+## Synaptic specificity
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+Neurons do not simply form synapses with any nearby cell.
+Synaptogenesis is highly <u>selective</u>.
+:::
+
+::: {.card}
+The same postsynaptic neuron can receive different classes of inputs at distinct locations on its <u>dendrites, soma or axon</u>.
+:::
+
+>Connectivity is therefore not only a question of `who` connects to whom, but also `where` on the target cell the connection is made.
+
+::: 
+::: {.column}
+![](images/3_cf_syn_types.png){
+  width="100%"
+ title="Different types of synaptic contacts classified according to the neuronal compartment that is contacted. Axosomatic synapses contact the cell body, axodendritic synapses contact dendrites, and axoaxonic synapses contact another axon, often near the axon initial segment or a presynaptic terminal. Less common contacts include dendrodendritic synapses between dendrites. The functional effect of a synapse depends not only on the neurotransmitter released but also on the precise subcellular location of the contact."
+}
+
+::: 
+::: 
+
+## Subcellular target specificity
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+Different classes of `inhibitory interneurons` can preferentially innervate different compartments of the same pyramidal neuron.
+:::
+
+::: {.card}
+Examples:
+
+- [SST interneurons](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2024.1436915/full){target="_blank"} preferentially target distal dendritic regions
+- many [PV interneurons](https://pmc.ncbi.nlm.nih.gov/articles/PMC10660579/){target="_blank"} preferentially target the soma and proximal dendrites
+- [chandelier cells](https://en.wikipedia.org/wiki/Chandelier_cell){target="_blank"} (a type of PV) selectively innervate the axon initial segment
+:::
+
+
+:::
+::: {.column}
+
+![](images/3_cf_syn_specificity.png){width="65%"
+title="SST: yellow, PV: green, PV Chandelier: cyan, Pyramidal: red"
+}
+
+
+>This subcellular specificity gives different interneuron classes distinct effects on neuronal computation.
+
+
+:::
+:::
+
+## Molecular cues can specify a synaptic location
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+Subcellular targeting can itself be guided by molecular information.
+:::
+
+::: {.card}
+A classic example is the precise targeting of the <u>axon initial segment</u> (AIS) of `Purkinje cells` by cerebellar [basket-cell](https://en.wikipedia.org/wiki/Basket_cell) axons.
+
+Molecules concentrated at particular neuronal compartments, including `Neurofascin`, can contribute to this highly specific organization.
+:::
+
+::: {.card}
+The neuron therefore contains an internal molecular map that can help incoming axons identify the <u>correct synaptic compartment</u>.
+:::
+
+:::
+::: {.column}
+
+![](images/3_cf_syn_cerebellar_basket.png){width="9 5%"
+title="AIS: axon initial segment, NF186: Neurofascin, AnkyrinG is a protein that mediate the attachment of integral membrane proteins to the membrane "
+}
+
+:::
+:::
+
+## Glia participate in synaptogenesis
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+Synapse formation is not exclusively a neuron-neuron process.
+
+`Astrocytes` actively influence the formation and maturation of synapses.
+:::
+
+::: {.card}
+Astrocytes release synaptogenic signals, including molecules such as `thrombospondins`, and regulate the extracellular environment around developing synapses.
+:::
+
+::: {.card}
+The presence of glial signals can strongly increase the number of synaptic contacts formed by developing neurons.
+:::
+
+:::
+::: {.column}
+
+![](images/3_cf_syn_glia.png){width="9 5%"
+  title="Astrocytes promote synapse formation and maturation. GluR2/3 labels AMPA-type glutamate receptors, while PSD-95 is a postsynaptic density scaffold protein. Colocalized puncta indicate postsynaptic specializations. Neurons cultured with glia show many more GluR2/3-positive puncta per cell than neurons cultured without glia, indicating that glial signals strongly promote the formation of excitatory synapses."}
+
+:::
+:::
+
+## Trans-synaptic adhesion organizes the contact
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+The developing pre- and postsynaptic membranes must become physically aligned and molecularly coordinated.
+:::
+
+::: {.card}
+Trans-synaptic adhesion systems such as `neurexins` and `neuroligins` contribute to:
+
+- stabilization of cell-cell contact
+- alignment of pre- and postsynaptic specializations
+- recruitment of synaptic proteins
+- maturation of synaptic properties
+:::
+
+
+:::
+::: {.column}
+
+![](images/3_cf_syn_trainsinaptic.png){width="85%"
+  title="Molecular organization of a developing synapse. Presynaptic β-neurexin interacts across the synaptic cleft with postsynaptic neuroligin, helping align the two sides of the synapse. On the presynaptic side, neurexin is associated with proteins involved in vesicle release and active-zone organization, including CASK, Mint and Munc18. On the postsynaptic side, neuroligin associates with scaffold proteins such as PSD-95, which organize glutamate receptors including NMDA and AMPA receptors. Neurexin–neuroligin adhesion therefore contributes to the coordinated assembly of presynaptic and postsynaptic specializations."
+}
+
+::: {.card}
+These molecules act as part of a larger molecular network rather than as a single universal "synapse switch."
+:::
+
+
+:::
 :::
 
 ## Synaptic density changes during development
@@ -976,17 +1132,14 @@ Periods of intense `synaptogenesis` can produce synaptic densities greater than 
 ::: {.card}
 This is followed by prolonged periods of `synaptic pruning`.
 
-The timing differs across brain regions: primary sensory areas generally mature earlier, whereas association and prefrontal regions follow a more prolonged trajectory.
+The <u>timing differs across brain regions</u>: primary sensory areas generally mature earlier, whereas association and prefrontal regions follow a more prolonged trajectory.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> developmental curve of synaptic density in sensory and prefrontal cortex
-
-Suggested file: `images/3_ns_synaptic_density.png`
-:::
+![](images/3_cf_syn_pruning.png){width="100%"
+}
 
 :::
 :::
@@ -997,19 +1150,14 @@ Suggested file: `images/3_ns_synaptic_density.png`
 The basic architecture of many circuits appears early, but connectivity continues to be modified for a long period after the first synapses are formed.
 :::
 
-::: {.card}
-Circuit maturation includes:
-
-`formation` → `competition` → `stabilization` → `elimination` → `refinement`
-:::
 
 ::: {.card}
 The relative contribution of genetically specified molecular signals and neural activity changes across development.
 
-Early molecular programs provide substantial initial organization, while <u>activity and experience progressively refine connectivity</u>.
+Early molecular programs provide substantial initial organization, while <u>activity and experience</u> progressively refine connectivity.
 :::
 
->This interaction between initial wiring and experience will become central when we discuss developmental plasticity and critical periods.
+>This interaction between initial wiring and experience will become central when we discuss developmental <u>plasticity</u> and <u>critical periods</u>.
 
 ## Myelination
 
@@ -1019,7 +1167,7 @@ Early molecular programs provide substantial initial organization, while <u>acti
 ::: {.info-box}
 A circuit is not mature simply because its neurons are connected.
 
-The timing and reliability of signal transmission also depend on the structural organization of axons.
+The timing and reliability of signal transmission also depend on the <u>structural organization of axons</u>.
 :::
 
 ::: {.card}
@@ -1029,17 +1177,14 @@ In the CNS, myelin is produced by `oligodendrocytes`.
 :::
 
 ::: {.card}
-Myelination allows rapid `saltatory conduction` between the nodes of Ranvier and changes the functional properties of neural circuits.
+Myelination allows `rapid` and `reliable` [saltatory conduction](https://en.wikipedia.org/wiki/Saltatory_conduction){target="_blank"} between the nodes of Ranvier and changes the functional properties of neural circuits.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> oligodendrocyte, myelin sheath and nodes of Ranvier
-
-Suggested file: `images/3_ns_myelin_overview.png`
-:::
+![](images/3_cf_myelin.gif){width="100%"
+}
 
 :::
 :::
@@ -1056,8 +1201,8 @@ A single `oligodendrocyte` can extend multiple processes and form myelin around 
 ::: {.card}
 Myelination can be considered in two broad developmental steps:
 
-1. proliferation and differentiation of oligodendrocyte-lineage cells
-2. recognition of appropriate axons and formation of compact myelin wraps
+1. <u>proliferation</u> and differentiation of oligodendrocyte-lineage cells
+2. <u>recognition</u> of appropriate axons and formation of compact myelin wraps
 :::
 
 ::: {.card}
@@ -1067,11 +1212,8 @@ Myelin is therefore the product of an active <u>axon-glia interaction</u>.
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> oligodendrocyte extending processes to several axons
-
-Suggested file: `images/3_ns_oligodendrocyte.png`
-:::
+![](images/3_cf_myelin_oligod.png){width="80%"
+}
 
 :::
 :::
@@ -1100,41 +1242,42 @@ The interaction between axons and myelinating glia therefore helps organize the 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> node of Ranvier showing Nav, paranodal and Kv domains
+![](images/3_cf_myelin_ranvier.png){width="80%"
+  title="Electron micrograph of a node of Ranvier. The node (N) is the short unmyelinated gap between adjacent myelin sheaths, while the paranodal region (PN) lies immediately next to it where terminal myelin loops contact the axon. This organization creates distinct membrane domains that are essential for saltatory conduction."
+}
 
-Suggested file: `images/3_ns_node_of_ranvier.png`
-:::
+![](images/3_cf_myelin_ranvier2.png){width="80%"
+  title="Molecular organization of a node of Ranvier. Voltage-gated sodium channels (Nav, red) are concentrated at the node, Caspr (blue) marks the paranodal junctions, and Kv1.2 potassium channels (green) are enriched in the juxtaparanodal regions. These sharply separated domains are organized by interactions between the axon and myelinating glial cells."
+}
 
 :::
 :::
 
 ## Myelination has a long developmental trajectory
 
+::: {.columns}
+::: {.column}
+
 ::: {.info-box}
-Human myelination begins <u>prenatally</u> but continues for many years after birth.
-
-Different pathways and brain regions mature at different times.
+Human myelination begins <u>prenatally</u> and continues into adulthood, with some brain regions still undergoing myelination beyond 30 years of age.
+Different pathways and brain regions mature at <u>different times</u>.
 :::
 
 ::: {.card}
-The general developmental progression is from systems required for early sensorimotor function toward increasingly distributed and associative networks.
+The general developmental progression is from systems required for early <u>sensorimotor</u> function toward increasingly distributed and <u>associative</u> networks.
 :::
 
-::: {.card}
-This prolonged trajectory means that important changes in the <u>speed and coordination of neural communication</u> continue through childhood, adolescence and into adulthood.
-:::
+::: 
+::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> timeline of human myelination from prenatal development to adulthood
+![](images/3_cf_myelin_rmi.png){width="100%"
+}
 
-Suggested file: `images/3_ns_myelination_timeline.png`
+::: 
 :::
 
 ## Myelination follows a regional sequence
 
-::: {.columns}
-::: {.column}
 
 ::: {.info-box}
 Myelination does not progress uniformly across the nervous system.
@@ -1149,86 +1292,13 @@ Broad developmental tendencies include:
 :::
 
 ::: {.card}
-The sequence broadly parallels the progressive maturation of increasingly complex neural functions.
+The sequence broadly parallels the progressive maturation of <u>increasingly complex</u> neural functions.
 :::
 
-:::
-::: {.column}
+## Self-check
 
-::: {.card .image-needed}
-<u>Image:</u> regional progression of human brain myelination
-
-Suggested file: `images/3_ns_regional_myelination.png`
-:::
-
-:::
-:::
-
-## From neurons to functional circuits
-
-::: {.info-box}
-Circuit development is a multistage process in which molecular specificity and selective refinement operate repeatedly.
-:::
-
-::: {.card}
-`axon guidance`
-
-Where should the axon go?
-
-`target recognition`
-
-Which cell should it contact?
-
-`synaptogenesis`
-
-Where and how should the synapse be assembled?
-
-`refinement`
-
-Which of the initial connections should be maintained?
-
-`myelination`
-
-How should signals be transmitted efficiently across the final circuit?
-:::
-
-::: {.card}
-The mature circuit is therefore not simply "wired."
-
-It is progressively <u>guided, assembled, tested, selected and optimized</u>.
-:::
-
-## A general principle of neural development
-
-::: {.columns}
-::: {.column}
-
-::: {.info-box}
-Across the three chapters we repeatedly encounter the same developmental strategy.
-:::
-
-::: {.card}
-`Generation`
-
-- cells are produced
-- axons are extended
-- synapses are formed
-:::
-
-:::
-::: {.column}
-
-::: {.card}
-`Selection and refinement`
-
-- cell fates are restricted
-- neurons compete for survival
-- axons choose among possible routes
-- synapses compete and are pruned
-- myelination stabilizes efficient pathways
-:::
-
-:::
-:::
-
->Development builds the nervous system through <u>progressive specification followed by selective refinement</u>.
+```{=html}
+<div class="quiz-wrap">
+  <iframe class="quiz-frame" src="quiz/quiz_cf.html" loading="lazy"></iframe>
+</div>
+```

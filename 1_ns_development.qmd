@@ -302,7 +302,7 @@ Disrupted closure can produce neural tube defects. The outcome depends on the af
 ::: {.card}
 **Procedure**
 
-- the <u>dorsal lip</u> was taken from a donor amphibian gastrula
+- the <u>dorsal lip of the blastopore</u> was taken from a donor amphibian gastrula
 - it was transplanted into the <u>ventral region</u> of a host embryo
 - subsequent development was observed
 :::
@@ -602,7 +602,6 @@ The <u>hindbrain</u> forms the metencephalon and myelencephalon.
 :::
 :::
 
-
 ## Anteroposterior regionalization
 
 ::: {.columns}
@@ -801,7 +800,6 @@ Two important examples are [Emx2](https://en.wikipedia.org/wiki/EMX2){target="_b
 - Different combinations and levels of these transcription factors give progenitor cells different regional identities.
 :::
 
-
 ## Classical hypotheses of cortical regionalization
 
 ::: {.columns}
@@ -835,7 +833,6 @@ Intrinsic patterning establishes early regional <u>biases</u>. Thalamic inputs a
 
 :::
 :::
-
 
 ## Self-check
 

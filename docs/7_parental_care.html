@@ -10,7 +10,7 @@
   <meta name="generator" content="quarto-1.7.33">
 
   <meta name="author" content="Raffaele M Mazziotti, PhD">
-  <title>Experience-Dependent Development</title>
+  <title>Parental Care</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -130,7 +130,7 @@
     <div class="slides">
 
 <section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" class="quarto-title-block center">
-  <h1 class="title">Experience-Dependent Development</h1>
+  <h1 class="title">Parental Care</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -138,7 +138,7 @@
 Raffaele M Mazziotti, PhD 
 </div>
         <p class="quarto-title-affiliation">
-            University of Florence
+            Scuola di Psicologia, University of Florence
           </p>
     </div>
 </div>
@@ -210,7 +210,7 @@ Raffaele M Mazziotti, PhD
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: false,
+        slideNumber: 'c/t',
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
@@ -440,6 +440,70 @@ Raffaele M Mazziotti, PhD
           Reveal.on("ready", injectHomeLink);
         });
       }
+
+      function preparePdfLayout() {
+        if (!/[?&](print-pdf|view=print)(?:[=&]|$)/.test(window.location.search)) return;
+
+        function fitSlides() {
+          const pages = Array.from(document.querySelectorAll(".pdf-page"));
+          if (!pages.length) return;
+
+          const pageHeight = Math.min(...pages.map((page) => page.getBoundingClientRect().height));
+          pages.forEach((page) => {
+            const slide = page.querySelector("section");
+            if (!slide) return;
+
+            // Print the final, complete state of fragments on one physical page.
+            page.style.height = `${pageHeight}px`;
+            slide.querySelectorAll("img[data-src]").forEach((image) => {
+              image.src = image.dataset.src;
+            });
+            slide.querySelectorAll(".fragment").forEach((fragment) => {
+              fragment.classList.add("visible");
+              fragment.style.opacity = "1";
+              fragment.style.visibility = "visible";
+              fragment.style.transform = "none";
+            });
+            slide.querySelectorAll(".r-stack").forEach((stack) => {
+              const states = Array.from(stack.children).filter((child) => child.querySelector("[data-fragment-index]"));
+              const finalState = states.at(-1);
+              states.forEach((state) => {
+                state.style.display = state === finalState ? "" : "none";
+              });
+            });
+
+            if (slide.id !== "title-slide") slide.style.top = "18px";
+            const availableHeight = pageHeight - (parseFloat(slide.style.top) || 0) - 20;
+            slide.style.transform = "none";
+            slide.style.zoom = "";
+            const hasMixedColumnLayout = slide.querySelector(".columns > :not(.column)");
+            const scale = slide.id === "title-slide" ? 1 : Math.min(
+              hasMixedColumnLayout ? 0.82 : 1,
+              availableHeight / slide.scrollHeight
+            );
+            if (scale < 1) {
+              // CSS zoom changes the printable layout itself; transforms can still be clipped by print preview.
+              slide.style.zoom = scale;
+            }
+          });
+        }
+
+        const scheduleFit = () => {
+          requestAnimationFrame(() => requestAnimationFrame(() => {
+            setTimeout(fitSlides, 250);
+            setTimeout(fitSlides, 1000);
+          }));
+        };
+
+        if (window.Reveal && Reveal.isReady()) {
+          scheduleFit();
+        } else {
+          document.addEventListener("DOMContentLoaded", () => Reveal.on("ready", scheduleFit));
+        }
+        window.addEventListener("load", scheduleFit);
+      }
+
+      preparePdfLayout();
     })();
     </script>
     <script id="quarto-html-after-body" type="application/javascript">

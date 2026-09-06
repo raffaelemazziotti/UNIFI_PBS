@@ -6,7 +6,7 @@ title-block: false
 ## Index
 
 >[Welcome to the course!]{.highlight}
-Brief introduction to the course.
+This is the course program. 
 
 
 ### Chapters
@@ -17,6 +17,7 @@ Brief introduction to the course.
 - [Nervous System Development](1_ns_development.html)
 - [Neurogenesis and Differentiation](2_neurogenesis.html)
 - [Neural Circuit Development](3_circuit_development.html)
+- [Methods in Developmental Psychobiology](4_methods.html)
 
 :::
 
@@ -24,7 +25,7 @@ Brief introduction to the course.
 ::: column
 
 :::{.list-box}
-- [Methods in Developmental Psychobiology](4_methods.html)
+- [Neuroplasticity](5_neuroplasticity.html)
 - [Experience-Dependent Development](5_experience.html)
 - [Parental Care](6_parental_care.html)
 :::
@@ -73,6 +74,207 @@ Brief introduction to the course.
 - A **PDF-compatible version** appears
 - Print or save it for clean notes
 :::
+
+:::
+:::
+
+## Search course slides
+
+```{=html}
+<div class="course-search" role="search">
+  <form id="course-search-form">
+    <label for="course-search-input">Search the course</label>
+    <div>
+      <input id="course-search-input" type="search" placeholder="Search for a word or phrase" autocomplete="off">
+      <button type="submit">Search</button>
+    </div>
+  </form>
+  <p id="course-search-status" aria-live="polite">Search across all course slides.</p>
+  <div id="course-search-results" aria-live="polite"></div>
+  <div id="course-search-pagination" class="course-search-pagination" aria-label="Search result pages"></div>
+</div>
+
+<style>
+  .reveal .slides section#search-course-slides { top: 0 !important; transform: none !important; padding-top: 1.2rem; box-sizing: border-box; }
+  .course-search { max-width: 900px; margin: .6em auto 0; text-align: left; }
+  .course-search label { display: block; margin-bottom: .45em; font-size: 1.15em; }
+  .course-search form > div { display: flex; gap: .45em; }
+  .course-search input { flex: 1; min-width: 0; padding: .55em .7em; font-size: .9em; border-radius: .25em; border: 1px solid #aaa; }
+  .course-search button { padding: .55em .9em; font-size: .9em; cursor: pointer; }
+  .course-search-result { margin: .4em 0; padding: .4em .65em; border-left: 3px solid #9bc7ff; background: rgba(255,255,255,.08); }
+  .course-search-result a { font-weight: 700; }
+  .course-search-result p { display: -webkit-box; margin: .15em 0 0; overflow: hidden; font-size: .62em; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
+  .course-search-pagination { display: flex; justify-content: center; align-items: center; gap: .7em; margin-top: .55em; font-size: .7em; }
+  .course-search-pagination button { padding: .3em .65em; font-size: 1em; }
+</style>
+
+<script>
+(() => {
+  const searchIndexUrl = 'search-data/course-search-index.json';
+  const form = document.getElementById('course-search-form');
+  const input = document.getElementById('course-search-input');
+  const status = document.getElementById('course-search-status');
+  const results = document.getElementById('course-search-results');
+  const pagination = document.getElementById('course-search-pagination');
+  const resultsPerPage = 4;
+  let slides;
+  let matches = [];
+  let currentPage = 0;
+
+  const normalise = (value) => value.toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  const words = (value) => normalise(value).match(/[a-z0-9]+/g) || [];
+  const stem = (word) => word.replace(/(ations|ation|ments|ment|ingly|ing|edly|ed|ies|es|s)$/i, '');
+
+  function editDistance(first, second) {
+    const previous = Array.from({ length: second.length + 1 }, (_, index) => index);
+    for (let row = 1; row <= first.length; row += 1) {
+      let diagonal = previous[0];
+      previous[0] = row;
+      for (let column = 1; column <= second.length; column += 1) {
+        const saved = previous[column];
+        previous[column] = Math.min(previous[column] + 1, previous[column - 1] + 1, diagonal + (first[row - 1] === second[column - 1] ? 0 : 1));
+        diagonal = saved;
+      }
+    }
+    return previous[second.length];
+  }
+
+  function wordScore(queryWord, candidate) {
+    if (candidate === queryWord) return 12;
+    if (stem(candidate) === stem(queryWord) && queryWord.length > 3) return 9;
+    if (queryWord.length > 2 && (candidate.startsWith(queryWord) || queryWord.startsWith(candidate))) return 7;
+    const allowedDistance = queryWord.length > 7 ? 2 : 1;
+    return queryWord.length > 3 && Math.abs(candidate.length - queryWord.length) <= allowedDistance && editDistance(queryWord, candidate) <= allowedDistance ? 5 : 0;
+  }
+
+  async function buildIndex() {
+    if (slides) return slides;
+    const response = await fetch(searchIndexUrl, { cache: 'no-cache' });
+    if (!response.ok) throw new Error(searchIndexUrl);
+    const index = await response.json();
+    slides = index.slides.map(({ href, title, text }) => ({
+      href, title, text, titleWords: words(title), textWords: [...new Set(words(text))]
+    }));
+    return slides;
+  }
+
+  function scoreSlide(slide, query, queryWords) {
+    const text = normalise(slide.text);
+    let score = text.includes(query) ? 50 : 0;
+    for (const queryWord of queryWords) {
+      const bestTextScore = Math.max(0, ...slide.textWords.map((word) => wordScore(queryWord, word)));
+      const bestTitleScore = Math.max(0, ...slide.titleWords.map((word) => wordScore(queryWord, word)));
+      if (!bestTextScore) return 0;
+      score += bestTextScore + bestTitleScore * 2;
+    }
+    return score;
+  }
+
+  function renderResults() {
+    results.replaceChildren();
+    pagination.replaceChildren();
+    const pageMatches = matches.slice(currentPage * resultsPerPage, (currentPage + 1) * resultsPerPage);
+    pageMatches.forEach((slide) => {
+      const queryWord = words(input.value)[0] || '';
+      const matchAt = normalise(slide.text).indexOf(queryWord);
+      const excerpt = slide.text.slice(Math.max(0, matchAt - 70), matchAt + queryWord.length + 120);
+      const item = document.createElement('div');
+      item.className = 'course-search-result';
+      const link = document.createElement('a');
+      link.href = slide.href;
+      link.textContent = slide.title;
+      const preview = document.createElement('p');
+      preview.textContent = `${matchAt > 70 ? '…' : ''}${excerpt}${matchAt + queryWord.length + 120 < slide.text.length ? '…' : ''}`;
+      item.append(link, preview);
+      results.append(item);
+    });
+    if (matches.length > resultsPerPage) {
+      const pageCount = Math.ceil(matches.length / resultsPerPage);
+      const previous = document.createElement('button');
+      previous.type = 'button';
+      previous.textContent = 'Previous';
+      previous.disabled = currentPage === 0;
+      previous.addEventListener('click', () => { currentPage -= 1; renderResults(); });
+      const pageLabel = document.createElement('span');
+      pageLabel.textContent = `Page ${currentPage + 1} of ${pageCount}`;
+      const next = document.createElement('button');
+      next.type = 'button';
+      next.textContent = 'Next';
+      next.disabled = currentPage === pageCount - 1;
+      next.addEventListener('click', () => { currentPage += 1; renderResults(); });
+      pagination.append(previous, pageLabel, next);
+    }
+  }
+
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const query = normalise(input.value.trim());
+    results.replaceChildren();
+    pagination.replaceChildren();
+    if (!query) {
+      status.textContent = 'Enter a word or phrase to search the course slides.';
+      return;
+    }
+    status.textContent = 'Searching slides…';
+    try {
+      const queryWords = words(query);
+      matches = (await buildIndex()).map((slide) => ({ slide, score: scoreSlide(slide, query, queryWords) })).filter(({ score }) => score > 0).sort((first, second) => second.score - first.score).map(({ slide }) => slide);
+      currentPage = 0;
+      status.textContent = matches.length ? `${matches.length} slide${matches.length === 1 ? '' : 's'} found.` : 'No matching slides found.';
+      renderResults();
+    } catch (error) {
+      status.textContent = 'Search could not load the course slides. Open the presentation through the published site or a local web server.';
+    }
+  });
+})();
+</script>
+```
+
+
+## Course introduction
+
+::: {.columns}
+::: {.column width="50%"}
+
+::: {.card}
+`Materials and resources`
+
+- [Moodle](https://e-l.unifi.it/course/view.php?id=57311){target="_blank"}
+- [Textbook](https://www.lafeltrinelli.it/psicobiologia-dello-sviluppo-libro-nicoletta-berardi-tommaso-pizzorusso/e/9788842078609){target="_blank"}: Chapters: 2, 3, 4, 5, 6, 7, 8, 12, 13
+:::
+
+::: {.card}
+`Schedule`
+
+- [Course hours organization](https://docs.google.com/spreadsheets/d/1qpXS8NZQVh8ivDBvWvw8JgjOClufiBbsbusf2T3gOKI/edit?usp=sharing){target="_blank"}
+:::
+
+
+
+:::
+::: {.column width="50%"}
+
+
+::: {.card}
+`Exam`
+
+[Written exam]{.highlight}
+
+- 8 open-ended questions - 4 per module, maximum 2 points each
+- 16 true/false questions - 8 per module, with <u>mandatory</u> justification
+- True/false score: from -0.25 to 1 point
+
+[Oral exam]{.highlight}
+
+Mandatory only if the written-exam grade is <u>below 21</u>.
+:::
+
+::: {.info-box}
+`Contact`
+
+[raffaelemario.mazziotti@unifi.it](mailto:raffaelemario.mazziotti@unifi.it)
+:::
+
 
 :::
 :::
