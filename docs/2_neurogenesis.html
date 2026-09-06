@@ -1244,15 +1244,41 @@ Raffaele M Mazziotti, PhD
 
       function addCourseIndexMenuLink() {
         const toolsMenu = document.querySelector(".slide-menu-items");
-        if (!toolsMenu || toolsMenu.querySelector(".course-index-menu-link")) return;
+        if (!toolsMenu) return;
 
-        const item = document.createElement("li");
-        item.className = "slide-tool-item course-index-menu-link";
-        const link = document.createElement("a");
-        link.href = "index.html";
-        link.innerHTML = "<kbd>⌂</kbd> Course index";
-        item.appendChild(link);
-        toolsMenu.prepend(item);
+        function createMenuLink(className, href, iconPath, label) {
+          const item = document.createElement("li");
+          item.className = `slide-tool-item ${className}`;
+          const link = document.createElement("a");
+          link.href = href;
+          const icon = document.createElement("span");
+          icon.style.cssText = "display:inline-flex; width:70px; justify-content:center; vertical-align:middle;";
+          const image = document.createElement("img");
+          image.src = iconPath;
+          image.alt = "";
+          image.setAttribute("aria-hidden", "true");
+          image.style.cssText = "width:22px; height:22px;";
+          icon.appendChild(image);
+          link.append(icon, document.createTextNode(label));
+          item.appendChild(link);
+          return item;
+        }
+
+        let indexItem = toolsMenu.querySelector(".course-index-menu-link");
+        if (!indexItem) {
+          indexItem = createMenuLink("course-index-menu-link", "index.html", "images/home.svg", "Course index");
+          toolsMenu.prepend(indexItem);
+        }
+
+        if (!toolsMenu.querySelector(".course-search-menu-link")) {
+          const searchItem = createMenuLink(
+            "course-search-menu-link",
+            "index.html#/search-course-slides",
+            "images/search.svg",
+            "Search course slides"
+          );
+          indexItem.after(searchItem);
+        }
       }
 
       if (window.Reveal && Reveal.isReady()) {

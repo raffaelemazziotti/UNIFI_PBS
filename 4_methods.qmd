@@ -373,22 +373,18 @@ The infant is first exposed to a stimulus.
 
 The familiar stimulus is then presented together with a novel stimulus.
 
-A difference in looking time indicates that the infant <u>distinguishes the familiar item from the novel one</u>.
+A <u>difference</u> in looking time indicates that the infant <u>discriminates</u> the familiar item from the novel one.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> familiarization followed by familiar-versus-novel test
-
-Suggested file: `images/4_methods_visual_paired_comparison.png`
-:::
+![](images/4_mp_VPC.png){width="100%"}
 
 :::
 :::
 
-## Physiological methods
+## Peripheral physiological methods
 
 ::: {.info-box}
 Behavior is only one possible window onto development.
@@ -396,21 +392,40 @@ Behavior is only one possible window onto development.
 Changes in the body can also reveal whether a stimulus has been detected and how strongly it engages the organism.
 :::
 
+::: {.columns}
+::: {.column}
+
 ::: {.card}
 Developmental studies can measure physiological signals such as:
 
 - `heart rate`
 - respiration
-- pupil size
-- skin conductance
-- sucking rate or sucking pressure
+- non-nutritive sucking
+- [pupil size](https://en.wikipedia.org/wiki/Pupillometry){target="_blank"}
+- [electrodermal activity](https://en.wikipedia.org/wiki/Electrodermal_activity){target="_blank"}
+
+:::
+
+:::
+::: {.column}
+
+::: {.card}
+These measures are particularly useful when an overt behavioral response is <u>small</u>, <u>unreliable</u> or <u>unavailable</u>.
 :::
 
 ::: {.card}
-These measures are particularly useful when an overt behavioral response is <u>small, unreliable or unavailable</u>.
+`Advantages`:
+
+- low invasive
+- cost-effective
+- translational
 :::
 
-## Heart rate and attention
+
+:::
+:::
+
+## Heart rate
 
 ::: {.columns}
 ::: {.column}
@@ -420,23 +435,20 @@ Heart rate changes dynamically with `arousal`, `orienting` and `attention`.
 :::
 
 ::: {.card}
-During visual attention in infants, sustained engagement is often associated with a <u>deceleration of heart rate</u> relative to baseline.
+During visual attention in infants, sustained engagement is often associated with a decrease in [heart rate variability](https://en.wikipedia.org/wiki/Heart_rate_variability){target="_blank"} (HRV) relative to baseline.
 :::
 
 ::: {.card}
-The signal is informative but not specific:
+The signal is informative but <u>not specific</u>:
 
-a change in heart rate cannot by itself identify the exact cognitive process that produced it.
+a change in HRV cannot by itself identify the exact cognitive process that produced it.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> heart-rate change during pre-attention, sustained attention and attention termination
-
-Suggested file: `images/4_methods_heart_rate_attention.png`
-:::
+![](images/4_mp_hrv2.png){width="100%"}
+![](images/4_mp_hrv.png){width="100%"}
 
 :::
 :::
@@ -453,23 +465,20 @@ Newborns spontaneously produce `non-nutritive sucking` when given a pacifier or 
 ::: {.card}
 A pressure sensor can measure:
 
-- sucking frequency
-- sucking amplitude
-- pauses between sucking bursts
+- sucking <u>frequency</u>
+- sucking <u>amplitude</u>
+- <u>pauses</u> between sucking bursts
 :::
 
 ::: {.card}
-Because sucking can be recorded from very young infants, it provides a useful response for studying <u>perception, learning and preference shortly after birth</u>.
+Because sucking can be recorded from very young infants, it provides a useful response for studying <u>perception, learning and preference</u> shortly after birth.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> newborn with a pacifier connected to a sucking-pressure sensor
-
-Suggested file: `images/4_methods_non_nutritive_sucking.png`
-:::
+![](images/4_mp_nns_dev.png){width="70%"}
+![](images/4_mp_nns.png){width="100%"}
 
 :::
 :::
@@ -502,10 +511,21 @@ Changes in sucking can then reveal <u>preference, discrimination or habituation<
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> high-amplitude sucking experimental timeline
+::: {.r-stack}
 
-Suggested file: `images/4_methods_high_amplitude_sucking.png`
+![](images/4_mp_nns_exp.png){
+  .fragment
+  .fade-out
+  fragment-index="0"
+  width="100%"
+}
+
+![](images/4_mp_nns_exp2.png){
+  .fragment
+  fragment-index="0"
+  width="100%"
+}
+
 :::
 
 :::
@@ -518,7 +538,7 @@ Suggested file: `images/4_methods_high_amplitude_sucking.png`
 
 ::: {.experiment-card}
 ::: {.exp-header}
-Vouloumanos & Werker, 2007
+[Vouloumanos & Werker, 2007](resources/vouloumanos2007.pdf)
 :::
 
 ::: {.exp-section}
@@ -532,50 +552,48 @@ Do human newborns show a spontaneous preference for `speech`?
 ::: {.exp-section-title}
 Method
 :::
-High-amplitude sucking was used to let newborns control presentation of either speech or acoustically matched non-speech sounds.
+High-amplitude sucking was used to let newborns control presentation of either speech or non-speech sounds.
 :::
 
 ::: {.exp-section}
 ::: {.exp-section-title}
 Result
 :::
-Newborns adjusted their sucking behavior so that they heard <u>speech more often than non-speech analogues</u>.
+
+Sucking responses progressively decreased for non-speech sounds, indicating habituation.
+Responses to `speech` remained high or showed little habituation.
+
 :::
 :::
 
 :::
 ::: {.column width="48%"}
 
-::: {.card .image-needed}
-<u>Image:</u> Vouloumanos & Werker high-amplitude sucking result
-
-Suggested file: `images/4_methods_vouloumanos_werker.png`
-:::
-
-:::
-:::
+![](images/4_mp_nns_speech.png){width="100%"}
 
 ::: {.card}
 A very simple motor response can therefore be used to investigate a sophisticated developmental question.
 :::
 
+:::
+:::
+
 ## Every method has a scale
+
+::: {.columns}
+::: {.column}
 
 ::: {.info-box}
 Different methods observe neural systems at very different <u>spatial and temporal scales</u>.
 :::
 
-::: {.columns}
-::: {.column}
+
 
 ::: {.card}
 Some methods have excellent `temporal resolution` but relatively poor spatial localization.
 
 Example: `EEG`
 :::
-
-:::
-::: {.column}
 
 ::: {.card}
 Other methods provide much better anatomical localization but measure slower physiological processes.
@@ -584,12 +602,11 @@ Example: `fMRI`
 :::
 
 :::
+::: {.column}
+
+![](images/4_mp_phys_res.png){width="100%"}
+
 :::
-
-::: {.card .image-needed}
-<u>Image:</u> comparison of spatial and temporal resolution across neuroscience methods
-
-Suggested file: `images/4_methods_spatiotemporal_resolution.png`
 :::
 
 ## Electroencephalography
@@ -602,7 +619,7 @@ Suggested file: `images/4_methods_spatiotemporal_resolution.png`
 :::
 
 ::: {.card}
-The first human EEG recordings were obtained by `Hans Berger` in 1924 and published several years later.
+The first human EEG recordings were obtained by [Hans Berger](https://en.wikipedia.org/wiki/Hans_Berger){target="_blank"} in 1924 and published several years later.
 :::
 
 ::: {.card}
@@ -612,10 +629,15 @@ EEG provides a <u>direct measurement of electrical activity generated by populat
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> Hans Berger and an EEG recording setup
+![](images/4_mp_eeg_berger.png){width="30%"}
+![](images/4_mp_eeg_berger2.png){width="100%"}
 
-Suggested file: `images/4_methods_eeg_history.png`
+::: {layout-ncol=2}
+
+![](images/4_mp_eeg_montage.png){width="100%"}
+
+![](images/4_mp_eeg_montage2.png){width="100%"}
+
 :::
 
 :::
@@ -627,11 +649,11 @@ Suggested file: `images/4_methods_eeg_history.png`
 ::: {.column}
 
 ::: {.info-box}
-Scalp EEG mainly reflects the summed electrical fields produced by synchronized postsynaptic currents in large populations of cortical neurons.
+Scalp EEG mainly reflects the summed electrical fields produced by <u>synchronized postsynaptic currents</u> in large populations of cortical neurons.
 :::
 
 ::: {.card}
-Electrodes do not record the activity of a single neuron.
+Electrodes do not record the activity of a single neuron. Do not record Spikes.
 
 They measure the <u>population-level electrical signal</u> that reaches the scalp.
 :::
@@ -646,14 +668,47 @@ EEG therefore has:
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> EEG electrodes, amplifier and multichannel recording
-
-Suggested file: `images/4_methods_eeg_recording.png`
-:::
+![](images/4_mp_eeg_mechanism.png){width="100%"}
 
 :::
 :::
+
+## EEG rhythms
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+The EEG signal continuously fluctuates over time.
+These oscillations can be described according to their `frequency`, measured in Hertz (Hz).
+:::
+
+::: {.card}
+`Delta`: ~0.5-4 Hz
+
+`Theta`: ~4-8 Hz
+
+`Alpha`: ~8-13 Hz
+
+`Beta`: ~13-30 Hz
+
+`Gamma`: >30 Hz
+
+:::
+
+::: {.card}
+The EEG is a mixture of activity at different frequencies.
+The contribution of each band changes with <u>brain state</u>.
+:::
+
+::: 
+::: {.column}
+
+
+![](images/4_mp_eeg_bands.png){width="100%"}
+
+::: 
+::: 
 
 ## Why EEG is useful in developmental research
 
@@ -690,21 +745,18 @@ EEG is particularly valuable when the experimental question concerns <u>when neu
 
 ## Spontaneous EEG
 
+::: {.columns}
+::: {.column}
+
 ::: {.info-box}
 EEG can be studied even without presenting discrete experimental stimuli.
 :::
-
-::: {.columns}
-::: {.column}
 
 ::: {.card}
 `Visual inspection`
 
 Examine characteristic patterns in the continuous signal.
 :::
-
-:::
-::: {.column}
 
 ::: {.card}
 `Spectral analysis`
@@ -713,13 +765,15 @@ Decompose the signal into its frequency content and quantify activity across dif
 :::
 
 :::
+::: {.column}
+
+![](images/4_mp_eeg_spontaneous.png){width="100%"}
+![](images/4_mp_eeg_spectrum.png){width="100%"}
+
+
+:::
 :::
 
-::: {.card .image-needed}
-<u>Image:</u> continuous EEG and corresponding power spectrum
-
-Suggested file: `images/4_methods_eeg_spontaneous.png`
-:::
 
 ## Event-related potentials
 
@@ -727,30 +781,26 @@ Suggested file: `images/4_methods_eeg_spontaneous.png`
 ::: {.column}
 
 ::: {.info-box}
-An `event-related potential (ERP)` is obtained by aligning EEG activity to repeated events and averaging across trials.
+An `event-related potential (ERP)` is obtained by <u>aligning</u> EEG activity to repeated <u>events</u> and averaging across trials.
 :::
 
 ::: {.card}
-Averaging reduces activity that is not consistently time-locked to the event and emphasizes the reproducible neural response.
+<u>Averaging</u> reduces activity that is not consistently <u>time-locked</u> to the event and emphasizes the reproducible neural response.
 :::
 
 ::: {.card}
 ERP components can be characterized by:
 
-- latency
-- amplitude
-- polarity
-- scalp distribution
+- `latency`
+- `amplitude`
+- `polarity`
+- scalp `distribution`
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> repeated EEG trials aligned and averaged into an ERP
-
-Suggested file: `images/4_methods_erp_average.png`
-:::
+![](images/4_mp_eeg_evoked.png){width="100%"}
 
 :::
 :::
@@ -786,44 +836,13 @@ In the original course distinction: approximately `>150 ms`.
 These temporal boundaries are <u>approximate</u> and component latencies change with age, task and sensory modality.
 :::
 
-## Mismatch negativity
-
-::: {.columns}
-::: {.column}
-
-::: {.info-box}
-The `mismatch negativity (MMN)` is an event-related response elicited when an infrequent auditory event violates a regular sequence.
-:::
-
-::: {.card}
-A typical sequence contains:
-
-`standard` `standard` `standard` `deviant` `standard` ...
-:::
-
-::: {.card}
-Because it does not require an explicit behavioral response, MMN is especially useful for investigating <u>auditory discrimination in developmental populations</u>.
-:::
-
-:::
-::: {.column}
-
-::: {.card .image-needed}
-<u>Image:</u> auditory oddball sequence and MMN difference waveform
-
-Suggested file: `images/4_methods_mmn.png`
-:::
-
-:::
-:::
-
 ## Magnetoencephalography
 
 ::: {.columns}
 ::: {.column}
 
 ::: {.info-box}
-`Magnetoencephalography (MEG)` measures the tiny magnetic fields generated by neuronal electrical currents.
+`Magnetoencephalography (MEG)` measures the <u>tiny magnetic fields</u> generated by neuronal electrical currents.
 :::
 
 ::: {.card}
@@ -831,16 +850,18 @@ Like EEG, MEG provides <u>millisecond temporal resolution</u> and directly refle
 :::
 
 ::: {.card}
-MEG can provide useful cortical source localization, but the equipment is expensive and head movement is a major challenge in developmental studies.
+MEG can provide useful cortical <u>source localization</u>, but the equipment is expensive and head movement is a major challenge in developmental studies.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> child or adult inside a MEG system
+![](images/4_mp_meg.png){width="100%"}
 
-Suggested file: `images/4_methods_meg.png`
+::: {.card}
+A specialized application, `fetal MEG (fMEG)`, can non-invasively detect magnetic fields generated by the fetal brain through the maternal abdomen.
+
+This makes it possible to study <u>neural activity before birth</u>.
 :::
 
 :::
@@ -852,7 +873,7 @@ Suggested file: `images/4_methods_meg.png`
 ::: {.column}
 
 ::: {.info-box}
-`EEG / MEG`
+`EEG` and `MEG`
 
 Measure electrical or magnetic signals generated directly by neural activity.
 
@@ -863,9 +884,9 @@ Measure electrical or magnetic signals generated directly by neural activity.
 ::: {.column}
 
 ::: {.info-box}
-`fMRI / fNIRS / PET`
+`fMRI`, `fNIRS` and  `PET`
 
-Measure physiological consequences associated with neural activity.
+Measure <u>physiological consequences</u> associated with neural activity.
 
 Examples:
 
