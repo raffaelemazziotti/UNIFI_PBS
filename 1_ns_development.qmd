@@ -27,7 +27,9 @@ Development does more than enlarge a structure. It progressively creates differe
 :::
 ::: {.column}
 
+
 ![](images/1_ns_dev_intro.gif){width="100%"}
+
 
 :::
 :::

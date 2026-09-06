@@ -752,6 +752,25 @@ brings you back to the Index</li>
         window.addEventListener("load", scheduleFit);
       }
 
+      function addCourseIndexMenuLink() {
+        const toolsMenu = document.querySelector(".slide-menu-items");
+        if (!toolsMenu || toolsMenu.querySelector(".course-index-menu-link")) return;
+
+        const item = document.createElement("li");
+        item.className = "slide-tool-item course-index-menu-link";
+        const link = document.createElement("a");
+        link.href = "index.html";
+        link.innerHTML = "<kbd>⌂</kbd> Course index";
+        item.appendChild(link);
+        toolsMenu.prepend(item);
+      }
+
+      if (window.Reveal && Reveal.isReady()) {
+        addCourseIndexMenuLink();
+      } else {
+        document.addEventListener("DOMContentLoaded", () => Reveal.on("ready", addCourseIndexMenuLink));
+      }
+
       preparePdfLayout();
     })();
     </script>
