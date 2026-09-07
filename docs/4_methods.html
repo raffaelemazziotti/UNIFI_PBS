@@ -787,22 +787,19 @@ Raffaele M Mazziotti, PhD
 <p>An increase in local neural activity changes the metabolic demand of the tissue.</p>
 </div>
 <div class="card">
-<p>Through <code>neurovascular coupling</code>, active brain regions produce local changes in:</p>
+<p>Through <code>neurovascular coupling</code>, active brain regions produce <u>local changes</u> in:</p>
 <ul>
-<li>cerebral blood flow</li>
-<li>blood volume</li>
-<li>oxygenated hemoglobin</li>
-<li>deoxygenated hemoglobin</li>
+<li>cerebral blood <u>flow</u></li>
+<li>blood <u>volume</u></li>
+<li><u>oxygenated</u> hemoglobin</li>
+<li><u>deoxygenated</u> hemoglobin</li>
 </ul>
 </div>
 <div class="card">
 <p>These vascular changes provide the physiological basis for <code>fMRI</code> and <code>fNIRS</code>.</p>
 </div>
 </div><div class="column">
-<div class="card image-needed">
-<p><u>Image:</u> neuron, astrocyte and local blood vessel illustrating neurovascular coupling</p>
-<p>Suggested file: <code>images/4_methods_neurovascular_coupling.png</code></p>
-</div>
+<p><img data-src="images/4_mp_neurovascular.png" style="width:70.0%"> <img data-src="images/4_mp_neurovascular2.gif" style="width:50.0%"></p>
 </div></div>
 </section>
 <section id="magnetic-resonance-imaging" class="slide level2 center">
@@ -831,9 +828,15 @@ Raffaele M Mazziotti, PhD
 <p><code>Functional MRI (fMRI)</code></p>
 <p>Uses changes in the <code>BOLD</code> signal to infer changes in local neural activity.</p>
 </div>
-<div class="card image-needed">
-<p><u>Image:</u> structural MRI, diffusion image and fMRI activation map</p>
-<p>Suggested file: <code>images/4_methods_mri_types.png</code></p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img data-src="images/4_mp_rmi_struct.png" title="Structural (or morphological) RMI"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img data-src="images/4_mp_rmi_func.png" title="Functional RMI (fRMI)"></p>
+</div>
+</div>
 </div>
 </div></div>
 </section>
@@ -845,22 +848,27 @@ Raffaele M Mazziotti, PhD
 <p><code>BOLD</code> means Blood-Oxygen-Level-Dependent signal.</p>
 </div>
 <div class="card">
-<p>Increased neural activity usually produces a local vascular response in which blood flow increases more than oxygen consumption.</p>
-<p>The relative concentration of deoxygenated hemoglobin therefore changes.</p>
-</div>
-<div class="card">
-<p>fMRI detects the resulting change in the MR signal.</p>
-<p>It is therefore an <u>indirect measure of neural activity</u>.</p>
+<p>Increased neural activity produces a neurovascular response.</p>
+<p>As a consequence:</p>
+<ul>
+<li>cerebral blood flow (CBF) increases strongly</li>
+<li>cerebral blood volume (CBV) increases</li>
+<li>delivery of oxyhemoglobin (OHb) increases</li>
+<li>deoxyhemoglobin (DHb) concentration decreases because it is effectively diluted and washed out</li>
+</ul>
 </div>
 </div><div class="column">
-<div class="card image-needed">
-<p><u>Image:</u> neural activity -&gt; hemodynamic response -&gt; BOLD signal</p>
-<p>Suggested file: <code>images/4_methods_bold.png</code></p>
+<p><img data-src="images/4_mp_rmi_bold.png" style="width:100.0%"></p>
+<div class="card">
+<p>fMRI detects the resulting change in the MR signal.</p>
+<p>It is therefore an <u>indirect</u> measure of neural activity.</p>
 </div>
 </div></div>
 </section>
 <section id="fmri-has-a-delayed-response" class="slide level2 center">
 <h2>fMRI has a delayed response</h2>
+<div class="columns">
+<div class="column">
 <div class="info-box">
 <p>The neural event itself occurs on a millisecond timescale.</p>
 <p>The <code>hemodynamic response</code> measured by fMRI develops over several seconds.</p>
@@ -872,31 +880,11 @@ Raffaele M Mazziotti, PhD
 <li>much poorer temporal resolution than EEG or MEG</li>
 </ul>
 </div>
-<div class="card">
+<blockquote>
 <p>The measured BOLD response is therefore a <u>temporally blurred physiological consequence</u> of neural activity.</p>
-</div>
-</section>
-<section id="comparing-experimental-conditions" class="slide level2 center">
-<h2>Comparing experimental conditions</h2>
-<div class="columns">
-<div class="column">
-<div class="info-box">
-<p>Functional neuroimaging usually asks whether activity differs between carefully selected experimental conditions.</p>
-</div>
-<div class="card">
-<p>A simplified <code>subtraction logic</code> is:</p>
-<p><code>experimental condition</code> - <code>control condition</code></p>
-<p>-&gt; activity associated with the process that differs between them</p>
-</div>
+</blockquote>
 </div><div class="column">
-<div class="card">
-<p>The quality of the inference therefore depends strongly on the <code>control condition</code>.</p>
-<p>The two conditions should differ in the process of interest while matching as many irrelevant factors as possible.</p>
-</div>
-<div class="card image-needed">
-<p><u>Image:</u> two experimental conditions and their fMRI contrast</p>
-<p>Suggested file: <code>images/4_methods_subtraction.png</code></p>
-</div>
+<p><img data-src="images/4_mp_rmi_bold_neuro.png" style="width:100.0%"></p>
 </div></div>
 </section>
 <section id="functional-near-infrared-spectroscopy" class="slide level2 center">
@@ -904,26 +892,20 @@ Raffaele M Mazziotti, PhD
 <div class="columns">
 <div class="column">
 <div class="info-box">
-<p><code>fNIRS</code> uses near-infrared light delivered through the scalp to estimate changes in oxygenated and deoxygenated hemoglobin.</p>
+<p><code>fNIRS</code> uses near-infrared light delivered through the scalp to estimate neurovascular response in the <u>cortex</u>.</p>
 </div>
 <div class="card">
-<p>It therefore measures a hemodynamic response related to neural activity, conceptually similar to fMRI.</p>
-</div>
-<div class="card">
-<p>Advantages for developmental research:</p>
+<p><code>fNIRS</code> estimates changes in hemoglobin concentration:</p>
 <ul>
-<li>non-invasive</li>
-<li>silent</li>
-<li>portable</li>
-<li>relatively tolerant of naturalistic testing</li>
-<li>well suited to infants</li>
+<li><code>OHb</code>: oxygenated hemoglobin</li>
+<li><code>DHb</code>: deoxygenated hemoglobin</li>
+<li><code>THb</code>” total hemoglobin (<code>OHb + DHb</code>)</li>
 </ul>
+<p>Changes in <code>O2Hb</code> and <code>HHb</code> reflect the local hemodynamic response, while <code>tHb</code> estimate to changes in blood volume.</p>
 </div>
 </div><div class="column">
-<div class="card image-needed">
-<p><u>Image:</u> infant wearing an fNIRS cap</p>
-<p>Suggested file: <code>images/4_methods_fnirs.png</code></p>
-</div>
+<p><img data-src="images/4_mp_fnirs.png" title="Principle of fNIRS recording. Near-infrared light is emitted through the scalp and travels through superficial tissues before reaching the cortex. Some of the scattered light returns to detectors placed a few centimeters from the source. Long source-detector channels contain information from both scalp and cortical tissue, whereas short-separation channels mainly sample superficial signals and can be used to estimate and remove extracerebral contributions. The lower panels show the spatial arrangement of multiple sources and detectors on the head."></p>
+<p><img data-src="images/4_mp_fnirs_signal.png" title="Typical fNIRS hemodynamic response to visual stimulation. After stimulus onset, oxygenated hemoglobin (OHb) increases while deoxygenated hemoglobin (DHb) decreases. Total hemoglobin (THb), which reflects the sum of oxygenated and deoxygenated hemoglobin, also increases. This pattern reflects the local vascular response to increased neural activity, with increased cerebral blood flow and blood volume producing a relative reduction in deoxygenated hemoglobin."></p>
 </div></div>
 </section>
 <section id="what-can-fnirs-measure" class="slide level2 center">
@@ -967,14 +949,21 @@ Raffaele M Mazziotti, PhD
 <div class="card">
 <p>PET is an <u>indirect measure</u> of neural function with relatively poor temporal resolution.</p>
 </div>
-</div><div class="column">
-<div class="card image-needed">
-<p><u>Image:</u> PET scanner and metabolic brain image</p>
-<p>Suggested file: <code>images/4_methods_pet.png</code></p>
-</div>
 <div class="caution">
 <p>Because PET requires exposure to ionizing radiation, its use in healthy developmental populations is strongly limited.</p>
 </div>
+</div><div class="column">
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img data-src="images/4_mp_pet_annih.gif" title="Principle of positron annihilation in PET. A radioactive tracer emits a positron, which travels a short distance before encountering an electron. The electron and positron annihilate, converting their mass into two gamma photons emitted in approximately opposite directions. PET detectors register these coincident photons and use them to reconstruct the location of the radioactive tracer in the body."></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img data-src="images/4_mp_pet.PNG" title="Principle of PET acquisition. A radioactive tracer emits positrons that annihilate with electrons, producing two gamma photons traveling in approximately opposite directions. Pairs of photons arriving almost simultaneously are detected in coincidence, defining a line of response through the body. In time-of-flight PET, the difference in photon arrival times provides additional information about the position of the annihilation event along this line. Many detected events are combined to reconstruct the spatial distribution of the tracer in the brain."></p>
+</div>
+</div>
+</div>
+<p><img data-src="images/4_mp_pet_data.PNG" style="width:100.0%" title="PET maps of task-related brain activity. Different cognitive tasks produce different regional patterns of tracer uptake. In this example, seeing words and hearing words are associated with distinct patterns of increased activity, illustrating how PET can identify brain regions whose metabolism or blood flow changes during specific tasks."></p>
 </div></div>
 </section>
 <section id="transcranial-magnetic-stimulation" class="slide level2 center">
@@ -994,9 +983,15 @@ Raffaele M Mazziotti, PhD
 <p>Is a particular brain region <u>causally involved</u> in a behavior or cognitive process?</p>
 </div>
 </div><div class="column">
-<div class="card image-needed">
-<p><u>Image:</u> TMS coil positioned over the scalp</p>
-<p>Suggested file: <code>images/4_methods_tms.png</code></p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img data-src="images/4_mp_tms.png" title="Transcranial magnetic stimulation (TMS). A stimulation coil is positioned over the scalp above a selected cortical region. A rapidly changing current in the coil generates a magnetic field that passes through the skull and induces an electric field in the underlying brain tissue, transiently modifying neuronal activity."></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img data-src="images/4_mp_tms_mf.png" title="Physical principle of TMS. A rapidly changing magnetic field generated by the TMS coil penetrates the skull and induces an electric current in cortical tissue. This induced current can depolarize neurons and transiently alter activity in the targeted cortical region."></p>
+</div>
+</div>
 </div>
 </div></div>
 </section>
@@ -1019,34 +1014,11 @@ Raffaele M Mazziotti, PhD
 <p>A complete understanding often requires combining <u>measurement</u> with <u>experimental manipulation</u>.</p>
 </div>
 </section>
-<section id="choosing-the-appropriate-method" class="slide level2 center">
-<h2>Choosing the appropriate method</h2>
-<div class="columns">
-<div class="column">
-<div class="card">
-<p>The best method depends on the question.</p>
-<p>Ask:</p>
-<ul>
-<li>Do I need millisecond timing?</li>
-<li>Do I need precise anatomical localization?</li>
-<li>Do I need a direct or indirect neural measure?</li>
-<li>Can the participant remain still?</li>
-<li>Can the participant understand instructions?</li>
-</ul>
+<section id="self-check" class="slide level2 center">
+<h2>Self-check</h2>
+<div class="quiz-wrap">
+  <iframe class="quiz-frame" src="quiz/quiz_mp.html" loading="lazy"></iframe>
 </div>
-</div><div class="column">
-<div class="card">
-<p>There is no universally “best” technique.</p>
-<p>Each method samples a different part of the chain:</p>
-<p><code>stimulus</code></p>
-<p>-&gt; <code>neural activity</code></p>
-<p>-&gt; <code>physiological response</code></p>
-<p>-&gt; <code>behavior</code></p>
-</div>
-<div class="card">
-<p>The strongest developmental conclusions often come from <u>converging evidence across different methods</u>.</p>
-</div>
-</div></div>
 
 
 
