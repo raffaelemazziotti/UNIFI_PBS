@@ -156,7 +156,7 @@ existing synapses.
 ::: {.column}
 
 ::: {.card}
-`Structural plasticity` [Structural]{.highlight}
+`Structural plasticity` - [Structural]{.highlight}
 
 Changes in the physical organization of circuits.
 
@@ -191,7 +191,7 @@ In the adult brain, the generation of new neurons is <u>highly restricted</u> co
 :::
 
 ::: {.card}
-Adult neurogenesis is robustly established in specific neurogenic regions in many mammals, especially the `dentate gyrus` of the hippocampus.
+Adult neurogenesis is robustly established in specific neurogenic regions in many mammals, especially the granular layer of the `dentate gyrus` of the hippocampus.
 :::
 
 ::: {.card}
@@ -203,11 +203,9 @@ There is no evidence for widespread adult neurogenesis throughout the cerebral c
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> adult hippocampal dentate gyrus showing neural stem cells, immature neurons and mature granule cells
-
-Suggested file: `images/5_np_adult_neurogenesis.png`
-:::
+![](images/5_plast_AHN.jpg){width="65%"
+  title="Adult hippocampal neurogenesis in the dentate gyrus. New granule neurons are generated from neural stem cells located in the subgranular zone (SGZ). Quiescent neural stem cells can become activated, produce neural progenitors and neuroblasts, and then differentiate into immature neurons that progressively mature and integrate into the granule cell layer (GCL). The lower panel shows commonly used molecular markers associated with successive stages of this developmental sequence."
+}
 
 :::
 :::
