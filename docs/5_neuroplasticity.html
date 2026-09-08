@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en-US"><head>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/tabby.min.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.33">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.18">
 
   <meta name="author" content="Raffaele M Mazziotti, PhD">
   <title>Neuroplasticity</title>
@@ -17,10 +17,16 @@
   <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
   <style>
-    code{white-space: pre-wrap;}
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -29,7 +35,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-2740581606dc327e82f18f789b69d8a0.css">
   <link rel="stylesheet" href="slide_style.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -131,11 +137,12 @@
 
 <section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" class="quarto-title-block center">
   <h1 class="title">Neuroplasticity</h1>
+  <p class="subtitle">How experience reshapes neural circuits</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Raffaele M Mazziotti, PhD 
+Raffaele M Mazziotti, PhD
 </div>
         <p class="quarto-title-affiliation">
             Scuola di Psicologia, University of Florence
@@ -144,8 +151,702 @@ Raffaele M Mazziotti, PhD
 </div>
 
 </section>
-<section class="slide level2 center">
-
+<section id="neuroplasticity" class="slide level2 center">
+<h2>Neuroplasticity</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Neuroplasticity</code> is the capacity of neurons and neural circuits to <u>change their function or structure</u> in response to activity and experience.</p>
+</div>
+<div class="card">
+<p>Plasticity is fundamental for:</p>
+<ul>
+<li><u>adaptation</u> to the environment</li>
+<li><u>learning and memory</u></li>
+<li><u>development</u> of neural circuits</li>
+<li><u>recovery</u> and reorganization after injury</li>
+</ul>
+</div>
+</div><div class="column">
+<p><img data-src="images/5_plast_ncom.gif" style="width:50.0%"></p>
+<div class="card">
+<p>Plastic changes can be primarily:</p>
+<p><code>functional</code>: changing how strongly or when neurons communicate</p>
+<p><code>structural</code>: changing synapses, dendrites, axons or, in restricted contexts, neuron number</p>
+</div>
+</div></div>
+</section>
+<section id="plasticity-acts-on-different-timescales" class="slide level2 center">
+<h2>Plasticity acts on different timescales</h2>
+<div class="info-box">
+<p>Neural systems can change on timescales ranging from <u>milliseconds to years</u>.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Fast</code></p>
+<p>Duration: milliseconds to seconds</p>
+<p>Mostly <span class="highlight">functional</span></p>
+<p>Examples: rapid changes in synaptic efficacy</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Transient</code></p>
+<p>Duration: seconds to minutes</p>
+<p>Mostly <span class="highlight">functional</span></p>
+<p>Examples: short-term plasticity, adaptation, working-memory-related changes</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Long-lasting</code></p>
+<p>Duration: hours to months or years</p>
+<p>Initially functional, but can become <u>structural</u></p>
+<p>Examples: learning and long-term memory</p>
+</div>
+</div><div class="column">
+<div class="centerimg">
+<p><img data-src="images/5_plast_timescale.png" style="width:50.0%"></p>
+</div>
+</div></div>
+</section>
+<section id="neural-representations-can-change" class="slide level2 center">
+<h2>Neural representations can change</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Plasticity does not necessarily require a visible anatomical change.</p>
+<p>A circuit can change by modifying the <u>pattern of activity</u> used to represent information.</p>
+</div>
+<div class="card">
+<p>Information can be represented through:</p>
+<ul>
+<li>neuronal <code>firing rate</code></li>
+<li>precise <code>spike timing</code></li>
+<li>temporal patterns of activity</li>
+<li>distributed <code>population activity</code></li>
+</ul>
+</div>
+<div class="card">
+<p>After learning, the same stimulus or action can therefore evoke a <u>different neural representation</u>.</p>
+</div>
+</div><div class="column">
+<p><img data-src="images/5_plast_neural_code_thresh.png" style="width:50.0%" title="Example of the membrane potential recorded from a neuron. Each rapid upward deflection corresponds to an action potential, or spike. By defining a voltage threshold (shown in red), each threshold crossing can be detected and converted into a discrete spike event. Counting these events over time gives the neuron's spiking activity or firing pattern."> <img data-src="images/5_plast_neural_code.jpg" style="width:100.0%" title="Different neural coding strategies. In a rate code, information is represented by the number of spikes produced over time. In a temporal code, information depends on the precise timing pattern of spikes. A latency code uses the delay between stimulus onset and neuronal response, while a synchrony code depends on the coordinated timing of activity across multiple neurons."></p>
+</div></div>
+</section>
+<section id="forms-of-neuroplasticity" class="slide level2 center">
+<h2>Forms of neuroplasticity</h2>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Synaptic plasticity</code> - <span class="highlight">Functional</span></p>
+<p>Changes in the efficacy of communication between neurons.</p>
+<p>It can involve:</p>
+<ul>
+<li>strengthening</li>
+<li>weakening</li>
+</ul>
+<p>existing synapses.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Structural plasticity</code> <span class="highlight">Structural</span></p>
+<p>Changes in the physical organization of circuits.</p>
+<ul>
+<li>formation of new synaptic contacts</li>
+<li>elimination of existing contacts</li>
+</ul>
+</div>
+<div class="card">
+<p><code>Adult Neurogenesis</code></p>
+<p>Formation of new neurons:</p>
+<ul>
+<li>in <u>restricted</u> neurogenic niches</li>
+</ul>
+</div>
+</div></div>
+<div class="card">
+<p>Functional and structural plasticity are not independent: <u>persistent functional changes can eventually become structurally stabilized</u>.</p>
+</div>
+</section>
+<section id="adult-neurogenesis-a-restricted-form-of-plasticity" class="slide level2 center">
+<h2>Adult neurogenesis: a restricted form of plasticity</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>In the adult brain, the generation of new neurons is <u>highly restricted</u> compared with development.</p>
+</div>
+<div class="card">
+<p>Adult neurogenesis is robustly established in specific neurogenic regions in many mammals, especially the <code>dentate gyrus</code> of the hippocampus.</p>
+</div>
+<div class="card">
+<p>Recent evidence also supports persistent <code>hippocampal neurogenesis in adult humans</code>, although its magnitude and functional contribution remain active areas of research.</p>
+<p>There is no evidence for widespread adult neurogenesis throughout the cerebral cortex.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> adult hippocampal dentate gyrus showing neural stem cells, immature neurons and mature granule cells</p>
+<p>Suggested file: <code>images/5_np_adult_neurogenesis.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="hebbian-plasticity" class="slide level2 center">
+<h2>Hebbian plasticity</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>In 1949, <code>Donald Hebb</code> proposed a theoretical principle linking learning to changes in synaptic strength.</p>
+</div>
+<div class="card">
+<p>If activity in a presynaptic neuron repeatedly contributes to activation of a postsynaptic neuron, the connection between them tends to <u>strengthen</u>.</p>
+</div>
+<div class="card">
+<p>The central idea is therefore <code>correlation</code>:</p>
+<p>the synapse changes according to the relationship between <u>presynaptic and postsynaptic activity</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> Donald Hebb and schematic of correlated pre- and postsynaptic activity</p>
+<p>Suggested file: <code>images/5_np_hebb.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="a-synapse-must-detect-coincidence" class="slide level2 center">
+<h2>A synapse must detect coincidence</h2>
+<div class="info-box">
+<p>Hebbian plasticity requires a mechanism capable of detecting when presynaptic activity and postsynaptic activation occur together.</p>
+</div>
+<div class="card">
+<p>At many excitatory synapses, the <code>NMDA receptor</code> provides such a mechanism.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Presynaptic activity</code></p>
+<p>Glutamate is released and binds NMDA receptors.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Postsynaptic depolarization</code></p>
+<p>Depolarization removes the voltage-dependent <code>Mg²⁺ block</code>.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Coincidence</code></p>
+<p>When both conditions occur, NMDA receptors conduct <code>Ca²⁺</code>, triggering intracellular plasticity mechanisms.</p>
+</div>
+</div></div>
+</section>
+<section id="nmda-receptors-as-coincidence-detectors" class="slide level2 center">
+<h2>NMDA receptors as coincidence detectors</h2>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Glutamate only</code></p>
+<p>NMDA receptor is ligand-bound, but the Mg²⁺ block strongly limits current at resting membrane potentials.</p>
+</div>
+<div class="card">
+<p><code>Depolarization only</code></p>
+<p>The Mg²⁺ block can be relieved, but without glutamate the receptor does not open.</p>
+</div>
+<div class="card">
+<p><code>Glutamate + depolarization</code></p>
+<p>The channel opens and Ca²⁺ enters the postsynaptic cell.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> NMDA receptor showing glutamate binding, Mg²⁺ block and Ca²⁺ influx during coincident activation</p>
+<p>Suggested file: <code>images/5_np_nmda.png</code></p>
+</div>
+</div></div>
+<div class="card">
+<p>The resulting <code>Ca²⁺ signal</code> can initiate biochemical pathways that modify synaptic strength.</p>
+</div>
+</section>
+<section id="timing-also-matters" class="slide level2 center">
+<h2>Timing also matters</h2>
+<div class="info-box">
+<p>Hebbian plasticity is not determined only by whether two neurons are active.</p>
+<p>The <u>relative timing</u> of presynaptic and postsynaptic activity can also determine the direction of plasticity.</p>
+</div>
+<div class="card">
+<p>This principle is called <code>spike-timing-dependent plasticity</code> (STDP).</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Pre before post</code></p>
+<p>At many synapses, presynaptic activity shortly before postsynaptic firing favors <u>potentiation</u>.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Post before pre</code></p>
+<p>At many synapses, the reverse order favors <u>depression</u>.</p>
+</div>
+</div></div>
+<div class="card">
+<p>The precise timing rules and time windows vary across synapses and circuits.</p>
+</div>
+</section>
+<section id="spike-timing-dependent-plasticity" class="slide level2 center">
+<h2>Spike-timing-dependent plasticity</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>STDP converts temporal relationships between neurons into long-lasting changes in synaptic efficacy.</p>
+</div>
+<div class="card">
+<p>A synapse that consistently helps drive the postsynaptic neuron can become stronger.</p>
+<p>A synapse whose activity is poorly timed relative to postsynaptic firing can become weaker.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> classical STDP curve showing change in synaptic strength as a function of pre-post timing</p>
+<p>Suggested file: <code>images/5_np_stdp.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="ltp-and-ltd" class="slide level2 center">
+<h2>LTP and LTD</h2>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Long-Term Potentiation (LTP)</code></p>
+<p>A persistent <u>increase</u> in synaptic efficacy following an appropriate pattern of activity.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Long-Term Depression (LTD)</code></p>
+<p>A persistent <u>decrease</u> in synaptic efficacy following an appropriate pattern of activity.</p>
+</div>
+</div></div>
+<div class="info-box">
+<p>LTP and LTD provide experimental models for studying how activity can produce persistent changes in synaptic strength.</p>
+</div>
+<div class="card">
+<p>The classic work of <code>Bliss and Lømo (1973)</code> demonstrated long-lasting potentiation in the hippocampal formation after patterned stimulation.</p>
+</div>
+</section>
+<section id="measuring-synaptic-potentiation" class="slide level2 center">
+<h2>Measuring synaptic potentiation</h2>
+<div class="columns">
+<div class="column" style="width:52%;">
+<div class="experiment-card">
+<div class="exp-header">
+<p>Experimental induction of LTP</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Baseline</p>
+</div>
+<p>A test stimulus is repeatedly delivered and the postsynaptic response is measured.</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Induction</p>
+</div>
+<p>A pattern of stronger or coordinated activity is delivered to the pathway.</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Result</p>
+</div>
+<p>The same test stimulus subsequently produces a <u>larger postsynaptic response</u> that can persist long after induction.</p>
+</div>
+</div>
+</div><div class="column" style="width:48%;">
+<div class="card image-needed">
+<p><u>Image:</u> LTP experiment showing baseline, induction and persistent increase in synaptic response</p>
+<p>Suggested file: <code>images/5_np_ltp_experiment.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="early-mechanisms-of-ltp" class="slide level2 center">
+<h2>Early mechanisms of LTP</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>The earliest phase of potentiation can occur rapidly and does not initially require the formation of a new synapse.</p>
+</div>
+<div class="card">
+<p>At many glutamatergic synapses:</p>
+<p><code>NMDA receptor activation</code></p>
+<p>→ <code>Ca²⁺ influx</code></p>
+<p>→ activation of intracellular kinases</p>
+<p>→ increased function and rapid insertion of <code>AMPA receptors</code></p>
+</div>
+<div class="card">
+<p>The existing synapse therefore becomes <u>more effective</u> at converting glutamate release into a postsynaptic response.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> rapid AMPA-receptor insertion during early LTP</p>
+<p>Suggested file: <code>images/5_np_ltp_ampa.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="ltd-can-weaken-an-existing-synapse" class="slide level2 center">
+<h2>LTD can weaken an existing synapse</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Plasticity must also allow synapses to become weaker.</p>
+</div>
+<div class="card">
+<p>In many forms of glutamatergic <code>LTD</code>, intracellular signaling promotes the removal or reduced function of postsynaptic <code>AMPA receptors</code>.</p>
+</div>
+<div class="card">
+<p>The same amount of presynaptic glutamate release then produces a <u>smaller postsynaptic response</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> AMPA-receptor internalization during LTD</p>
+<p>Suggested file: <code>images/5_np_ltd_ampa.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="from-early-plasticity-to-consolidation" class="slide level2 center">
+<h2>From early plasticity to consolidation</h2>
+<div class="info-box">
+<p>A rapidly induced synaptic change is not necessarily permanent.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Early phase</code></p>
+<ul>
+<li>modification of existing proteins</li>
+<li>receptor trafficking</li>
+<li>changes in synaptic efficacy</li>
+<li>primarily functional</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Consolidated / late phase</code></p>
+<ul>
+<li>altered gene transcription</li>
+<li>new protein synthesis</li>
+<li>stabilization of receptor changes</li>
+<li>spine remodeling</li>
+<li>formation or elimination of synaptic contacts</li>
+</ul>
+</div>
+</div></div>
+<div class="card">
+<p>Long-lasting plasticity can therefore progress from <u>functional modification</u> to <u>structural stabilization</u>.</p>
+</div>
+</section>
+<section id="structural-plasticity" class="slide level2 center">
+<h2>Structural plasticity</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Long-lasting changes in experience can remodel the physical structure of neural circuits.</p>
+</div>
+<div class="card">
+<p>Structural plasticity can include:</p>
+<ul>
+<li>formation of new dendritic spines</li>
+<li>stabilization of selected spines</li>
+<li>elimination of existing spines</li>
+<li>axonal sprouting</li>
+<li>formation of new synaptic contacts</li>
+</ul>
+</div>
+<div class="card">
+<p>The circuit is therefore not anatomically fixed after development.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> repeated two-photon imaging of dendritic spines showing stable, newly formed and eliminated spines</p>
+<p>Suggested file: <code>images/5_np_spine_turnover.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="the-plasticity-stability-dilemma" class="slide level2 center">
+<h2>The plasticity-stability dilemma</h2>
+<div class="info-box">
+<p>Pure Hebbian plasticity contains a potential instability.</p>
+</div>
+<div class="card">
+<p>If strong synapses are repeatedly strengthened because they are effective, they become even more likely to drive postsynaptic firing.</p>
+<p>Weak synapses may become progressively less effective.</p>
+</div>
+<div class="card">
+<p>Without additional regulatory mechanisms, this positive feedback could push network activity toward <u>runaway excitation or excessive silencing</u>.</p>
+</div>
+<div class="card">
+<p>A useful nervous system must therefore be both:</p>
+<p><code>plastic</code> enough to learn</p>
+<p>and</p>
+<p><code>stable</code> enough to remain functional</p>
+</div>
+</section>
+<section id="homeostatic-plasticity" class="slide level2 center">
+<h2>Homeostatic plasticity</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Homeostatic plasticity</code> regulates neural excitability so that activity remains within a functional range.</p>
+</div>
+<div class="card">
+<p>If a neuron remains too inactive, synaptic drive can be increased.</p>
+<p>If it remains too active, synaptic drive can be reduced.</p>
+</div>
+<div class="card">
+<p>Unlike Hebbian plasticity, the goal is not to select the most correlated input.</p>
+<p>The goal is to <u>stabilize overall activity</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> homeostatic regulation around a target firing-rate range</p>
+<p>Suggested file: <code>images/5_np_homeostasis.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="synaptic-scaling" class="slide level2 center">
+<h2>Synaptic scaling</h2>
+<div class="info-box">
+<p><code>Synaptic scaling</code> is one mechanism of homeostatic plasticity.</p>
+</div>
+<div class="card">
+<p>After a prolonged decrease in neuronal activity, many excitatory synapses onto a neuron can be scaled <u>up</u>.</p>
+<p>After prolonged excessive activity, synapses can be scaled <u>down</u>.</p>
+</div>
+<div class="card">
+<p>The adjustment is often approximately proportional across synapses, helping preserve their relative differences while changing the neuron’s overall <code>gain</code>.</p>
+</div>
+<div class="card image-needed">
+<p><u>Image:</u> synaptic scaling showing proportional up- and down-scaling of multiple inputs</p>
+<p>Suggested file: <code>images/5_np_synaptic_scaling.png</code></p>
+</div>
+</section>
+<section id="metaplasticity-plasticity-of-plasticity" class="slide level2 center">
+<h2>Metaplasticity: plasticity of plasticity</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><code>Metaplasticity</code> means that the recent history of a neuron changes <u>how easily future plasticity can be induced</u>.</p>
+</div>
+<div class="card">
+<p>A classic example is the <code>sliding modification threshold</code>:</p>
+<ul>
+<li>prolonged high activity can make further potentiation harder</li>
+<li>prolonged low activity can make potentiation easier</li>
+</ul>
+</div>
+<div class="card">
+<p>The effect of a new activity pattern therefore depends partly on the <u>previous activity state of the circuit</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> BCM/sliding-threshold model showing the LTP/LTD threshold shifting with recent activity</p>
+<p>Suggested file: <code>images/5_np_sliding_threshold.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="hebbian-and-homeostatic-plasticity-solve-different-problems" class="slide level2 center">
+<h2>Hebbian and homeostatic plasticity solve different problems</h2>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Hebbian plasticity</code></p>
+<p>Detects relationships between pre- and postsynaptic activity.</p>
+<p>Strengthens selected inputs that are effective at driving the postsynaptic neuron.</p>
+<p><u>Promotes selectivity and learning.</u></p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Homeostatic plasticity</code></p>
+<p>Compares ongoing activity with a functional activity range.</p>
+<p>Adjusts synaptic or intrinsic gain to compensate for persistent deviations.</p>
+<p><u>Promotes stability.</u></p>
+</div>
+</div></div>
+<div class="card">
+<p>Neural circuits require <u>both mechanisms</u>: one allows representations to change, while the other prevents those changes from destabilizing the network.</p>
+</div>
+</section>
+<section id="plasticity-persists-in-the-adult-brain" class="slide level2 center">
+<h2>Plasticity persists in the adult brain</h2>
+<div class="info-box">
+<p>Development is a period of exceptionally high plasticity, but plasticity does not disappear in adulthood.</p>
+</div>
+<div class="card">
+<p>Adult experience can modify:</p>
+<ul>
+<li>synaptic strength</li>
+<li>cortical representations</li>
+<li>dendritic spines</li>
+<li>functional connectivity</li>
+<li>behavioral performance</li>
+</ul>
+</div>
+<div class="card">
+<p>The magnitude and mechanisms of plasticity depend on the circuit, the type of experience and the developmental stage.</p>
+</div>
+</section>
+<section id="motor-learning-reorganizes-adult-m1" class="slide level2 center">
+<h2>Motor learning reorganizes adult M1</h2>
+<div class="columns">
+<div class="column" style="width:52%;">
+<div class="experiment-card">
+<div class="exp-header">
+<p>Karni et al., 1995</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Training</p>
+</div>
+<p>Adults repeatedly practiced a specific sequence of rapid finger movements over several weeks.</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Measurement</p>
+</div>
+<p>Task-related activity in <code>primary motor cortex (M1)</code> was measured using fMRI.</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Result</p>
+</div>
+<p>After prolonged practice, the trained sequence produced an <u>expanded pattern of M1 activation</u> compared with an untrained sequence, and the change persisted for months.</p>
+</div>
+</div>
+</div><div class="column" style="width:48%;">
+<div class="card image-needed">
+<p><u>Image:</u> fMRI motor-cortex maps for trained and untrained finger sequences</p>
+<p>Suggested file: <code>images/5_np_karni_m1.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="what-can-change-inside-motor-cortex" class="slide level2 center">
+<h2>What can change inside motor cortex?</h2>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>A change in an fMRI map shows that the functional representation has changed, but it does not by itself reveal the cellular mechanism.</p>
+</div>
+<div class="card">
+<p>Motor learning can involve plasticity of local cortical circuits, including changes in:</p>
+<ul>
+<li>synaptic efficacy</li>
+<li>horizontal intracortical connections</li>
+<li>excitatory and inhibitory balance</li>
+<li>dendritic-spine structure</li>
+</ul>
+</div>
+<div class="card">
+<p>Experience-dependent cortical reorganization can therefore emerge from <u>many local synaptic changes acting together</u>.</p>
+</div>
+</div><div class="column">
+<div class="card image-needed">
+<p><u>Image:</u> local horizontal connections within primary motor cortex</p>
+<p>Suggested file: <code>images/5_np_m1_horizontal.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="plasticity-can-be-induced-in-human-motor-cortex" class="slide level2 center">
+<h2>Plasticity can be induced in human motor cortex</h2>
+<div class="columns">
+<div class="column" style="width:53%;">
+<div class="experiment-card">
+<div class="exp-header">
+<p>Paired Associative Stimulation (PAS)</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Protocol</p>
+</div>
+<p>Electrical stimulation of the <code>median nerve</code> is repeatedly paired with TMS over the contralateral <code>M1</code>.</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Timing</p>
+</div>
+<p>The interval is chosen so that the peripheral sensory input and TMS-evoked cortical activity interact within a narrow temporal window.</p>
+</div>
+<div class="exp-section">
+<div class="exp-section-title">
+<p>Readout</p>
+</div>
+<p>Changes in <code>motor-evoked potential (MEP)</code> amplitude provide an index of changes in motor-cortex excitability.</p>
+</div>
+</div>
+</div><div class="column" style="width:47%;">
+<div class="card image-needed">
+<p><u>Image:</u> PAS protocol: median nerve stimulation followed by TMS over M1 and EMG recording from the hand</p>
+<p>Suggested file: <code>images/5_np_pas_protocol.png</code></p>
+</div>
+</div></div>
+</section>
+<section id="timing-determines-the-direction-of-pas-plasticity" class="slide level2 center">
+<h2>Timing determines the direction of PAS plasticity</h2>
+<div class="info-box">
+<p>The effect of paired associative stimulation depends critically on the <u>relative timing</u> of the two inputs.</p>
+</div>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p>When the timing causes the two signals to interact appropriately in cortex:</p>
+<p><code>MEP amplitude ↑</code></p>
+<p>The effect can persist for tens of minutes and is described as <code>LTP-like</code>.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p>With a different temporal relationship:</p>
+<p><code>MEP amplitude ↓</code></p>
+<p>The resulting change can be <code>LTD-like</code>.</p>
+</div>
+</div></div>
+<div class="card">
+<p>PAS translates the principle of <u>associative, timing-dependent plasticity</u> into a non-invasive experiment in the human motor system.</p>
+</div>
+</section>
+<section id="studying-synaptic-plasticity-in-animal-models" class="slide level2 center">
+<h2>Studying synaptic plasticity in animal models</h2>
+<div class="columns">
+<div class="column">
+<div class="card">
+<p><code>Electrophysiology</code></p>
+<p>Directly measures changes in synaptic responses and is fundamental for studying LTP and LTD.</p>
+</div>
+<div class="card">
+<p><code>Two-photon microscopy</code></p>
+<p>Allows repeated imaging of dendritic spines and synapses in the living brain over hours, days or weeks.</p>
+</div>
+</div><div class="column">
+<div class="card">
+<p><code>Optogenetics</code></p>
+<p>Uses light-sensitive proteins to activate or inhibit genetically defined neurons with precise timing.</p>
+</div>
+<div class="card">
+<p><code>Viral vectors</code></p>
+<p>Can deliver fluorescent indicators, activity sensors, receptors or optogenetic proteins to selected neuronal populations.</p>
+</div>
+</div></div>
+<div class="card">
+<p>Animal models make it possible to <u>measure, manipulate and visualize</u> plasticity at cellular and synaptic resolution.</p>
+</div>
+</section>
+<section id="from-synapses-to-behavior" class="slide level2 center">
+<h2>From synapses to behavior</h2>
+<div class="info-box">
+<p>Neuroplasticity is not a single mechanism.</p>
+<p>It is a family of processes operating at different spatial and temporal scales.</p>
+</div>
+<div class="card">
+<p>Experience can modify:</p>
+<p><code>receptor function</code></p>
+<p>→ <code>synaptic strength</code></p>
+<p>→ <code>synaptic structure</code></p>
+<p>→ <code>local circuits</code></p>
+<p>→ <code>population representations</code></p>
+<p>→ <code>behavior</code></p>
+</div>
+<div class="card">
+<p>Learning therefore emerges from the interaction between <u>plastic mechanisms that change neural circuits</u> and <u>stabilizing mechanisms that keep those circuits functional</u>.</p>
+</div>
 
 
 
@@ -187,7 +888,6 @@ Raffaele M Mazziotti, PhD
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
 'jumpToSlide': true,
-'scrollActivationWidth': 0,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":false},
 'smaller': false,
@@ -343,7 +1043,7 @@ Raffaele M Mazziotti, PhD
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -370,187 +1070,369 @@ Raffaele M Mazziotti, PhD
       });
     </script>
     <script>
+
     (function () {
+
       function injectHomeLink() {
+
         const link = document.createElement("a");
+
         link.href = "index.html";
+
         link.className = "home-link";
+
         link.setAttribute("aria-label", "Back to Index");
+
         link.title = "Back to Index";
 
+    
+
         // Positioning
+
         link.style.position = "absolute";
+
         link.style.bottom = "20px";
+
         link.style.left = "50%";
+
         link.style.transform = "translateX(-50%)";
+
         link.style.width = "34px";
+
         link.style.height = "34px";
+
         link.style.zIndex = "1000";
+
         link.style.display = "none";
+
         link.style.opacity = "0.75";
+
         link.style.cursor = "pointer";
 
+    
+
         // Home icon image
+
         const img = document.createElement("img");
+
         img.src = "./images/home.svg";
+
         img.alt = "Home";
+
         img.width = 34;
+
         img.height = 34;
+
         img.style.width = "34px";
+
         img.style.height = "34px";
+
         img.style.display = "block";
 
+    
+
         link.appendChild(img);
+
         document.body.appendChild(link);
 
+    
+
         // Hover feedback
+
         link.addEventListener("mouseenter", () => {
+
           link.style.opacity = "1";
+
           link.style.transform = "translateX(-50%) scale(2)";
+
         });
+
+    
 
         link.addEventListener("mouseleave", () => {
+
           link.style.opacity = "0.75";
+
           link.style.transform = "translateX(-50%) scale(1)";
+
         });
+
+    
 
         // Show only on title slide
+
         function updateVisibility() {
+
           const currentSlide = Reveal.getCurrentSlide();
+
           const isTitleSlide = currentSlide &&
+
             (currentSlide.id === "title-slide" ||
+
               currentSlide.classList.contains("title-slide"));
 
+    
+
           if (isTitleSlide) {
+
             link.style.display = "block";
+
           } else {
+
             link.style.display = "none";
+
           }
+
         }
+
+    
 
         updateVisibility();
+
         Reveal.on("slidechanged", updateVisibility);
+
         Reveal.on("ready", updateVisibility);
+
       }
 
+    
+
       if (window.Reveal && Reveal.isReady()) {
+
         injectHomeLink();
+
       } else {
+
         document.addEventListener("DOMContentLoaded", function () {
+
           Reveal.on("ready", injectHomeLink);
+
         });
+
       }
+
+    
 
       function preparePdfLayout() {
+
         if (!/[?&](print-pdf|view=print)(?:[=&]|$)/.test(window.location.search)) return;
 
+    
+
         function fitSlides() {
+
           const pages = Array.from(document.querySelectorAll(".pdf-page"));
+
           if (!pages.length) return;
 
+    
+
           const pageHeight = Math.min(...pages.map((page) => page.getBoundingClientRect().height));
+
           pages.forEach((page) => {
+
             const slide = page.querySelector("section");
+
             if (!slide) return;
 
+    
+
             // Print the final, complete state of fragments on one physical page.
+
             page.style.height = `${pageHeight}px`;
+
             slide.querySelectorAll("img[data-src]").forEach((image) => {
+
               image.src = image.dataset.src;
+
             });
+
             slide.querySelectorAll(".fragment").forEach((fragment) => {
+
               fragment.classList.add("visible");
+
               fragment.style.opacity = "1";
+
               fragment.style.visibility = "visible";
+
               fragment.style.transform = "none";
+
             });
+
             slide.querySelectorAll(".r-stack").forEach((stack) => {
+
               const states = Array.from(stack.children).filter((child) => child.querySelector("[data-fragment-index]"));
+
               const finalState = states.at(-1);
+
               states.forEach((state) => {
+
                 state.style.display = state === finalState ? "" : "none";
+
               });
+
             });
+
+    
 
             if (slide.id !== "title-slide") slide.style.top = "18px";
+
             const availableHeight = pageHeight - (parseFloat(slide.style.top) || 0) - 20;
+
             slide.style.transform = "none";
+
             slide.style.zoom = "";
+
             const hasMixedColumnLayout = slide.querySelector(".columns > :not(.column)");
+
             const scale = slide.id === "title-slide" ? 1 : Math.min(
+
               hasMixedColumnLayout ? 0.82 : 1,
+
               availableHeight / slide.scrollHeight
+
             );
+
             if (scale < 1) {
+
               // CSS zoom changes the printable layout itself; transforms can still be clipped by print preview.
+
               slide.style.zoom = scale;
+
             }
+
           });
+
         }
+
+    
 
         const scheduleFit = () => {
+
           requestAnimationFrame(() => requestAnimationFrame(() => {
+
             setTimeout(fitSlides, 250);
+
             setTimeout(fitSlides, 1000);
+
           }));
+
         };
 
+    
+
         if (window.Reveal && Reveal.isReady()) {
+
           scheduleFit();
+
         } else {
+
           document.addEventListener("DOMContentLoaded", () => Reveal.on("ready", scheduleFit));
+
         }
+
         window.addEventListener("load", scheduleFit);
+
       }
+
+    
 
       function addCourseIndexMenuLink() {
+
         const toolsMenu = document.querySelector(".slide-menu-items");
+
         if (!toolsMenu) return;
 
+    
+
         function createMenuLink(className, href, iconPath, label) {
+
           const item = document.createElement("li");
+
           item.className = `slide-tool-item ${className}`;
+
           const link = document.createElement("a");
+
           link.href = href;
+
           const icon = document.createElement("span");
+
           icon.style.cssText = "display:inline-flex; width:70px; justify-content:center; vertical-align:middle;";
+
           const image = document.createElement("img");
+
           image.src = iconPath;
+
           image.alt = "";
+
           image.setAttribute("aria-hidden", "true");
+
           image.style.cssText = "width:22px; height:22px;";
+
           icon.appendChild(image);
+
           link.append(icon, document.createTextNode(label));
+
           item.appendChild(link);
+
           return item;
+
         }
+
+    
 
         let indexItem = toolsMenu.querySelector(".course-index-menu-link");
+
         if (!indexItem) {
+
           indexItem = createMenuLink("course-index-menu-link", "index.html", "images/home.svg", "Course index");
+
           toolsMenu.prepend(indexItem);
+
         }
+
+    
 
         if (!toolsMenu.querySelector(".course-search-menu-link")) {
+
           const searchItem = createMenuLink(
+
             "course-search-menu-link",
+
             "index.html#/search-course-slides",
+
             "images/search.svg",
+
             "Search course slides"
+
           );
+
           indexItem.after(searchItem);
+
         }
+
       }
+
+    
 
       if (window.Reveal && Reveal.isReady()) {
+
         addCourseIndexMenuLink();
+
       } else {
+
         document.addEventListener("DOMContentLoaded", () => Reveal.on("ready", addCourseIndexMenuLink));
+
       }
 
+    
+
       preparePdfLayout();
+
     })();
+
     </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
@@ -599,13 +1481,14 @@ Raffaele M Mazziotti, PhD
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy
