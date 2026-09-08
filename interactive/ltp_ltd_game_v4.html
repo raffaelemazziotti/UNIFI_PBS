@@ -1,0 +1,964 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LTP / LTD interactive experiment</title>
+<style>
+  :root{
+    --bg:#454545;
+    --panel:rgba(255,255,255,.07);
+    --panel2:#2e2e2e;
+    --text:#e6e6e6;
+    --muted:#b8b8b8;
+    --blue:#67bdfb;
+    --blue2:#9ad1ff;
+    --green:#7fd38c;
+    --red:#ff8a8a;
+    --yellow:#f3cf73;
+    --grid:rgba(255,255,255,.12);
+  }
+
+  *{box-sizing:border-box}
+  html,body{
+    margin:0;
+    width:100%;
+    height:100%;
+    background:var(--bg);
+    color:var(--text);
+    font-family:Inter,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
+
+  body{
+    display:flex;
+    align-items:stretch;
+    justify-content:center;
+    padding:12px;
+  }
+
+  .app{
+    width:min(1500px,100%);
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+  }
+
+  .topbar{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:16px;
+    padding:8px 12px;
+  }
+
+  .title{
+    font-size:clamp(18px,2vw,28px);
+    font-weight:700;
+    color:var(--blue);
+  }
+
+  .status{
+    font-size:clamp(12px,1.2vw,16px);
+    color:var(--muted);
+    text-align:right;
+  }
+
+  .grid{
+    display:grid;
+    grid-template-columns:1.15fr 1fr 1fr;
+    gap:12px;
+    min-height:430px;
+  }
+
+  .panel{
+    background:var(--panel);
+    border:1px solid rgba(255,255,255,.10);
+    border-radius:14px;
+    padding:12px;
+    box-shadow:0 6px 20px rgba(0,0,0,.25);
+    display:flex;
+    flex-direction:column;
+    min-width:0;
+  }
+
+  .panel h3{
+    margin:0 0 4px 0;
+    font-size:clamp(15px,1.5vw,21px);
+    color:var(--blue2);
+    font-weight:650;
+  }
+
+  .subtitle{
+    font-size:clamp(11px,1vw,14px);
+    color:var(--muted);
+    margin-bottom:8px;
+    min-height:18px;
+  }
+
+  canvas{
+    width:100%;
+    flex:1;
+    min-height:310px;
+    border-radius:10px;
+    background:#242424;
+    display:block;
+  }
+
+  .controls{
+    display:grid;
+    grid-template-columns:auto auto auto auto 1fr;
+    gap:10px;
+    align-items:center;
+    padding:12px;
+    background:rgba(255,255,255,.05);
+    border-radius:14px;
+    border:1px solid rgba(255,255,255,.08);
+  }
+
+  button{
+    appearance:none;
+    border:1px solid rgba(255,255,255,.18);
+    background:#2f7eb5;
+    color:white;
+    font-weight:650;
+    font-size:15px;
+    padding:10px 16px;
+    border-radius:10px;
+    cursor:pointer;
+    transition:.15s ease;
+    min-width:112px;
+  }
+
+  button:hover:not(:disabled){
+    transform:translateY(-1px);
+    background:#3b91cf;
+  }
+
+  button.secondary{ background:rgba(255,255,255,.09); }
+  button.hfs{ background:#2f8654; }
+  button.lfs{ background:#9a5a5a; }
+
+  button:disabled{
+    opacity:.36;
+    cursor:not-allowed;
+    transform:none;
+  }
+
+  .protocol{
+    justify-self:end;
+    min-width:280px;
+    max-width:500px;
+    width:100%;
+  }
+
+  .protocol-row{
+    display:flex;
+    justify-content:space-between;
+    color:var(--muted);
+    font-size:13px;
+    margin-bottom:5px;
+  }
+
+  .bar{
+    height:10px;
+    background:#272727;
+    border-radius:999px;
+    overflow:hidden;
+    border:1px solid rgba(255,255,255,.08);
+  }
+
+  .fill{
+    height:100%;
+    width:0%;
+    background:var(--blue);
+    transition:width .08s linear;
+  }
+
+  .hint{
+    text-align:center;
+    font-size:13px;
+    color:var(--muted);
+    padding:2px 8px 4px;
+  }
+
+  .badge{
+    display:inline-block;
+    padding:2px 8px;
+    border-radius:999px;
+    background:rgba(103,189,251,.15);
+    color:var(--blue2);
+    margin-left:6px;
+  }
+
+  @media(max-width:900px){
+    body{padding:6px}
+    .grid{grid-template-columns:1fr; min-height:auto}
+    canvas{min-height:250px}
+    .controls{
+      grid-template-columns:1fr 1fr;
+    }
+    .protocol{
+      grid-column:1 / -1;
+      justify-self:stretch;
+      min-width:0;
+      max-width:none;
+    }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="topbar">
+    <div class="title">LTP / LTD interactive experiment</div>
+    <div id="status" class="status">Collect baseline responses <span class="badge">0 / 6</span></div>
+  </div>
+
+  <div class="grid">
+    <section class="panel">
+      <h3>1. Raw recording</h3>
+      <div class="subtitle">Live oscilloscope: ongoing noise, stimulus artifact and evoked response</div>
+      <canvas id="raw"></canvas>
+    </section>
+
+    <section class="panel">
+      <h3>2. Stimulus-locked response</h3>
+      <div class="subtitle">Zoomed evoked response; previous trial shown transparently</div>
+      <canvas id="avg"></canvas>
+    </section>
+
+    <section class="panel">
+      <h3>3. Synaptic strength</h3>
+      <div class="subtitle">Peak response normalized to baseline (%) + 3-point running mean</div>
+      <canvas id="strength"></canvas>
+    </section>
+  </div>
+
+  <div class="controls">
+    <button id="testBtn">Test pulse</button>
+    <button id="hfsBtn" class="hfs" disabled>HFS</button>
+    <button id="lfsBtn" class="lfs" disabled>LFS</button>
+    <button id="resetBtn" class="secondary">Reset</button>
+
+    <div class="protocol">
+      <div class="protocol-row">
+        <span id="protocolLabel">No induction protocol running</span>
+        <span id="protocolPct"></span>
+      </div>
+      <div class="bar"><div id="protocolFill" class="fill"></div></div>
+    </div>
+  </div>
+
+  <div class="hint">
+    Establish a baseline with test pulses, then choose HFS or LFS. After induction, keep sending the same test pulse to discover how synaptic efficacy changed.
+  </div>
+</div>
+
+<script>
+(() => {
+  const rawCanvas = document.getElementById('raw');
+  const avgCanvas = document.getElementById('avg');
+  const strengthCanvas = document.getElementById('strength');
+
+  const testBtn = document.getElementById('testBtn');
+  const hfsBtn = document.getElementById('hfsBtn');
+  const lfsBtn = document.getElementById('lfsBtn');
+  const resetBtn = document.getElementById('resetBtn');
+
+  const statusEl = document.getElementById('status');
+  const protocolLabel = document.getElementById('protocolLabel');
+  const protocolPct = document.getElementById('protocolPct');
+  const protocolFill = document.getElementById('protocolFill');
+
+  const BASELINE_REQUIRED = 6;
+  const RAW_SAMPLES = 420;
+  const EVENT_SAMPLE = 115;
+  const RESPONSE_WINDOW_START = 120;
+  const RESPONSE_WINDOW_END = 260;
+  const AVERAGE_RECENT_N = 6;
+  const AVG_ZOOM_START = EVENT_SAMPLE + 3;
+  const AVG_ZOOM_END = EVENT_SAMPLE + 115;
+  const RUNNING_MEAN_N = 3;
+  const OSC_SAMPLES_PER_SECOND = 145;
+  const SAMPLE_MS = 1000 / OSC_SAMPLES_PER_SECOND;
+  const DISPLAY_MV_SCALE = 0.10; // internal simulation units -> displayed mV
+
+  let trials = [];
+  let strengthPoints = [];
+  let induction = null; // {type:'HFS'|'LFS', index:number}
+  let phaseTrials = [];
+  let baselineMean = null;
+  let currentGain = 1.0;
+  let targetGain = 1.0;
+  let inductionRunning = false;
+  let lastRaw = makeNoiseTrace();
+
+  // Live scrolling oscilloscope state.
+  let oscBuffer = makeNoiseTrace();
+  let oscDrift = 0;
+  let oscEventAge = null;
+  let oscEventGain = 1.0;
+  let oscLastFrame = performance.now();
+  let oscAccumulator = 0;
+
+  function setupCanvas(canvas){
+    const rect = canvas.getBoundingClientRect();
+    const dpr = window.devicePixelRatio || 1;
+    const w = Math.max(320, Math.round(rect.width));
+    const h = Math.max(220, Math.round(rect.height));
+    canvas.width = Math.round(w*dpr);
+    canvas.height = Math.round(h*dpr);
+    const ctx = canvas.getContext('2d');
+    ctx.setTransform(dpr,0,0,dpr,0,0);
+    return {ctx,w,h};
+  }
+
+  function randn(){
+    let u=0,v=0;
+    while(u===0) u=Math.random();
+    while(v===0) v=Math.random();
+    return Math.sqrt(-2*Math.log(u))*Math.cos(2*Math.PI*v);
+  }
+
+  function makeNoiseTrace(){
+    const y=[];
+    let drift=0;
+    for(let i=0;i<RAW_SAMPLES;i++){
+      drift = 0.94*drift + randn()*0.22;
+      y.push(drift + randn()*0.42);
+    }
+    return y;
+  }
+
+  function triggerOscilloscope(gain){
+    // Start a visible stimulus + evoked response in the live trace.
+    oscEventAge = 0;
+    oscEventGain = gain;
+  }
+
+  function nextOscSample(){
+    oscDrift = 0.94*oscDrift + randn()*0.20;
+    let v = oscDrift + randn()*0.40;
+
+    if(oscEventAge !== null){
+      if(oscEventAge === 0) v += 6.0;
+      if(oscEventAge === 1) v -= 4.0;
+
+      if(oscEventAge >= 4){
+        v += 10.5 * oscEventGain * responseShape(oscEventAge - 4);
+      }
+
+      oscEventAge += 1;
+      if(oscEventAge > 145) oscEventAge = null;
+    }
+
+    return v;
+  }
+
+  function advanceOscilloscope(n){
+    for(let k=0;k<n;k++){
+      oscBuffer.shift();
+      oscBuffer.push(nextOscSample());
+    }
+  }
+
+  function responseShape(t){
+    if(t < 0) return 0;
+    // negative-going field-potential-like response, followed by recovery
+    const rise = 1 - Math.exp(-t/5.0);
+    const decay = Math.exp(-t/34.0);
+    return -rise*decay;
+  }
+
+  function makeEvokedTrace(gain){
+    const y = makeNoiseTrace();
+
+    // brief positive/negative stimulus artifact
+    y[EVENT_SAMPLE] += 6.0;
+    if(EVENT_SAMPLE+1 < y.length) y[EVENT_SAMPLE+1] -= 4.0;
+
+    const amp = 10.5 * gain * (1 + randn()*0.035);
+    for(let i=EVENT_SAMPLE+4;i<RAW_SAMPLES;i++){
+      const t = i-(EVENT_SAMPLE+4);
+      y[i] += amp*responseShape(t);
+    }
+    return y;
+  }
+
+  function peakAmplitude(trace){
+    let min = Infinity;
+    for(let i=RESPONSE_WINDOW_START;i<RESPONSE_WINDOW_END;i++){
+      if(trace[i] < min) min = trace[i];
+    }
+    return -min;
+  }
+
+  function averageRecent(){
+    const source = phaseTrials.slice(-AVERAGE_RECENT_N);
+    if(source.length === 0) return null;
+    const avg = new Array(RAW_SAMPLES).fill(0);
+    for(const tr of source){
+      for(let i=0;i<RAW_SAMPLES;i++) avg[i] += tr[i];
+    }
+    for(let i=0;i<RAW_SAMPLES;i++) avg[i] /= source.length;
+    return avg;
+  }
+
+  function testPulse(){
+    if(inductionRunning) return;
+
+    if(induction){
+      // Approach the post-induction plateau gradually.
+      const rate = induction.type === 'HFS' ? 0.42 : 0.34;
+      currentGain += (targetGain-currentGain)*rate;
+    }
+
+    const tr = makeEvokedTrace(currentGain);
+    lastRaw = tr;
+    triggerOscilloscope(currentGain);
+    const peak = peakAmplitude(tr);
+
+    trials.push(tr);
+    phaseTrials.push(tr);
+
+    if(!induction && trials.length === BASELINE_REQUIRED){
+      const peaks = trials.map(peakAmplitude);
+      baselineMean = peaks.reduce((a,b)=>a+b,0)/peaks.length;
+    }
+
+    let normalized;
+    if(baselineMean){
+      normalized = peak / baselineMean * 100;
+    } else {
+      // Before baseline is finalized, show provisional normalization.
+      const provisional = trials.map(peakAmplitude);
+      const mean = provisional.reduce((a,b)=>a+b,0)/provisional.length;
+      normalized = peak / mean * 100;
+    }
+
+    strengthPoints.push({
+      y: normalized,
+      phase: induction ? induction.type : 'baseline'
+    });
+
+    updateControls();
+    drawAll();
+  }
+
+  function runInduction(type){
+    if(inductionRunning || induction || !baselineMean) return;
+
+    inductionRunning = true;
+    testBtn.disabled = true;
+    hfsBtn.disabled = true;
+    lfsBtn.disabled = true;
+
+    const label = type === 'HFS'
+      ? 'HFS: 100 pulses at 100 Hz'
+      : 'LFS: 100 pulses at 0.1 Hz (accelerated)';
+    protocolLabel.textContent = label;
+
+    const duration = type === 'HFS' ? 1100 : 2800;
+    const start = performance.now();
+
+    function tick(now){
+      const p = Math.min(1,(now-start)/duration);
+      protocolFill.style.width = (p*100).toFixed(0)+'%';
+      protocolPct.textContent = Math.round(p*100)+'%';
+      drawInductionTrain(type,p);
+
+      if(p < 1){
+        requestAnimationFrame(tick);
+      } else {
+        induction = {type, index: strengthPoints.length};
+        phaseTrials = [];
+
+        if(type === 'HFS'){
+          targetGain = 1.42;
+          currentGain = 1.78; // immediate post-tetanic boost that relaxes to plateau
+        } else {
+          targetGain = 0.68;
+          currentGain = 0.82;
+        }
+
+        inductionRunning = false;
+        protocolLabel.textContent = type + ' complete — send test pulses';
+        protocolPct.textContent = '';
+        protocolFill.style.width = '100%';
+        updateControls();
+        drawAll();
+      }
+    }
+
+    requestAnimationFrame(tick);
+  }
+
+  function reset(){
+    trials = [];
+    strengthPoints = [];
+    induction = null;
+    phaseTrials = [];
+    baselineMean = null;
+    currentGain = 1.0;
+    targetGain = 1.0;
+    inductionRunning = false;
+    lastRaw = makeNoiseTrace();
+    oscBuffer = makeNoiseTrace();
+    oscDrift = 0;
+    oscEventAge = null;
+    oscEventGain = 1.0;
+    oscLastFrame = performance.now();
+    oscAccumulator = 0;
+    protocolLabel.textContent = 'No induction protocol running';
+    protocolPct.textContent = '';
+    protocolFill.style.width = '0%';
+    updateControls();
+    drawAll();
+  }
+
+  function updateControls(){
+    if(inductionRunning) return;
+
+    testBtn.disabled = false;
+
+    const enough = baselineMean !== null && !induction;
+    hfsBtn.disabled = !enough;
+    lfsBtn.disabled = !enough;
+
+    if(induction){
+      hfsBtn.disabled = true;
+      lfsBtn.disabled = true;
+      const label = induction.type === 'HFS' ? 'LTP experiment' : 'LTD experiment';
+      statusEl.innerHTML = label + ' <span class="badge">keep testing</span>';
+    } else if(baselineMean){
+      statusEl.innerHTML = 'Baseline established <span class="badge">choose HFS or LFS</span>';
+    } else {
+      statusEl.innerHTML = 'Collect baseline responses <span class="badge">' +
+        trials.length + ' / ' + BASELINE_REQUIRED + '</span>';
+    }
+  }
+
+  function axes(ctx,w,h,x0,y0,x1,y1,xLabel,yLabel){
+    ctx.strokeStyle='rgba(255,255,255,.35)';
+    ctx.lineWidth=1;
+    ctx.beginPath();
+    ctx.moveTo(x0,y1);
+    ctx.lineTo(x1,y1);
+    ctx.moveTo(x0,y0);
+    ctx.lineTo(x0,y1);
+    ctx.stroke();
+
+    ctx.fillStyle='rgba(230,230,230,.75)';
+    ctx.font='12px Inter, Arial';
+    ctx.textAlign='center';
+    if(xLabel) ctx.fillText(xLabel,(x0+x1)/2,h-7);
+
+    if(yLabel){
+      ctx.save();
+      ctx.translate(13,(y0+y1)/2);
+      ctx.rotate(-Math.PI/2);
+      ctx.fillText(yLabel,0,0);
+      ctx.restore();
+    }
+  }
+
+  function drawYTicks(ctx,x0,y0,y1,values,vmin,vmax,formatter=(v)=>v.toString()){
+    ctx.font='11px Inter, Arial';
+    ctx.fillStyle='rgba(230,230,230,.65)';
+    ctx.textAlign='right';
+    ctx.textBaseline='middle';
+    for(const v of values){
+      const y=y1-(v-vmin)/(vmax-vmin)*(y1-y0);
+      ctx.fillText(formatter(v),x0-7,y);
+      ctx.strokeStyle='rgba(255,255,255,.09)';
+      ctx.beginPath(); ctx.moveTo(x0,y); ctx.lineTo(x0+4,y); ctx.stroke();
+    }
+    ctx.textBaseline='alphabetic';
+  }
+
+  function drawXTicks(ctx,x0,x1,y1,values,vmin,vmax,formatter=(v)=>v.toString()){
+    ctx.font='11px Inter, Arial';
+    ctx.fillStyle='rgba(230,230,230,.65)';
+    ctx.textAlign='center';
+    for(const v of values){
+      const x=x0+(v-vmin)/(vmax-vmin)*(x1-x0);
+      ctx.fillText(formatter(v),x,y1+16);
+      ctx.strokeStyle='rgba(255,255,255,.09)';
+      ctx.beginPath(); ctx.moveTo(x,y1); ctx.lineTo(x,y1-4); ctx.stroke();
+    }
+  }
+
+  function drawGrid(ctx,x0,y0,x1,y1,nx=5,ny=4){
+    ctx.strokeStyle='rgba(255,255,255,.07)';
+    ctx.lineWidth=1;
+    for(let i=1;i<nx;i++){
+      const x=x0+(x1-x0)*i/nx;
+      ctx.beginPath(); ctx.moveTo(x,y0); ctx.lineTo(x,y1); ctx.stroke();
+    }
+    for(let i=1;i<ny;i++){
+      const y=y0+(y1-y0)*i/ny;
+      ctx.beginPath(); ctx.moveTo(x0,y); ctx.lineTo(x1,y); ctx.stroke();
+    }
+  }
+
+  function drawRaw(){
+    const {ctx,w,h}=setupCanvas(rawCanvas);
+    ctx.clearRect(0,0,w,h);
+
+    const m={l:56,r:16,t:18,b:42};
+    const x0=m.l,x1=w-m.r,y0=m.t,y1=h-m.b;
+    drawGrid(ctx,x0,y0,x1,y1);
+    axes(ctx,w,h,x0,y0,x1,y1,'time (s)','voltage (mV)');
+
+    // Display scale in mV. The newest point is time 0 on the right.
+    const min=-1.6,max=0.8;
+    const yZero = y1-(0-min)/(max-min)*(y1-y0);
+    ctx.strokeStyle='rgba(103,189,251,.22)';
+    ctx.setLineDash([4,5]);
+    ctx.beginPath(); ctx.moveTo(x0,yZero); ctx.lineTo(x1,yZero); ctx.stroke();
+    ctx.setLineDash([]);
+
+    drawYTicks(ctx,x0,y0,y1,[-1.5,-1.0,-0.5,0,0.5],min,max,(v)=>v.toFixed(1));
+
+    const totalSeconds=(oscBuffer.length-1)/OSC_SAMPLES_PER_SECOND;
+    drawXTicks(
+      ctx,x0,x1,y1,
+      [-totalSeconds,-2,-1,0].filter(v=>v>=-totalSeconds-0.01),
+      -totalSeconds,0,
+      (v)=>v.toFixed(v===0?0:1)
+    );
+
+    ctx.strokeStyle='#e6e6e6';
+    ctx.lineWidth=1.6;
+    ctx.beginPath();
+    oscBuffer.forEach((raw,i)=>{
+      const v=raw*DISPLAY_MV_SCALE;
+      const x=x0+(x1-x0)*i/(oscBuffer.length-1);
+      const y=y1-(v-min)/(max-min)*(y1-y0);
+      if(i===0) ctx.moveTo(x,y); else ctx.lineTo(x,y);
+    });
+    ctx.stroke();
+
+    ctx.fillStyle='#7fd38c';
+    ctx.font='11px Inter, Arial';
+    ctx.textAlign='right';
+    ctx.fillText('● LIVE',x1-3,y0+13);
+
+    ctx.strokeStyle='rgba(103,189,251,.45)';
+    ctx.lineWidth=1;
+    ctx.beginPath();
+    ctx.moveTo(x1-1,y0);
+    ctx.lineTo(x1-1,y1);
+    ctx.stroke();
+  }
+
+  function drawAvg(){
+    const {ctx,w,h}=setupCanvas(avgCanvas);
+    ctx.clearRect(0,0,w,h);
+
+    const m={l:58,r:18,t:22,b:46};
+    const x0=m.l,x1=w-m.r,y0=m.t,y1=h-m.b;
+    drawGrid(ctx,x0,y0,x1,y1);
+    axes(ctx,w,h,x0,y0,x1,y1,'time after stimulus (ms)','response amplitude (mV)');
+
+    if(phaseTrials.length===0){
+      ctx.fillStyle='rgba(230,230,230,.45)';
+      ctx.font='15px Inter, Arial';
+      ctx.textAlign='center';
+      ctx.fillText('Send a test pulse to collect an evoked response',(x0+x1)/2,(y0+y1)/2);
+      return;
+    }
+
+    const current = phaseTrials[phaseTrials.length-1];
+    const previous = phaseTrials.length>1 ? phaseTrials[phaseTrials.length-2] : null;
+
+    function processed(trace){
+      const baselineEnd=EVENT_SAMPLE-10;
+      const baseline=trace.slice(0,baselineEnd).reduce((a,b)=>a+b,0)/baselineEnd;
+      // Invert the negative-going field response so "response amplitude" is positive.
+      return trace
+        .slice(AVG_ZOOM_START,AVG_ZOOM_END)
+        .map(v => -(v-baseline)*DISPLAY_MV_SCALE);
+    }
+
+    const cur=processed(current);
+    const prev=previous ? processed(previous) : null;
+
+    const xmin=(AVG_ZOOM_START-EVENT_SAMPLE)*SAMPLE_MS;
+    const xmax=(AVG_ZOOM_END-EVENT_SAMPLE-1)*SAMPLE_MS;
+    const ymin=-0.10, ymax=2.0;
+
+    drawYTicks(ctx,x0,y0,y1,[0,0.5,1.0,1.5,2.0],ymin,ymax,(v)=>v.toFixed(1));
+    drawXTicks(ctx,x0,x1,y1,[0,200,400,600].filter(v=>v<=xmax),xmin,xmax,(v)=>Math.round(v).toString());
+
+    // Zero line.
+    const yZero=y1-(0-ymin)/(ymax-ymin)*(y1-y0);
+    ctx.strokeStyle='rgba(255,255,255,.24)';
+    ctx.setLineDash([4,5]);
+    ctx.beginPath(); ctx.moveTo(x0,yZero); ctx.lineTo(x1,yZero); ctx.stroke();
+    ctx.setLineDash([]);
+
+    function drawTrace(arr,color,width,alpha=1){
+      if(!arr) return;
+      ctx.save();
+      ctx.globalAlpha=alpha;
+      ctx.strokeStyle=color;
+      ctx.lineWidth=width;
+      ctx.beginPath();
+      arr.forEach((v,i)=>{
+        const x=x0+(x1-x0)*i/(arr.length-1);
+        const y=y1-(v-ymin)/(ymax-ymin)*(y1-y0);
+        if(i===0) ctx.moveTo(x,y); else ctx.lineTo(x,y);
+      });
+      ctx.stroke();
+      ctx.restore();
+    }
+
+    // Previous trial stays visible as a transparent reference.
+    drawTrace(prev,'#d5d5d5',2.0,0.28);
+
+    const currentColor = induction
+      ? (induction.type==='HFS' ? '#7fd38c' : '#ff8a8a')
+      : '#9ad1ff';
+    drawTrace(cur,currentColor,2.8,1);
+
+    // Peak of the current response.
+    let peakIdx=0, peakVal=-Infinity;
+    cur.forEach((v,i)=>{
+      if(v>peakVal){ peakVal=v; peakIdx=i; }
+    });
+    const px=x0+(x1-x0)*peakIdx/(cur.length-1);
+    const py=y1-(peakVal-ymin)/(ymax-ymin)*(y1-y0);
+
+    ctx.beginPath();
+    ctx.arc(px,py,4.8,0,Math.PI*2);
+    ctx.fillStyle='#f3cf73';
+    ctx.fill();
+
+    // Numerical quantification.
+    ctx.fillStyle='#f3cf73';
+    ctx.font='12px Inter, Arial';
+    ctx.textAlign='left';
+    ctx.fillText('Peak = '+peakVal.toFixed(2)+' mV',x0+8,y0+34);
+
+    // Compact non-overlapping legend.
+    ctx.font='11px Inter, Arial';
+    ctx.textAlign='left';
+
+    const legendX = Math.max(x0+120, x1-105);
+    const legendY = y0+12;
+
+    // Current trace legend
+    ctx.strokeStyle = currentColor;
+    ctx.globalAlpha = 1;
+    ctx.lineWidth = 2.6;
+    ctx.beginPath();
+    ctx.moveTo(legendX, legendY);
+    ctx.lineTo(legendX+18, legendY);
+    ctx.stroke();
+
+    ctx.fillStyle='rgba(230,230,230,.78)';
+    ctx.fillText('current', legendX+24, legendY+4);
+
+    // Previous trace legend
+    if(previous){
+      ctx.strokeStyle='#d5d5d5';
+      ctx.globalAlpha=.35;
+      ctx.lineWidth=2.0;
+      ctx.beginPath();
+      ctx.moveTo(legendX, legendY+17);
+      ctx.lineTo(legendX+18, legendY+17);
+      ctx.stroke();
+      ctx.globalAlpha=1;
+
+      ctx.fillStyle='rgba(230,230,230,.58)';
+      ctx.fillText('previous', legendX+24, legendY+21);
+    }
+  }
+
+  function drawStrength(){
+    const {ctx,w,h}=setupCanvas(strengthCanvas);
+    ctx.clearRect(0,0,w,h);
+
+    const m={l:60,r:18,t:26,b:46};
+    const x0=m.l,x1=w-m.r,y0=m.t,y1=h-m.b;
+    drawGrid(ctx,x0,y0,x1,y1);
+    axes(ctx,w,h,x0,y0,x1,y1,'test pulse','peak response (% baseline)');
+
+    const ymin=40, ymax=190;
+    drawYTicks(ctx,x0,y0,y1,[50,75,100,125,150,175],ymin,ymax,(v)=>Math.round(v).toString());
+
+    const y100 = y1-(100-ymin)/(ymax-ymin)*(y1-y0);
+    ctx.strokeStyle='rgba(255,255,255,.35)';
+    ctx.setLineDash([5,5]);
+    ctx.beginPath(); ctx.moveTo(x0,y100); ctx.lineTo(x1,y100); ctx.stroke();
+    ctx.setLineDash([]);
+
+    const N=Math.max(18,strengthPoints.length+2);
+    const xForIndex = i => x0+(x1-x0)*(i+1)/(N+1);
+    const yForVal = v => y1-(v-ymin)/(ymax-ymin)*(y1-y0);
+
+    // X-axis trial numbers.
+    const maxShown=Math.max(6,strengthPoints.length);
+    const step=maxShown<=10 ? 1 : 2;
+    const tickVals=[];
+    for(let t=1;t<=maxShown;t+=step) tickVals.push(t);
+    ctx.font='11px Inter, Arial';
+    ctx.fillStyle='rgba(230,230,230,.65)';
+    ctx.textAlign='center';
+    tickVals.forEach(t=>{
+      const x=xForIndex(t-1);
+      ctx.fillText(String(t),x,y1+16);
+    });
+
+    if(induction){
+      const ix=x0+(x1-x0)*(induction.index+0.5)/(N+1);
+      ctx.strokeStyle=induction.type==='HFS' ? '#7fd38c' : '#ff8a8a';
+      ctx.setLineDash([6,5]);
+      ctx.beginPath(); ctx.moveTo(ix,y0); ctx.lineTo(ix,y1); ctx.stroke();
+      ctx.setLineDash([]);
+      ctx.fillStyle=induction.type==='HFS' ? '#7fd38c' : '#ff8a8a';
+      ctx.textAlign='center';
+      ctx.font='12px Inter, Arial';
+      ctx.fillText(induction.type,ix,y1-10);
+    }
+
+    const running = strengthPoints.map((p,i)=>{
+      const vals=[];
+      for(let j=i;j>=0 && vals.length<RUNNING_MEAN_N;j--){
+        if(strengthPoints[j].phase !== p.phase) break;
+        vals.unshift(strengthPoints[j].y);
+      }
+      return vals.reduce((a,b)=>a+b,0)/vals.length;
+    });
+
+    // Running mean, separately for baseline and post-induction phases.
+    const phases=['baseline','HFS','LFS'];
+    phases.forEach(phase=>{
+      const idxs=strengthPoints
+        .map((p,i)=>p.phase===phase ? i : -1)
+        .filter(i=>i>=0);
+      if(idxs.length<2) return;
+
+      ctx.strokeStyle = phase==='HFS' ? '#b7edc0' :
+                        phase==='LFS' ? '#ffc1c1' : '#d9ecfb';
+      ctx.lineWidth=2.5;
+      ctx.beginPath();
+      idxs.forEach((i,k)=>{
+        const x=xForIndex(i), y=yForVal(running[i]);
+        if(k===0) ctx.moveTo(x,y); else ctx.lineTo(x,y);
+      });
+      ctx.stroke();
+    });
+
+    // Individual peak measurements.
+    strengthPoints.forEach((p,i)=>{
+      const x=xForIndex(i);
+      const y=yForVal(p.y);
+      ctx.beginPath();
+      ctx.arc(x,y,4.3,0,Math.PI*2);
+      ctx.fillStyle = p.phase==='HFS' ? '#7fd38c' :
+                      p.phase==='LFS' ? '#ff8a8a' : '#9ad1ff';
+      ctx.fill();
+    });
+
+    if(strengthPoints.length){
+      const i=strengthPoints.length-1;
+      const last=strengthPoints[i].y;
+      const rm=running[i];
+      ctx.font='12px Inter, Arial';
+      ctx.textAlign='right';
+      ctx.fillStyle='rgba(230,230,230,.82)';
+      ctx.fillText(
+        'Current peak: '+last.toFixed(1)+'%   |   3-trial mean: '+rm.toFixed(1)+'%',
+        x1-2,y0+14
+      );
+    } else {
+      ctx.fillStyle='rgba(230,230,230,.45)';
+      ctx.textAlign='center';
+      ctx.font='15px Inter, Arial';
+      ctx.fillText('Peak amplitudes will appear here',(x0+x1)/2,(y0+y1)/2);
+    }
+  }
+
+  function drawInductionTrain(type,progress){
+    const {ctx,w,h}=setupCanvas(rawCanvas);
+    ctx.clearRect(0,0,w,h);
+
+    ctx.fillStyle='#242424';
+    ctx.fillRect(0,0,w,h);
+
+    const x0=42,x1=w-16;
+    const y0=24,y1=h-42;
+
+    ctx.fillStyle='rgba(230,230,230,.8)';
+    ctx.font='16px Inter, Arial';
+    ctx.textAlign='center';
+    ctx.fillText(
+      type==='HFS' ? 'High-frequency stimulation: 100 pulses at 100 Hz'
+                   : 'Low-frequency stimulation: 100 pulses at 0.1 Hz (accelerated)',
+      w/2,28
+    );
+
+    const nShown=100;
+    const yMid=(y0+y1)/2+25;
+    ctx.strokeStyle = type==='HFS' ? '#7fd38c' : '#ff8a8a';
+    ctx.lineWidth=1.5;
+
+    const visible=Math.floor(progress*nShown);
+    for(let i=0;i<visible;i++){
+      const x=x0+(x1-x0)*(i/(nShown-1));
+      const height = type==='HFS' ? 70 : 44;
+      ctx.beginPath();
+      ctx.moveTo(x,yMid+height/2);
+      ctx.lineTo(x,yMid-height/2);
+      ctx.stroke();
+    }
+
+    ctx.fillStyle='rgba(230,230,230,.55)';
+    ctx.font='13px Inter, Arial';
+    ctx.fillText(
+      type==='HFS'
+        ? 'A brief high-frequency train is used to induce potentiation.'
+        : 'The real protocol would last ~16.7 min; animation is accelerated for teaching.',
+      w/2,h-15
+    );
+  }
+
+  function drawAll(){
+    drawRaw();
+    drawAvg();
+    drawStrength();
+  }
+
+  function animateOscilloscope(now){
+    const dt = Math.min(100, now-oscLastFrame);
+    oscLastFrame = now;
+
+    if(!inductionRunning){
+      oscAccumulator += dt * OSC_SAMPLES_PER_SECOND / 1000;
+      const n = Math.floor(oscAccumulator);
+      if(n > 0){
+        oscAccumulator -= n;
+        advanceOscilloscope(n);
+      }
+      drawRaw();
+    }
+
+    requestAnimationFrame(animateOscilloscope);
+  }
+
+  testBtn.addEventListener('click',testPulse);
+  hfsBtn.addEventListener('click',()=>runInduction('HFS'));
+  lfsBtn.addEventListener('click',()=>runInduction('LFS'));
+  resetBtn.addEventListener('click',reset);
+
+  window.addEventListener('resize',()=>{
+    if(!inductionRunning) drawAll();
+  });
+
+  reset();
+  requestAnimationFrame(animateOscilloscope);
+})();
+</script>
+</body>
+</html>

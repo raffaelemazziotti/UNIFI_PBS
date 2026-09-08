@@ -1117,7 +1117,7 @@
     "href": "5_neuroplasticity.html#nmda-receptors-as-coincidence-detectors",
     "title": "Neuroplasticity",
     "section": "NMDA receptors as coincidence detectors",
-    "text": "NMDA receptors as coincidence detectors\n\n\n\nGlutamate only\nNMDA receptor is ligand-bound, but the Mg²⁺ block strongly limits current at resting membrane potentials.\n\n\nDepolarization only\nThe Mg²⁺ block can be relieved, but without glutamate the receptor does not open.\n\n\nGlutamate + depolarization\nThe channel opens and Ca²⁺ enters the postsynaptic cell.\n\n\n\nImage: NMDA receptor showing glutamate binding, Mg²⁺ block and Ca²⁺ influx during coincident activation\nSuggested file: images/5_np_nmda.png\n\n\n\nThe resulting Ca²⁺ signal can initiate biochemical pathways that modify synaptic strength."
+    "text": "NMDA receptors as coincidence detectors\n\n\n\nGlutamate only\nNMDA receptor is ligand-bound, but the Mg²⁺ block strongly limits current at resting membrane potentials.\n\n\nDepolarization only\nThe Mg²⁺ block can be relieved, but without glutamate the receptor does not open.\n\n\nGlutamate + depolarization\nThe channel opens and Ca²⁺ enters the postsynaptic cell.\n\n\n\n\n\nThe resulting Ca²⁺ signal can initiate biochemical pathways that modify synaptic strength."
   },
   {
     "objectID": "5_neuroplasticity.html#timing-also-matters",
@@ -1131,7 +1131,7 @@
     "href": "5_neuroplasticity.html#spike-timing-dependent-plasticity",
     "title": "Neuroplasticity",
     "section": "Spike-timing-dependent plasticity",
-    "text": "Spike-timing-dependent plasticity\n\n\n\nSTDP converts temporal relationships between neurons into long-lasting changes in synaptic efficacy.\n\n\nA synapse that consistently helps drive the postsynaptic neuron can become stronger.\nA synapse whose activity is poorly timed relative to postsynaptic firing can become weaker.\n\n\n\nImage: classical STDP curve showing change in synaptic strength as a function of pre-post timing\nSuggested file: images/5_np_stdp.png"
+    "text": "Spike-timing-dependent plasticity\n\n\n\nSTDP converts temporal relationships between neurons into long-lasting changes in synaptic efficacy.\n\n\nA synapse that consistently helps drive the postsynaptic neuron can become stronger.\nA synapse whose activity is poorly timed relative to postsynaptic firing can become weaker."
   },
   {
     "objectID": "5_neuroplasticity.html#ltp-and-ltd",
@@ -1145,21 +1145,21 @@
     "href": "5_neuroplasticity.html#measuring-synaptic-potentiation",
     "title": "Neuroplasticity",
     "section": "Measuring synaptic potentiation",
-    "text": "Measuring synaptic potentiation\n\n\n\n\nExperimental induction of LTP\n\n\n\nBaseline\n\nA test stimulus is repeatedly delivered and the postsynaptic response is measured.\n\n\n\nInduction\n\nA pattern of stronger or coordinated activity is delivered to the pathway.\n\n\n\nResult\n\nThe same test stimulus subsequently produces a larger postsynaptic response that can persist long after induction.\n\n\n\n\nImage: LTP experiment showing baseline, induction and persistent increase in synaptic response\nSuggested file: images/5_np_ltp_experiment.png"
+    "text": "Measuring synaptic potentiation\n\n\n\n\n\nExperimental induction of LTP\n\n\n\n\n\nBaseline\n\nA test stimulus is repeatedly delivered and the postsynaptic response is measured.\n\n\n\n\nInduction\n\nA pattern of stronger or coordinated activity is delivered to the pathway.\n\n\n\n\nResult\n\nThe same test stimulus subsequently produces a larger postsynaptic response that can persist long after induction."
   },
   {
     "objectID": "5_neuroplasticity.html#early-mechanisms-of-ltp",
     "href": "5_neuroplasticity.html#early-mechanisms-of-ltp",
     "title": "Neuroplasticity",
     "section": "Early mechanisms of LTP",
-    "text": "Early mechanisms of LTP\n\n\n\nThe earliest phase of potentiation can occur rapidly and does not initially require the formation of a new synapse.\n\n\nAt many glutamatergic synapses:\nNMDA receptor activation\n→ Ca²⁺ influx\n→ activation of intracellular kinases\n→ increased function and rapid insertion of AMPA receptors\n\n\nThe existing synapse therefore becomes more effective at converting glutamate release into a postsynaptic response.\n\n\n\nImage: rapid AMPA-receptor insertion during early LTP\nSuggested file: images/5_np_ltp_ampa.png"
+    "text": "Early mechanisms of LTP\n\n\n\nThe earliest phase of potentiation can occur rapidly and does not initially require the formation of a new synapse.\n\n\nAt many glutamatergic synapses:\nNMDA receptor activation:\n\nCa²⁺ influx\nactivation of intracellular kinases\nincreased function and rapid insertion of AMPA receptors\n\n\n\nThe existing synapse therefore becomes more effective at converting glutamate release into a postsynaptic response."
   },
   {
     "objectID": "5_neuroplasticity.html#ltd-can-weaken-an-existing-synapse",
     "href": "5_neuroplasticity.html#ltd-can-weaken-an-existing-synapse",
     "title": "Neuroplasticity",
     "section": "LTD can weaken an existing synapse",
-    "text": "LTD can weaken an existing synapse\n\n\n\nPlasticity must also allow synapses to become weaker.\n\n\nIn many forms of glutamatergic LTD, intracellular signaling promotes the removal or reduced function of postsynaptic AMPA receptors.\n\n\nThe same amount of presynaptic glutamate release then produces a smaller postsynaptic response.\n\n\n\nImage: AMPA-receptor internalization during LTD\nSuggested file: images/5_np_ltd_ampa.png"
+    "text": "LTD can weaken an existing synapse\n\n\n\n\n\n\nPlasticity must also allow synapses to become weaker.\n\n\nThe same amount of presynaptic glutamate release then produces a smaller postsynaptic response.\n\n\n\nIn many forms of glutamatergic LTD, intracellular signaling promotes the removal (internalization) or reduced function of postsynaptic AMPA receptors."
   },
   {
     "objectID": "5_neuroplasticity.html#from-early-plasticity-to-consolidation",
@@ -1258,5 +1258,19 @@
     "title": "Neuroplasticity",
     "section": "From synapses to behavior",
     "text": "From synapses to behavior\n\nNeuroplasticity is not a single mechanism.\nIt is a family of processes operating at different spatial and temporal scales.\n\n\nExperience can modify:\nreceptor function\n→ synaptic strength\n→ synaptic structure\n→ local circuits\n→ population representations\n→ behavior\n\n\nLearning therefore emerges from the interaction between plastic mechanisms that change neural circuits and stabilizing mechanisms that keep those circuits functional."
+  },
+  {
+    "objectID": "5_neuroplasticity.html#hebbian-principle",
+    "href": "5_neuroplasticity.html#hebbian-principle",
+    "title": "Neuroplasticity",
+    "section": "Hebbian principle",
+    "text": "Hebbian principle\n\n\n\nIn 1949, Donald Hebb proposed a theoretical principle linking learning to changes in synaptic strength.\n\n\nIf activity in a presynaptic neuron repeatedly contributes to activation of a postsynaptic neuron, the connection between them tends to strengthen.\n\n\nThe central idea is therefore correlation:\nthe synapse changes according to the relationship between presynaptic and postsynaptic activity.\n\n\n\n\nFire together, wire together"
+  },
+  {
+    "objectID": "5_neuroplasticity.html#ltp-ltd-game",
+    "href": "5_neuroplasticity.html#ltp-ltd-game",
+    "title": "Neuroplasticity",
+    "section": "LTP & LTD game",
+    "text": "LTP & LTD game"
   }
 ]

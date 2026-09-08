@@ -210,7 +210,7 @@ There is no evidence for widespread adult neurogenesis throughout the cerebral c
 :::
 :::
 
-## Hebbian plasticity
+## Hebbian principle
 
 ::: {.columns}
 ::: {.column}
@@ -232,11 +232,12 @@ the synapse changes according to the relationship between <u>presynaptic and pos
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> Donald Hebb and schematic of correlated pre- and postsynaptic activity
+![](images/5_plast_hebb.png){
+width="50%"}
 
-Suggested file: `images/5_np_hebb.png`
-:::
+
+>Fire together, wire together
+
 
 :::
 :::
@@ -307,11 +308,8 @@ The channel opens and Ca²⁺ enters the postsynaptic cell.
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> NMDA receptor showing glutamate binding, Mg²⁺ block and Ca²⁺ influx during coincident activation
-
-Suggested file: `images/5_np_nmda.png`
-:::
+![](images/5_plast_NMDA.png){
+width="80%"}
 
 :::
 :::
@@ -319,6 +317,163 @@ Suggested file: `images/5_np_nmda.png`
 ::: {.card}
 The resulting `Ca²⁺ signal` can initiate biochemical pathways that modify synaptic strength.
 :::
+
+## LTP and LTD
+
+::: {.columns}
+::: {.column}
+
+::: {.card}
+`Long-Term Potentiation (LTP)`
+
+A persistent <u>increase</u> in synaptic efficacy following an appropriate pattern of activity.
+:::
+
+:::
+::: {.column}
+
+::: {.card}
+`Long-Term Depression (LTD)`
+
+A persistent <u>decrease</u> in synaptic efficacy following an appropriate pattern of activity.
+:::
+
+:::
+:::
+
+::: {.info-box}
+LTP and LTD provide experimental models for studying how activity can produce persistent changes in synaptic strength.
+:::
+
+::: {.card}
+The classic work of `Bliss and Lømo (1973)` demonstrated long-lasting potentiation in the hippocampal formation after patterned stimulation.
+:::
+
+## Measuring synaptic potentiation
+
+:::{.centerimg}
+![](images/5_plast_LTP.png){
+width="65%"
+  title="Experimental induction of long-term potentiation (LTP). A synaptic pathway is first stimulated with low-intensity test pulses to establish a stable baseline response. High-frequency stimulation (HFS; here shown as 100 stimuli at 100 Hz) is then delivered to induce plasticity. Immediately after HFS, the synaptic response becomes much larger and then settles at a level that remains persistently above baseline. This long-lasting increase in synaptic efficacy is LTP."
+}
+:::
+
+::: {.experiment-card}
+
+::: {.exp-header}
+Experimental induction of LTP
+:::
+
+::: {.columns}
+
+::: {.column width="33%"}
+
+::: {.exp-section}
+::: {.exp-section-title}
+Baseline
+:::
+A test stimulus is repeatedly delivered and the postsynaptic response is measured.
+:::
+
+:::
+
+::: {.column width="33%"}
+
+::: {.exp-section}
+::: {.exp-section-title}
+Induction
+:::
+A pattern of stronger or coordinated activity is delivered to the pathway.
+:::
+
+:::
+
+::: {.column width="34%"}
+
+::: {.exp-section}
+::: {.exp-section-title}
+Result
+:::
+The same test stimulus subsequently produces a <u>larger postsynaptic response</u> that can persist long after induction.
+:::
+
+:::
+
+:::
+:::
+
+## Early mechanisms of LTP
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+The earliest phase of potentiation can occur rapidly and does not initially require the formation of a new synapse.
+:::
+
+::: {.card}
+At many glutamatergic synapses:
+
+`NMDA receptor activation`:
+
+- `Ca²⁺ influx`
+
+- activation of intracellular kinases
+
+- increased function and rapid insertion of `AMPA receptors`
+:::
+
+::: {.card}
+The existing synapse therefore becomes <u>more effective</u> at converting glutamate release into a postsynaptic response.
+:::
+
+:::
+::: {.column}
+
+![](images/5_plast_ltp_ampa.png){
+width="65%"}
+
+:::
+:::
+
+## LTD can weaken an existing synapse
+
+:::{.centerimg}
+![](images/5_plast_LTD.png){
+width="65%"}
+:::
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+Plasticity must also allow synapses to become weaker.
+:::
+
+::: {.card}
+The same amount of presynaptic glutamate release then produces a <u>smaller postsynaptic response</u>.
+:::
+
+
+:::
+::: {.column}
+
+
+::: {.card}
+In many forms of glutamatergic `LTD`, intracellular signaling promotes the <u>removal</u> (internalization) or reduced function of postsynaptic `AMPA receptors`.
+:::
+
+:::
+:::
+
+## LTP & LTD game
+
+<iframe
+  src="interactive/ltp_ltd_game_v4.html"
+  width="100%"
+  height="720"
+  style="border:0; border-radius:14px;"
+></iframe>
 
 ## Timing also matters
 
@@ -375,152 +530,8 @@ A synapse whose activity is poorly timed relative to postsynaptic firing can bec
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> classical STDP curve showing change in synaptic strength as a function of pre-post timing
-
-Suggested file: `images/5_np_stdp.png`
-:::
-
-:::
-:::
-
-## LTP and LTD
-
-::: {.columns}
-::: {.column}
-
-::: {.card}
-`Long-Term Potentiation (LTP)`
-
-A persistent <u>increase</u> in synaptic efficacy following an appropriate pattern of activity.
-:::
-
-:::
-::: {.column}
-
-::: {.card}
-`Long-Term Depression (LTD)`
-
-A persistent <u>decrease</u> in synaptic efficacy following an appropriate pattern of activity.
-:::
-
-:::
-:::
-
-::: {.info-box}
-LTP and LTD provide experimental models for studying how activity can produce persistent changes in synaptic strength.
-:::
-
-::: {.card}
-The classic work of `Bliss and Lømo (1973)` demonstrated long-lasting potentiation in the hippocampal formation after patterned stimulation.
-:::
-
-## Measuring synaptic potentiation
-
-::: {.columns}
-::: {.column width="52%"}
-
-::: {.experiment-card}
-::: {.exp-header}
-Experimental induction of LTP
-:::
-
-::: {.exp-section}
-::: {.exp-section-title}
-Baseline
-:::
-A test stimulus is repeatedly delivered and the postsynaptic response is measured.
-:::
-
-::: {.exp-section}
-::: {.exp-section-title}
-Induction
-:::
-A pattern of stronger or coordinated activity is delivered to the pathway.
-:::
-
-::: {.exp-section}
-::: {.exp-section-title}
-Result
-:::
-The same test stimulus subsequently produces a <u>larger postsynaptic response</u> that can persist long after induction.
-:::
-:::
-
-:::
-::: {.column width="48%"}
-
-::: {.card .image-needed}
-<u>Image:</u> LTP experiment showing baseline, induction and persistent increase in synaptic response
-
-Suggested file: `images/5_np_ltp_experiment.png`
-:::
-
-:::
-:::
-
-## Early mechanisms of LTP
-
-::: {.columns}
-::: {.column}
-
-::: {.info-box}
-The earliest phase of potentiation can occur rapidly and does not initially require the formation of a new synapse.
-:::
-
-::: {.card}
-At many glutamatergic synapses:
-
-`NMDA receptor activation`
-
-→ `Ca²⁺ influx`
-
-→ activation of intracellular kinases
-
-→ increased function and rapid insertion of `AMPA receptors`
-:::
-
-::: {.card}
-The existing synapse therefore becomes <u>more effective</u> at converting glutamate release into a postsynaptic response.
-:::
-
-:::
-::: {.column}
-
-::: {.card .image-needed}
-<u>Image:</u> rapid AMPA-receptor insertion during early LTP
-
-Suggested file: `images/5_np_ltp_ampa.png`
-:::
-
-:::
-:::
-
-## LTD can weaken an existing synapse
-
-::: {.columns}
-::: {.column}
-
-::: {.info-box}
-Plasticity must also allow synapses to become weaker.
-:::
-
-::: {.card}
-In many forms of glutamatergic `LTD`, intracellular signaling promotes the removal or reduced function of postsynaptic `AMPA receptors`.
-:::
-
-::: {.card}
-The same amount of presynaptic glutamate release then produces a <u>smaller postsynaptic response</u>.
-:::
-
-:::
-::: {.column}
-
-::: {.card .image-needed}
-<u>Image:</u> AMPA-receptor internalization during LTD
-
-Suggested file: `images/5_np_ltd_ampa.png`
-:::
+![](images/5_plast_STDP.png){
+width="100%"}
 
 :::
 :::
