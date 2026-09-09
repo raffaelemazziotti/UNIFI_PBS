@@ -1,0 +1,25 @@
+<idea-plugin>
+  <idea-version since-build="251" />
+  <id>org.quarto.editor.enhancements</id>
+  <name>Quarto Editor Enhancements</name>
+  <vendor>Local</vendor>
+  <version>0.5.0</version>
+  <description><![CDATA[Adds high-visibility Quarto slide-title highlighting, native IntelliJ folding, and local-path completion for .qmd files.
+      Designed to be used together with the Quarto PyCharm TextMate bundle.]]></description>
+  <depends>com.intellij.modules.platform</depends>
+  <depends>org.jetbrains.plugins.textmate</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Current TextMate-backed files use the "textmate" language. Keep a
+             TEXT registration as a fallback for plain-text .qmd associations.
+             The builder itself returns folds only for .qmd files. -->
+    <lang.foldingBuilder language="textmate" implementationClass="org.quarto.pycharm.editor.QuartoFoldingBuilder" />
+    <lang.foldingBuilder language="TEXT" implementationClass="org.quarto.pycharm.editor.QuartoFoldingBuilder" />
+    <!-- TextMate's PSI is intentionally coarse, so this contributor reads
+             the small text window around the caret instead of requiring Markdown PSI. -->
+    <completion.contributor language="textmate" implementationClass="org.quarto.pycharm.editor.QuartoPathCompletionContributor" />
+    <completion.contributor language="TEXT" implementationClass="org.quarto.pycharm.editor.QuartoPathCompletionContributor" />
+  </extensions>
+  <projectListeners>
+    <listener class="org.quarto.pycharm.editor.QuartoFileEditorListener" topic="com.intellij.openapi.fileEditor.FileEditorManagerListener" />
+  </projectListeners>
+</idea-plugin>

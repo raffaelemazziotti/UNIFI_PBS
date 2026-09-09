@@ -1,4 +1,4 @@
-Quarto Editor Enhancements 0.4.0
+Quarto Editor Enhancements 0.5.0
 =================================
 
 WHAT CHANGED
@@ -19,6 +19,13 @@ The ## title remains visible when the slide body is folded.
 The opening and closing ::: lines remain visible when a div is folded.
 All folds use PyCharm's native folding infrastructure and gutter markers.
 
+Version 0.5.0 additionally restores native Ctrl+Space local-path completion
+in TextMate-backed .qmd files. It recognizes Markdown images and links, the
+src/href attributes of iframe, img, script, link, video, source and a, plus
+Quarto include/embed and resource-style values. Paths are resolved from the
+current .qmd file, can traverse ../ and nested folders, and insert forward
+slashes.
+
 BUILD TARGET
 ------------
 The plugin compiles against PyCharm Community 2025.1.2 (platform build 251) and
@@ -31,7 +38,7 @@ INSTALL / BUILD
 ---------------
 1. Keep your Quarto TextMate bundle enabled.
 2. Build by double-clicking build-plugin.bat.
-3. Install build\distributions\quarto-editor-enhancements-0.4.0.zip via
+3. Install build\distributions\quarto-editor-enhancements-0.5.0.zip via
    Settings > Plugins > gear > Install Plugin from Disk.
 4. Restart PyCharm.
 

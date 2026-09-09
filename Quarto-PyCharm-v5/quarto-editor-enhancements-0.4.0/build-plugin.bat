@@ -1,10 +1,10 @@
 @echo off
 setlocal EnableExtensions
 cd /d "%~dp0"
-title Quarto Editor Enhancements 0.4.0 - build
+title Quarto Editor Enhancements 0.5.0 - build
 
 echo ============================================================
-echo Quarto Editor Enhancements 0.4.0 - build
+echo Quarto Editor Enhancements 0.5.0 - build
 echo ============================================================
 echo.
 
@@ -80,7 +80,7 @@ echo BUILD SUCCESSFUL
 echo ============================================================
 echo.
 echo Install this file in PyCharm:
-echo   %ROOT%build\distributions\quarto-editor-enhancements-0.4.0.zip
+echo   %ROOT%build\distributions\quarto-editor-enhancements-0.5.0.zip
 echo.
 pause
 exit /b 0

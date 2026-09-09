@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "org.quarto.pycharm"
-version = "0.4.0"
+version = "0.5.0"
 
 repositories {
     mavenCentral()
@@ -26,8 +26,8 @@ dependencies {
 }
 
 java {
-    // The requested PyCharm installation currently bundles JBR/JDK 25.
-    // Use it as the compiler, but emit Java 21 bytecode for platform 251.
+    // The requested PyCharm installation bundles JBR/JDK 25.
+    // Emit Java 21 bytecode for platform 251 compatibility.
     toolchain {
         languageVersion = JavaLanguageVersion.of(25)
     }

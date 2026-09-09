@@ -1208,7 +1208,7 @@
     "href": "5_neuroplasticity.html#hebbian-and-homeostatic-plasticity-solve-different-problems",
     "title": "Neuroplasticity",
     "section": "Hebbian and homeostatic plasticity solve different problems",
-    "text": "Hebbian and homeostatic plasticity solve different problems\n\n\n\nHebbian plasticity\nDetects relationships between pre- and postsynaptic activity.\nStrengthens selected inputs that are effective at driving the postsynaptic neuron.\nPromotes selectivity and learning.\n\n\n\nHomeostatic plasticity\nCompares ongoing activity with a functional activity range.\nAdjusts synaptic or intrinsic gain to compensate for persistent deviations.\nPromotes stability.\n\n\n\nNeural circuits require both mechanisms: one allows representations to change, while the other prevents those changes from destabilizing the network."
+    "text": "Hebbian and homeostatic plasticity solve different problems\n\n\n\nHebbian plasticity\nDetects relationships between pre- and postsynaptic activity.\nStrengthens selected inputs that are effective at driving the postsynaptic neuron.\nPromotes selectivity and learning\n\n\n\nHomeostatic plasticity\nCompares ongoing activity with a functional activity range.\nAdjusts synaptic or intrinsic gain to compensate for persistent deviations.\nPromotes stability\n\n\n\nNeural circuits require both mechanisms: one allows representations to change, while the other prevents those changes from destabilizing the network."
   },
   {
     "objectID": "5_neuroplasticity.html#plasticity-persists-in-the-adult-brain",
@@ -1222,14 +1222,14 @@
     "href": "5_neuroplasticity.html#motor-learning-reorganizes-adult-m1",
     "title": "Neuroplasticity",
     "section": "Motor learning reorganizes adult M1",
-    "text": "Motor learning reorganizes adult M1\n\n\n\n\nKarni et al., 1995\n\n\n\nTraining\n\nAdults repeatedly practiced a specific sequence of rapid finger movements over several weeks.\n\n\n\nMeasurement\n\nTask-related activity in primary motor cortex (M1) was measured using fMRI.\n\n\n\nResult\n\nAfter prolonged practice, the trained sequence produced an expanded pattern of M1 activation compared with an untrained sequence, and the change persisted for months.\n\n\n\n\nImage: fMRI motor-cortex maps for trained and untrained finger sequences\nSuggested file: images/5_np_karni_m1.png"
+    "text": "Motor learning reorganizes adult M1\n\n\n\n\nKarni et al., 1995\n\n\n\nTraining\n\nAdults repeatedly practiced a specific sequence of rapid finger movements over several weeks.\n\n\n\nMeasurement\n\nTask-related activity in primary motor cortex (M1) was measured using fMRI.\n\n\n\nResult\n\nAfter prolonged practice, the trained sequence produced an expanded M1 activation. The change persisted for months."
   },
   {
     "objectID": "5_neuroplasticity.html#what-can-change-inside-motor-cortex",
     "href": "5_neuroplasticity.html#what-can-change-inside-motor-cortex",
     "title": "Neuroplasticity",
     "section": "What can change inside motor cortex?",
-    "text": "What can change inside motor cortex?\n\n\n\nA change in an fMRI map shows that the functional representation has changed, but it does not by itself reveal the cellular mechanism.\n\n\nMotor learning can involve plasticity of local cortical circuits, including changes in:\n\nsynaptic efficacy\nhorizontal intracortical connections\nexcitatory and inhibitory balance\ndendritic-spine structure\n\n\n\nExperience-dependent cortical reorganization can therefore emerge from many local synaptic changes acting together.\n\n\n\nImage: local horizontal connections within primary motor cortex\nSuggested file: images/5_np_m1_horizontal.png"
+    "text": "What can change inside motor cortex?"
   },
   {
     "objectID": "5_neuroplasticity.html#plasticity-can-be-induced-in-human-motor-cortex",
@@ -1272,5 +1272,40 @@
     "title": "Neuroplasticity",
     "section": "LTP & LTD game",
     "text": "LTP & LTD game"
+  },
+  {
+    "objectID": "5_neuroplasticity.html#metaplasticity-plasticity-of-plasticity-1",
+    "href": "5_neuroplasticity.html#metaplasticity-plasticity-of-plasticity-1",
+    "title": "Neuroplasticity",
+    "section": "Metaplasticity: plasticity of plasticity",
+    "text": "Metaplasticity: plasticity of plasticity"
+  },
+  {
+    "objectID": "5_neuroplasticity.html#what-can-change-inside-motor-cortex-1",
+    "href": "5_neuroplasticity.html#what-can-change-inside-motor-cortex-1",
+    "title": "Neuroplasticity",
+    "section": "What can change inside motor cortex?",
+    "text": "What can change inside motor cortex?"
+  },
+  {
+    "objectID": "5_neuroplasticity.html#paired-associative-stimulation-induces-hebbian-like-plasticity-in-human-m1",
+    "href": "5_neuroplasticity.html#paired-associative-stimulation-induces-hebbian-like-plasticity-in-human-m1",
+    "title": "Neuroplasticity",
+    "section": "Paired associative stimulation induces Hebbian-like plasticity in Human M1",
+    "text": "Paired associative stimulation induces Hebbian-like plasticity in Human M1\n\n\nPaired Associative Stimulation (PAS)\n\n\n\n\n\nProtocol\n\nElectrical stimulation of the median nerve was repeatedly paired with TMS over the contralateral M1.\n\n\n\n\nTiming\n\nWhen peripheral input reached cortex at the appropriate time relative to TMS, the two inputs were coincident.\n\n\n\n\nResult\n\nAfter pairing, the same TMS pulse evoked a larger motor-evoked potential (MEP) in the hand muscle.\n\n\n\n\nInterpretation\n\nRepeated coincidence of sensory input and motor-cortex activation produced a persistent LTP-like, Hebbian potentiation of M1 output.\n\n\n\n\nThe increased MEP amplitude indicates that the corticospinal response to the same cortical stimulation has become stronger."
+  },
+  {
+    "objectID": "5_neuroplasticity.html#motor-practice-occludes-pas-induced-potentiation",
+    "href": "5_neuroplasticity.html#motor-practice-occludes-pas-induced-potentiation",
+    "title": "Neuroplasticity",
+    "section": "Motor practice occludes PAS-induced potentiation",
+    "text": "Motor practice occludes PAS-induced potentiation\n\n\nTwo ways to induce plasticity in human M1\n\n\n\n\n\nMotor Practice (MP)\n\nSubjects repeatedly perform rapid thumb abduction movements for 30 min.\nAfter practice, TMS over M1 evokes a larger MEP in the trained thumb muscle.\n\n\n\n\nPaired Associative Stimulation\n\nElectrical stimulation of the median nerve is repeatedly paired with TMS over contralateral M1.\nWith the appropriate timing, PAS produces an LTP-like increase in MEP amplitude.\n\n\n\n\nOcclusion\n\nIf subjects first perform motor practice, the subsequent potentiating effect of PAS is strongly reduced or absent.\n\n\n\n\nInterpretation\n\nMotor learning and PAS engage overlapping LTP-like plasticity mechanisms.\nBecause motor practice has already potentiated the circuit, further potentiation by PAS is occluded."
+  },
+  {
+    "objectID": "5_neuroplasticity.html#motor-practice-occludes-pas-induced-potentiation-1",
+    "href": "5_neuroplasticity.html#motor-practice-occludes-pas-induced-potentiation-1",
+    "title": "Neuroplasticity",
+    "section": "Motor practice occludes PAS-induced potentiation",
+    "text": "Motor practice occludes PAS-induced potentiation"
   }
 ]

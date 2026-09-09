@@ -1,0 +1,12 @@
+Created-By: Gradle 9.1.0
+Version: 0.5.0
+Build-JVM: 21.0.11 (Red Hat, Inc. 21.0.11+10)
+Build-OS: Linux 6.19.14-108.fc42.x86_64 amd64
+Build-Plugin: IntelliJ Platform Gradle Plugin
+Build-Plugin-Version: 2.18.1
+Platform-Type: PC
+Platform-Version: 2025.1.2
+Platform-Build: 251.26094.141
+Kotlin-Available: false
+Kotlin-Stdlib-Bundled: false
+Kotlin-Version: null
