@@ -1,0 +1,1015 @@
+{
+  "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+  "name": "Quarto (PyCharm visual v4)",
+  "scopeName": "text.html.quarto.pycharm.visual.v4",
+  "fileTypes": [
+    "qmd"
+  ],
+  "patterns": [
+    {
+      "include": "#frontmatter"
+    },
+    {
+      "include": "#fenced-code"
+    },
+    {
+      "include": "#math-block"
+    },
+    {
+      "include": "#html-comment"
+    },
+    {
+      "include": "#quarto-div"
+    },
+    {
+      "include": "#heading"
+    },
+    {
+      "include": "#setext-heading-1"
+    },
+    {
+      "include": "#setext-heading-2"
+    },
+    {
+      "include": "#blockquote"
+    },
+    {
+      "include": "#list-marker"
+    },
+    {
+      "include": "#task-checkbox"
+    },
+    {
+      "include": "#horizontal-rule"
+    },
+    {
+      "include": "#image"
+    },
+    {
+      "include": "#link"
+    },
+    {
+      "include": "#bold"
+    },
+    {
+      "include": "#italic"
+    },
+    {
+      "include": "#strike"
+    },
+    {
+      "include": "#inline-code"
+    },
+    {
+      "include": "#shortcode"
+    },
+    {
+      "include": "#citation"
+    },
+    {
+      "include": "#footnote"
+    },
+    {
+      "include": "#math-inline"
+    },
+    {
+      "include": "#inline-span"
+    },
+    {
+      "include": "#quarto-attribute"
+    },
+    {
+      "include": "#html-comment"
+    },
+    {
+      "include": "#html-tag"
+    }
+  ],
+  "repository": {
+    "frontmatter": {
+      "name": "meta.embedded.block.frontmatter",
+      "begin": "\\A\\s*(---)\\s*$",
+      "beginCaptures": {
+        "1": {
+          "name": "punctuation.definition.begin.frontmatter"
+        }
+      },
+      "end": "^\\s*(---|\\.\\.\\.)\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.end.frontmatter"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#yaml"
+        }
+      ]
+    },
+    "yaml": {
+      "patterns": [
+        {
+          "name": "comment.line.number-sign.yaml",
+          "match": "#.*$"
+        },
+        {
+          "match": "^(\\s*)([-A-Za-z0-9_.]+)(\\s*)(:)",
+          "captures": {
+            "2": {
+              "name": "entity.other.attribute-name.yaml"
+            },
+            "4": {
+              "name": "punctuation.separator.key-value.yaml"
+            }
+          }
+        },
+        {
+          "name": "string.quoted.double.yaml",
+          "begin": "\"",
+          "end": "\"",
+          "patterns": [
+            {
+              "name": "constant.character.escape.yaml",
+              "match": "\\\\."
+            }
+          ]
+        },
+        {
+          "name": "string.quoted.single.yaml",
+          "begin": "'",
+          "end": "'"
+        },
+        {
+          "name": "constant.language.boolean.yaml",
+          "match": "\\b(?:true|false|null|yes|no|on|off)\\b"
+        },
+        {
+          "name": "constant.numeric.yaml",
+          "match": "(?<![A-Za-z_])[-+]?(?:\\d+(?:\\.\\d+)?|\\.\\d+)(?:[eE][-+]?\\d+)?\\b"
+        },
+        {
+          "name": "punctuation.definition.sequence.yaml",
+          "match": "^\\s*-\\s+"
+        },
+        {
+          "name": "string.unquoted.yaml",
+          "match": "(?<=:\\s)[^#\\n]+"
+        }
+      ]
+    },
+    "chunk-option": {
+      "name": "meta.embedded.block.yaml.quarto-option",
+      "begin": "^(\\s*)(#\\|)(\\s*)",
+      "beginCaptures": {
+        "2": {
+          "name": "comment.line.number-sign.quarto"
+        }
+      },
+      "end": "$",
+      "patterns": [
+        {
+          "match": "([A-Za-z0-9_.-]+)(\\s*)(:)",
+          "captures": {
+            "1": {
+              "name": "entity.other.attribute-name.yaml"
+            },
+            "3": {
+              "name": "punctuation.separator.key-value.yaml"
+            }
+          }
+        },
+        {
+          "name": "constant.language.boolean.yaml",
+          "match": "\\b(?:true|false|null|yes|no|on|off)\\b"
+        },
+        {
+          "name": "constant.numeric.yaml",
+          "match": "(?<![A-Za-z_])[-+]?(?:\\d+(?:\\.\\d+)?|\\.\\d+)\\b"
+        },
+        {
+          "name": "string.quoted.double.yaml",
+          "begin": "\"",
+          "end": "\""
+        },
+        {
+          "name": "string.quoted.single.yaml",
+          "begin": "'",
+          "end": "'"
+        },
+        {
+          "name": "string.unquoted.yaml",
+          "match": "[^#\\n]+"
+        }
+      ]
+    },
+    "python-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?(python|py)(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#chunk-option"
+        },
+        {
+          "include": "source.python"
+        }
+      ]
+    },
+    "r-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?(r)(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#chunk-option"
+        },
+        {
+          "include": "source.r"
+        }
+      ]
+    },
+    "js-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?(javascript|js|typescript|ts)(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#chunk-option"
+        },
+        {
+          "include": "source.js"
+        }
+      ]
+    },
+    "css-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?(css|scss)(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#chunk-option"
+        },
+        {
+          "include": "source.css"
+        }
+      ]
+    },
+    "html-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?(html|htm)(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#chunk-option"
+        },
+        {
+          "include": "text.html.basic"
+        }
+      ]
+    },
+    "shell-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?(bash|sh|shell)(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#chunk-option"
+        },
+        {
+          "include": "source.shell"
+        }
+      ]
+    },
+    "sql-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?(sql)(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#chunk-option"
+        },
+        {
+          "include": "source.sql"
+        }
+      ]
+    },
+    "julia-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?(julia)(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#chunk-option"
+        },
+        {
+          "include": "source.julia"
+        }
+      ]
+    },
+    "yaml-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?(yaml|yml)(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#yaml"
+        }
+      ]
+    },
+    "mermaid-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?(mermaid)(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      },
+      "patterns": [
+        {
+          "name": "keyword.control.mermaid",
+          "match": "\\b(?:flowchart|graph|sequenceDiagram|classDiagram|stateDiagram-v2|erDiagram|gantt|pie|mindmap)\\b"
+        },
+        {
+          "name": "string.quoted.double.mermaid",
+          "begin": "\"",
+          "end": "\""
+        },
+        {
+          "name": "entity.name.function.mermaid",
+          "match": "\\b[A-Za-z_][A-Za-z0-9_-]*(?=\\s*(?:-->|---|==>|-.->|:::|\\[|\\(|\\{))"
+        },
+        {
+          "name": "keyword.operator.mermaid",
+          "match": "-->|---|==>|-.->|:::"
+        }
+      ]
+    },
+    "generic-fence": {
+      "name": "markup.fenced_code.block.markdown",
+      "begin": "^(\\s*)(`{3,}|~{3,})\\s*(?:\\{\\s*)?([A-Za-z0-9_+.-]+)?(?:\\s+([^}]*))?\\}?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "punctuation.definition.markdown"
+        },
+        "3": {
+          "name": "fenced_code.block.language.markdown entity.name.type"
+        },
+        "4": {
+          "name": "fenced_code.block.language.attributes.markdown entity.other.attribute-name"
+        }
+      },
+      "end": "^\\s*(`{3,}|~{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "punctuation.definition.markdown"
+        }
+      }
+    },
+    "fenced-code": {
+      "patterns": [
+        {
+          "include": "#python-fence"
+        },
+        {
+          "include": "#r-fence"
+        },
+        {
+          "include": "#js-fence"
+        },
+        {
+          "include": "#css-fence"
+        },
+        {
+          "include": "#html-fence"
+        },
+        {
+          "include": "#shell-fence"
+        },
+        {
+          "include": "#sql-fence"
+        },
+        {
+          "include": "#julia-fence"
+        },
+        {
+          "include": "#yaml-fence"
+        },
+        {
+          "include": "#mermaid-fence"
+        },
+        {
+          "include": "#generic-fence"
+        }
+      ]
+    },
+    "html-comment": {
+      "name": "comment.block.html",
+      "begin": "<!--",
+      "end": "-->",
+      "beginCaptures": {
+        "0": {
+          "name": "punctuation.definition.comment.begin.html"
+        }
+      },
+      "endCaptures": {
+        "0": {
+          "name": "punctuation.definition.comment.end.html"
+        }
+      }
+    },
+    "html-tag": {
+      "name": "meta.tag.html",
+      "begin": "(<)(/?)([A-Za-z][A-Za-z0-9:-]*)",
+      "beginCaptures": {
+        "1": {
+          "name": "keyword.operator.tag.html"
+        },
+        "2": {
+          "name": "keyword.operator.tag.html"
+        },
+        "3": {
+          "name": "entity.name.tag.html"
+        }
+      },
+      "end": "(/?>)",
+      "endCaptures": {
+        "1": {
+          "name": "keyword.operator.tag.html"
+        }
+      },
+      "patterns": [
+        {
+          "name": "variable.other.readwrite.html",
+          "match": "\\b[A-Za-z_:][-A-Za-z0-9_:.]*(?=\\s*=|\\s|/?>)"
+        },
+        {
+          "name": "keyword.operator.assignment.html",
+          "match": "="
+        },
+        {
+          "name": "string.quoted.double.html",
+          "begin": "\"",
+          "end": "\""
+        },
+        {
+          "name": "string.quoted.single.html",
+          "begin": "'",
+          "end": "'"
+        }
+      ]
+    },
+    "quarto-div": {
+      "name": "meta.block.quarto.div",
+      "begin": "^(\\s*)(:{3,})(?:\\s*(\\{[^}]*\\}|[A-Za-z][A-Za-z0-9_-]*))?\\s*$",
+      "beginCaptures": {
+        "2": {
+          "name": "entity.name.tag.html"
+        },
+        "3": {
+          "patterns": [
+            {
+              "include": "#quarto-attribute-content"
+            }
+          ]
+        }
+      },
+      "end": "^\\s*(:{3,})\\s*$",
+      "endCaptures": {
+        "1": {
+          "name": "entity.name.tag.html"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#fenced-code"
+        },
+        {
+          "include": "#heading"
+        },
+        {
+          "include": "#blockquote"
+        },
+        {
+          "include": "#list-marker"
+        },
+        {
+          "include": "#task-checkbox"
+        },
+        {
+          "include": "#image"
+        },
+        {
+          "include": "#link"
+        },
+        {
+          "include": "#bold"
+        },
+        {
+          "include": "#italic"
+        },
+        {
+          "include": "#strike"
+        },
+        {
+          "include": "#inline-code"
+        },
+        {
+          "include": "#shortcode"
+        },
+        {
+          "include": "#citation"
+        },
+        {
+          "include": "#footnote"
+        },
+        {
+          "include": "#math-inline"
+        },
+        {
+          "include": "#inline-span"
+        },
+        {
+          "include": "#quarto-attribute"
+        },
+        {
+          "include": "#html-comment"
+        },
+        {
+          "include": "#html-tag"
+        }
+      ]
+    },
+    "quarto-attribute-content": {
+      "patterns": [
+        {
+          "name": "keyword.operator.brace.quarto",
+          "match": "\\{"
+        },
+        {
+          "name": "keyword.operator.brace.quarto",
+          "match": "\\}"
+        },
+        {
+          "name": "keyword.control.quarto.columns",
+          "match": "\\.columns\\b"
+        },
+        {
+          "name": "constant.numeric.quarto.column",
+          "match": "\\.column\\b"
+        },
+        {
+          "name": "entity.other.attribute-name.class.quarto",
+          "match": "\\.[A-Za-z_][A-Za-z0-9_-]*"
+        },
+        {
+          "name": "entity.name.function.quarto",
+          "match": "#[A-Za-z_][A-Za-z0-9_-]*"
+        },
+        {
+          "name": "variable.other.readwrite.quarto",
+          "match": "\\b[A-Za-z_:][-A-Za-z0-9_:.]*(?=\\s*=)"
+        },
+        {
+          "name": "keyword.operator.assignment.quarto",
+          "match": "="
+        },
+        {
+          "name": "string.quoted.double.quarto",
+          "begin": "\"",
+          "end": "\""
+        },
+        {
+          "name": "string.quoted.single.quarto",
+          "begin": "'",
+          "end": "'"
+        },
+        {
+          "name": "constant.numeric.quarto",
+          "match": "\\b\\d+(?:\\.\\d+)?%?\\b"
+        }
+      ]
+    },
+    "quarto-attribute": {
+      "name": "meta.attributes.quarto",
+      "begin": "\\{(?=[.#A-Za-z])",
+      "beginCaptures": {
+        "0": {
+          "name": "keyword.operator.brace.quarto"
+        }
+      },
+      "end": "\\}",
+      "endCaptures": {
+        "0": {
+          "name": "keyword.operator.brace.quarto"
+        }
+      },
+      "patterns": [
+        {
+          "include": "#quarto-attribute-content"
+        }
+      ]
+    },
+    "heading": {
+      "name": "markup.heading.markdown",
+      "begin": "^(\\s*)(#{1,6})(\\s+)",
+      "beginCaptures": {
+        "2": {
+          "name": "entity.name.section.markdown"
+        }
+      },
+      "end": "$\\n?|$",
+      "contentName": "entity.name.section.markdown",
+      "patterns": [
+        {
+          "include": "#image"
+        },
+        {
+          "include": "#link"
+        },
+        {
+          "include": "#bold"
+        },
+        {
+          "include": "#italic"
+        },
+        {
+          "include": "#inline-code"
+        },
+        {
+          "include": "#quarto-attribute"
+        }
+      ]
+    },
+    "setext-heading-1": {
+      "name": "markup.heading.setext.1.markdown",
+      "match": "^={3,}\\s*$"
+    },
+    "setext-heading-2": {
+      "name": "markup.heading.setext.2.markdown",
+      "match": "^-{3,}\\s*$"
+    },
+    "blockquote": {
+      "name": "markup.quote.markdown",
+      "match": "^\\s*(>+)\\s?",
+      "captures": {
+        "1": {
+          "name": "punctuation.definition.quote.begin.markdown"
+        }
+      }
+    },
+    "list-marker": {
+      "name": "punctuation.definition.list.begin.markdown",
+      "match": "^\\s*(?:[-+*]|\\d+[.)])(?=\\s+)"
+    },
+    "task-checkbox": {
+      "name": "constant.language.boolean.task-list.markdown",
+      "match": "\\[[ xX]\\]"
+    },
+    "horizontal-rule": {
+      "name": "meta.separator.markdown",
+      "match": "^\\s*(?:-{3,}|\\*{3,}|_{3,})\\s*$"
+    },
+    "bold": {
+      "name": "markup.bold.markdown",
+      "begin": "(?<!\\*)\\*\\*(?=\\S)|(?<!_)__(?=\\S)",
+      "end": "(?<=\\S)\\*\\*(?!\\*)|(?<=\\S)__(?!_)",
+      "patterns": [
+        {
+          "include": "#inline-code"
+        },
+        {
+          "include": "#link"
+        }
+      ]
+    },
+    "italic": {
+      "name": "markup.italic.markdown",
+      "begin": "(?<!\\*)\\*(?=\\S)|(?<!_)_(?=\\S)",
+      "end": "(?<=\\S)\\*(?!\\*)|(?<=\\S)_(?!_)",
+      "patterns": [
+        {
+          "include": "#inline-code"
+        },
+        {
+          "include": "#link"
+        }
+      ]
+    },
+    "strike": {
+      "name": "markup.strikethrough.markdown",
+      "begin": "~~(?=\\S)",
+      "end": "(?<=\\S)~~"
+    },
+    "inline-code": {
+      "name": "meta.inline-code.markdown",
+      "begin": "(?<!`)`(?!`)",
+      "beginCaptures": {
+        "0": {
+          "name": "keyword.operator.inline-code.markdown"
+        }
+      },
+      "end": "(?<!`)`(?!`)",
+      "endCaptures": {
+        "0": {
+          "name": "keyword.operator.inline-code.markdown"
+        }
+      },
+      "contentName": "string.quoted.single.inline-code.markdown"
+    },
+    "link": {
+      "name": "meta.link.inline.markdown",
+      "match": "(\\[)([^]\\n]+)(\\])(\\()([^)\\n]+)(\\))",
+      "captures": {
+        "1": {
+          "name": "keyword.operator.link.markdown"
+        },
+        "2": {
+          "name": "string.other.link.title.markdown"
+        },
+        "3": {
+          "name": "keyword.operator.link.markdown"
+        },
+        "4": {
+          "name": "keyword.operator.link.markdown"
+        },
+        "5": {
+          "name": "markup.underline.link.markdown"
+        },
+        "6": {
+          "name": "keyword.operator.link.markdown"
+        }
+      }
+    },
+    "image": {
+      "name": "meta.image.inline.markdown",
+      "match": "(!)(\\[)([^]\\n]*)(\\])(\\()([^)\\n]+)(\\))",
+      "captures": {
+        "1": {
+          "name": "keyword.operator.image.markdown"
+        },
+        "2": {
+          "name": "keyword.operator.image.markdown"
+        },
+        "3": {
+          "name": "entity.name.type.image.markdown"
+        },
+        "4": {
+          "name": "keyword.operator.image.markdown"
+        },
+        "5": {
+          "name": "keyword.operator.image.markdown"
+        },
+        "6": {
+          "name": "string.quoted.double.image.path.markdown"
+        },
+        "7": {
+          "name": "keyword.operator.image.markdown"
+        }
+      }
+    },
+    "shortcode": {
+      "name": "meta.shortcode.quarto",
+      "begin": "\\{\\{<",
+      "beginCaptures": {
+        "0": {
+          "name": "punctuation.definition.quarto"
+        }
+      },
+      "end": ">\\}\\}",
+      "endCaptures": {
+        "0": {
+          "name": "punctuation.definition.quarto"
+        }
+      },
+      "patterns": [
+        {
+          "name": "support.function.quarto",
+          "match": "[A-Za-z_][A-Za-z0-9_-]*"
+        },
+        {
+          "name": "entity.other.attribute-name.html",
+          "match": "\\b[A-Za-z_][A-Za-z0-9_-]*(?=\\s*=)"
+        },
+        {
+          "name": "keyword.operator.assignment.quarto",
+          "match": "="
+        },
+        {
+          "name": "string.quoted.double.quarto",
+          "begin": "\"",
+          "end": "\""
+        },
+        {
+          "name": "string.quoted.single.quarto",
+          "begin": "'",
+          "end": "'"
+        }
+      ]
+    },
+    "citation": {
+      "name": "constant.other.reference.citation",
+      "match": "(?<![A-Za-z0-9_])@[A-Za-z0-9_:.+-]+"
+    },
+    "footnote": {
+      "name": "constant.other.reference.footnote.markdown",
+      "match": "\\[\\^[^]\\n]+\\]"
+    },
+    "math-inline": {
+      "name": "markup.raw.inline.math",
+      "begin": "(?<!\\\\)\\$(?!\\$)",
+      "end": "(?<!\\\\)\\$(?!\\$)"
+    },
+    "math-block": {
+      "name": "markup.raw.block.math",
+      "begin": "^\\s*\\$\\$\\s*$",
+      "end": "^\\s*\\$\\$\\s*$"
+    },
+    "inline-span": {
+      "name": "meta.span.quarto",
+      "begin": "\\[(?=[^]\\n]+\\]\\{)",
+      "end": "\\](?=\\{)",
+      "patterns": [
+        {
+          "include": "#image"
+        },
+        {
+          "include": "#link"
+        },
+        {
+          "include": "#bold"
+        },
+        {
+          "include": "#italic"
+        },
+        {
+          "include": "#strike"
+        },
+        {
+          "include": "#inline-code"
+        },
+        {
+          "include": "#shortcode"
+        },
+        {
+          "include": "#citation"
+        }
+      ]
+    }
+  }
+}

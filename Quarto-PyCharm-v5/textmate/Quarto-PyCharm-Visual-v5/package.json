@@ -1,0 +1,31 @@
+{
+  "name": "quarto-pycharm-visual-v5",
+  "displayName": "Quarto PyCharm Visual v5",
+  "version": "0.5.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "contributes": {
+    "languages": [
+      {
+        "id": "quarto-pycharm-v5",
+        "aliases": [
+          "Quarto",
+          "qmd"
+        ],
+        "extensions": [
+          ".qmd"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "quarto-pycharm-v5",
+        "scopeName": "text.html.quarto.pycharm.visual.v5",
+        "path": "./syntaxes/quarto-pycharm-visual-v5.tmLanguage.json"
+      }
+    ]
+  }
+}
