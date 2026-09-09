@@ -580,17 +580,15 @@ Long-lasting plasticity can therefore progress from <u>functional modification</
 ::: {.column}
 
 ::: {.info-box}
-Long-lasting changes in experience can remodel the physical structure of neural circuits.
+Long-lasting changes in experience can <u>remodel</u> the physical structure of neural circuits.
 :::
 
 ::: {.card}
 Structural plasticity can include:
 
-- formation of new dendritic spines
-- stabilization of selected spines
-- elimination of existing spines
-- axonal sprouting
-- formation of new synaptic contacts
+- formation of <u>new dendritic spines</u>
+- <u>stabilization</u> of selected spines
+- <u>elimination</u> of existing spines
 :::
 
 ::: {.card}
@@ -600,11 +598,9 @@ The circuit is therefore not anatomically fixed after development.
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> repeated two-photon imaging of dendritic spines showing stable, newly formed and eliminated spines
-
-Suggested file: `images/5_np_spine_turnover.png`
-:::
+![](images/5_plast_structural.png){width="100%"
+  title="From functional to structural plasticity. Synaptic activity first produces rapid changes in ion flow and receptor function over milliseconds to seconds. Calcium entry then activates intracellular signaling pathways and kinases. Over minutes, these signals can reach the nucleus, regulate gene transcription and modify the cytoskeleton. Over hours, newly synthesized proteins and structural remodeling can stabilize the synaptic change. Persistent plasticity can therefore progress from rapid functional modifications to longer-lasting structural changes at the synapse."
+}
 
 :::
 :::
@@ -612,17 +608,16 @@ Suggested file: `images/5_np_spine_turnover.png`
 ## The plasticity-stability dilemma
 
 ::: {.info-box}
-Pure Hebbian plasticity contains a potential instability.
+Pure Hebbian plasticity contains a potential <u>instability</u>.
 :::
+
+:::{.columns}
+:::{.column}
 
 ::: {.card}
 If strong synapses are repeatedly strengthened because they are effective, they become even more likely to drive postsynaptic firing.
 
 Weak synapses may become progressively less effective.
-:::
-
-::: {.card}
-Without additional regulatory mechanisms, this positive feedback could push network activity toward <u>runaway excitation or excessive silencing</u>.
 :::
 
 ::: {.card}
@@ -635,60 +630,50 @@ and
 `stable` enough to remain functional
 :::
 
+:::
+:::{.column}
+
+![](images/5_plast_hebb_dilemma.png){width="100%"
+}
+
+::: {.card}
+Without additional regulatory mechanisms, this positive feedback could push network activity toward <u>runaway excitation</u> or <u>excessive silencing</u>.
+:::
+
+
+:::
+:::
+
 ## Homeostatic plasticity
 
 ::: {.columns}
 ::: {.column}
 
 ::: {.info-box}
-`Homeostatic plasticity` regulates neural excitability so that activity remains within a functional range.
+`Homeostatic plasticity` regulates neural excitability so that activity remains within a [functional range]{.highlight}.
 :::
 
 ::: {.card}
-If a neuron remains too inactive, synaptic drive can be increased.
+If a neuron remains <u>too inactive</u>, synaptic drive can be increased.
 
-If it remains too active, synaptic drive can be reduced.
+If it remains <u>too active</u>, synaptic drive can be reduced.
 :::
 
 ::: {.card}
 Unlike Hebbian plasticity, the goal is not to select the most correlated input.
 
-The goal is to <u>stabilize overall activity</u>.
+The goal is to <u>stabilize</u> overall activity.
 :::
 
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> homeostatic regulation around a target firing-rate range
-
-Suggested file: `images/5_np_homeostasis.png`
-:::
+![](images/5_plast_homeostatic.png){width="100%"
+}
 
 :::
 :::
 
-## Synaptic scaling
-
-::: {.info-box}
-`Synaptic scaling` is one mechanism of homeostatic plasticity.
-:::
-
-::: {.card}
-After a prolonged decrease in neuronal activity, many excitatory synapses onto a neuron can be scaled <u>up</u>.
-
-After prolonged excessive activity, synapses can be scaled <u>down</u>.
-:::
-
-::: {.card}
-The adjustment is often approximately proportional across synapses, helping preserve their relative differences while changing the neuron's overall `gain`.
-:::
-
-::: {.card .image-needed}
-<u>Image:</u> synaptic scaling showing proportional up- and down-scaling of multiple inputs
-
-Suggested file: `images/5_np_synaptic_scaling.png`
-:::
 
 ## Metaplasticity: plasticity of plasticity
 
@@ -700,7 +685,7 @@ Suggested file: `images/5_np_synaptic_scaling.png`
 :::
 
 ::: {.card}
-A classic example is the `sliding modification threshold`:
+A classic example is the `sliding threshold model`:
 
 - prolonged high activity can make further potentiation harder
 - prolonged low activity can make potentiation easier
@@ -713,11 +698,9 @@ The effect of a new activity pattern therefore depends partly on the <u>previous
 :::
 ::: {.column}
 
-::: {.card .image-needed}
-<u>Image:</u> BCM/sliding-threshold model showing the LTP/LTD threshold shifting with recent activity
-
-Suggested file: `images/5_np_sliding_threshold.png`
-:::
+![](images/5_plast_sliding_threshold.png){width="100%"
+  title="Metaplasticity and the sliding threshold for synaptic modification in the visual cortex. The relationship between neuronal activity and plasticity is not fixed: the threshold separating LTD from LTP can shift according to the recent activity history of the circuit. With normal visual input, relatively high activity is required to cross the modification threshold (θM) and induce LTP. Following vision loss, this threshold shifts toward lower activity levels (θM′), making potentiation easier to induce. This shift is associated with changes in NMDA-receptor subunit composition, including a relative increase in NR2B-containing receptors."
+}
 
 :::
 :::

@@ -1173,21 +1173,21 @@
     "href": "5_neuroplasticity.html#structural-plasticity",
     "title": "Neuroplasticity",
     "section": "Structural plasticity",
-    "text": "Structural plasticity\n\n\n\nLong-lasting changes in experience can remodel the physical structure of neural circuits.\n\n\nStructural plasticity can include:\n\nformation of new dendritic spines\nstabilization of selected spines\nelimination of existing spines\naxonal sprouting\nformation of new synaptic contacts\n\n\n\nThe circuit is therefore not anatomically fixed after development.\n\n\n\nImage: repeated two-photon imaging of dendritic spines showing stable, newly formed and eliminated spines\nSuggested file: images/5_np_spine_turnover.png"
+    "text": "Structural plasticity\n\n\n\nLong-lasting changes in experience can remodel the physical structure of neural circuits.\n\n\nStructural plasticity can include:\n\nformation of new dendritic spines\nstabilization of selected spines\nelimination of existing spines\n\n\n\nThe circuit is therefore not anatomically fixed after development."
   },
   {
     "objectID": "5_neuroplasticity.html#the-plasticity-stability-dilemma",
     "href": "5_neuroplasticity.html#the-plasticity-stability-dilemma",
     "title": "Neuroplasticity",
     "section": "The plasticity-stability dilemma",
-    "text": "The plasticity-stability dilemma\n\nPure Hebbian plasticity contains a potential instability.\n\n\nIf strong synapses are repeatedly strengthened because they are effective, they become even more likely to drive postsynaptic firing.\nWeak synapses may become progressively less effective.\n\n\nWithout additional regulatory mechanisms, this positive feedback could push network activity toward runaway excitation or excessive silencing.\n\n\nA useful nervous system must therefore be both:\nplastic enough to learn\nand\nstable enough to remain functional"
+    "text": "The plasticity-stability dilemma\n\nPure Hebbian plasticity contains a potential instability.\n\n\n\n\nIf strong synapses are repeatedly strengthened because they are effective, they become even more likely to drive postsynaptic firing.\nWeak synapses may become progressively less effective.\n\n\nA useful nervous system must therefore be both:\nplastic enough to learn\nand\nstable enough to remain functional\n\n\n\n\nWithout additional regulatory mechanisms, this positive feedback could push network activity toward runaway excitation or excessive silencing."
   },
   {
     "objectID": "5_neuroplasticity.html#homeostatic-plasticity",
     "href": "5_neuroplasticity.html#homeostatic-plasticity",
     "title": "Neuroplasticity",
     "section": "Homeostatic plasticity",
-    "text": "Homeostatic plasticity\n\n\n\nHomeostatic plasticity regulates neural excitability so that activity remains within a functional range.\n\n\nIf a neuron remains too inactive, synaptic drive can be increased.\nIf it remains too active, synaptic drive can be reduced.\n\n\nUnlike Hebbian plasticity, the goal is not to select the most correlated input.\nThe goal is to stabilize overall activity.\n\n\n\nImage: homeostatic regulation around a target firing-rate range\nSuggested file: images/5_np_homeostasis.png"
+    "text": "Homeostatic plasticity\n\n\n\nHomeostatic plasticity regulates neural excitability so that activity remains within a functional range.\n\n\nIf a neuron remains too inactive, synaptic drive can be increased.\nIf it remains too active, synaptic drive can be reduced.\n\n\nUnlike Hebbian plasticity, the goal is not to select the most correlated input.\nThe goal is to stabilize overall activity."
   },
   {
     "objectID": "5_neuroplasticity.html#synaptic-scaling",
@@ -1201,7 +1201,7 @@
     "href": "5_neuroplasticity.html#metaplasticity-plasticity-of-plasticity",
     "title": "Neuroplasticity",
     "section": "Metaplasticity: plasticity of plasticity",
-    "text": "Metaplasticity: plasticity of plasticity\n\n\n\nMetaplasticity means that the recent history of a neuron changes how easily future plasticity can be induced.\n\n\nA classic example is the sliding modification threshold:\n\nprolonged high activity can make further potentiation harder\nprolonged low activity can make potentiation easier\n\n\n\nThe effect of a new activity pattern therefore depends partly on the previous activity state of the circuit.\n\n\n\nImage: BCM/sliding-threshold model showing the LTP/LTD threshold shifting with recent activity\nSuggested file: images/5_np_sliding_threshold.png"
+    "text": "Metaplasticity: plasticity of plasticity\n\n\n\nMetaplasticity means that the recent history of a neuron changes how easily future plasticity can be induced.\n\n\nA classic example is the sliding threshold model:\n\nprolonged high activity can make further potentiation harder\nprolonged low activity can make potentiation easier\n\n\n\nThe effect of a new activity pattern therefore depends partly on the previous activity state of the circuit."
   },
   {
     "objectID": "5_neuroplasticity.html#hebbian-and-homeostatic-plasticity-solve-different-problems",

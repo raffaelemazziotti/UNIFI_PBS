@@ -6,8 +6,7 @@ project:
     - images/search.svg
     - quiz/**
   render:
-    - "!Quarto-PyCharm-Adapted-v2/"
-    - "!Quarto-PyCharm-Adapted/"
+    - "!Quarto-PyCharm-v5/"
     - "*.qmd"
     - "!old/"
 
