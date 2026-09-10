@@ -1050,20 +1050,6 @@
     "text": "Self-check"
   },
   {
-    "objectID": "4_methods.html#comparing-experimental-conditions",
-    "href": "4_methods.html#comparing-experimental-conditions",
-    "title": "Methods in Developmental Psychobiology",
-    "section": "Comparing experimental conditions",
-    "text": "Comparing experimental conditions\n\n\n\nFunctional neuroimaging usually asks whether activity differs between carefully selected experimental conditions.\n\n\nA simplified subtraction logic is:\nexperimental condition - control condition\n-&gt; activity associated with the process that differs between them\n\n\n\nThe quality of the inference therefore depends strongly on the control condition.\nThe two conditions should differ in the process of interest while matching as many irrelevant factors as possible.\n\n\nImage: two experimental conditions and their fMRI contrast\nSuggested file: images/4_methods_subtraction.png"
-  },
-  {
-    "objectID": "4_methods.html#choosing-the-appropriate-method",
-    "href": "4_methods.html#choosing-the-appropriate-method",
-    "title": "Methods in Developmental Psychobiology",
-    "section": "Choosing the appropriate method",
-    "text": "Choosing the appropriate method\n\n\n\nThe best method depends on the question.\nAsk:\n\nDo I need millisecond timing?\nDo I need precise anatomical localization?\nDo I need a direct or indirect neural measure?\nCan the participant remain still?\nCan the participant understand instructions?\n\n\n\n\nThere is no universally “best” technique.\nEach method samples a different part of the chain:\nstimulus\n-&gt; neural activity\n-&gt; physiological response\n-&gt; behavior\n\n\nThe strongest developmental conclusions often come from converging evidence across different methods."
-  },
-  {
     "objectID": "5_neuroplasticity.html#neuroplasticity",
     "href": "5_neuroplasticity.html#neuroplasticity",
     "title": "Neuroplasticity",
@@ -1099,11 +1085,11 @@
     "text": "Adult neurogenesis: a restricted form of plasticity\n\n\n\nIn the adult brain, the generation of new neurons is highly restricted compared with development.\n\n\nAdult neurogenesis is robustly established in specific neurogenic regions in many mammals, especially the granular layer of the dentate gyrus of the hippocampus.\n\n\nRecent evidence also supports persistent hippocampal neurogenesis in adult humans, although its magnitude and functional contribution remain active areas of research.\nThere is no evidence for widespread adult neurogenesis throughout the cerebral cortex."
   },
   {
-    "objectID": "5_neuroplasticity.html#hebbian-plasticity",
-    "href": "5_neuroplasticity.html#hebbian-plasticity",
+    "objectID": "5_neuroplasticity.html#hebbian-principle",
+    "href": "5_neuroplasticity.html#hebbian-principle",
     "title": "Neuroplasticity",
-    "section": "Hebbian plasticity",
-    "text": "Hebbian plasticity\n\n\n\nIn 1949, Donald Hebb proposed a theoretical principle linking learning to changes in synaptic strength.\n\n\nIf activity in a presynaptic neuron repeatedly contributes to activation of a postsynaptic neuron, the connection between them tends to strengthen.\n\n\nThe central idea is therefore correlation:\nthe synapse changes according to the relationship between presynaptic and postsynaptic activity.\n\n\n\nImage: Donald Hebb and schematic of correlated pre- and postsynaptic activity\nSuggested file: images/5_np_hebb.png"
+    "section": "Hebbian principle",
+    "text": "Hebbian principle\n\n\n\nIn 1949, Donald Hebb proposed a theoretical principle linking learning to changes in synaptic strength.\n\n\nIf activity in a presynaptic neuron repeatedly contributes to activation of a postsynaptic neuron, the connection between them tends to strengthen.\n\n\nThe central idea is therefore correlation:\nthe synapse changes according to the relationship between presynaptic and postsynaptic activity.\n\n\n\n\nFire together, wire together"
   },
   {
     "objectID": "5_neuroplasticity.html#a-synapse-must-detect-coincidence",
@@ -1118,20 +1104,6 @@
     "title": "Neuroplasticity",
     "section": "NMDA receptors as coincidence detectors",
     "text": "NMDA receptors as coincidence detectors\n\n\n\nGlutamate only\nNMDA receptor is ligand-bound, but the Mg²⁺ block strongly limits current at resting membrane potentials.\n\n\nDepolarization only\nThe Mg²⁺ block can be relieved, but without glutamate the receptor does not open.\n\n\nGlutamate + depolarization\nThe channel opens and Ca²⁺ enters the postsynaptic cell.\n\n\n\n\n\nThe resulting Ca²⁺ signal can initiate biochemical pathways that modify synaptic strength."
-  },
-  {
-    "objectID": "5_neuroplasticity.html#timing-also-matters",
-    "href": "5_neuroplasticity.html#timing-also-matters",
-    "title": "Neuroplasticity",
-    "section": "Timing also matters",
-    "text": "Timing also matters\n\nHebbian plasticity is not determined only by whether two neurons are active.\nThe relative timing of presynaptic and postsynaptic activity can also determine the direction of plasticity.\n\n\nThis principle is called spike-timing-dependent plasticity (STDP).\n\n\n\n\nPre before post\nAt many synapses, presynaptic activity shortly before postsynaptic firing favors potentiation.\n\n\n\nPost before pre\nAt many synapses, the reverse order favors depression.\n\n\n\nThe precise timing rules and time windows vary across synapses and circuits."
-  },
-  {
-    "objectID": "5_neuroplasticity.html#spike-timing-dependent-plasticity",
-    "href": "5_neuroplasticity.html#spike-timing-dependent-plasticity",
-    "title": "Neuroplasticity",
-    "section": "Spike-timing-dependent plasticity",
-    "text": "Spike-timing-dependent plasticity\n\n\n\nSTDP converts temporal relationships between neurons into long-lasting changes in synaptic efficacy.\n\n\nA synapse that consistently helps drive the postsynaptic neuron can become stronger.\nA synapse whose activity is poorly timed relative to postsynaptic firing can become weaker."
   },
   {
     "objectID": "5_neuroplasticity.html#ltp-and-ltd",
@@ -1162,6 +1134,27 @@
     "text": "LTD can weaken an existing synapse\n\n\n\n\n\n\nPlasticity must also allow synapses to become weaker.\n\n\nThe same amount of presynaptic glutamate release then produces a smaller postsynaptic response.\n\n\n\nIn many forms of glutamatergic LTD, intracellular signaling promotes the removal (internalization) or reduced function of postsynaptic AMPA receptors."
   },
   {
+    "objectID": "5_neuroplasticity.html#ltp-ltd-game",
+    "href": "5_neuroplasticity.html#ltp-ltd-game",
+    "title": "Neuroplasticity",
+    "section": "LTP & LTD game",
+    "text": "LTP & LTD game"
+  },
+  {
+    "objectID": "5_neuroplasticity.html#timing-also-matters",
+    "href": "5_neuroplasticity.html#timing-also-matters",
+    "title": "Neuroplasticity",
+    "section": "Timing also matters",
+    "text": "Timing also matters\n\nHebbian plasticity is not determined only by whether two neurons are active.\nThe relative timing of presynaptic and postsynaptic activity can also determine the direction of plasticity.\n\n\nThis principle is called spike-timing-dependent plasticity (STDP).\n\n\n\n\nPre before post\nAt many synapses, presynaptic activity shortly before postsynaptic firing favors potentiation.\n\n\n\nPost before pre\nAt many synapses, the reverse order favors depression.\n\n\n\nThe precise timing rules and time windows vary across synapses and circuits."
+  },
+  {
+    "objectID": "5_neuroplasticity.html#spike-timing-dependent-plasticity",
+    "href": "5_neuroplasticity.html#spike-timing-dependent-plasticity",
+    "title": "Neuroplasticity",
+    "section": "Spike-timing-dependent plasticity",
+    "text": "Spike-timing-dependent plasticity\n\n\n\nSTDP converts temporal relationships between neurons into long-lasting changes in synaptic efficacy.\n\n\nA synapse that consistently helps drive the postsynaptic neuron can become stronger.\nA synapse whose activity is poorly timed relative to postsynaptic firing can become weaker."
+  },
+  {
     "objectID": "5_neuroplasticity.html#from-early-plasticity-to-consolidation",
     "href": "5_neuroplasticity.html#from-early-plasticity-to-consolidation",
     "title": "Neuroplasticity",
@@ -1190,18 +1183,18 @@
     "text": "Homeostatic plasticity\n\n\n\nHomeostatic plasticity regulates neural excitability so that activity remains within a functional range.\n\n\nIf a neuron remains too inactive, synaptic drive can be increased.\nIf it remains too active, synaptic drive can be reduced.\n\n\nUnlike Hebbian plasticity, the goal is not to select the most correlated input.\nThe goal is to stabilize overall activity."
   },
   {
-    "objectID": "5_neuroplasticity.html#synaptic-scaling",
-    "href": "5_neuroplasticity.html#synaptic-scaling",
-    "title": "Neuroplasticity",
-    "section": "Synaptic scaling",
-    "text": "Synaptic scaling\n\nSynaptic scaling is one mechanism of homeostatic plasticity.\n\n\nAfter a prolonged decrease in neuronal activity, many excitatory synapses onto a neuron can be scaled up.\nAfter prolonged excessive activity, synapses can be scaled down.\n\n\nThe adjustment is often approximately proportional across synapses, helping preserve their relative differences while changing the neuron’s overall gain.\n\n\nImage: synaptic scaling showing proportional up- and down-scaling of multiple inputs\nSuggested file: images/5_np_synaptic_scaling.png"
-  },
-  {
     "objectID": "5_neuroplasticity.html#metaplasticity-plasticity-of-plasticity",
     "href": "5_neuroplasticity.html#metaplasticity-plasticity-of-plasticity",
     "title": "Neuroplasticity",
     "section": "Metaplasticity: plasticity of plasticity",
     "text": "Metaplasticity: plasticity of plasticity\n\n\n\nMetaplasticity means that the recent history of a neuron changes how easily future plasticity can be induced.\n\n\nA classic example is the sliding threshold model:\n\nprolonged high activity can make further potentiation harder\nprolonged low activity can make potentiation easier\n\n\n\nThe effect of a new activity pattern therefore depends partly on the previous activity state of the circuit."
+  },
+  {
+    "objectID": "5_neuroplasticity.html#metaplasticity-plasticity-of-plasticity-1",
+    "href": "5_neuroplasticity.html#metaplasticity-plasticity-of-plasticity-1",
+    "title": "Neuroplasticity",
+    "section": "Metaplasticity: plasticity of plasticity",
+    "text": "Metaplasticity: plasticity of plasticity"
   },
   {
     "objectID": "5_neuroplasticity.html#hebbian-and-homeostatic-plasticity-solve-different-problems",
@@ -1218,6 +1211,13 @@
     "text": "Plasticity persists in the adult brain\n\nDevelopment is a period of exceptionally high plasticity, but plasticity does not disappear in adulthood.\n\n\nAdult experience can modify:\n\nsynaptic strength\ncortical representations\ndendritic spines\nfunctional connectivity\nbehavioral performance\n\n\n\nThe magnitude and mechanisms of plasticity depend on the circuit, the type of experience and the developmental stage."
   },
   {
+    "objectID": "5_neuroplasticity.html#structural-plasticity-spine-dynamics-in-adult-visual-cortex",
+    "href": "5_neuroplasticity.html#structural-plasticity-spine-dynamics-in-adult-visual-cortex",
+    "title": "Neuroplasticity",
+    "section": "Structural plasticity: spine dynamics in adult visual cortex",
+    "text": "Structural plasticity: spine dynamics in adult visual cortex\n\n\n\nA small retinal lesion creates a scotoma and deprives the corresponding region of adult visual cortex of its normal input.\nThe same dendritic spines can then be followed over time with two-photon imaging.\n\nSpine density remains approximately unchanged.\nSpine survival strongly decreases.\nThe formation of new persistent spines increases.\n\n\n\n\n\nThe number of spines is stable, but their turnover dramatically increases.\nThe circuit is therefore being structurally reorganized without a net change in synapse density.\n\n\nKeck et al., 2008"
+  },
+  {
     "objectID": "5_neuroplasticity.html#motor-learning-reorganizes-adult-m1",
     "href": "5_neuroplasticity.html#motor-learning-reorganizes-adult-m1",
     "title": "Neuroplasticity",
@@ -1232,67 +1232,11 @@
     "text": "What can change inside motor cortex?"
   },
   {
-    "objectID": "5_neuroplasticity.html#plasticity-can-be-induced-in-human-motor-cortex",
-    "href": "5_neuroplasticity.html#plasticity-can-be-induced-in-human-motor-cortex",
-    "title": "Neuroplasticity",
-    "section": "Plasticity can be induced in human motor cortex",
-    "text": "Plasticity can be induced in human motor cortex\n\n\n\n\nPaired Associative Stimulation (PAS)\n\n\n\nProtocol\n\nElectrical stimulation of the median nerve is repeatedly paired with TMS over the contralateral M1.\n\n\n\nTiming\n\nThe interval is chosen so that the peripheral sensory input and TMS-evoked cortical activity interact within a narrow temporal window.\n\n\n\nReadout\n\nChanges in motor-evoked potential (MEP) amplitude provide an index of changes in motor-cortex excitability.\n\n\n\n\nImage: PAS protocol: median nerve stimulation followed by TMS over M1 and EMG recording from the hand\nSuggested file: images/5_np_pas_protocol.png"
-  },
-  {
-    "objectID": "5_neuroplasticity.html#timing-determines-the-direction-of-pas-plasticity",
-    "href": "5_neuroplasticity.html#timing-determines-the-direction-of-pas-plasticity",
-    "title": "Neuroplasticity",
-    "section": "Timing determines the direction of PAS plasticity",
-    "text": "Timing determines the direction of PAS plasticity\n\nThe effect of paired associative stimulation depends critically on the relative timing of the two inputs.\n\n\n\n\nWhen the timing causes the two signals to interact appropriately in cortex:\nMEP amplitude ↑\nThe effect can persist for tens of minutes and is described as LTP-like.\n\n\n\nWith a different temporal relationship:\nMEP amplitude ↓\nThe resulting change can be LTD-like.\n\n\n\nPAS translates the principle of associative, timing-dependent plasticity into a non-invasive experiment in the human motor system."
-  },
-  {
-    "objectID": "5_neuroplasticity.html#studying-synaptic-plasticity-in-animal-models",
-    "href": "5_neuroplasticity.html#studying-synaptic-plasticity-in-animal-models",
-    "title": "Neuroplasticity",
-    "section": "Studying synaptic plasticity in animal models",
-    "text": "Studying synaptic plasticity in animal models\n\n\n\nElectrophysiology\nDirectly measures changes in synaptic responses and is fundamental for studying LTP and LTD.\n\n\nTwo-photon microscopy\nAllows repeated imaging of dendritic spines and synapses in the living brain over hours, days or weeks.\n\n\n\nOptogenetics\nUses light-sensitive proteins to activate or inhibit genetically defined neurons with precise timing.\n\n\nViral vectors\nCan deliver fluorescent indicators, activity sensors, receptors or optogenetic proteins to selected neuronal populations.\n\n\n\nAnimal models make it possible to measure, manipulate and visualize plasticity at cellular and synaptic resolution."
-  },
-  {
-    "objectID": "5_neuroplasticity.html#from-synapses-to-behavior",
-    "href": "5_neuroplasticity.html#from-synapses-to-behavior",
-    "title": "Neuroplasticity",
-    "section": "From synapses to behavior",
-    "text": "From synapses to behavior\n\nNeuroplasticity is not a single mechanism.\nIt is a family of processes operating at different spatial and temporal scales.\n\n\nExperience can modify:\nreceptor function\n→ synaptic strength\n→ synaptic structure\n→ local circuits\n→ population representations\n→ behavior\n\n\nLearning therefore emerges from the interaction between plastic mechanisms that change neural circuits and stabilizing mechanisms that keep those circuits functional."
-  },
-  {
-    "objectID": "5_neuroplasticity.html#hebbian-principle",
-    "href": "5_neuroplasticity.html#hebbian-principle",
-    "title": "Neuroplasticity",
-    "section": "Hebbian principle",
-    "text": "Hebbian principle\n\n\n\nIn 1949, Donald Hebb proposed a theoretical principle linking learning to changes in synaptic strength.\n\n\nIf activity in a presynaptic neuron repeatedly contributes to activation of a postsynaptic neuron, the connection between them tends to strengthen.\n\n\nThe central idea is therefore correlation:\nthe synapse changes according to the relationship between presynaptic and postsynaptic activity.\n\n\n\n\nFire together, wire together"
-  },
-  {
-    "objectID": "5_neuroplasticity.html#ltp-ltd-game",
-    "href": "5_neuroplasticity.html#ltp-ltd-game",
-    "title": "Neuroplasticity",
-    "section": "LTP & LTD game",
-    "text": "LTP & LTD game"
-  },
-  {
-    "objectID": "5_neuroplasticity.html#metaplasticity-plasticity-of-plasticity-1",
-    "href": "5_neuroplasticity.html#metaplasticity-plasticity-of-plasticity-1",
-    "title": "Neuroplasticity",
-    "section": "Metaplasticity: plasticity of plasticity",
-    "text": "Metaplasticity: plasticity of plasticity"
-  },
-  {
     "objectID": "5_neuroplasticity.html#what-can-change-inside-motor-cortex-1",
     "href": "5_neuroplasticity.html#what-can-change-inside-motor-cortex-1",
     "title": "Neuroplasticity",
     "section": "What can change inside motor cortex?",
     "text": "What can change inside motor cortex?"
-  },
-  {
-    "objectID": "5_neuroplasticity.html#paired-associative-stimulation-induces-hebbian-like-plasticity-in-human-m1",
-    "href": "5_neuroplasticity.html#paired-associative-stimulation-induces-hebbian-like-plasticity-in-human-m1",
-    "title": "Neuroplasticity",
-    "section": "Paired associative stimulation induces Hebbian-like plasticity in Human M1",
-    "text": "Paired associative stimulation induces Hebbian-like plasticity in Human M1\n\n\nPaired Associative Stimulation (PAS)\n\n\n\n\n\nProtocol\n\nElectrical stimulation of the median nerve was repeatedly paired with TMS over the contralateral M1.\n\n\n\n\nTiming\n\nWhen peripheral input reached cortex at the appropriate time relative to TMS, the two inputs were coincident.\n\n\n\n\nResult\n\nAfter pairing, the same TMS pulse evoked a larger motor-evoked potential (MEP) in the hand muscle.\n\n\n\n\nInterpretation\n\nRepeated coincidence of sensory input and motor-cortex activation produced a persistent LTP-like, Hebbian potentiation of M1 output.\n\n\n\n\nThe increased MEP amplitude indicates that the corticospinal response to the same cortical stimulation has become stronger."
   },
   {
     "objectID": "5_neuroplasticity.html#motor-practice-occludes-pas-induced-potentiation",
@@ -1307,5 +1251,33 @@
     "title": "Neuroplasticity",
     "section": "Motor practice occludes PAS-induced potentiation",
     "text": "Motor practice occludes PAS-induced potentiation"
+  },
+  {
+    "objectID": "5_neuroplasticity.html#studying-synaptic-plasticity-in-animal-models",
+    "href": "5_neuroplasticity.html#studying-synaptic-plasticity-in-animal-models",
+    "title": "Neuroplasticity",
+    "section": "Studying synaptic plasticity in animal models",
+    "text": "Studying synaptic plasticity in animal models\n\n\n\nTwo-photon microscopy\n\nVideo\n\n\n\nTwo-photon spines dynamics\n\nVideo\n\n\n\n\nOptogenetics\n\nVideo\n\n\n\nViral vectors\n\nVideo\n\n\n\n\nAnimal models make it possible to measure, manipulate and visualize plasticity at cellular and synaptic resolution."
+  },
+  {
+    "objectID": "5_neuroplasticity.html#self-check",
+    "href": "5_neuroplasticity.html#self-check",
+    "title": "Neuroplasticity",
+    "section": "Self-check",
+    "text": "Self-check"
+  },
+  {
+    "objectID": "index.html#sigla",
+    "href": "index.html#sigla",
+    "title": "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo (Modulo 1)",
+    "section": "Sigla!",
+    "text": "Sigla!\n\n\n\nVideo\n\n\n\nCarl Sagan’s famous line, “If you wish to make an apple pie from scratch, you must first invent the universe,” comes from the 1980 television series Cosmos: A Personal Voyage. The quote is humorous, but it expresses a deeper scientific idea: nothing exists in isolation. An apple pie depends on ingredients such as apples, flour, sugar, and water, and each of these depends on long chains of physical, chemical, biological, and cosmic processes involving the Earth, the Sun, evolution, and the elements from which matter is made. The same reasoning can be applied to the mind. Psychological functions emerge from the activity of the brain and the biological processes that shaped the nervous system. To understand the mind, we therefore also need to understand how the brain is built and how it changes."
+  },
+  {
+    "objectID": "index.html#if-you-wish-to-make-a-mind-you-must-first-invent-the-brain",
+    "href": "index.html#if-you-wish-to-make-a-mind-you-must-first-invent-the-brain",
+    "title": "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo (Modulo 1)",
+    "section": "If you wish to make a mind, you must first invent the brain",
+    "text": "If you wish to make a mind, you must first invent the brain\n\n\n\nVideo\n\n\n\nCarl Sagan’s famous line, “If you wish to make an apple pie from scratch, you must first invent the universe,” comes from the 1980 television series Cosmos: A Personal Voyage. The quote is humorous, but it expresses a deeper scientific idea: nothing exists in isolation. An apple pie depends on ingredients such as apples, flour, sugar, and water, and each of these depends on long chains of physical, chemical, biological, and cosmic processes involving the Earth, the Sun, evolution, and the elements from which matter is made. The same reasoning can be applied to the mind. Psychological functions emerge from the activity of the brain and the biological processes that shaped the nervous system. To understand the mind, we therefore also need to understand how the brain is built and how it changes."
   }
 ]

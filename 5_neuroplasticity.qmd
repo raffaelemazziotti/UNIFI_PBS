@@ -765,6 +765,44 @@ Adult experience can modify:
 
 >The magnitude and mechanisms of plasticity depend on the circuit, the type of experience and the developmental stage.
 
+## Structural plasticity: spine dynamics in adult visual cortex
+
+::: {.columns}
+
+::: {.column width="42%"}
+
+:::{.info-box}
+A small `retinal lesion` creates a scotoma and deprives the corresponding region of adult visual cortex of its normal input.
+
+The same dendritic spines can then be followed over time with [two-photon imaging](https://en.wikipedia.org/wiki/Two-photon_excitation_microscopy){target="_blank"}.
+
+- `Spine density` remains approximately unchanged.
+- `Spine survival` strongly decreases.
+- The formation of `new persistent spines` increases.
+
+:::
+
+:::
+
+::: {.column width="58%"}
+
+![](images/5_plast_spines_V1.png){
+  width="80%"
+  title="Structural plasticity during functional reorganization of adult visual cortex. A small retinal lesion creates a region of visual-field loss and deprives the corresponding region of visual cortex of its normal input. Repeated two-photon imaging shows that overall dendritic spine density remains approximately constant, but spine survival decreases strongly and more new persistent spines appear. Thus, apparently stable spine density can conceal extensive synaptic turnover: old spines are eliminated while new ones are formed and stabilized as the cortical circuit reorganizes."
+}
+
+
+:::{.card}
+<u>The number of spines is stable, but their turnover dramatically increases.</u>
+
+The circuit is therefore being structurally reorganized without a net change in synapse density.
+:::
+
+:::
+:::
+
+<small>[Keck et al., 2008](https://www.nature.com/articles/nn.2181){target="_blank"}</small>
+
 ## Motor learning reorganizes adult M1
 
 ::: {.columns}
@@ -822,7 +860,6 @@ title="Rat performing a skilled forelimb reaching task"
 ![](images/5_plast_reaching_occlusion.png){width="50%"
   title="Occlusion of LTP after motor learning. In rats trained on a skilled reaching task, horizontal connections in the trained motor cortex are already potentiated by experience. Additional high-frequency stimulation therefore produces little further LTP, whereas robust potentiation can still be induced in the untrained hemisphere. This occlusion suggests that learning has already engaged LTP-like mechanisms and illustrates a homeostatic constraint on further synaptic strengthening."
 }
-
 
 ## Motor practice occludes PAS-induced potentiation
 
@@ -904,22 +941,27 @@ Because motor practice has already potentiated the circuit, further potentiation
 
 :::
 
-
 ## Studying synaptic plasticity in animal models
 
 ::: {.columns}
 ::: {.column}
 
 ::: {.card}
-`Electrophysiology`
+`Two-photon microscopy`
 
-Directly measures changes in synaptic responses and is fundamental for studying LTP and LTD.
+:::{.centerimg}
+![](images/5_plast_2p_imaging_thorn.mp4){width="40%"}
+:::
+
 :::
 
 ::: {.card}
-`Two-photon microscopy`
+`Two-photon spines dynamics`
 
-Allows repeated imaging of dendritic spines and synapses in the living brain over hours, days or weeks.
+:::{.centerimg}
+![](images/5_plast_2p_imaging_svoboda.mp4){width="40%"}
+:::
+
 :::
 
 :::
@@ -928,13 +970,19 @@ Allows repeated imaging of dendritic spines and synapses in the living brain ove
 ::: {.card}
 `Optogenetics`
 
-Uses light-sensitive proteins to activate or inhibit genetically defined neurons with precise timing.
+:::{.centerimg}
+![](images/5_plast_optogenetics_deisseroth.mp4){width="40%"}
+:::
+
 :::
 
 ::: {.card}
 `Viral vectors`
 
-Can deliver fluorescent indicators, activity sensors, receptors or optogenetic proteins to selected neuronal populations.
+:::{.centerimg}
+![](images/5_plast_viral_vectors.mp4){width="50%"}
+:::
+
 :::
 
 :::
@@ -943,5 +991,13 @@ Can deliver fluorescent indicators, activity sensors, receptors or optogenetic p
 ::: {.card}
 Animal models make it possible to <u>measure, manipulate and visualize</u> plasticity at cellular and synaptic resolution.
 :::
+
+## Self-check
+
+```{=html}
+<div class="quiz-wrap">
+  <iframe class="quiz-frame" src="quiz/quiz_plast.html" loading="lazy"></iframe>
+</div>
+```
 
 

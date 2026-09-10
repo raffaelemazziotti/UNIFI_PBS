@@ -278,3 +278,24 @@ Mandatory only if the written-exam grade is <u>below 21</u>.
 
 :::
 :::
+
+## If you wish to make a mind, you must first invent the brain
+
+:::{.columns}
+:::{.column}
+
+:::{.centerimg}
+![](images/0_intro_sagan.mp4){width="68%"}
+:::
+
+:::
+:::{.column}
+
+:::{.card}
+[Carl Sagan](https://it.wikipedia.org/wiki/Carl_Sagan){target="_blank"}’s famous line, “If you wish to make an apple pie from scratch, you must first invent the universe,” comes from the 1980 television series [Cosmos: A Personal Voyage](https://www.youtube.com/watch?v=BkHCO8f2TWs){target="_blank"}.
+The quote is humorous, but it expresses a deeper scientific idea: <u>nothing exists in isolation</u>. An apple pie depends on ingredients such as apples, flour, sugar, and water, and each of these depends on long chains of physical, chemical, biological, and cosmic processes involving the Earth, the Sun, evolution, and the elements from which matter is made.
+<u>The same reasoning can be applied to the mind</u>. Psychological functions emerge from the activity of the brain and the biological processes that shaped the nervous system. To understand the mind, we therefore also need to understand how the brain is built and how it changes.
+:::
+
+:::
+:::

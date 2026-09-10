@@ -1,0 +1,544 @@
+{
+  "topic": "Neuroplasticity",
+  "questions": [
+    {
+      "question": "What is neuroplasticity?",
+      "options": [
+        "Experience-dependent functional or structural change in neural circuits",
+        "The permanent replacement of mature neurons by newly generated neurons throughout the cortex",
+        "The fixed organization of neural circuits once developmental wiring has been completed",
+        "The passive transmission of electrical signals without changes in synaptic efficacy"
+      ],
+      "correct": 0,
+      "feedback": "Neuroplasticity is the capacity of neurons and neural circuits to change their function or structure in response to activity and experience."
+    },
+    {
+      "question": "What is an example of functional plasticity?",
+      "options": [
+        "Generating a new adult neuron",
+        "Forming an entirely new axonal branch after injury",
+        "Changing how strongly existing neurons communicate",
+        "Creating a new cortical layer during adulthood"
+      ],
+      "correct": 2,
+      "feedback": "Functional plasticity changes how strongly or when neurons communicate without necessarily requiring an immediate structural change."
+    },
+    {
+      "question": "What is an example of structural plasticity?",
+      "options": [
+        "A brief firing-rate change",
+        "A transient change in membrane potential lasting milliseconds",
+        "A short-lived change in synaptic efficacy without remodeling",
+        "Formation or elimination of synaptic contacts"
+      ],
+      "correct": 3,
+      "feedback": "Structural plasticity involves physical changes in circuits, including formation or elimination of synaptic contacts."
+    },
+    {
+      "question": "Which statement best describes the timescale of neuroplasticity?",
+      "options": [
+        "Plastic changes can range from milliseconds to years",
+        "Plasticity occurs only during the first seconds after stimulation",
+        "Plasticity requires structural remodeling and therefore always takes months",
+        "Plasticity begins only after development has been completed"
+      ],
+      "correct": 0,
+      "feedback": "Neuroplastic changes can occur across timescales ranging from milliseconds to years."
+    },
+    {
+      "question": "Which type of plasticity is most characteristic of the fastest timescale?",
+      "options": [
+        "Formation of a new neuron in adult hippocampus",
+        "Rapid changes in synaptic efficacy",
+        "Long-term remodeling of dendritic spines",
+        "Persistent reorganization of cortical representations"
+      ],
+      "correct": 1,
+      "feedback": "Fast plasticity occurs over milliseconds to seconds and is primarily functional, such as rapid changes in synaptic efficacy."
+    },
+    {
+      "question": "What can change when a neural representation is modified?",
+      "options": [
+        "Only the anatomical position of the neuron",
+        "Only the number of neurons in the circuit",
+        "The pattern of activity used to represent information",
+        "Only the amount of myelin around an axon"
+      ],
+      "correct": 2,
+      "feedback": "Plasticity can modify the pattern of neural activity used to represent information without requiring a visible anatomical change."
+    },
+    {
+      "question": "Which of the following is a neural coding variable?",
+      "options": [
+        "Only dendritic length",
+        "Only neurotransmitter concentration",
+        "Only axonal diameter",
+        "Spike timing"
+      ],
+      "correct": 3,
+      "feedback": "Neural information can be represented by firing rate, spike timing, temporal patterns, and distributed population activity."
+    },
+    {
+      "question": "In many adult mammals, where is neurogenesis robustly established?",
+      "options": [
+        "The dentate gyrus of the hippocampus",
+        "The entire adult cerebral cortex",
+        "The mature primary motor cortex",
+        "The corpus callosum throughout adulthood"
+      ],
+      "correct": 0,
+      "feedback": "In many mammals, the dentate gyrus of the hippocampus is a major region of adult neurogenesis."
+    },
+    {
+      "question": "What does current evidence suggest about adult neurogenesis in humans?",
+      "options": [
+        "It occurs widely throughout the cerebral cortex",
+        "Evidence supports persistence in the hippocampus, but its magnitude remains debated",
+        "It has been completely excluded from the adult brain",
+        "It replaces most mature hippocampal neurons every year"
+      ],
+      "correct": 1,
+      "feedback": "Evidence supports persistent neurogenesis in the adult human hippocampus, particularly in the dentate gyrus, although its magnitude and functional significance remain under investigation."
+    },
+    {
+      "question": "What is the central idea of the Hebbian principle?",
+      "options": [
+        "Correlated activity causes synapses to weaken",
+        "All synapses are scaled equally regardless of their activity history",
+        "Correlated pre- and postsynaptic activity can strengthen a connection",
+        "Synaptic strength changes only when new neurons are generated"
+      ],
+      "correct": 2,
+      "feedback": "Hebbian plasticity links correlated pre- and postsynaptic activity to strengthening of the connection between them."
+    },
+    {
+      "question": "Why is the phrase 'fire together, wire together' associated with Hebbian plasticity?",
+      "options": [
+        "Every active neuron grows a new axon",
+        "It means that firing always causes structural neurogenesis",
+        "It means that all active synapses become equally strong",
+        "It summarizes strengthening driven by correlated neural activity"
+      ],
+      "correct": 3,
+      "feedback": "The phrase summarizes the Hebbian idea that correlated activity can strengthen the connection between neurons."
+    },
+    {
+      "question": "Why can the NMDA receptor act as a coincidence detector?",
+      "options": [
+        "It requires glutamate binding together with postsynaptic depolarization",
+        "It opens whenever glutamate is absent from the synaptic cleft",
+        "It responds only to postsynaptic depolarization and never to neurotransmitter",
+        "It is activated only by the insertion of additional AMPA receptors"
+      ],
+      "correct": 0,
+      "feedback": "NMDA receptors require glutamate and sufficient postsynaptic depolarization to relieve the Mg2+ block and allow Ca2+ entry."
+    },
+    {
+      "question": "What happens to the NMDA receptor's Mg2+ block during postsynaptic depolarization?",
+      "options": [
+        "It becomes stronger and prevents all receptor activation",
+        "It is relieved, allowing current when glutamate is bound",
+        "It converts the receptor into an AMPA receptor",
+        "It causes glutamate to be removed from the synaptic cleft"
+      ],
+      "correct": 1,
+      "feedback": "Postsynaptic depolarization relieves the voltage-dependent Mg2+ block of NMDA receptors."
+    },
+    {
+      "question": "What important intracellular signal enters through activated NMDA receptors?",
+      "options": [
+        "Chloride that immediately blocks all synaptic plasticity",
+        "Sodium as the only signal required for gene transcription",
+        "Calcium that can trigger plasticity-related signaling pathways",
+        "Potassium that directly inserts new synaptic vesicles"
+      ],
+      "correct": 2,
+      "feedback": "Ca2+ influx through activated NMDA receptors can initiate intracellular pathways that modify synaptic strength."
+    },
+    {
+      "question": "What happens when glutamate binds an NMDA receptor at resting membrane potential?",
+      "options": [
+        "A large Ca2+ current flows immediately",
+        "The receptor is immediately removed from the membrane",
+        "The postsynaptic neuron necessarily fires an action potential",
+        "The Mg2+ block strongly limits current"
+      ],
+      "correct": 3,
+      "feedback": "With glutamate alone at resting potential, the voltage-dependent Mg2+ block strongly limits current through the NMDA receptor."
+    },
+    {
+      "question": "What is long-term potentiation (LTP)?",
+      "options": [
+        "A persistent increase in synaptic efficacy",
+        "A transient decrease in synaptic strength lasting only milliseconds",
+        "A permanent loss of all postsynaptic receptors after stimulation",
+        "A form of adult neurogenesis restricted to the hippocampus"
+      ],
+      "correct": 0,
+      "feedback": "LTP is a persistent increase in synaptic efficacy following an appropriate pattern of activity."
+    },
+    {
+      "question": "What is long-term depression (LTD)?",
+      "options": [
+        "A transient increase in neural firing without synaptic change",
+        "A persistent decrease in synaptic efficacy",
+        "A structural enlargement of every synapse in a circuit",
+        "A complete absence of activity in the postsynaptic neuron"
+      ],
+      "correct": 1,
+      "feedback": "LTD is a persistent decrease in synaptic efficacy following an appropriate pattern of activity."
+    },
+    {
+      "question": "What did the classic work of Bliss and Lømo demonstrate?",
+      "options": [
+        "Adult neurogenesis throughout the cerebral cortex",
+        "Homeostatic scaling after prolonged sensory deprivation",
+        "Long-lasting potentiation in the hippocampal formation",
+        "Motor-cortex plasticity after thumb movement training"
+      ],
+      "correct": 2,
+      "feedback": "Bliss and Lømo (1973) demonstrated long-lasting potentiation in the hippocampal formation."
+    },
+    {
+      "question": "How is LTP typically detected experimentally?",
+      "options": [
+        "By counting the number of newly generated neurons after stimulation",
+        "By measuring only the frequency of spontaneous action potentials",
+        "By observing a reduction in the baseline postsynaptic response",
+        "By finding a larger response to the same test stimulus after induction"
+      ],
+      "correct": 3,
+      "feedback": "LTP is detected when the same test stimulus evokes a larger postsynaptic response after the induction protocol than during baseline."
+    },
+    {
+      "question": "What is the purpose of the baseline period in an LTP experiment?",
+      "options": [
+        "To measure synaptic responses before LTP induction",
+        "To potentiate the synapse before measurement",
+        "To remove AMPA receptors before high-frequency stimulation",
+        "To prevent any comparison between pre- and post-induction responses"
+      ],
+      "correct": 0,
+      "feedback": "The baseline establishes the synaptic response to the test stimulus before plasticity is induced."
+    },
+    {
+      "question": "Which type of stimulation is commonly used to induce LTP experimentally?",
+      "options": [
+        "A single weak stimulus delivered once at baseline",
+        "High-frequency stimulation of the synaptic pathway",
+        "Continuous inhibition of the postsynaptic neuron",
+        "A prolonged blockade of all glutamate receptors"
+      ],
+      "correct": 1,
+      "feedback": "High-frequency stimulation is a classical protocol used to induce LTP experimentally."
+    },
+    {
+      "question": "Which postsynaptic change is associated with early LTP?",
+      "options": [
+        "Elimination of all glutamate receptors from the membrane",
+        "Formation of entirely new neurons at the stimulated synapse",
+        "Increased function and insertion of AMPA receptors",
+        "Removal of the postsynaptic density from the synapse"
+      ],
+      "correct": 2,
+      "feedback": "Early LTP can involve increased AMPA-receptor function and rapid insertion of AMPA receptors into the postsynaptic membrane."
+    },
+    {
+      "question": "Which postsynaptic mechanism is associated with many forms of glutamatergic LTD?",
+      "options": [
+        "Insertion of additional NMDA receptors only",
+        "Formation of new presynaptic axons at the synapse",
+        "Permanent activation of intracellular kinases",
+        "Removal or reduced function of AMPA receptors"
+      ],
+      "correct": 3,
+      "feedback": "Many forms of glutamatergic LTD involve AMPA-receptor removal or reduced AMPA-receptor function."
+    },
+    {
+      "question": "What does spike-timing-dependent plasticity (STDP) emphasize?",
+      "options": [
+        "The relative timing of presynaptic and postsynaptic activity",
+        "Only the absolute number of neurons activated in a circuit",
+        "Only the duration of structural remodeling after learning",
+        "The amount of myelin surrounding the stimulated axon"
+      ],
+      "correct": 0,
+      "feedback": "STDP emphasizes that the direction of synaptic plasticity can depend on the relative timing of pre- and postsynaptic activity."
+    },
+    {
+      "question": "At many synapses, what does presynaptic activity shortly before postsynaptic firing tend to favor?",
+      "options": [
+        "Complete synapse elimination",
+        "Potentiation",
+        "Adult neurogenesis",
+        "Loss of all NMDA receptors"
+      ],
+      "correct": 1,
+      "feedback": "In the classical STDP rule, presynaptic activity shortly before postsynaptic firing tends to favor potentiation."
+    },
+    {
+      "question": "At many synapses, what does postsynaptic firing before presynaptic activity tend to favor?",
+      "options": [
+        "Potentiation of every active connection",
+        "Formation of new dendritic spines only",
+        "Depression",
+        "Immediate homeostatic scaling of the neuron"
+      ],
+      "correct": 2,
+      "feedback": "In the classical STDP rule, postsynaptic firing before presynaptic activity tends to favor depression."
+    },
+    {
+      "question": "What distinguishes a consolidated or late phase of plasticity from an early phase?",
+      "options": [
+        "It never involves protein synthesis or gene expression",
+        "It is restricted to millisecond changes in existing receptors",
+        "It occurs only in developing animals and never in adults",
+        "Gene transcription, protein synthesis, and structural remodeling"
+      ],
+      "correct": 3,
+      "feedback": "Late or consolidated plasticity can involve altered gene transcription, new protein synthesis, and structural stabilization."
+    },
+    {
+      "question": "Which process belongs to the early phase of synaptic plasticity?",
+      "options": [
+        "Modification of existing proteins and receptor trafficking",
+        "Generation of a new cortical area from progenitor cells",
+        "Replacement of the stimulated circuit by new neurons",
+        "Permanent restructuring of an entire brain region"
+      ],
+      "correct": 0,
+      "feedback": "Early-phase plasticity can involve modification of existing proteins and receptor trafficking."
+    },
+    {
+      "question": "Which change is an example of structural plasticity?",
+      "options": [
+        "A millisecond change in membrane voltage",
+        "Formation or elimination of dendritic spines",
+        "A transient shift in firing rate during one stimulus",
+        "A brief opening of an NMDA receptor"
+      ],
+      "correct": 1,
+      "feedback": "Structural plasticity includes formation, stabilization, and elimination of dendritic spines."
+    },
+    {
+      "question": "What is the plasticity-stability dilemma?",
+      "options": [
+        "The inability of neurons to modify synapses after development",
+        "The problem that structural plasticity can occur only in infancy",
+        "Unchecked Hebbian reinforcement can destabilize network activity",
+        "The requirement that all synapses maintain exactly equal strength"
+      ],
+      "correct": 2,
+      "feedback": "Pure Hebbian plasticity can create positive feedback in which strong synapses become progressively stronger, potentially destabilizing the network."
+    },
+    {
+      "question": "What could unchecked Hebbian positive feedback produce?",
+      "options": [
+        "Only improved learning with no physiological cost",
+        "A perfectly stable firing rate in every neuron",
+        "A uniform increase in adult neurogenesis",
+        "Runaway excitation or excessive silencing"
+      ],
+      "correct": 3,
+      "feedback": "Unchecked Hebbian positive feedback can push network activity toward runaway excitation or excessive silencing."
+    },
+    {
+      "question": "What is the main goal of homeostatic plasticity?",
+      "options": [
+        "Keeping neural activity within a functional range",
+        "Strengthening only the most correlated presynaptic input",
+        "Maximizing firing rate regardless of network stability",
+        "Producing new neurons whenever synaptic activity decreases"
+      ],
+      "correct": 0,
+      "feedback": "Homeostatic plasticity regulates excitability so that activity remains within a functional range."
+    },
+    {
+      "question": "What can homeostatic plasticity do if a neuron remains too inactive?",
+      "options": [
+        "Eliminate all excitatory synapses",
+        "Increase synaptic drive",
+        "Prevent future plasticity permanently",
+        "Reduce all neuronal excitability"
+      ],
+      "correct": 1,
+      "feedback": "Homeostatic mechanisms can increase synaptic drive when a neuron remains chronically too inactive."
+    },
+    {
+      "question": "How does homeostatic plasticity differ from Hebbian plasticity?",
+      "options": [
+        "Homeostatic plasticity always creates new synapses, whereas Hebbian plasticity never does",
+        "Hebbian plasticity stabilizes overall firing, whereas homeostatic plasticity detects correlations",
+        "Homeostatic plasticity stabilizes activity rather than selecting the most correlated input",
+        "Homeostatic plasticity occurs only during development, whereas Hebbian plasticity occurs only in adults"
+      ],
+      "correct": 2,
+      "feedback": "Homeostatic plasticity primarily stabilizes overall activity, whereas Hebbian plasticity promotes selective strengthening based on correlated activity."
+    },
+    {
+      "question": "What is metaplasticity?",
+      "options": [
+        "A structural change that always creates a new synapse",
+        "A temporary block of all synaptic transmission",
+        "A form of plasticity restricted to the motor cortex",
+        "Activity history changes susceptibility to future plasticity"
+      ],
+      "correct": 3,
+      "feedback": "Metaplasticity is plasticity of plasticity: recent activity history changes how readily subsequent LTP or LTD can be induced."
+    },
+    {
+      "question": "What does the sliding-threshold model propose after prolonged high activity?",
+      "options": [
+        "Further potentiation becomes harder to induce",
+        "All synapses are automatically converted into inhibitory synapses",
+        "The threshold for LTP disappears completely",
+        "The neuron can no longer express any form of LTD"
+      ],
+      "correct": 0,
+      "feedback": "In a sliding-threshold model, prolonged high activity can shift the modification threshold so that further potentiation becomes harder."
+    },
+    {
+      "question": "What does the hippocampal metaplasticity experiment show about prior weak stimulation?",
+      "options": [
+        "It permanently eliminates the ability to express any synaptic response",
+        "It can transiently reduce the LTP induced by a later strong stimulus",
+        "It necessarily produces stronger LTP than the control pathway",
+        "It affects only structural plasticity and not future synaptic efficacy"
+      ],
+      "correct": 1,
+      "feedback": "The experiment shows that prior weak stimulation can transiently inhibit the LTP produced by a later strong tetanus."
+    },
+    {
+      "question": "What is a principal functional role of Hebbian plasticity?",
+      "options": [
+        "Maintaining a constant average firing rate",
+        "Preventing all synaptic competition",
+        "Promoting selectivity and learning",
+        "Suppressing every highly active input"
+      ],
+      "correct": 2,
+      "feedback": "Hebbian plasticity promotes selectivity and learning, whereas homeostatic mechanisms help maintain network stability."
+    },
+    {
+      "question": "Does neuroplasticity disappear in adulthood?",
+      "options": [
+        "No; adult neural circuits remain plastic",
+        "Yes, all forms of plasticity end once developmental wiring is complete",
+        "Yes, except for changes produced directly by brain injury",
+        "No, but only because adult cortical neurons are continuously replaced"
+      ],
+      "correct": 0,
+      "feedback": "Plasticity persists in adulthood, although its magnitude and mechanisms depend on the circuit, experience, and developmental stage."
+    },
+    {
+      "question": "What did participants practice in the Karni et al. motor-learning experiment?",
+      "options": [
+        "A visual discrimination task involving gratings",
+        "A specific sequence of rapid finger movements",
+        "A paired median-nerve and TMS stimulation protocol",
+        "A skilled forelimb-reaching task performed by rats"
+      ],
+      "correct": 1,
+      "feedback": "In Karni et al. (1995), adults repeatedly practiced a specific sequence of rapid finger movements."
+    },
+    {
+      "question": "What measure was used to assess cortical reorganization in the Karni et al. experiment?",
+      "options": [
+        "Single-neuron intracellular recording",
+        "PET measurement of glucose uptake",
+        "fMRI activity in primary motor cortex",
+        "Two-photon imaging of dendritic spines"
+      ],
+      "correct": 2,
+      "feedback": "Task-related activity in primary motor cortex was measured using fMRI."
+    },
+    {
+      "question": "What happened to the trained movement sequence after prolonged practice in the Karni et al. experiment?",
+      "options": [
+        "It produced a smaller M1 response than the untrained sequence",
+        "It ceased to activate primary motor cortex",
+        "It caused widespread adult neurogenesis in M1",
+        "It produced an expanded pattern of M1 activation"
+      ],
+      "correct": 3,
+      "feedback": "After prolonged practice, the trained sequence produced an expanded pattern of M1 activation."
+    },
+    {
+      "question": "What does LTP occlusion in the trained rat motor cortex suggest?",
+      "options": [
+        "Motor learning has already engaged LTP-like strengthening in the trained circuit",
+        "Training prevents horizontal connections from transmitting any synaptic signal",
+        "Only the untrained hemisphere is capable of any synaptic plasticity",
+        "Motor learning weakens all intracortical connections before LTP induction"
+      ],
+      "correct": 0,
+      "feedback": "The occlusion suggests that learning has already potentiated relevant horizontal connections, leaving less capacity for additional experimentally induced LTP."
+    },
+    {
+      "question": "What is paired in Paired Associative Stimulation (PAS) in the human M1 experiment?",
+      "options": [
+        "Visual stimulation with auditory stimulation",
+        "Median-nerve stimulation with TMS over contralateral M1",
+        "Two TMS pulses delivered to both hemispheres simultaneously",
+        "Motor practice with direct electrical stimulation of the muscle"
+      ],
+      "correct": 1,
+      "feedback": "PAS pairs electrical stimulation of the median nerve with TMS over the contralateral primary motor cortex."
+    },
+    {
+      "question": "What measure is used to quantify the effect of PAS on motor-cortex output?",
+      "options": [
+        "Number of newly generated neurons",
+        "Amount of cortical myelin",
+        "Motor-evoked potential (MEP) amplitude",
+        "Resting cerebral blood flow"
+      ],
+      "correct": 2,
+      "feedback": "Changes in MEP amplitude are used as an index of changes in M1 output or excitability."
+    },
+    {
+      "question": "What happens when motor practice precedes PAS in the human M1 occlusion experiment?",
+      "options": [
+        "PAS produces a much larger effect than when given alone",
+        "Motor practice completely suppresses all TMS-evoked responses",
+        "The MEP is replaced by a sensory-evoked potential",
+        "PAS produces little or no additional potentiation"
+      ],
+      "correct": 3,
+      "feedback": "Motor practice occludes much of the subsequent PAS-induced potentiation, consistent with overlapping LTP-like mechanisms."
+    },
+    {
+      "question": "Why is motor-practice occlusion of PAS important?",
+      "options": [
+        "It suggests that learning and PAS recruit overlapping LTP-like mechanisms in human M1",
+        "It demonstrates that motor practice and PAS act through completely independent circuits",
+        "It proves that MEP amplitude measures only peripheral muscle fatigue",
+        "It shows that TMS cannot detect changes in motor-cortex excitability"
+      ],
+      "correct": 0,
+      "feedback": "The occlusion is important because it suggests that motor practice and PAS recruit overlapping LTP-like plasticity mechanisms."
+    },
+    {
+      "question": "What happens to dendritic spines in adult visual cortex after a small retinal lesion?",
+      "options": [
+        "Spine density increases because new spines accumulate without elimination",
+        "Spine density decreases because most existing synapses are permanently lost",
+        "Spine density remains similar, but spine turnover increases markedly",
+        "Spine density and spine turnover both remain essentially unchanged"
+      ],
+      "correct": 2,
+      "feedback": "After a retinal lesion, overall spine density can remain approximately stable while the survival of existing spines decreases and the formation of new persistent spines increases. This reveals substantial structural remodeling despite little net change in spine number."
+    },
+    {
+      "question": "Why can stable dendritic spine density hide substantial structural plasticity?",
+      "options": [
+        "Spine elimination can be balanced by the formation and stabilization of new spines",
+        "Stable density means that individual synapses remain unchanged over time",
+        "Spine density measures changes in neuronal firing rather than synaptic structure",
+        "Structural plasticity occurs only when the total number of spines increases"
+      ],
+      "correct": 0,
+      "feedback": "The total number of spines can remain stable even while individual spines are being lost and replaced. Increased turnover therefore reveals structural synaptic reorganization that is not apparent from spine density alone."
+    }
+  ]
+}

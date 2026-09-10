@@ -4,54 +4,54 @@
     {
       "question": "Why are special methods needed in developmental psychobiology?",
       "options": [
-        "Brain structure cannot be studied until adolescence with non-invasive techniques",
-        "Infants and young children may not understand instructions or provide reliable verbal reports",
-        "Young participants cannot show measurable physiological responses during development",
-        "Behavioral measures are unsuitable for studying perception or attention in infancy during normal developmental testing"
+        "Infants may not understand instructions or provide verbal reports",
+        "Brain structure cannot be studied non-invasively before adolescence",
+        "Young children do not produce measurable physiological responses",
+        "Behavioral measures cannot provide information about perception or attention during infancy"
+      ],
+      "correct": 0,
+      "feedback": "Developmental methods must often infer internal processes from behavior, physiology, or brain signals because infants and young children cannot always follow instructions or report their experience."
+    },
+    {
+      "question": "Which type of method uses observable actions as an index of perception, attention, learning, or memory?",
+      "options": [
+        "Peripheral physiological methods",
+        "Behavioral methods",
+        "Neural recording methods",
+        "Neuroimaging methods"
       ],
       "correct": 1,
-      "feedback": "Infants and young children cannot always understand instructions, give verbal reports, or perform complex tasks."
+      "feedback": "Behavioral methods use observable responses such as looking, orienting, habituation, or head turning to infer internal processes."
     },
     {
-      "question": "Which type of measure uses observable actions as an index of perception, attention, learning, or memory?",
+      "question": "When a participant cannot verbally report what they perceive or remember, what can serve as the dependent variable?",
       "options": [
-        "Peripheral physiological measures",
-        "Neural recording methods",
-        "Neuroimaging measures",
-        "Behavioral methods"
-      ],
-      "correct": 3,
-      "feedback": "Behavioral methods use observable behavior as an index of internal processes."
-    },
-    {
-      "question": "What becomes the dependent variable when an infant cannot verbally report what they perceive or remember?",
-      "options": [
-        "The participant's age at the time of testing",
-        "The infant's measurable behavior",
+        "The participant's chronological age",
         "Only the anatomical structure of the brain",
+        "A measurable behavioral response",
         "The experimenter's interpretation of the stimulus"
       ],
-      "correct": 1,
-      "feedback": "In behavioral developmental methods, measurable behavior itself can become the dependent variable."
+      "correct": 2,
+      "feedback": "In developmental behavioral methods, measurable behavior can serve as the dependent variable."
     },
     {
       "question": "What is the orienting response?",
       "options": [
-        "A decrease in response after many presentations of the same stimulus",
-        "A coordinated response to a novel or salient event that captures attention",
+        "A progressive decrease in response after many repetitions of one stimulus",
         "A learned head turn reinforced by an interesting visual event",
-        "A preference for a familiar stimulus over a novel stimulus"
+        "A preference for a familiar over a novel stimulus",
+        "A coordinated response to a novel or salient event"
       ],
-      "correct": 1,
-      "feedback": "The orienting response is the coordinated response produced when a novel or salient event captures attention."
+      "correct": 3,
+      "feedback": "The orienting response is a coordinated reaction to a novel or salient event and can include changes in gaze, head position, heart rate, or ongoing behavior."
     },
     {
       "question": "What is the basic logic of an expectancy-violation experiment?",
       "options": [
-        "Comparing looking at expected and unexpected events",
-        "Rewarding a head turn following a change in sound",
-        "Presenting the same stimulus until the response decreases",
-        "Measuring electrical potentials from scalp electrodes"
+        "Compare responses to expected and unexpected events",
+        "Reward a head turn after a change in sound",
+        "Repeat one stimulus until the response decreases",
+        "Average scalp electrical activity across repeated events"
       ],
       "correct": 0,
       "feedback": "Expectancy-violation paradigms compare responses to expected events with responses to unexpected or impossible events."
@@ -59,21 +59,21 @@
     {
       "question": "Why must longer looking at an unexpected event be interpreted carefully?",
       "options": [
-        "Because infants cannot move their eyes before one year of age",
-        "Because unexpected events always produce the same response during the relevant experimental condition",
-        "Because perceptual salience can also influence looking time",
-        "Because looking time is unrelated to visual processing in infancy"
+        "Infants cannot reliably move their eyes during early development",
+        "Perceptual salience can also influence looking time",
+        "Unexpected events always produce identical looking responses",
+        "Looking time is unrelated to visual processing in infancy"
       ],
-      "correct": 2,
-      "feedback": "Perceptual salience can also influence looking, so appropriate controls are necessary."
+      "correct": 1,
+      "feedback": "Longer looking can reflect expectancy violation, but perceptual salience can also affect looking time, so appropriate controls are necessary."
     },
     {
       "question": "What is habituation?",
       "options": [
-        "A conditioned movement produced only after reinforcement is removed",
-        "A neural response measured by averaging EEG trials across events in the method described in the lecture",
-        "A progressive decrease in response after repeated presentation of the same stimulus",
-        "A progressive increase in response whenever a familiar stimulus is repeated during normal developmental testing"
+        "A conditioned movement learned through reinforcement",
+        "A progressive increase in response to repeated stimulation",
+        "Response reduction after repeated stimulation",
+        "An averaged EEG response to repeated events"
       ],
       "correct": 2,
       "feedback": "Habituation is the progressive reduction of a response when the same stimulus is presented repeatedly."
@@ -81,335 +81,335 @@
     {
       "question": "What does recovery of responding to a new stimulus after habituation suggest?",
       "options": [
-        "The infant has lost sensitivity to the sensory modality",
-        "The new stimulus was necessarily more intense than the original one",
-        "The infant can no longer remember the habituated stimulus",
-        "The infant detected a difference between the old and new stimuli"
+        "The sensory modality has become temporarily insensitive to stimulation",
+        "The new stimulus was physically more intense than the old one",
+        "The habituated stimulus has been completely forgotten",
+        "The new stimulus was detected as different"
       ],
       "correct": 3,
-      "feedback": "Recovery after habituation indicates that the infant detected a difference between the habituated and test stimuli."
+      "feedback": "Recovery after habituation indicates that the new stimulus was discriminated from the habituated stimulus."
     },
     {
       "question": "What is conditioned head turning commonly used to test?",
       "options": [
-        "Visual acuity in this developmental paradigm",
-        "Blood oxygenation",
         "Auditory discrimination",
-        "Cortical myelination in this developmental paradigm"
+        "Visual acuity",
+        "Cortical blood oxygenation",
+        "White-matter organization"
       ],
-      "correct": 2,
-      "feedback": "Once learned, conditioned head turning can be used to test auditory discrimination."
+      "correct": 0,
+      "feedback": "Once the conditioned response is learned, head turning can be used to test whether an infant detects a change in sound."
     },
     {
       "question": "What does preferential looking measure?",
       "options": [
-        "How long an infant looks at alternative visual stimuli",
-        "How rapidly neural activity changes after a sound",
-        "How strongly an infant sucks on a pressure-sensitive pacifier in the method described in the lecture",
-        "How much radioactive tracer accumulates in a brain region"
+        "The speed of neural activity following an auditory event",
+        "Relative looking time between alternative visual stimuli",
+        "Pressure produced during sucking",
+        "Regional radioactive tracer uptake"
       ],
-      "correct": 0,
-      "feedback": "Preferential looking measures differences in looking time between alternative visual stimuli."
+      "correct": 1,
+      "feedback": "Preferential looking compares how long an infant looks at alternative visual stimuli."
     },
     {
       "question": "What do Teller acuity cards estimate?",
       "options": [
-        "Visual acuity",
+        "Recognition memory",
         "Heart-rate variability",
-        "Recognition memory in the method described in the lecture",
-        "Auditory discrimination in this developmental paradigm"
+        "Visual acuity",
+        "Auditory discrimination"
       ],
-      "correct": 0,
-      "feedback": "Teller acuity cards use preferential looking to estimate visual acuity."
+      "correct": 2,
+      "feedback": "Teller acuity cards use preferential looking to estimate visual acuity in infants and other non-verbal participants."
     },
     {
-      "question": "How are Teller acuity cards used?",
+      "question": "How are Teller acuity cards used to estimate visual acuity?",
       "options": [
-        "EEG is recorded while the infant views a uniform field during the relevant experimental condition",
-        "The infant hears tones of progressively increasing frequency",
-        "The infant presses a button whenever a grating appears",
-        "Progressively finer gratings are shown until reliable orientation is no longer detected"
+        "EEG is recorded while the infant views a uniform field",
+        "Tones of progressively increasing frequency are presented until detection fails",
+        "The infant presses a button whenever a striped grating becomes visible",
+        "Present increasingly fine gratings until orientation fails"
       ],
       "correct": 3,
-      "feedback": "Progressively finer gratings are shown until the observer can no longer reliably determine where the infant is looking."
+      "feedback": "The finest grating that still produces reliable orientation provides an estimate of visual acuity."
     },
     {
       "question": "What is the Visual Paired Comparison task used to study?",
       "options": [
+        "Recognition memory",
         "Cortical blood flow using near-infrared light",
         "Neural oscillations using scalp electrodes",
-        "Motor control through rewarded head turning",
-        "Recognition and memory through familiar-versus-novel looking"
-      ],
-      "correct": 3,
-      "feedback": "Visual Paired Comparison uses familiar-versus-novel looking to study recognition and memory."
-    },
-    {
-      "question": "What is one advantage of peripheral physiological measures in developmental studies?",
-      "options": [
-        "They provide better spatial localization than structural MRI",
-        "They can be useful when overt behavior is small, unreliable, or unavailable",
-        "They always identify the exact cognitive process involved",
-        "They directly measure single-neuron action potentials"
-      ],
-      "correct": 1,
-      "feedback": "Peripheral physiological measures can be useful when overt behavior is small, unreliable, or unavailable."
-    },
-    {
-      "question": "Why is heart-rate variability described as informative but not specific?",
-      "options": [
-        "Because a change in HRV does not identify the exact cognitive process that caused it",
-        "Because it requires ionizing radiation as the principal measurement used here as the main index of the process being studied",
-        "Because it can only be measured in adults as the principal measurement used here when the participant is tested in this paradigm",
-        "Because it cannot change during attention in the method described in the lecture when the participant is tested in this paradigm"
+        "Motor control through reinforced head turning"
       ],
       "correct": 0,
-      "feedback": "A change in HRV can accompany attention or arousal without uniquely identifying the cognitive process."
+      "feedback": "Visual Paired Comparison uses looking differences between familiar and novel stimuli to study recognition and memory."
+    },
+    {
+      "question": "What is one advantage of peripheral physiological measures in developmental research?",
+      "options": [
+        "They always identify the exact cognitive process responsible for a response",
+        "Useful when overt behavior is unavailable",
+        "They directly record action potentials from individual neurons in the brain",
+        "They provide more precise anatomical localization than structural MRI"
+      ],
+      "correct": 1,
+      "feedback": "Peripheral physiological measures can reveal responses even when overt behavior is difficult to obtain or interpret."
+    },
+    {
+      "question": "Why is heart-rate variability informative but not specific?",
+      "options": [
+        "HRV can be measured only in adult participants",
+        "HRV cannot change during attention or arousal",
+        "HRV lacks cognitive specificity",
+        "Measuring HRV requires exposure to ionizing radiation"
+      ],
+      "correct": 2,
+      "feedback": "HRV can change with attention or arousal, but the signal alone does not uniquely identify the underlying cognitive process."
     },
     {
       "question": "What is non-nutritive sucking?",
       "options": [
-        "A reflex produced only when food is delivered as the main index of the process being studied",
-        "Spontaneous sucking on a pacifier or nipple without feeding",
-        "A method for measuring cortical electrical potentials as the primary signal recorded in this technique",
-        "A behavioral response available only after language develops during the relevant experimental condition"
+        "A reflex that occurs only when food is delivered",
+        "A method for measuring electrical potentials from the scalp",
+        "A learned behavior that appears only after language develops",
+        "Spontaneous sucking on a pacifier or nipple without feeding"
       ],
-      "correct": 1,
-      "feedback": "Non-nutritive sucking is spontaneous sucking on a pacifier or nipple without feeding."
+      "correct": 3,
+      "feedback": "Non-nutritive sucking is sucking that occurs without feeding and can be measured in very young infants."
     },
     {
       "question": "What is the core manipulation in the high-amplitude sucking paradigm?",
       "options": [
-        "A head turn switches off the stimulus",
-        "Sucks above a threshold trigger a stimulus",
-        "Visual stimuli appear only when the infant looks away",
-        "Sounds are presented randomly and independently of behavior"
+        "Strong sucks trigger stimulus delivery",
+        "A head turn terminates the ongoing stimulus",
+        "Visual stimuli appear only after the infant looks away",
+        "Sounds are presented independently of the infant's sucking behavior"
       ],
-      "correct": 1,
-      "feedback": "In high-amplitude sucking, sufficiently strong sucks trigger presentation of a stimulus."
+      "correct": 0,
+      "feedback": "In high-amplitude sucking, sufficiently strong sucks trigger a sound or another stimulus."
     },
     {
-      "question": "What did the Vouloumanos and Werker experiment compare?",
+      "question": "What did Vouloumanos and Werker (2007) compare in newborns?",
       "options": [
-        "Speech sounds before and after sleep as the main index of the process being studied",
+        "Responses to familiar and unfamiliar visual faces after repeated exposure",
+        "Speech and non-speech sounds using high-amplitude sucking",
         "High- and low-spatial-frequency gratings",
-        "Speech with non-speech sounds using high-amplitude sucking",
-        "Familiar faces with novel faces"
+        "Speech before and after sleep"
       ],
-      "correct": 2,
-      "feedback": "The experiment used high-amplitude sucking to compare newborn responses to speech and non-speech sounds."
+      "correct": 1,
+      "feedback": "Vouloumanos and Werker (2007) used high-amplitude sucking to compare newborn responses to speech and non-speech sounds."
     },
     {
-      "question": "What response pattern to speech and non-speech is described in the deck?",
+      "question": "What response pattern did newborns show for speech and non-speech sounds in Vouloumanos and Werker (2007)?",
       "options": [
-        "Responses increased only for non-speech and disappeared for speech in the method described in the lecture",
         "Responses habituated equally quickly to both sound categories",
-        "Responses habituated to non-speech while remaining higher or showing little habituation to speech",
-        "Responses were identical because newborns could not discriminate the sounds during the relevant experimental condition"
+        "Responses increased only for non-speech and disappeared for speech",
+        "Responses habituated to non-speech but remained higher or showed little habituation to speech",
+        "Responses were indistinguishable because newborns could not discriminate the sounds"
       ],
       "correct": 2,
-      "feedback": "The deck reports habituation to non-speech sounds, while responses to speech remained high or showed little habituation."
+      "feedback": "Newborn sucking responses progressively decreased for non-speech sounds, while responses to speech remained higher or showed little habituation."
     },
     {
-      "question": "What methodological trade-off is illustrated by EEG and fMRI?",
+      "question": "What methodological trade-off is illustrated by comparing EEG and fMRI?",
       "options": [
-        "Behavioral response versus verbal report",
-        "Temporal resolution versus spatial localization",
-        "Familiarity versus perceptual preference",
-        "Direct versus radioactive measurement"
+        "Observable behavior versus explicit verbal self-report",
+        "Familiarity effects versus perceptual preference",
+        "Direct electromagnetic recording versus radioactive metabolic imaging",
+        "Temporal resolution versus spatial localization"
       ],
-      "correct": 1,
-      "feedback": "EEG has excellent temporal resolution but limited spatial localization, whereas fMRI has better localization but slower timing."
+      "correct": 3,
+      "feedback": "EEG has excellent temporal resolution but limited spatial localization, whereas fMRI provides better spatial localization but measures a slower hemodynamic response."
     },
     {
-      "question": "What does EEG record?",
+      "question": "What does electroencephalography (EEG) record?",
       "options": [
-        "Magnetic fields induced by a TMS coil during normal developmental testing",
-        "Differences in electrical potential from scalp electrodes",
-        "Changes in near-infrared light absorption in this developmental paradigm",
-        "Changes in radioactive tracer concentration as the principal measurement used here"
+        "Scalp electrical potential differences",
+        "Magnetic fields generated by neuronal electrical currents",
+        "Changes in near-infrared light absorption through cortical tissue",
+        "Regional accumulation of radioactive metabolic tracers"
       ],
-      "correct": 1,
+      "correct": 0,
       "feedback": "EEG records differences in electrical potential using electrodes placed on the scalp."
     },
     {
       "question": "What is a key advantage of EEG in developmental research?",
       "options": [
-        "It gives precise anatomical images of deep structures when the participant is tested in this paradigm",
-        "It offers millisecond timing and can be used during passive stimulation",
-        "It identifies individual action potentials at the scalp",
-        "It measures hemodynamics with excellent spatial resolution"
+        "Detailed anatomical localization of deep brain structures",
+        "Millisecond timing during passive stimulation",
+        "Single-neuron action-potential recording through the intact scalp",
+        "High-resolution measurement of slow cerebral hemodynamic responses"
       ],
       "correct": 1,
       "feedback": "EEG is non-invasive, silent, suitable for passive stimulation, and has millisecond temporal resolution."
     },
     {
-      "question": "What does scalp EEG mainly reflect according to the deck?",
+      "question": "What does scalp EEG mainly reflect?",
       "options": [
-        "Radioactive decay events in metabolically active brain tissue",
-        "Changes in cerebral blood flow produced by metabolic demand during the relevant experimental condition",
-        "Summed electrical fields from synchronized postsynaptic currents in cortical populations",
-        "Individual action potentials from single neurons beneath each electrode as the primary signal recorded in this technique"
+        "Action potentials from individual neurons beneath each scalp electrode",
+        "Local cerebral blood-flow changes",
+        "Synchronized postsynaptic currents in cortical populations",
+        "Regional radioactive tracer decay"
       ],
       "correct": 2,
-      "feedback": "Scalp EEG mainly reflects population-level electrical fields generated by synchronized postsynaptic currents."
+      "feedback": "Scalp EEG mainly reflects population-level electrical fields generated by synchronized postsynaptic currents, not individual spikes."
     },
     {
       "question": "Which EEG frequency band is approximately 8-13 Hz?",
       "options": [
-        "Delta in the method described in the lecture",
-        "Beta during the relevant experimental condition",
-        "Alpha",
-        "Gamma during the relevant experimental condition"
+        "Delta",
+        "Beta",
+        "Gamma",
+        "Alpha"
       ],
-      "correct": 2,
-      "feedback": "The deck defines the alpha band as approximately 8-13 Hz."
+      "correct": 3,
+      "feedback": "The alpha frequency band is approximately 8-13 Hz."
     },
     {
       "question": "What does spectral analysis of spontaneous EEG do?",
       "options": [
-        "It identifies cortical anatomy with magnetic resonance during normal developmental testing",
-        "It measures gamma-photon arrival times in this developmental paradigm",
-        "It decomposes the signal into its frequency content",
-        "It averages repeated events to isolate an ERP as the principal measurement used here"
+        "EEG frequency content",
+        "Cortical anatomy reconstructed from MRI",
+        "Arrival timing of gamma photons",
+        "Averaged activity locked to repeated events"
       ],
-      "correct": 2,
-      "feedback": "Spectral analysis decomposes EEG into frequency components and quantifies activity across bands."
+      "correct": 0,
+      "feedback": "Spectral analysis quantifies how much EEG activity is present at different frequencies or frequency bands."
     },
     {
-      "question": "How is an event-related potential obtained?",
+      "question": "How is an event-related potential (ERP) obtained?",
       "options": [
-        "By measuring spontaneous EEG without event timing during the relevant experimental condition",
-        "By injecting a tracer and reconstructing metabolism",
-        "By applying a magnetic pulse and measuring behavior in this developmental paradigm",
-        "By aligning EEG to repeated events and averaging across trials"
+        "By measuring spontaneous EEG without reference to event timing",
+        "By aligning EEG to repeated events and averaging across trials",
+        "By injecting a tracer and reconstructing its regional distribution",
+        "By applying a magnetic pulse and measuring its behavioral effect"
       ],
-      "correct": 3,
+      "correct": 1,
       "feedback": "ERPs are obtained by aligning EEG activity to repeated events and averaging across trials."
     },
     {
-      "question": "Why does averaging help reveal an ERP?",
+      "question": "Why does averaging across trials help reveal an ERP?",
       "options": [
-        "It reduces activity that is not consistently time-locked to the event",
-        "It removes every low-frequency component",
-        "It increases activity unrelated to event timing in the method described in the lecture",
-        "It converts electrical activity into a hemodynamic response as the principal measurement used here"
-      ],
-      "correct": 0,
-      "feedback": "Averaging reduces activity that is not consistently time-locked and emphasizes reproducible event-related activity."
-    },
-    {
-      "question": "What does MEG measure?",
-      "options": [
-        "Gamma photons from positron annihilation as the primary signal recorded in this technique",
-        "Scalp electrical potentials",
-        "Tiny magnetic fields generated by neuronal electrical currents",
-        "Changes in blood oxygenation"
+        "It removes every low-frequency component from the EEG",
+        "It converts electrical activity into a hemodynamic response",
+        "It attenuates activity that is not consistently time-locked to the event",
+        "It amplifies activity that is unrelated to event timing"
       ],
       "correct": 2,
-      "feedback": "MEG measures tiny magnetic fields generated by neuronal electrical currents."
+      "feedback": "Averaging emphasizes reproducible event-related activity while reducing activity that is not consistently time-locked."
+    },
+    {
+      "question": "What does magnetoencephalography (MEG) measure?",
+      "options": [
+        "Electrical potentials measured from the scalp",
+        "Changes in cerebral blood oxygenation",
+        "Gamma photons",
+        "Neuronal magnetic fields"
+      ],
+      "correct": 3,
+      "feedback": "MEG measures the small magnetic fields produced by neuronal electrical currents."
     },
     {
       "question": "What makes fetal MEG useful for developmental research?",
       "options": [
-        "It produces structural images of fetal white matter",
-        "It uses ionizing radiation to measure metabolism before birth as the primary signal recorded in this technique",
-        "It can non-invasively detect fetal brain activity through the maternal abdomen",
-        "It directly measures fetal neurotransmitter concentrations"
-      ],
-      "correct": 2,
-      "feedback": "Fetal MEG can detect magnetic fields generated by the fetal brain through the maternal abdomen."
-    },
-    {
-      "question": "Which methods are presented as direct measures of electromagnetic consequences of neural activity?",
-      "options": [
-        "PET and fMRI in this developmental paradigm",
-        "TMS and structural MRI",
-        "fMRI and fNIRS as the primary signal recorded in this technique",
-        "EEG and MEG"
-      ],
-      "correct": 3,
-      "feedback": "EEG and MEG measure electrical or magnetic signals generated directly by neural activity."
-    },
-    {
-      "question": "Which methods are presented as indirect measures of physiological consequences of neural activity?",
-      "options": [
-        "fMRI, fNIRS, and PET",
-        "TMS and EEG only as the main index of the process being studied",
-        "EEG and MEG only as the principal measurement used here",
-        "Conditioned head turning and EEG"
+        "Non-invasive detection of fetal brain activity",
+        "Direct measurement of fetal neurotransmitter concentrations",
+        "Detailed structural imaging of developing fetal white-matter pathways",
+        "Measurement of fetal metabolism using radioactive tracers"
       ],
       "correct": 0,
-      "feedback": "fMRI, fNIRS, and PET measure physiological consequences such as oxygenation, blood flow, or metabolism."
+      "feedback": "Fetal MEG can detect magnetic fields generated by the fetal brain through the maternal abdomen, allowing neural activity to be studied before birth."
+    },
+    {
+      "question": "Which methods directly measure electromagnetic consequences of neural activity?",
+      "options": [
+        "fMRI and fNIRS",
+        "EEG and MEG",
+        "PET and fMRI",
+        "TMS and structural MRI"
+      ],
+      "correct": 1,
+      "feedback": "EEG and MEG directly measure electrical or magnetic signals generated by neural activity."
+    },
+    {
+      "question": "Which methods primarily measure physiological consequences associated with neural activity rather than neural electrical activity itself?",
+      "options": [
+        "EEG and MEG",
+        "TMS and EEG",
+        "fMRI, fNIRS, and PET",
+        "Conditioned head turning and EEG"
+      ],
+      "correct": 2,
+      "feedback": "fMRI, fNIRS, and PET infer neural activity from physiological consequences such as blood oxygenation, blood flow, or metabolism."
     },
     {
       "question": "What is neurovascular coupling?",
       "options": [
-        "A mechanism converting scalp potentials into magnetic fields as the primary signal recorded in this technique",
-        "The link between local neural activity and changes in blood flow, volume, and oxygenation",
-        "A method for reconstructing gamma-photon events",
-        "A reduction in response after repeated stimuli in this developmental paradigm in the method described in the lecture"
+        "Conversion of scalp electrical potentials into magnetic fields generated outside the head",
+        "Reconstruction of positron-annihilation events from coincident gamma-photon detections",
+        "Reduction of a behavioral response after repeated exposure to one stimulus",
+        "Coupling between neural activity and local vascular responses"
       ],
-      "correct": 1,
-      "feedback": "Neurovascular coupling links local neural activity to changes in blood flow, blood volume, and hemoglobin oxygenation."
+      "correct": 3,
+      "feedback": "Neurovascular coupling links changes in local neural activity to vascular changes including cerebral blood flow, blood volume, and hemoglobin oxygenation."
     },
     {
-      "question": "What does diffusion MRI or DTI investigate in the deck?",
+      "question": "What does diffusion MRI or DTI investigate?",
       "options": [
-        "Peripheral autonomic arousal",
-        "Organization of white-matter pathways",
-        "Auditory mismatch responses in this developmental paradigm",
-        "Postsynaptic receptor clustering as the primary signal recorded in this technique"
+        "White-matter pathway organization",
+        "Patterns of peripheral autonomic arousal",
+        "Auditory mismatch responses",
+        "Postsynaptic receptor clustering"
       ],
-      "correct": 1,
-      "feedback": "Diffusion MRI/DTI uses water diffusion to investigate the organization of white-matter pathways."
+      "correct": 0,
+      "feedback": "Diffusion MRI and DTI use the diffusion of water to investigate white-matter organization."
     },
     {
       "question": "What does BOLD stand for?",
       "options": [
         "Blood-Optical Light Detection",
-        "Brain-Output Localization Difference",
         "Blood-Oxygen-Level-Dependent",
+        "Brain-Output Localization Difference",
         "Brain-Oxygen-Level Distribution"
       ],
-      "correct": 2,
+      "correct": 1,
       "feedback": "BOLD stands for Blood-Oxygen-Level-Dependent."
     },
     {
-      "question": "What typically happens to deoxyhemoglobin during a positive BOLD response in the deck?",
+      "question": "What typically happens to deoxyhemoglobin during a positive BOLD response?",
       "options": [
-        "It decreases as increased blood flow dilutes and washes it out",
-        "It remains constant while only volume changes",
-        "It rises because cerebral blood flow falls",
-        "It is directly converted into oxyhemoglobin by neurons during the relevant experimental condition"
+        "Deoxyhemoglobin concentration increases",
+        "Deoxyhemoglobin remains approximately constant",
+        "Deoxyhemoglobin decreases",
+        "Neurons convert deoxyhemoglobin directly into oxyhemoglobin"
       ],
-      "correct": 0,
-      "feedback": "The deck describes a decrease in deoxyhemoglobin during a typical positive BOLD response."
+      "correct": 2,
+      "feedback": "During a typical positive BOLD response, the increase in cerebral blood flow exceeds the increase in oxygen consumption, reducing local deoxyhemoglobin concentration."
     },
     {
-      "question": "Why is BOLD considered an indirect measure of neural activity?",
+      "question": "Why is the BOLD signal considered an indirect measure of neural activity?",
       "options": [
-        "It reflects a vascular response associated with neural activity rather than electrical activity itself",
-        "It records magnetic fields generated directly by postsynaptic currents as the principal measurement used here",
-        "It infers brain activity only from behavior when the participant is tested in this paradigm",
-        "It detects single-neuron action potentials using scalp electrodes during normal developmental testing when the participant is tested in this paradigm"
+        "It measures magnetic fields generated directly by synchronized neuronal currents",
+        "It detects action potentials from individual neurons using scalp electrodes",
+        "It infers brain activity only from observable behavior",
+        "It measures vascular responses coupled to neural activity"
       ],
-      "correct": 0,
+      "correct": 3,
       "feedback": "BOLD reflects hemodynamic changes coupled to neural activity rather than neuronal electrical activity itself."
     },
     {
       "question": "Why does fMRI have poorer temporal resolution than EEG or MEG?",
       "options": [
-        "MRI requires verbal responses from participants as the principal measurement used here",
-        "BOLD measures only spontaneous resting activity during normal developmental testing",
         "The hemodynamic response develops over several seconds",
-        "Magnetic resonance cannot detect oxygenation changes as the primary signal recorded in this technique"
+        "MRI requires a verbal response from the participant",
+        "BOLD can measure only spontaneous resting activity",
+        "Magnetic resonance cannot detect oxygenation changes"
       ],
-      "correct": 2,
-      "feedback": "The neural event is fast, but the hemodynamic response unfolds over several seconds."
+      "correct": 0,
+      "feedback": "Neural events occur rapidly, but the hemodynamic response measured with fMRI unfolds over several seconds."
     },
     {
-      "question": "What does fNIRS use to estimate cortical hemodynamic changes?",
+      "question": "What does functional near-infrared spectroscopy (fNIRS) use to estimate cortical hemodynamic changes?",
       "options": [
         "Scalp electrical potentials",
         "Near-infrared light",
@@ -417,139 +417,139 @@
         "Radioactive tracers"
       ],
       "correct": 1,
-      "feedback": "fNIRS uses near-infrared light delivered through the scalp."
+      "feedback": "fNIRS uses near-infrared light delivered through the scalp to estimate changes in cortical hemoglobin concentrations."
     },
     {
-      "question": "Which hemoglobin measures are described for fNIRS?",
+      "question": "Which hemoglobin-related measures can fNIRS estimate?",
       "options": [
-        "Only total hemoglobin and arterial oxygen pressure",
-        "Only oxyhemoglobin and cerebral blood flow",
-        "Oxyhemoglobin, deoxyhemoglobin, and total hemoglobin",
-        "Only deoxyhemoglobin and cerebral blood volume"
+        "Only oxygenated hemoglobin and cerebral blood flow",
+        "Only deoxygenated hemoglobin and blood volume",
+        "Oxygenated, deoxygenated, and total hemoglobin",
+        "Only total hemoglobin and arterial oxygen pressure"
       ],
       "correct": 2,
-      "feedback": "The deck lists OHb, DHb, and THb as fNIRS-derived hemoglobin measures."
+      "feedback": "fNIRS can estimate changes in oxygenated hemoglobin (OHb), deoxygenated hemoglobin (DHb), and total hemoglobin (THb)."
     },
     {
-      "question": "What does total hemoglobin (THb) represent in the fNIRS slide?",
+      "question": "What does total hemoglobin (THb) represent in fNIRS?",
       "options": [
         "Hemoglobin contained only in arterial blood",
-        "The difference between oxygenated and deoxygenated hemoglobin during the relevant experimental condition",
-        "The sum of oxygenated and deoxygenated hemoglobin",
-        "The amount of oxygen consumed directly by neurons"
-      ],
-      "correct": 2,
-      "feedback": "THb is presented as the sum of oxygenated and deoxygenated hemoglobin."
-    },
-    {
-      "question": "What is an important developmental advantage of fNIRS?",
-      "options": [
-        "It records single-neuron spikes from superficial cortex",
-        "It has better spatial resolution than structural MRI",
-        "It provides complete coverage of deep brain structures",
-        "It is portable, silent, and relatively suitable for infant testing"
+        "The difference between oxygenated and deoxygenated hemoglobin",
+        "The amount of oxygen directly consumed by neurons",
+        "The sum of oxygenated and deoxygenated hemoglobin"
       ],
       "correct": 3,
-      "feedback": "The deck emphasizes the accessibility of fNIRS for infant and child testing."
+      "feedback": "Total hemoglobin is the sum of oxygenated and deoxygenated hemoglobin and is related to local blood volume."
+    },
+    {
+      "question": "What is an important advantage of fNIRS for developmental research?",
+      "options": [
+        "Low-burden, silent testing in infants",
+        "Complete coverage of deep brain structures during natural behavior",
+        "Single-neuron recordings from superficial cortex",
+        "Spatial resolution exceeding structural MRI"
+      ],
+      "correct": 0,
+      "feedback": "fNIRS has a relatively low experimental burden and can be used with infants, including during more naturalistic or social situations."
     },
     {
       "question": "What is an important limitation of fNIRS?",
       "options": [
-        "It always requires a large magnet in the method described in the lecture",
-        "It cannot measure hemoglobin changes",
-        "It is mainly sensitive to superficial cortex",
-        "It requires a radioactive tracer as the primary signal recorded in this technique"
+        "It always requires a large superconducting magnet",
+        "It is mainly sensitive to superficial cortical tissue",
+        "It cannot detect changes in hemoglobin concentration",
+        "It necessarily requires administration of a radioactive tracer"
       ],
-      "correct": 2,
-      "feedback": "A key limitation is that fNIRS is primarily sensitive to superficial cortical tissue."
+      "correct": 1,
+      "feedback": "A major limitation of fNIRS is that it mainly samples superficial cortex and is also sensitive to scalp blood flow and movement."
     },
     {
-      "question": "What does PET use to measure physiological processes?",
+      "question": "What does positron emission tomography (PET) use to measure physiological processes?",
       "options": [
-        "Radioactive tracers whose regional distribution can be detected",
         "Scalp electrical potentials",
-        "Magnetic fields from postsynaptic currents",
+        "Magnetic fields from neuronal currents",
+        "Radioactive tracers whose regional distribution can be detected",
         "Near-infrared light reflected from cortex"
       ],
-      "correct": 0,
-      "feedback": "PET uses radioactive tracers to measure processes such as metabolism or receptor binding."
+      "correct": 2,
+      "feedback": "PET uses radioactive tracers to measure physiological processes such as metabolism or receptor binding."
     },
     {
       "question": "What happens during positron-electron annihilation in PET?",
       "options": [
-        "Two gamma photons are produced and travel in approximately opposite directions",
         "The positron becomes an electrical potential at the scalp",
-        "A single infrared photon is emitted through the scalp",
-        "The electron produces a magnetic pulse that stimulates cortex"
+        "A single infrared photon is emitted through the skull",
+        "The electron generates a magnetic pulse that stimulates cortex",
+        "Two gamma photons are emitted in approximately opposite directions"
       ],
-      "correct": 0,
+      "correct": 3,
       "feedback": "Positron-electron annihilation produces two gamma photons emitted in approximately opposite directions."
     },
     {
-      "question": "What does coincidence detection in PET identify?",
+      "question": "What does coincidence detection identify in PET?",
       "options": [
-        "The position of a TMS coil",
-        "The frequency band of an EEG oscillation in this developmental paradigm",
         "A line of response between two detectors",
+        "The position of a TMS coil",
+        "The frequency of an EEG oscillation",
         "The latency of an ERP component"
       ],
-      "correct": 2,
-      "feedback": "Nearly simultaneous detection of the annihilation photons defines a line of response."
+      "correct": 0,
+      "feedback": "Nearly simultaneous detection of the two annihilation photons defines a line of response between detectors."
     },
     {
       "question": "Why is PET strongly limited in healthy developmental populations?",
       "options": [
-        "It requires a head-turn response",
-        "It provides no spatial information in the method described in the lecture",
-        "It cannot measure metabolism",
-        "It exposes participants to ionizing radiation"
+        "It requires a learned head-turn response",
+        "It exposes participants to ionizing radiation",
+        "It cannot provide spatial information",
+        "It cannot measure physiological processes"
       ],
-      "correct": 3,
-      "feedback": "PET requires radioactive tracers and therefore exposes participants to ionizing radiation."
+      "correct": 1,
+      "feedback": "PET requires radioactive tracers and therefore exposes participants to ionizing radiation, limiting its use in healthy children."
     },
     {
-      "question": "How is TMS classified in the deck?",
+      "question": "How is transcranial magnetic stimulation (TMS) best classified?",
       "options": [
-        "As a perturbation method that transiently modifies cortical activity",
-        "As a peripheral physiological recording method as the principal measurement used here",
-        "As a structural neuroimaging technique",
-        "As an indirect hemodynamic recording method"
+        "A peripheral physiological recording method",
+        "A structural MRI technique",
+        "A cortical perturbation method",
+        "An indirect hemodynamic recording method"
       ],
-      "correct": 0,
-      "feedback": "TMS is presented as a perturbation method rather than primarily as a recording method."
+      "correct": 2,
+      "feedback": "TMS is primarily a perturbation method: it transiently changes neural activity rather than simply recording it."
     },
     {
       "question": "What physical principle allows TMS to influence cortical tissue?",
       "options": [
-        "A changing magnetic field induces an electric field in the brain",
-        "Scalp electrodes inject current into deep white matter",
-        "A radioactive tracer releases gamma photons in cortex",
-        "Near-infrared light directly depolarizes neurons"
+        "Direct electrical injection from scalp electrodes into deep white matter",
+        "Gamma-photon emission from radioactive tracers placed in cortical tissue",
+        "Infrared depolarization of cortical neurons",
+        "Electromagnetic induction of cortical electric fields"
       ],
-      "correct": 0,
-      "feedback": "A rapidly changing magnetic field from the coil induces an electric field in cortical tissue."
+      "correct": 3,
+      "feedback": "A rapidly changing magnetic field generated by the TMS coil induces an electric field in cortical tissue."
     },
     {
       "question": "What kind of inference can TMS strengthen compared with purely recording methods?",
       "options": [
         "A causal inference about the contribution of a brain region",
-        "An inference about visual acuity from looking",
+        "An estimate of visual acuity from preferential looking",
         "An estimate of total hemoglobin concentration",
         "A measure of spontaneous EEG frequency content"
       ],
       "correct": 0,
-      "feedback": "Because TMS perturbs neural activity and tests the resulting behavioral effect, it can support causal inference."
+      "feedback": "Because TMS perturbs activity and allows the consequences to be measured, it can provide stronger evidence for a causal contribution of a stimulated region."
     },
     {
-      "question": "What is the main distinction between recording and perturbation methods in the final slide?",
+      "question": "What is the main distinction between recording and perturbation methods?",
       "options": [
-        "Recording methods are always invasive and perturbation methods are never invasive as the main index of the process being studied",
-        "Recording methods require adults, whereas perturbation methods are only for infants as the primary signal recorded in this technique",
-        "Recording methods measure behavior and perturbation methods measure anatomy as the main index of the process being studied",
-        "Recording methods reveal associations, whereas perturbation methods can test causal contributions"
+        "Recording methods are invasive, whereas perturbation methods are always non-invasive",
+        "Recording methods reveal associations, whereas perturbation methods can test causal contributions",
+        "Recording methods measure behavior, whereas perturbation methods measure anatomy",
+        "Recording methods are used only in adults, whereas perturbation methods are used only in infants"
       ],
-      "correct": 3,
-      "feedback": "The deck contrasts association from recording methods with stronger causal evidence from perturbation methods such as TMS."
+      "correct": 1,
+      "feedback": "Recording methods show that a neural signal is associated with a stimulus or behavior, whereas perturbation methods can test whether changing neural activity changes behavior."
     }
   ]
 }

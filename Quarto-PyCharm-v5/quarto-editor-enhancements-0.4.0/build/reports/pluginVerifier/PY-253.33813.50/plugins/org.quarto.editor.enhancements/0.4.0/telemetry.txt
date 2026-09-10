@@ -1,0 +1,9 @@
+Plugin ID: org.quarto.editor.enhancements
+Plugin Version: 0.4.0
+Descriptor parsed in: 302 ms
+Descriptor parsed (raw ms): 302
+Plugin size (bytes): 16349
+Verified classes in plugin artifact: 8
+Verification time: 1 m 40 s 868 ms
+Verification time (raw ms): 100868
+
