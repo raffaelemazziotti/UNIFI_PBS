@@ -16,9 +16,325 @@ Many visual pathways are already organized before normal vision begins.
 But the ability to see with adult precision develops gradually and depends on <u>activity, sensory experience and circuit maturation</u>.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_development_grid.jpg
-Newborn-to-adult simulation of visual resolution.
--->
+## Anatomy of the eye and retina
+
+::: {.columns}
+
+![](images/6_exp_visual_path_1.png){
+  width="40%"
+  title="Anatomy of the eye and retina. Light is focused by the cornea and lens onto the retina at the back of the eye. The fovea is a specialized retinal region supporting high visual acuity. The enlarged section shows the layered organization of the retina together with the retinal pigment epithelium (RPE) and choroid. Signals generated in retinal circuits leave the eye through the optic nerve and are transmitted to the brain."
+}
+
+::: {.column width="42%"}
+
+:::{.card}
+Light enters through the `cornea` and `lens` and is focused onto the [retina](https://en.wikipedia.org/wiki/Retina).
+
+The retina is a specialized part of the nervous system that converts light into neural signals.
+:::
+
+:::
+
+::: {.column width="58%"}
+
+:::{.card}
+- `Fovea`: highest visual acuity
+- `Optic nerve`: carries retinal output to the brain
+
+<u>Vision begins with the [transduction](https://en.wikipedia.org/wiki/Transduction){target="_blank"} of light into neural activity in the retina.</u>
+:::
+
+:::
+:::
+
+## The retina performs neural computations
+
+::: {.columns}
+
+![](images/6_exp_visual_path_2.png){
+  width="60%"
+  title="Cellular organization of the retina. Photoreceptors (PR; cones and rods) detect light and transmit signals to bipolar cells (BC). Horizontal cells (HC) provide lateral interactions in the outer retina, while amacrine cells (AC) shape signaling in the inner retina. Retinal ganglion cells (RGC) integrate these inputs, generate action potentials, and send the retinal output to the brain through the optic nerve. The retinal layers shown at right include the outer nuclear layer (ONL), inner nuclear layer (INL), inner plexiform layer (IPL), and ganglion cell layer (GCL)."
+}
+
+::: {.column width="42%"}
+
+:::{.card}
+The retina is not simply a light detector: it is a layered neural circuit that begins processing visual information before it reaches the brain.
+
+- `Photoreceptors` convert light into electrical signals ([cones](https://en.wikipedia.org/wiki/Cone_cell){target="_blank"} and [rods](https://en.wikipedia.org/wiki/Rod_cell){target="_blank"} ).
+
+:::
+
+:::
+
+::: {.column width="58%"}
+
+:::{.card}
+- `Bipolar cells` <u>transmit</u> signals through the retina.
+- `Horizontal cells` <u>integrate</u> activity across neighboring photoreceptors.
+- `Amacrine cells` shape <u>temporal and spatial</u> responses.
+- `Retinal ganglion cells` generate <u>action potentials</u> and form the optic nerve.
+:::
+
+:::
+:::
+
+## From the retina to the visual cortex
+
+::: {.columns}
+
+![](images/6_exp_visual_path.png){
+  width="75%"
+  title="From the retina to the visual cortex. Retinal ganglion cell (RGC) axons form the optic nerve (ON). At the optic chiasm (OC), fibers from the two eyes are partially crossed and then project to the lateral geniculate nucleus (LGN) of the thalamus. From the LGN, thalamocortical projections carry visual information to primary visual cortex. Thus, the main visual pathway from the retina to cortex passes through a thalamic relay."
+}
+
+::: {.column width="42%"}
+
+:::{.card}
+`Retinal ganglion cells` provide the output of the retina.
+
+Their axons:
+
+- form the `optic nerve`
+- partially cross at the `optic chiasm`
+- reach the `LGN`{title="Lateral geniculate nucleus"}
+:::
+
+:::
+
+::: {.column width="58%"}
+
+:::{.card}
+The `LGN` is a nucleus of the <u>thalamus</u> and acts as the major [relay](https://en.wikipedia.org/wiki/Relay){target="_blank"} between the retina and visual cortex.
+
+From the LGN, `thalamocortical projections` carry visual information to the `V1`{title="Visual Cortex"}.
+
+:::
+
+:::
+:::
+
+## How is visual information processed?
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+:::{.card}
+A fundamental concept in sensory systems is the [receptive field](https://en.wikipedia.org/wiki/Receptive_field){target="_blank"}.
+The receptive field of a neuron is the <u>region of sensory space in which a stimulus can modify its activity</u>.
+
+In the retina, signals from many `photoreceptors` are <u>integrated</u> onto a much smaller number of `retinal ganglion cells`.
+:::
+
+:::{.info-box}
+This convergence means that each ganglion cell integrates information from a region of the retina: its `receptive field`.
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![](images/6_exp_retinal_rf.png){
+  width="100%"
+  title="Center-surround receptive fields of retinal ganglion cells. Signals from multiple photoreceptors converge through bipolar, horizontal, and amacrine-cell circuits onto retinal ganglion cells. Each ganglion cell therefore integrates information from a region of the retina that defines its receptive field. ON-center cells are excited by light in the center and inhibited by light in the surround, whereas OFF-center cells show the opposite organization. This antagonistic center-surround structure emphasizes local differences in luminance and visual contrast."
+}
+
+:::{.card}
+Two major organizations are:
+
+- Concentric `ON-center / OFF-surround`
+- Concentric `OFF-center / ON-surround`
+
+
+:::
+
+:::
+:::
+
+## Visual signals are segregated in the LGN
+
+::: {.columns}
+
+::: {.column width="55%"}
+
+:::{.centerimg}
+![](images/6_exp_LGN_segregation.png){
+  width="50%"
+  title="Organization of retinal projections to the lateral geniculate nucleus (LGN). Axons from the nasal retina cross at the optic chiasm, whereas axons from the temporal retina remain on the same side. Inputs from the two eyes then terminate in separate layers of the LGN. In primates, layers 1–2 are magnocellular and layers 3–6 are parvocellular."
+}
+:::
+
+:::{.card}
+
+After leaving the retina, axons of `retinal ganglion cells` form the `optic nerve`.
+
+At the `optic chiasm`:
+
+- fibers from the `nasal retina` <u>cross</u>
+- fibers from the `temporal retina` remain <u>ipsilateral</u>
+
+The signals then reach the `LGN`{title="Lateral geniculate nucleus"} of the thalamus.
+
+:::
+
+
+:::
+
+::: {.column width="45%"}
+
+:::{.info-box}
+
+Inside the `LGN`, information from the two eyes remains <u>segregated into separate layers</u>.
+
+Each LGN neuron therefore receives its main retinal input from one eye.
+
+:::
+
+:::{.info-box}
+
+LGN neurons retain <u>concentric</u> receptive fields similar to those of retinal ganglion cells:
+
+`ON-center / OFF-surround` or `OFF-center / ON-surround`.
+
+<u>The signals from the two eyes are still largely separate at this stage of the visual pathway.</u>
+
+:::
+
+:::
+:::
+
+## From eye segregation to binocular integration
+
+::: {.columns}
+
+::: {.column width="48%"}
+
+:::{.centerimg}
+![](images/6_exp_lgn_v1.png){
+  width="50%"
+}
+:::
+
+::: {.card}
+
+In the `LGN`{title="Lateral geniculate nucleus"}, signals from the two eyes remain <u>segregated</u> and organized in <u>ocular dominance columns</u>.
+
+When these projections reach `V1`{title="Primary visual cortex"}, they initially terminate in eye-specific territories.
+
+Thus, information arriving from the two eyes is still anatomically separated at the first cortical input stage.
+
+:::
+
+:::
+
+::: {.column width="52%"}
+
+::: {.info-box}
+
+Within the visual cortex, however, cortical connections begin to <u>combine information from the two eyes</u>.
+
+V1 neurons can therefore be:
+
+- `monocular contralateral`
+- `monocular ipsilateral`
+- `binocular`
+
+Binocular neurons respond to stimulation of either eye, although one eye may dominate the response.
+
+:::
+
+::: {.card}
+
+Across the population there is usually a <u>contralateral-eye bias</u>: neurons respond more to the eye opposite the recorded hemisphere.
+
+:::
+
+:::
+:::
+
+## Receptive fields change in the visual cortex
+
+::: {.columns}
+
+::: {.column width="47%"}
+
+::: {.card}
+
+Retinal ganglion cells and LGN neurons have approximately circular `center-surround receptive fields`.
+
+In `V1`, many neurons instead respond best to an <u>elongated region of visual space</u>.
+
+:::
+
+::: {.info-box}
+
+Because of this elongated organization, many cortical neurons become selective for the `orientation` of an edge or bar.
+
+A vertical receptive field, for example, responds strongly to a vertical edge but much less to the same edge rotated away from its preferred orientation.
+
+:::
+
+:::
+
+::: {.column width="53%"}
+
+:::{.centerimg}
+![](images/6_exp_v1_cat.mp4){
+  width="100%"
+}
+:::
+
+::: {.info-box}
+As visual information moves into cortex, the <u>level of abstraction increases</u>: neurons begin to represent features such as `orientation`, rather than simply local changes in luminance.
+:::
+
+:::
+:::
+
+## How can an elongated receptive field emerge?
+
+::: {.columns}
+
+::: {.column width="52%"}
+
+:::{.centerimg}
+![](images/6_exp_v1_rf.png){
+  width="100%"
+}
+:::
+
+::: {.card}
+
+`Circular LGN receptive fields` → spatially aligned convergence → `elongated cortical receptive field` → `orientation selectivity`
+
+:::
+
+:::
+
+::: {.column width="48%"}
+
+::: {.card}
+
+A classical model proposed by `Hubel and Wiesel` explains cortical orientation selectivity through <u>convergence</u>.
+
+Several LGN neurons with circular center-surround receptive fields project onto the same cortical neuron.
+
+:::
+
+::: {.info-box}
+
+If those LGN receptive fields are aligned along a common axis, their combined input creates an `elongated receptive field`.
+
+The cortical neuron therefore responds preferentially when a bar or edge activates those inputs simultaneously.
+
+:::
+
+
+:::
+:::
+
+<small>[Classical feedforward model: Hubel & Wiesel 1962](https://pmc.ncbi.nlm.nih.gov/articles/PMC1359523/?utm_source=chatgpt.com){target="_blank"}</small>
 
 ## From circuit formation to sensory function
 

@@ -26,7 +26,7 @@ This is the course program.
 
 :::{.list-box}
 - [Neuroplasticity](5_neuroplasticity.html)
-- [Experience-Dependent Development](5_experience.html)
+- [Experience-Dependent Development](6_experience.html)
 - [Parental Care](6_parental_care.html)
 :::
 

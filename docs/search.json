@@ -1503,5 +1503,68 @@
     "title": "Development of Visual Function",
     "section": "The central idea",
     "text": "The central idea\n\nThe visual system is neither completely predetermined nor constructed from scratch by experience.\n\n\nDevelopment creates an organized initial circuit.\nActivity and sensory experience refine that circuit.\nCritical periods regulate when experience has its strongest effects.\n\n\nThe mature visual system is therefore the product of an interaction between developmental programs, spontaneous activity, sensory experience and plasticity."
+  },
+  {
+    "objectID": "6_experience.html#anatomy-of-the-eye-and-retina",
+    "href": "6_experience.html#anatomy-of-the-eye-and-retina",
+    "title": "Development of Visual Function",
+    "section": "Anatomy of the eye and retina",
+    "text": "Anatomy of the eye and retina\n\n\n\nLight enters through the cornea and lens and is focused onto the retina.\nThe retina is a specialized part of the nervous system that converts light into neural signals.\n\n\n\n\nFovea: highest visual acuity\nOptic nerve: carries retinal output to the brain\n\nVision begins with the transduction of light into neural activity in the retina."
+  },
+  {
+    "objectID": "6_experience.html#anatomy-of-the-eye-and-retina-1",
+    "href": "6_experience.html#anatomy-of-the-eye-and-retina-1",
+    "title": "Development of Visual Function",
+    "section": "Anatomy of the eye and retina",
+    "text": "Anatomy of the eye and retina\n\n\n\nLight enters through the cornea and lens and is focused onto the retina.\nThe retina is a specialized part of the nervous system that converts light into neural signals.\n\n\n\n\nFovea: highest visual acuity\nOptic nerve: carries retinal output to the brain\n\nVision begins with the transduction of light into neural activity in the retina."
+  },
+  {
+    "objectID": "6_experience.html#the-retina-performs-neural-computations",
+    "href": "6_experience.html#the-retina-performs-neural-computations",
+    "title": "Development of Visual Function",
+    "section": "The retina performs neural computations",
+    "text": "The retina performs neural computations\n\n\n\nThe retina is not simply a light detector: it is a layered neural circuit that begins processing visual information before it reaches the brain.\n\nPhotoreceptors convert light into electrical signals (cones and rods ).\n\n\n\n\n\nBipolar cells transmit signals through the retina.\nHorizontal cells integrate activity across neighboring photoreceptors.\nAmacrine cells shape temporal and spatial responses.\nRetinal ganglion cells generate action potentials and form the optic nerve."
+  },
+  {
+    "objectID": "6_experience.html#from-the-retina-to-the-visual-cortex",
+    "href": "6_experience.html#from-the-retina-to-the-visual-cortex",
+    "title": "Development of Visual Function",
+    "section": "From the retina to the visual cortex",
+    "text": "From the retina to the visual cortex\n\n\n\nRetinal ganglion cells provide the output of the retina.\nTheir axons:\n\nform the optic nerve\npartially cross at the optic chiasm\nreach the LGN\n\n\n\n\nThe LGN is a nucleus of the thalamus and acts as the major relay between the retina and visual cortex.\nFrom the LGN, thalamocortical projections carry visual information to the V1."
+  },
+  {
+    "objectID": "6_experience.html#how-is-visual-information-processed",
+    "href": "6_experience.html#how-is-visual-information-processed",
+    "title": "Development of Visual Function",
+    "section": "How is visual information processed?",
+    "text": "How is visual information processed?\n\n\n\nA fundamental concept in sensory systems is the receptive field. The receptive field of a neuron is the region of sensory space in which a stimulus can modify its activity.\nIn the retina, signals from many photoreceptors are integrated onto a much smaller number of retinal ganglion cells.\n\n\nThis convergence means that each ganglion cell integrates information from a region of the retina: its receptive field.\n\n\n\n\nTwo major organizations are:\n\nConcentric ON-center / OFF-surround\nConcentric OFF-center / ON-surround"
+  },
+  {
+    "objectID": "6_experience.html#visual-signals-are-segregated-in-the-lgn",
+    "href": "6_experience.html#visual-signals-are-segregated-in-the-lgn",
+    "title": "Development of Visual Function",
+    "section": "Visual signals are segregated in the LGN",
+    "text": "Visual signals are segregated in the LGN\n\n\n\n\n\n\nAfter leaving the retina, axons of retinal ganglion cells form the optic nerve.\nAt the optic chiasm:\n\nfibers from the nasal retina cross\nfibers from the temporal retina remain ipsilateral\n\nThe signals then reach the LGN of the thalamus.\n\n\n\nInside the LGN, information from the two eyes remains segregated into separate layers.\nEach LGN neuron therefore receives its main retinal input from one eye.\n\n\nLGN neurons retain concentric receptive fields similar to those of retinal ganglion cells:\nON-center / OFF-surround or OFF-center / ON-surround.\nThe signals from the two eyes are still largely separate at this stage of the visual pathway."
+  },
+  {
+    "objectID": "6_experience.html#from-eye-segregation-to-binocular-integration",
+    "href": "6_experience.html#from-eye-segregation-to-binocular-integration",
+    "title": "Development of Visual Function",
+    "section": "From eye segregation to binocular integration",
+    "text": "From eye segregation to binocular integration\n\n\n\n\n\n\nIn the LGN, signals from the two eyes remain segregated and organized in ocular dominance columns.\nWhen these projections reach V1, they initially terminate in eye-specific territories.\nThus, information arriving from the two eyes is still anatomically separated at the first cortical input stage.\n\n\n\nWithin the visual cortex, however, cortical connections begin to combine information from the two eyes.\nV1 neurons can therefore be:\n\nmonocular contralateral\nmonocular ipsilateral\nbinocular\n\nBinocular neurons respond to stimulation of either eye, although one eye may dominate the response.\n\n\nAcross the population there is usually a contralateral-eye bias: neurons respond more to the eye opposite the recorded hemisphere."
+  },
+  {
+    "objectID": "6_experience.html#receptive-fields-change-in-the-visual-cortex",
+    "href": "6_experience.html#receptive-fields-change-in-the-visual-cortex",
+    "title": "Development of Visual Function",
+    "section": "Receptive fields change in the visual cortex",
+    "text": "Receptive fields change in the visual cortex\n\n\n\nRetinal ganglion cells and LGN neurons have approximately circular center-surround receptive fields.\nIn V1, many neurons instead respond best to an elongated region of visual space.\n\n\nBecause of this elongated organization, many cortical neurons become selective for the orientation of an edge or bar.\nA vertical receptive field, for example, responds strongly to a vertical edge but much less to the same edge rotated away from its preferred orientation.\n\n\n\nVideo\n\n\nAs visual information moves into cortex, the level of abstraction increases: neurons begin to represent features such as orientation, rather than simply local changes in luminance."
+  },
+  {
+    "objectID": "6_experience.html#how-can-an-elongated-receptive-field-emerge",
+    "href": "6_experience.html#how-can-an-elongated-receptive-field-emerge",
+    "title": "Development of Visual Function",
+    "section": "How can an elongated receptive field emerge?",
+    "text": "How can an elongated receptive field emerge?\n\n\n\n\n\n\nCircular LGN receptive fields → spatially aligned convergence → elongated cortical receptive field → orientation selectivity\n\n\n\nA classical model proposed by Hubel and Wiesel explains cortical orientation selectivity through convergence.\nSeveral LGN neurons with circular center-surround receptive fields project onto the same cortical neuron.\n\n\nIf those LGN receptive fields are aligned along a common axis, their combined input creates an elongated receptive field.\nThe cortical neuron therefore responds preferentially when a bar or edge activates those inputs simultaneously.\n\n\nClassical feedforward model: Hubel & Wiesel 1962"
   }
 ]
