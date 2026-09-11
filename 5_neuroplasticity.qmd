@@ -950,7 +950,17 @@ Because motor practice has already potentiated the circuit, further potentiation
 `Two-photon microscopy`
 
 :::{.centerimg}
-![](images/5_plast_2p_imaging_thorn.mp4){width="40%"}
+
+<iframe
+  width="60%"
+  height="50%"
+  src="https://www.youtube.com/embed/qraznXOo0kA"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 :::
 
 :::
@@ -959,7 +969,17 @@ Because motor practice has already potentiated the circuit, further potentiation
 `Two-photon spines dynamics`
 
 :::{.centerimg}
-![](images/5_plast_2p_imaging_svoboda.mp4){width="40%"}
+
+<iframe
+  width="60%"
+  height="50%"
+  src="https://www.youtube.com/embed/FVnIk3Q0twE"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 :::
 
 :::
@@ -971,7 +991,17 @@ Because motor practice has already potentiated the circuit, further potentiation
 `Optogenetics`
 
 :::{.centerimg}
-![](images/5_plast_optogenetics_deisseroth.mp4){width="40%"}
+
+<iframe
+  width="60%"
+  height="50%"
+  src="https://www.youtube.com/embed/jKfCr-OQyFI"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 :::
 
 :::
@@ -980,7 +1010,17 @@ Because motor practice has already potentiated the circuit, further potentiation
 `Viral vectors`
 
 :::{.centerimg}
-![](images/5_plast_viral_vectors.mp4){width="50%"}
+
+<iframe
+  width="60%"
+  height="50%"
+  src="https://www.youtube.com/embed/XaucQ-2T_qQ"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 :::
 
 :::

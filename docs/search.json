@@ -1257,7 +1257,7 @@
     "href": "5_neuroplasticity.html#studying-synaptic-plasticity-in-animal-models",
     "title": "Neuroplasticity",
     "section": "Studying synaptic plasticity in animal models",
-    "text": "Studying synaptic plasticity in animal models\n\n\n\nTwo-photon microscopy\n\nVideo\n\n\n\nTwo-photon spines dynamics\n\nVideo\n\n\n\n\nOptogenetics\n\nVideo\n\n\n\nViral vectors\n\nVideo\n\n\n\n\nAnimal models make it possible to measure, manipulate and visualize plasticity at cellular and synaptic resolution."
+    "text": "Studying synaptic plasticity in animal models\n\n\n\nTwo-photon microscopy\n\n\n\n\n\n\nTwo-photon spines dynamics\n\n\n\n\n\n\n\nOptogenetics\n\n\n\n\n\n\nViral vectors\n\n\n\n\n\n\n\nAnimal models make it possible to measure, manipulate and visualize plasticity at cellular and synaptic resolution."
   },
   {
     "objectID": "5_neuroplasticity.html#self-check",
@@ -1279,5 +1279,229 @@
     "title": "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo (Modulo 1)",
     "section": "If you wish to make a mind, you must first invent the brain",
     "text": "If you wish to make a mind, you must first invent the brain\n\n\n\nVideo\n\n\n\nCarl Sagan’s famous line, “If you wish to make an apple pie from scratch, you must first invent the universe,” comes from the 1980 television series Cosmos: A Personal Voyage. The quote is humorous, but it expresses a deeper scientific idea: nothing exists in isolation. An apple pie depends on ingredients such as apples, flour, sugar, and water, and each of these depends on long chains of physical, chemical, biological, and cosmic processes involving the Earth, the Sun, evolution, and the elements from which matter is made. The same reasoning can be applied to the mind. Psychological functions emerge from the activity of the brain and the biological processes that shaped the nervous system. To understand the mind, we therefore also need to understand how the brain is built and how it changes."
+  },
+  {
+    "objectID": "6_experience.html#development-of-visual-function",
+    "href": "6_experience.html#development-of-visual-function",
+    "title": "Development of Visual Function",
+    "section": "Development of visual function",
+    "text": "Development of visual function\n\nThe visual system is a useful model for understanding how development and experience interact to build neural function.\n\n\nMany visual pathways are already organized before normal vision begins.\nBut the ability to see with adult precision develops gradually and depends on activity, sensory experience and circuit maturation."
+  },
+  {
+    "objectID": "6_experience.html#from-circuit-formation-to-sensory-function",
+    "href": "6_experience.html#from-circuit-formation-to-sensory-function",
+    "title": "Development of Visual Function",
+    "section": "From circuit formation to sensory function",
+    "text": "From circuit formation to sensory function\n\n\n\nEarlier we saw how neural circuits are assembled through:\n\naxon guidance\nsynaptogenesis\nactivity-dependent refinement\nmyelination\n\n\n\n\nThe next question is functional:\nWhen does an assembled sensory circuit become capable of mature perception?\n\n\nThe visual system shows that circuit formation and functional maturation are overlapping but distinct processes."
+  },
+  {
+    "objectID": "6_experience.html#the-main-visual-pathway",
+    "href": "6_experience.html#the-main-visual-pathway",
+    "title": "Development of Visual Function",
+    "section": "The main visual pathway",
+    "text": "The main visual pathway\n\nVisual information travels through an ordered pathway:\nretina -&gt; dLGN -&gt; primary visual cortex (V1)\n\n\n\nThe retina does not simply transmit an image. It already transforms light into structured neural activity.\nThe dorsal lateral geniculate nucleus (dLGN) relays and organizes retinal input before it reaches V1.\n\nIn binocular regions of V1, signals originating from the two eyes converge onto cortical circuits.\nThis organization later becomes central for understanding ocular dominance and binocular vision."
+  },
+  {
+    "objectID": "6_experience.html#neural-activity-begins-before-vision",
+    "href": "6_experience.html#neural-activity-begins-before-vision",
+    "title": "Development of Visual Function",
+    "section": "Neural activity begins before vision",
+    "text": "Neural activity begins before vision\n\nBefore normal visual experience begins, the immature retina is already electrically active.\n\n\nGroups of neighboring retinal ganglion cells become active together in spontaneous patterns called retinal waves.\n\n\nThese waves propagate through developing visual pathways and provide patterned activity before the animal can use vision normally.\n\nMooney et al., 1996"
+  },
+  {
+    "objectID": "6_experience.html#retinal-waves-provide-structured-information",
+    "href": "6_experience.html#retinal-waves-provide-structured-information",
+    "title": "Development of Visual Function",
+    "section": "Retinal waves provide structured information",
+    "text": "Retinal waves provide structured information\n\n\n\nNearby retinal neurons tend to be active at similar times.\nTheir activity is therefore correlated in space and time.\n\n\n\nActivity from different retinal regions is less strongly correlated.\nThis creates information about which neurons belong together even before patterned vision.\n\n\n\nSpontaneous activity can therefore contribute to refinement of retinotopic and eye-specific connections before sensory experience begins."
+  },
+  {
+    "objectID": "6_experience.html#a-hebbian-principle-before-vision",
+    "href": "6_experience.html#a-hebbian-principle-before-vision",
+    "title": "Development of Visual Function",
+    "section": "A Hebbian principle before vision",
+    "text": "A Hebbian principle before vision\n\nThe logic is closely related to the Hebbian plasticity discussed previously:\ncorrelated activity -&gt; stabilization of related connections\nuncorrelated activity -&gt; weaker competition for common targets\n\n\nThe developing visual system does not wait passively for the eyes to open. Endogenous neural activity helps organize the circuit first."
+  },
+  {
+    "objectID": "6_experience.html#the-visual-system-at-birth",
+    "href": "6_experience.html#the-visual-system-at-birth",
+    "title": "Development of Visual Function",
+    "section": "The visual system at birth",
+    "text": "The visual system at birth\n\n\n\nAnatomically advanced\n\nmajor visual pathways are present\nretina and dLGN are organized\nthalamocortical projections have reached V1\nsubstantial cortical organization is already present\n\n\n\n\nFunctionally immature\n\nlow visual acuity\nlow contrast sensitivity\nimmature focusing\nimmature control of eye movements\n\n\n\n\nA circuit can be present before it performs at the adult level."
+  },
+  {
+    "objectID": "6_experience.html#visual-acuity-develops-gradually",
+    "href": "6_experience.html#visual-acuity-develops-gradually",
+    "title": "Development of Visual Function",
+    "section": "Visual acuity develops gradually",
+    "text": "Visual acuity develops gradually\n\nVisual acuity is the ability to resolve fine spatial detail.\n\n\n\n\nAt birth, spatial resolution is much poorer than in adults.\nAcuity improves rapidly during infancy and continues to mature through childhood.\n\n\n\nThis improvement is not caused by a single mechanism.\nBoth peripheral and central parts of the visual system are developing."
+  },
+  {
+    "objectID": "6_experience.html#peripheral-limits-the-developing-fovea",
+    "href": "6_experience.html#peripheral-limits-the-developing-fovea",
+    "title": "Development of Visual Function",
+    "section": "Peripheral limits: the developing fovea",
+    "text": "Peripheral limits: the developing fovea\n\n\n\nThe newborn fovea is still immature.\nCompared with the adult fovea, cones are more widely spaced and their morphology is less specialized for high-resolution vision.\n\n\nAs foveal cones become more densely packed, the retinal image can be sampled with greater spatial precision.\n\n\n\nAcuity is therefore partly limited by the sampling resolution of the retina."
+  },
+  {
+    "objectID": "6_experience.html#central-limits-dlgn-and-visual-cortex",
+    "href": "6_experience.html#central-limits-dlgn-and-visual-cortex",
+    "title": "Development of Visual Function",
+    "section": "Central limits: dLGN and visual cortex",
+    "text": "Central limits: dLGN and visual cortex\n\nImproved retinal sampling is only part of visual development.\n\n\n\nCentral maturation includes:\n\nrefinement of receptive fields\nchanges in synaptic number and strength\ndevelopment of cortical inhibition\nmaturation of intracortical connections\ncontinued myelination\n\n\n\nThe quality of vision depends on the entire processing pathway.\nRetinal maturation and cortical maturation proceed together."
+  },
+  {
+    "objectID": "6_experience.html#contrast-sensitivity-also-develops",
+    "href": "6_experience.html#contrast-sensitivity-also-develops",
+    "title": "Development of Visual Function",
+    "section": "Contrast sensitivity also develops",
+    "text": "Contrast sensitivity also develops\n\nContrast sensitivity describes the ability to detect differences in luminance between an object and its background.\n\n\nNewborns require relatively strong contrast. Sensitivity improves substantially during infancy and continues to mature across childhood.\n\n\nDevelopment therefore changes not only the smallest detail that can be resolved, but also how weak a visual signal can be detected."
+  },
+  {
+    "objectID": "6_experience.html#focusing-and-orienting-also-mature",
+    "href": "6_experience.html#focusing-and-orienting-also-mature",
+    "title": "Development of Visual Function",
+    "section": "Focusing and orienting also mature",
+    "text": "Focusing and orienting also mature\n\n\n\nAccommodation\nNewborns have limited ability to adjust focus accurately across distances.\nAccommodation improves markedly during the first months of life.\n\n\n\nVisual orienting\nControl of gaze also improves rapidly.\nSmooth pursuit becomes evident during the first months and becomes progressively more accurate and predictive.\n\n\n\nVisual development is therefore the maturation of perception and the actions used to sample the visual world."
+  },
+  {
+    "objectID": "6_experience.html#if-wiring-begins-before-vision-what-is-experience-for",
+    "href": "6_experience.html#if-wiring-begins-before-vision-what-is-experience-for",
+    "title": "Development of Visual Function",
+    "section": "If wiring begins before vision, what is experience for?",
+    "text": "If wiring begins before vision, what is experience for?\n\nMolecular guidance and spontaneous activity can establish a surprisingly organized initial circuit.\n\n\nBut normal visual experience is required to refine, stabilize and calibrate that circuit for the statistics of the real visual world.\n\n\nThis is where developmental neuroplasticity becomes especially important."
+  },
+  {
+    "objectID": "6_experience.html#critical-periods",
+    "href": "6_experience.html#critical-periods",
+    "title": "Development of Visual Function",
+    "section": "Critical periods",
+    "text": "Critical periods\n\nA critical period is a developmental window during which particular neural circuits are especially sensitive to experience.\n\n\nExperience during this period can produce large and persistent changes in circuit organization and function.\nThe same manipulation later in life usually produces a much smaller effect.\n\n\nThe end of a critical period does not mean that plasticity disappears completely. It means that the rules and magnitude of plasticity change with maturation."
+  },
+  {
+    "objectID": "6_experience.html#human-evidence-congenital-cataract",
+    "href": "6_experience.html#human-evidence-congenital-cataract",
+    "title": "Development of Visual Function",
+    "section": "Human evidence: congenital cataract",
+    "text": "Human evidence: congenital cataract\n\n\n\nA dense congenital cataract prevents patterned visual information from reaching the retina normally during early development.\n\n\nRemoving the cataract early generally allows substantially better visual development than restoring patterned vision only after prolonged deprivation.\n\n\n\nThe outcome depends not only on whether visual input is restored, but also on when it is restored."
+  },
+  {
+    "objectID": "6_experience.html#amblyopia-abnormal-experience-changes-cortical-function",
+    "href": "6_experience.html#amblyopia-abnormal-experience-changes-cortical-function",
+    "title": "Development of Visual Function",
+    "section": "Amblyopia: abnormal experience changes cortical function",
+    "text": "Amblyopia: abnormal experience changes cortical function\n\nAmblyopia is reduced visual function caused by abnormal visual experience during development, not simply by damage to the retina.\n\n\n\nCommon developmental causes include:\n\nunilateral cataract\nstrabismus\nstrong unequal refractive error between the eyes\n\n\n\nIf the two eyes provide persistently unequal or mismatched input, cortical circuits become biased toward the more effective input.\n\n\n\nTreatment is generally most effective when normal visual input is restored early, although clinically useful plasticity can persist beyond the classical critical period."
+  },
+  {
+    "objectID": "6_experience.html#hubel-and-wiesel-monocular-deprivation",
+    "href": "6_experience.html#hubel-and-wiesel-monocular-deprivation",
+    "title": "Development of Visual Function",
+    "section": "Hubel and Wiesel: monocular deprivation",
+    "text": "Hubel and Wiesel: monocular deprivation\n\n\nA classic test of experience-dependent development\n\n\n\n\n\nManipulation\n\nOne eye of a young animal is closed during a period of early visual development.\n\n\n\n\nMeasurement\n\nAfter deprivation, responses of individual neurons in V1 are measured separately through each eye.\n\n\n\n\nResult\n\nMany cortical neurons become dominated by the nondeprived eye and respond weakly or not at all to the deprived eye.\n\n\n\nWiesel & Hubel, 1963"
+  },
+  {
+    "objectID": "6_experience.html#ocular-dominance-in-normal-visual-cortex",
+    "href": "6_experience.html#ocular-dominance-in-normal-visual-cortex",
+    "title": "Development of Visual Function",
+    "section": "Ocular dominance in normal visual cortex",
+    "text": "Ocular dominance in normal visual cortex\n\nMany neurons in binocular visual cortex can be driven by both eyes, although individual neurons may prefer one eye.\n\n\nIn species such as cats and primates, geniculocortical inputs from the two eyes form alternating ocular dominance columns, particularly in layer IV of V1.\n\n\nNormal binocular vision therefore depends on coordinated convergence of the two eyes onto cortical circuits."
+  },
+  {
+    "objectID": "6_experience.html#monocular-deprivation-changes-cortical-responses",
+    "href": "6_experience.html#monocular-deprivation-changes-cortical-responses",
+    "title": "Development of Visual Function",
+    "section": "Monocular deprivation changes cortical responses",
+    "text": "Monocular deprivation changes cortical responses\n\n\nBefore deprivation, V1 contains neurons spanning a broad range of ocular preferences, including many binocular neurons.\n\nAfter deprivation during the critical period, the distribution shifts dramatically toward the open eye.\n\n\nA few days of abnormal experience during the critical period can substantially reorganize cortical function."
+  },
+  {
+    "objectID": "6_experience.html#functional-change-becomes-anatomical-change",
+    "href": "6_experience.html#functional-change-becomes-anatomical-change",
+    "title": "Development of Visual Function",
+    "section": "Functional change becomes anatomical change",
+    "text": "Functional change becomes anatomical change\n\nMonocular deprivation does not only alter neuronal responses.\nThe cortical territory and geniculocortical axon arbors associated with the deprived eye become smaller, while connections serving the open eye gain relative territory.\n\n\nExperience can therefore modify the physical organization of developing sensory connections."
+  },
+  {
+    "objectID": "6_experience.html#why-is-monocular-deprivation-so-powerful",
+    "href": "6_experience.html#why-is-monocular-deprivation-so-powerful",
+    "title": "Development of Visual Function",
+    "section": "Why is monocular deprivation so powerful?",
+    "text": "Why is monocular deprivation so powerful?\n\nThe effect is not explained simply by a lack of visual stimulation.\n\n\nDuring monocular deprivation, the two eyes compete under strongly unequal conditions:\nopen eye -&gt; effective patterned activity\ndeprived eye -&gt; weak or abnormal drive\n\n\nActivity-dependent competition strengthens the effective pathway and weakens the ineffective one.\nRelative activity matters."
+  },
+  {
+    "objectID": "6_experience.html#strabismus-reveals-another-rule",
+    "href": "6_experience.html#strabismus-reveals-another-rule",
+    "title": "Development of Visual Function",
+    "section": "Strabismus reveals another rule",
+    "text": "Strabismus reveals another rule\n\n\n\nIn strabismus, both eyes can remain active, but the two retinal images are spatially misaligned.\n\n\n\nActivity from corresponding points in the two eyes is therefore less consistently correlated.\n\n\n\nThe result is a strong reduction in binocular cortical neurons and impaired stereoscopic vision.\nNormal binocular development requires coordinated activity from the two eyes."
+  },
+  {
+    "objectID": "6_experience.html#correlation-matters-not-activity-alone",
+    "href": "6_experience.html#correlation-matters-not-activity-alone",
+    "title": "Development of Visual Function",
+    "section": "Correlation matters, not activity alone",
+    "text": "Correlation matters, not activity alone\n\n\nControlling the temporal relationship between the two eyes\n\n\n\n\n\nQuestion\n\nIs activity sufficient, or must activity from the two eyes be temporally coordinated?\n\n\n\n\nManipulation\n\nRetinal activity is experimentally controlled so that the two optic pathways are activated either synchronously or asynchronously.\n\n\n\n\nResult\n\nSynchronous activity favors binocular convergence, whereas strongly asynchronous activity favors more monocular organization.\n\n\n\n\nThe temporal relationship between inputs provides information about which connections should be associated."
+  },
+  {
+    "objectID": "6_experience.html#critical-period-plasticity-changes-with-age",
+    "href": "6_experience.html#critical-period-plasticity-changes-with-age",
+    "title": "Development of Visual Function",
+    "section": "Critical-period plasticity changes with age",
+    "text": "Critical-period plasticity changes with age\n\nThe response to the same sensory manipulation depends strongly on developmental age.\n\n\nDuring the critical period, brief monocular deprivation can produce a large ocular-dominance shift.\nBefore the window is fully open or after it has largely closed, the same deprivation produces a smaller effect.\n\n\nCritical periods therefore reflect developmental regulation of the capacity for experience-dependent circuit change."
+  },
+  {
+    "objectID": "6_experience.html#sensory-experience-helps-regulate-the-window",
+    "href": "6_experience.html#sensory-experience-helps-regulate-the-window",
+    "title": "Development of Visual Function",
+    "section": "Sensory experience helps regulate the window",
+    "text": "Sensory experience helps regulate the window\n\nThe timing of critical-period closure is not determined by chronological age alone.\n\n\nIn animal models, rearing in darkness can delay aspects of visual cortical maturation and prolong the period during which strong experience-dependent plasticity can be expressed.\n\n\nExperience is both a driver of plasticity and one of the signals that contributes to circuit maturation."
+  },
+  {
+    "objectID": "6_experience.html#inhibition-helps-open-and-regulate-critical-period-plasticity",
+    "href": "6_experience.html#inhibition-helps-open-and-regulate-critical-period-plasticity",
+    "title": "Development of Visual Function",
+    "section": "Inhibition helps open and regulate critical-period plasticity",
+    "text": "Inhibition helps open and regulate critical-period plasticity\n\nOne of the major developmental changes in visual cortex is maturation of GABAergic inhibition.\n\n\nExperiments manipulating GABAergic transmission showed that a sufficient level of cortical inhibition is required for normal ocular-dominance plasticity to emerge.\n\n\nThe critical period is therefore not simply a time when the cortex is “more excitable”. It depends on maturation of a specific excitatory-inhibitory circuit state.\n\nHensch et al., 1998 | Fagiolini & Hensch, 2000"
+  },
+  {
+    "objectID": "6_experience.html#bdnf-can-change-the-timing-of-the-critical-period",
+    "href": "6_experience.html#bdnf-can-change-the-timing-of-the-critical-period",
+    "title": "Development of Visual Function",
+    "section": "BDNF can change the timing of the critical period",
+    "text": "BDNF can change the timing of the critical period\n\nBDNF promotes maturation of cortical inhibitory circuitry during development.\n\n\nWhen BDNF expression is increased precociously in mouse visual cortex:\n\nGABAergic maturation occurs earlier\nvisual functions mature earlier\nsusceptibility to monocular deprivation shifts to an earlier age\n\n\n\nChanging circuit maturation can therefore shift the timing of developmental plasticity.\n\nHuang et al., 1999"
+  },
+  {
+    "objectID": "6_experience.html#the-mature-circuit-becomes-harder-to-modify",
+    "href": "6_experience.html#the-mature-circuit-becomes-harder-to-modify",
+    "title": "Development of Visual Function",
+    "section": "The mature circuit becomes harder to modify",
+    "text": "The mature circuit becomes harder to modify\n\nCritical-period closure also involves the accumulation of molecular and structural constraints that stabilize mature circuits.\n\n\nPerineuronal nets (PNNs) are extracellular-matrix structures that accumulate around subsets of neurons, particularly many parvalbumin interneurons.\n\n\nThese structures are associated with increased circuit stability and reduced juvenile-like plasticity."
+  },
+  {
+    "objectID": "6_experience.html#removing-a-structural-brake-can-restore-plasticity",
+    "href": "6_experience.html#removing-a-structural-brake-can-restore-plasticity",
+    "title": "Development of Visual Function",
+    "section": "Removing a structural brake can restore plasticity",
+    "text": "Removing a structural brake can restore plasticity\n\n\nReopening ocular-dominance plasticity in adult visual cortex\n\n\n\n\n\nManipulation\n\nChondroitinase ABC is used to degrade chondroitin-sulfate proteoglycans in the mature extracellular matrix.\n\n\n\n\nTest\n\nAdult animals then undergo monocular deprivation, which normally produces little ocular-dominance shift after the critical period.\n\n\n\n\nResult\n\nOcular-dominance plasticity reappears in the adult visual cortex.\n\n\n\n\nCritical-period closure is therefore partly an actively maintained stable state, not simply the irreversible disappearance of plasticity.\n\nPizzorusso et al., 2002"
+  },
+  {
+    "objectID": "6_experience.html#is-sensory-experience-instructive",
+    "href": "6_experience.html#is-sensory-experience-instructive",
+    "title": "Development of Visual Function",
+    "section": "Is sensory experience instructive?",
+    "text": "Is sensory experience instructive?\n\nDoes sensory experience merely maintain circuits that are already specified, or can the identity of the input help instruct what a cortical area becomes?\n\n\nIn developing ferrets, retinal projections can be experimentally redirected toward the auditory thalamus.\nNeurons in auditory cortex then develop visual response properties, including organized visual receptive fields.\n\n\nThe experiment shows that sensory input can instruct important functional properties of developing cortex, although cortical identity is not determined by sensory input alone.\n\nSur, Garraghty & Roe, 1988 | Roe et al., 1990"
+  },
+  {
+    "objectID": "6_experience.html#development-is-a-sequence-of-constraints-and-experience",
+    "href": "6_experience.html#development-is-a-sequence-of-constraints-and-experience",
+    "title": "Development of Visual Function",
+    "section": "Development is a sequence of constraints and experience",
+    "text": "Development is a sequence of constraints and experience\n\n\n\nBefore vision\nMolecular cues and spontaneous activity establish the initial architecture.\n\n\nEarly visual experience\nCorrelated sensory activity refines and stabilizes connections.\n\n\n\nCritical period\nExperience can produce especially large changes in circuit organization.\n\n\nMature cortex\nPlasticity persists, but increasing inhibitory and structural constraints favor stability."
+  },
+  {
+    "objectID": "6_experience.html#the-central-idea",
+    "href": "6_experience.html#the-central-idea",
+    "title": "Development of Visual Function",
+    "section": "The central idea",
+    "text": "The central idea\n\nThe visual system is neither completely predetermined nor constructed from scratch by experience.\n\n\nDevelopment creates an organized initial circuit.\nActivity and sensory experience refine that circuit.\nCritical periods regulate when experience has its strongest effects.\n\n\nThe mature visual system is therefore the product of an interaction between developmental programs, spontaneous activity, sensory experience and plasticity."
   }
 ]
