@@ -336,124 +336,280 @@ The cortical neuron therefore responds preferentially when a bar or edge activat
 
 <small>[Classical feedforward model: Hubel & Wiesel 1962](https://pmc.ncbi.nlm.nih.gov/articles/PMC1359523/?utm_source=chatgpt.com){target="_blank"}</small>
 
-## From circuit formation to sensory function
+## Two major streams of visual processing
+
+After `V1`{title="Primary visual cortex"}, visual information is distributed through at least two major cortical processing streams.
+As visual signals move beyond V1, the <u>level of abstraction continues to increase</u>: different cortical networks extract increasingly complex information about objects, space, and actions.
+
 
 ::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.card}
+
+`Dorsal stream`
+
+Projects mainly toward the `parietal cortex`.
+
+Processes information related to:
+
+- `motion`
+- `spatial position`
+- visually guided `action`
+
+Often summarized as the <u>"where / how" pathway</u>.
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.card}
+
+`Ventral stream`
+
+Projects mainly toward the `temporal cortex`.
+
+Processes information related to:
+
+- `shape`
+- `color`
+- `object identity`
+
+Often summarized as the <u>"what" pathway</u>.
+
+:::
+
+:::
+:::
+
+## Two major streams of visual processing
+
+:::{.centerimg}
+![](images/6_exp_higher_order.png){
+  width="80%"
+  title="Dorsal and ventral streams of visual processing. After early processing in primary visual cortex (V1) and adjacent visual areas, visual information is distributed along two major cortical pathways. The dorsal stream projects toward parietal cortex and is especially involved in spatial processing, motion, and visually guided action. The ventral stream projects toward temporal cortex and is especially involved in processing object form and identity. The two pathways interact, but they emphasize different aspects of visual information."
+}
+:::
+
+## Visual acuity
+
+::: {layout-ncol=2}
+
+![](images/6_exp_acuity.png){width="90%"
+  title="Spatial resolution of two nearby point stimuli. Light from each point is focused by the lens onto the retina, producing two intensity distributions rather than perfectly sharp points. The two stimuli can be resolved as separate only if their retinal images activate sufficiently distinct photoreceptor populations. If the images overlap too strongly relative to receptor spacing, they are perceived as a single stimulus. Visual acuity therefore depends on both the optical quality of the eye and the spatial sampling of the retina."
+}
+
+:::{.centerimg}
+![](images/6_exp_acuity_res.png){width="40%"}
+:::
+
+:::
+
+::: {.columns}
+
 ::: {.column width="48%"}
 
 ::: {.card}
-Earlier we saw how neural circuits are assembled through:
 
-- axon guidance
-- synaptogenesis
-- activity-dependent refinement
-- myelination
-:::
+`Visual acuity` is the ability to <u>resolve fine spatial detail</u>.
+Two nearby points can be distinguished only if the visual system preserves enough spatial information to represent them separately.
+
+Acuity is highest at the `fovea` and decreases toward the peripheral visual field.
 
 :::
+
+:::
+
 ::: {.column width="52%"}
 
-::: {.card}
-The next question is functional:
+::: {.info-box}
 
-<u>When does an assembled sensory circuit become capable of mature perception?</u>
-:::
+High acuity depends on several levels of the visual pathway:
 
-::: {.card}
-The visual system shows that circuit formation and functional maturation are <u>overlapping but distinct processes</u>.
-:::
+- dense spacing of `photoreceptors` in the fovea
+- low convergence from photoreceptors to RGC
+- small `receptive fields`
 
 :::
+
+:::
 :::
 
-## The main visual pathway
+## Spatial frequency
+
+`Spatial frequency` describes <u>how rapidly luminance changes across space</u>.
+
+For a grating, it is usually expressed as `cycles per degree (c/deg)` of visual angle.
+
+
+![](images/6_exp_spatial_frequncy.png){width="100%"}
+
 
 ::: {.info-box}
-Visual information travels through an ordered pathway:
-
-`retina` -> `dLGN` -> `primary visual cortex (V1)`
+The higher the spatial frequency, the <u>finer the spatial detail</u> that the visual system must resolve.
 :::
+
+## Contrast sensitivity
 
 ::: {.columns}
-::: {.column}
 
-The retina does not simply transmit an image. It already transforms light into structured neural activity.
+::: {.column width="48%"}
 
-The `dorsal lateral geniculate nucleus (dLGN)` relays and organizes retinal input before it reaches V1.
+::: {.card}
 
-:::
-::: {.column}
-
-In binocular regions of V1, signals originating from the two eyes converge onto cortical circuits.
-
-This organization later becomes central for understanding `ocular dominance` and `binocular vision`.
+`Contrast sensitivity` is the ability to detect <u>differences in luminance</u>.
+A stimulus may be large enough to resolve but still invisible if its contrast is too low.
 
 :::
-:::
-
-<!-- IMAGE SUGGESTION: images/6_visual_pathway.png
-Eye -> optic nerve/chiasm -> dLGN -> V1, showing ipsilateral and contralateral retinal projections.
--->
-
-## Neural activity begins before vision
 
 ::: {.info-box}
-Before normal visual experience begins, the immature retina is already <u>electrically active</u>.
+
+Contrast sensitivity depends strongly on `spatial frequency`:
+Human vision is usually most sensitive to <u>intermediate spatial frequencies</u>.
+
+:::
+
+:::
+
+::: {.column width="52%"}
+
+:::{.centerimg}
+![](images/6_exp_contrast.png){width="60%"}
 :::
 
 ::: {.card}
-Groups of neighboring retinal ganglion cells become active together in spontaneous patterns called `retinal waves`.
+
+The `contrast sensitivity function (CSF)` describes the minimum contrast needed to detect gratings of different spatial frequencies.
+
+`Visual acuity` mainly describes the finest resolvable detail, whereas `contrast sensitivity` describes visual performance across a much wider range of spatial scales.
+
 :::
 
-::: {.card}
-These waves propagate through developing visual pathways and provide patterned activity before the animal can use vision normally.
+:::
 :::
 
-<small>[Mooney et al., 1996](https://pubmed.ncbi.nlm.nih.gov/8938119/)</small>
-
-<!-- IMAGE SUGGESTION: images/6_visual_retinal_waves.png
-Raster plot or calcium-imaging sequence showing a retinal wave.
--->
-
-## Retinal waves provide structured information
+## Depth perception
 
 ::: {.columns}
-::: {.column}
+
+::: {.column width="50%"}
 
 ::: {.card}
-Nearby retinal neurons tend to be active at similar times.
 
-Their activity is therefore <u>correlated in space and time</u>.
+`Binocular cues` (near)
+
+Use information provided by the <u>two eyes</u>.
+The most important is `retinal disparity`: because the eyes occupy slightly different positions, the image projected onto each retina is not identical.
+
+The visual system <u>compares</u> these two images to estimate `depth`.
+
 :::
 
 :::
-::: {.column}
+
+::: {.column width="50%"}
+
+![](images/6_exp_disparity.jpg){width="40%"}
+
+:::
+:::
+
+::: {.info-box}
+Depth perception is therefore reconstructed from several visual cues rather than directly measured by a single receptor.
+:::
+
+## Depth perception
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+
+
+::: {layout-ncol=2}
+![](images/6_exp_monocular_cat.gif){width="100%"}
+
+![](images/6_exp_monocular_cat2.gif){width="100%"}
+
+:::
+
+
+
+:::
+
+::: {.column width="50%"}
 
 ::: {.card}
-Activity from different retinal regions is less strongly correlated.
 
-This creates information about <u>which neurons belong together</u> even before patterned vision.
+`Monocular cues` (far)
+
+Depth can also be estimated from information available to <u>one eye alone</u>.
+
+These cues are particularly important for objects that are <u>farther away</u>, where binocular disparity becomes small.
+
 :::
 
 :::
 :::
 
 ::: {.info-box}
-Spontaneous activity can therefore contribute to refinement of retinotopic and eye-specific connections before sensory experience begins.
+Depth perception is therefore reconstructed from several visual cues rather than directly measured by a single receptor.
 :::
 
-## A Hebbian principle before vision
+## Monocular cues to depth
+
+The visual system can infer three-dimensional structure from patterns contained in a single retinal image.
+
+::: {.columns}
+
+::: {.column width="50%"}
 
 ::: {.card}
-The logic is closely related to the Hebbian plasticity discussed previously:
 
-`correlated activity` -> stabilization of related connections
+`Perspective`
 
-`uncorrelated activity` -> weaker competition for common targets
+Parallel lines converge with distance and objects become progressively smaller in the retinal image.
+
 :::
 
-::: {.info-box}
-The developing visual system does not wait passively for the eyes to open. <u>Endogenous neural activity helps organize the circuit first.</u>
+::: {.card}
+
+`Occlusion`
+
+![](images/6_exp_monocuar_clues.png){width="20%"}
+
+If one object blocks part of another, the blocking object is interpreted as being <u>closer</u>.
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.card}
+
+`Relative size`
+
+For objects of similar expected size, the object producing the smaller retinal image is generally interpreted as <u>farther away</u>.
+
+:::
+
+::: {.card}
+
+`Shading`
+
+![](images/6_exp_monocular_shading.jpg){width="20%"}
+
+The distribution of light and shadow provides information about three-dimensional shape.
+
+The same pattern can appear `convex` or `concave` depending on the assumed direction of illumination.
+
+:::
+
+:::
 :::
 
 ## The visual system at birth
@@ -489,142 +645,236 @@ The developing visual system does not wait passively for the eyes to open. <u>En
 <u>A circuit can be present before it performs at the adult level.</u>
 :::
 
-## Visual acuity develops gradually
+## Development of visual acuity
+
+At birth, `visual acuity` is approximately <u>40 times poorer than in adults</u>.
+Its development is limited by both `peripheral` and `central` maturation.
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.card}
+
+`Peripheral factors`
+
+The retina is still immature at birth.
+
+A major limitation is the maturation of `photoreceptors`, especially in the fovea:
+
+- photoreceptors become more densely packed
+- outer segments elongate
+- retinal sampling becomes more precise
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.card}
+
+`Central factors`
+
+Visual acuity also depends on maturation of the `LGN`{title="Lateral geniculate nucleus"} and `V1`{title="Primary visual cortex"}.
+
+During development:
+
+- inhibitory circuits mature
+- receptive fields become <u>smaller and more selective</u>
+- cortical processing becomes more spatially precise
+
+:::
+
+:::
+:::
 
 ::: {.info-box}
-`Visual acuity` is the ability to resolve fine spatial detail.
+The increase in visual acuity during development reflects the combined maturation of the `retina`, `thalamus`, and `visual cortex`.
 :::
+
+## Visual acuity progressively matures during childhood
+
+::: {.columns}
+
+::: {.column width="40%"}
+
+::: {.card}
+
+Visual acuity improves very rapidly during the `first year of life`, but development continues for several years.
+
+By approximately `5-6 years of age`, high-contrast visual acuity approaches <u>adult-like values</u>, although the exact age depends on the task and measurement used.
+
+:::
+
+::: {.info-box}
+
+The developmental improvement reflects the progressive maturation of the entire visual pathway:
+
+`retina` -> `LGN` -> `V1`
+
+:::
+
+:::
+
+::: {.column width="60%"}
+
+![](images/6_exp_acuity_devel.jpg){width="100%"}
+
+
+
+:::
+:::
+
+## Photoreceptors mature after birth
+
+::: {.columns}
+::: {.column}
+
+![](images/6_exp_photoreceptors.png)
+
+:::{.info-box}
+By approximately `4-6 years of age`, foveal cone density and morphology approach adult values.
+:::
+
+
+:::
+::: {.column}
+
+::: {.card}
+
+During development, especially in the `fovea`, photoreceptors:
+
+- become <u>smaller and more densely packed</u>
+- elongate their outer segments
+- become more regularly organized
+
+This increases the number of photoreceptors sampling a given region of visual space.
+:::
+
+::: {.info-box}
+Denser photoreceptor packing provides <u>finer spatial sampling</u> of the retinal image and contributes to the developmental improvement in visual acuity.
+:::
+
+:::
+:::
+
+## Neural activity begins before vision
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+Before normal visual experience begins, the immature retina is already <u>electrically active</u>.
+:::
+
+::: {.card}
+Groups of neighboring retinal ganglion cells become active together in spontaneous patterns called `retinal waves`.
+:::
+
+::: {.card}
+These waves propagate through developing visual pathways and provide patterned activity before the animal can use vision normally.
+:::
+
+<small>[Mooney et al., 1996](https://pubmed.ncbi.nlm.nih.gov/8938119/){target="_blank"}</small>
+
+:::
+::: {.column}
+
+![](images/6_exp_retinal_waves.mp4)
+
+:::
+:::
+
+## Retinal waves provide structured information
 
 ::: {.columns}
 ::: {.column}
 
 ::: {.card}
-At birth, spatial resolution is much poorer than in adults.
+Nearby retinal neurons tend to be active at similar times.
 
-Acuity improves rapidly during infancy and continues to mature through childhood.
+Their activity is therefore <u>correlated in space and time</u>.
 :::
 
 :::
 ::: {.column}
 
 ::: {.card}
-This improvement is not caused by a single mechanism.
+Activity from different retinal regions is less strongly correlated.
 
-Both <u>peripheral</u> and <u>central</u> parts of the visual system are developing.
+This creates information about <u>which neurons belong together</u> even before patterned vision.
 :::
 
 :::
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_acuity_development.png
-Developmental curve of visual acuity from birth through childhood.
--->
+::: {.info-box}
+Spontaneous activity can therefore contribute to refinement of retinotopic and eye-specific connections before sensory experience begins.
+:::
 
-## Peripheral limits: the developing fovea
+## Retinal activity helps organize thalamic connections
 
 ::: {.columns}
-::: {.column}
 
-::: {.card}
-The newborn fovea is still immature.
+::: {.column width="48%"}
 
-Compared with the adult fovea, cones are more widely spaced and their morphology is less specialized for high-resolution vision.
-:::
-
-::: {.card}
-As foveal cones become more densely packed, the retinal image can be sampled with greater spatial precision.
-:::
-
-:::
-::: {.column}
 
 ::: {.info-box}
-Acuity is therefore partly limited by the <u>sampling resolution of the retina</u>.
-:::
 
-<!-- IMAGE SUGGESTION: images/6_visual_fovea_cones.jpg
-Comparison of neonatal and adult foveal cone density.
--->
+If spontaneous activity in one eye is blocked with [TTX](https://en.wikipedia.org/wiki/Tetrodotoxin){target="_blank"}, the normal eye-specific projection from that retina to the `LGN`{title="Lateral geniculate nucleus"} fails to develop correctly.
 
-:::
-:::
-
-## Central limits: dLGN and visual cortex
-
-::: {.info-box}
-Improved retinal sampling is only part of visual development.
-:::
-
-::: {.columns}
-::: {.column}
-
-Central maturation includes:
-
-- refinement of receptive fields
-- changes in synaptic number and strength
-- development of cortical inhibition
-- maturation of intracortical connections
-- continued myelination
-
-:::
-::: {.column}
-
-::: {.card}
-The quality of vision depends on the entire processing pathway.
-
-<u>Retinal maturation and cortical maturation proceed together.</u>
-:::
-
-:::
-:::
-
-## Contrast sensitivity also develops
-
-::: {.info-box}
-`Contrast sensitivity` describes the ability to detect differences in luminance between an object and its background.
 :::
 
 ::: {.card}
-Newborns require relatively strong contrast. Sensitivity improves substantially during infancy and continues to mature across childhood.
-:::
 
-::: {.card}
-Development therefore changes not only the smallest detail that can be resolved, but also <u>how weak a visual signal can be detected</u>.
-:::
+In the normal condition, inputs from the two eyes form distinct territories in the thalamus.
 
-<!-- IMAGE SUGGESTION: images/6_visual_contrast_sensitivity.png
-Contrast-sensitivity functions at different developmental ages.
--->
+After `TTX` injection into one eye, the territory normally occupied by that eye is strongly reduced or can disappear.
 
-## Focusing and orienting also mature
+<u>Spontaneous retinal activity is therefore required for normal refinement and segregation of retinogeniculate connections.</u>
 
-::: {.columns}
-::: {.column}
-
-::: {.card}
-`Accommodation`
-
-Newborns have limited ability to adjust focus accurately across distances.
-
-Accommodation improves markedly during the first months of life.
 :::
 
 :::
-::: {.column}
 
-::: {.card}
-`Visual orienting`
+::: {.column width="52%"}
 
-Control of gaze also improves rapidly.
-
-Smooth pursuit becomes evident during the first months and becomes progressively more accurate and predictive.
-:::
+![](images/6_exp_rw_thal.png)
 
 :::
+:::
+
+## Contrast sensitivity develops during childhood
+
+:::{.columns}
+:::{.column}
+
+:::{.card}
+During development, the `contrast sensitivity function` progressively changes:
+
+- sensitivity to contrast <u>increases</u>
+- progressively higher `spatial frequencies` become detectable
+- the range of spatial frequencies processed efficiently becomes broader
 :::
 
 ::: {.info-box}
-Visual development is therefore the maturation of <u>perception and the actions used to sample the visual world</u>.
+Development does not simply increase visual acuity: it improves sensitivity across the entire range of spatial frequencies.
+:::
+
+:::
+:::{.column}
+
+![](images/6_exp_contrast_dev.jpeg){width="70%"
+  title="Development of the contrast sensitivity function across childhood. Contrast sensitivity is very low during the first months of life and improves progressively with age. Sensitivity to low and intermediate spatial frequencies develops earlier, whereas sensitivity to higher spatial frequencies continues to improve for several years. By later childhood, the contrast sensitivity function approaches the adult pattern, with highest sensitivity at intermediate spatial frequencies and reduced sensitivity at the highest frequencies."
+}
+
+::: {.info-box}
+The maturation of contrast sensitivity depends on the development of `inhibitory circuitry` in V1.
+Inhibition does not simply suppress visual activity: it <u>refines the representation</u>, helping cortical neurons discriminate contrast more precisely.
+:::
+
+:::
 :::
 
 ## If wiring begins before vision, what is experience for?

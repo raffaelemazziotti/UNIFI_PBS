@@ -1306,7 +1306,7 @@
     "href": "6_experience.html#neural-activity-begins-before-vision",
     "title": "Development of Visual Function",
     "section": "Neural activity begins before vision",
-    "text": "Neural activity begins before vision\n\nBefore normal visual experience begins, the immature retina is already electrically active.\n\n\nGroups of neighboring retinal ganglion cells become active together in spontaneous patterns called retinal waves.\n\n\nThese waves propagate through developing visual pathways and provide patterned activity before the animal can use vision normally.\n\nMooney et al., 1996"
+    "text": "Neural activity begins before vision\n\n\n\nBefore normal visual experience begins, the immature retina is already electrically active.\n\n\nGroups of neighboring retinal ganglion cells become active together in spontaneous patterns called retinal waves.\n\n\nThese waves propagate through developing visual pathways and provide patterned activity before the animal can use vision normally.\n\nMooney et al., 1996\n\nVideo"
   },
   {
     "objectID": "6_experience.html#retinal-waves-provide-structured-information",
@@ -1566,5 +1566,103 @@
     "title": "Development of Visual Function",
     "section": "How can an elongated receptive field emerge?",
     "text": "How can an elongated receptive field emerge?\n\n\n\n\n\n\nCircular LGN receptive fields → spatially aligned convergence → elongated cortical receptive field → orientation selectivity\n\n\n\nA classical model proposed by Hubel and Wiesel explains cortical orientation selectivity through convergence.\nSeveral LGN neurons with circular center-surround receptive fields project onto the same cortical neuron.\n\n\nIf those LGN receptive fields are aligned along a common axis, their combined input creates an elongated receptive field.\nThe cortical neuron therefore responds preferentially when a bar or edge activates those inputs simultaneously.\n\n\nClassical feedforward model: Hubel & Wiesel 1962"
+  },
+  {
+    "objectID": "6_experience.html#two-major-streams-of-visual-processing",
+    "href": "6_experience.html#two-major-streams-of-visual-processing",
+    "title": "Development of Visual Function",
+    "section": "Two major streams of visual processing",
+    "text": "Two major streams of visual processing\nAfter V1, visual information is distributed through at least two major cortical processing streams. As visual signals move beyond V1, the level of abstraction continues to increase: different cortical networks extract increasingly complex information about objects, space, and actions.\n\n\n\nDorsal stream\nProjects mainly toward the parietal cortex.\nProcesses information related to:\n\nmotion\nspatial position\nvisually guided action\n\nOften summarized as the “where / how” pathway.\n\n\n\nVentral stream\nProjects mainly toward the temporal cortex.\nProcesses information related to:\n\nshape\ncolor\nobject identity\n\nOften summarized as the “what” pathway."
+  },
+  {
+    "objectID": "6_experience.html#two-major-streams-of-visual-processing-1",
+    "href": "6_experience.html#two-major-streams-of-visual-processing-1",
+    "title": "Development of Visual Function",
+    "section": "Two major streams of visual processing",
+    "text": "Two major streams of visual processing"
+  },
+  {
+    "objectID": "6_experience.html#visual-acuity",
+    "href": "6_experience.html#visual-acuity",
+    "title": "Development of Visual Function",
+    "section": "Visual acuity",
+    "text": "Visual acuity\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisual acuity is the ability to resolve fine spatial detail. Two nearby points can be distinguished only if the visual system preserves enough spatial information to represent them separately.\nAcuity is highest at the fovea and decreases toward the peripheral visual field.\n\n\n\nHigh acuity depends on several levels of the visual pathway:\n\ndense spacing of photoreceptors in the fovea\nlow convergence from photoreceptors to RGC\nsmall receptive fields"
+  },
+  {
+    "objectID": "6_experience.html#contrast-sensitivity",
+    "href": "6_experience.html#contrast-sensitivity",
+    "title": "Development of Visual Function",
+    "section": "Contrast sensitivity",
+    "text": "Contrast sensitivity\n\n\n\nContrast sensitivity is the ability to detect differences in luminance. A stimulus may be large enough to resolve but still invisible if its contrast is too low.\n\n\nContrast sensitivity depends strongly on spatial frequency: Human vision is usually most sensitive to intermediate spatial frequencies.\n\n\n\n\n\n\nThe contrast sensitivity function (CSF) describes the minimum contrast needed to detect gratings of different spatial frequencies.\nVisual acuity mainly describes the finest resolvable detail, whereas contrast sensitivity describes visual performance across a much wider range of spatial scales."
+  },
+  {
+    "objectID": "6_experience.html#spatial-frequency",
+    "href": "6_experience.html#spatial-frequency",
+    "title": "Development of Visual Function",
+    "section": "Spatial frequency",
+    "text": "Spatial frequency\nSpatial frequency describes how rapidly luminance changes across space.\nFor a grating, it is usually expressed as cycles per degree (c/deg) of visual angle.\n\n\nThe higher the spatial frequency, the finer the spatial detail that the visual system must resolve."
+  },
+  {
+    "objectID": "6_experience.html#depth-perception",
+    "href": "6_experience.html#depth-perception",
+    "title": "Development of Visual Function",
+    "section": "Depth perception",
+    "text": "Depth perception\n\n\n\nBinocular cues (near)\nUse information provided by the two eyes. The most important is retinal disparity: because the eyes occupy slightly different positions, the image projected onto each retina is not identical.\nThe visual system compares these two images to estimate depth.\n\n\n\n\n\nDepth perception is therefore reconstructed from several visual cues rather than directly measured by a single receptor."
+  },
+  {
+    "objectID": "6_experience.html#monocular-cues-to-depth",
+    "href": "6_experience.html#monocular-cues-to-depth",
+    "title": "Development of Visual Function",
+    "section": "Monocular cues to depth",
+    "text": "Monocular cues to depth\nThe visual system can infer three-dimensional structure from patterns contained in a single retinal image.\n\n\n\nPerspective\nParallel lines converge with distance and objects become progressively smaller in the retinal image.\n\n\nOcclusion\n\nIf one object blocks part of another, the blocking object is interpreted as being closer.\n\n\n\nRelative size\nFor objects of similar expected size, the object producing the smaller retinal image is generally interpreted as farther away.\n\n\nShading\n\nThe distribution of light and shadow provides information about three-dimensional shape.\nThe same pattern can appear convex or concave depending on the assumed direction of illumination."
+  },
+  {
+    "objectID": "6_experience.html#depth-perception-1",
+    "href": "6_experience.html#depth-perception-1",
+    "title": "Development of Visual Function",
+    "section": "Depth perception",
+    "text": "Depth perception\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMonocular cues (far)\nDepth can also be estimated from information available to one eye alone.\nThese cues are particularly important for objects that are farther away, where binocular disparity becomes small.\n\n\n\nDepth perception is therefore reconstructed from several visual cues rather than directly measured by a single receptor."
+  },
+  {
+    "objectID": "6_experience.html#development-of-visual-acuity",
+    "href": "6_experience.html#development-of-visual-acuity",
+    "title": "Development of Visual Function",
+    "section": "Development of visual acuity",
+    "text": "Development of visual acuity\nAt birth, visual acuity is approximately 40 times poorer than in adults. Its development is limited by both peripheral and central maturation.\n\n\n\nPeripheral factors\nThe retina is still immature at birth.\nA major limitation is the maturation of photoreceptors, especially in the fovea:\n\nphotoreceptors become more densely packed\nouter segments elongate\nretinal sampling becomes more precise\n\n\n\n\nCentral factors\nVisual acuity also depends on maturation of the LGN and V1.\nDuring development:\n\ninhibitory circuits mature\nreceptive fields become smaller and more selective\ncortical processing becomes more spatially precise\n\n\n\n\nThe increase in visual acuity during development reflects the combined maturation of the retina, thalamus, and visual cortex."
+  },
+  {
+    "objectID": "6_experience.html#visual-acuity-progressively-matures-during-childhood",
+    "href": "6_experience.html#visual-acuity-progressively-matures-during-childhood",
+    "title": "Development of Visual Function",
+    "section": "Visual acuity progressively matures during childhood",
+    "text": "Visual acuity progressively matures during childhood\n\n\n\nVisual acuity improves very rapidly during the first year of life, but development continues for several years.\nBy approximately 5-6 years of age, high-contrast visual acuity approaches adult-like values, although the exact age depends on the task and measurement used.\n\n\nThe developmental improvement reflects the progressive maturation of the entire visual pathway:\nretina -&gt; LGN -&gt; V1"
+  },
+  {
+    "objectID": "6_experience.html#retinal-activity-helps-organize-thalamic-connections",
+    "href": "6_experience.html#retinal-activity-helps-organize-thalamic-connections",
+    "title": "Development of Visual Function",
+    "section": "Retinal activity helps organize thalamic connections",
+    "text": "Retinal activity helps organize thalamic connections\n\n\n\nIf spontaneous activity in one eye is blocked with TTX, the normal eye-specific projection from that retina to the LGN fails to develop correctly.\n\n\nIn the normal condition, inputs from the two eyes form distinct territories in the thalamus.\nAfter TTX injection into one eye, the territory normally occupied by that eye is strongly reduced or can disappear.\nSpontaneous retinal activity is therefore required for normal refinement and segregation of retinogeniculate connections."
+  },
+  {
+    "objectID": "6_experience.html#photoreceptors-mature-after-birth",
+    "href": "6_experience.html#photoreceptors-mature-after-birth",
+    "title": "Development of Visual Function",
+    "section": "Photoreceptors mature after birth",
+    "text": "Photoreceptors mature after birth\n\n\n\n\nBy approximately 4-6 years of age, foveal cone density and morphology approach adult values.\n\n\n\nDuring development, especially in the fovea, photoreceptors:\n\nbecome smaller and more densely packed\nelongate their outer segments\nbecome more regularly organized\n\nThis increases the number of photoreceptors sampling a given region of visual space.\n\n\nDenser photoreceptor packing provides finer spatial sampling of the retinal image and contributes to the developmental improvement in visual acuity."
+  },
+  {
+    "objectID": "6_experience.html#contrast-sensitivity-develops-during-childhood",
+    "href": "6_experience.html#contrast-sensitivity-develops-during-childhood",
+    "title": "Development of Visual Function",
+    "section": "Contrast sensitivity develops during childhood",
+    "text": "Contrast sensitivity develops during childhood\n\n\n\nDuring development, the contrast sensitivity function progressively changes:\n\nsensitivity to contrast increases\nprogressively higher spatial frequencies become detectable\nthe range of spatial frequencies processed efficiently becomes broader\n\n\n\nDevelopment does not simply increase visual acuity: it improves sensitivity across the entire range of spatial frequencies.\n\n\n\n\nThe maturation of contrast sensitivity depends on the development of inhibitory circuitry in V1. Inhibition does not simply suppress visual activity: it refines the representation, helping cortical neurons discriminate contrast more precisely."
+  },
+  {
+    "objectID": "6_experience.html#inhibitory-circuits-refine-visual-processing",
+    "href": "6_experience.html#inhibitory-circuits-refine-visual-processing",
+    "title": "Development of Visual Function",
+    "section": "Inhibitory circuits refine visual processing",
+    "text": "Inhibitory circuits refine visual processing\nThe maturation of contrast sensitivity also depends on the development of inhibitory circuitry in visual cortex.\nEarly in development, cortical responses are relatively broad and weakly regulated by inhibition.\nAs GABAergic inhibition matures:\n\n\nImmature cortex\n\nbroader responses\nweaker contrast gain control\nless selective receptive fields\ngreater responses to non-preferred inputs\n\n\nMature cortex\n\nstronger inhibitory interactions\nimproved contrast gain control\nsharper spatial and orientation tuning\nmore selective neural responses\n\n\n\nInhibition does not simply suppress visual activity: it refines the representation, helping cortical neurons discriminate contrast, spatial frequency, and orientation more precisely."
   }
 ]
