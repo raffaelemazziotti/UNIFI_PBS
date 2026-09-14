@@ -29,8 +29,8 @@ Circuit formation requires neurons to:
 :::
 ::: {.column}
 
-![](images/3_cf_invitro.gif){width="100%" title="In vitro cultured neurons"}
-![](images/3_cf_syn.gif){width="50%" title="Dynamics of synaptic formation"}
+![](images/3_circuit_development/figures/3_cf_invitro.gif){width="100%" title="In vitro cultured neurons"}
+![](images/3_circuit_development/figures/3_cf_syn.gif){width="50%" title="Dynamics of synaptic formation"}
 
 :::
 :::
@@ -97,7 +97,7 @@ The structure that performs this exploration is the [growth cone](https://en.wik
 :::
 ::: {.column}
 
-![](images/3_cf_growth_cone.jpg){width="90%"}
+![](images/3_circuit_development/figures/3_cf_growth_cone.jpg){width="90%"}
 
 :::
 :::
@@ -127,8 +127,8 @@ Signals detected at the growth cone are translated into <u>cytoskeletal changes<
 :::
 ::: {.column}
 
-![](images/3_cf_growth_cone2.jpg){width="100%"}
-![](images/3_cf_growth_cone_fluo.jpg){width="100%"}
+![](images/3_circuit_development/figures/3_cf_growth_cone2.jpg){width="100%"}
+![](images/3_circuit_development/figures/3_cf_growth_cone_fluo.jpg){width="100%"}
 
 :::
 :::
@@ -184,7 +184,7 @@ Allows growing axons to adhere to and follow pre-existing axonal pathways.
 :::
 ::: {.column}
 
-![](images/3_cf_growth_cone_decision.png){width="100%"}
+![](images/3_circuit_development/figures/3_cf_growth_cone_decision.png){width="100%"}
 
 :::
 :::
@@ -220,7 +220,7 @@ Depending on the competence of the growth cone, netrin can also act as a <u>repu
 :::
 ::: {.column}
 
-![](images/3_cf_growth_cone_decision.png){width="100%"}
+![](images/3_circuit_development/figures/3_cf_growth_cone_decision.png){width="100%"}
 
 :::
 :::
@@ -254,8 +254,8 @@ They possess molecular information that biases them toward <u>specific target lo
 ::: {.column width="45%"}
 
 
-![](images/3_cf_sperry_map.png){width="50%" title="Retinotopic map in the Tectum."}
-![](images/3_cf_sperry_v1_map.png){width="60%" title="Maps are everywhere in the brain. This for example is the retinotopic map in V1."}
+![](images/3_circuit_development/figures/3_cf_sperry_map.png){width="50%" title="Retinotopic map in the Tectum."}
+![](images/3_circuit_development/figures/3_cf_sperry_v1_map.png){width="60%" title="Maps are everywhere in the brain. This for example is the retinotopic map in V1."}
 
 
 :::
@@ -296,7 +296,7 @@ Because the eye had been rotated, the regenerated anatomical map produced system
 :::
 ::: {.column width="45%"}
 
-![](images/3_cf_sperry_frog.jpg){width="80%" title="Frog optic nerve axons can regenerate and re-establish central connections after injury. In humans, optic nerve axons generally fail to regenerate sufficiently to restore vision."}
+![](images/3_circuit_development/figures/3_cf_sperry_frog.jpg){width="80%" title="Frog optic nerve axons can regenerate and re-establish central connections after injury. In humans, optic nerve axons generally fail to regenerate sufficiently to restore vision."}
 
 :::
 :::
@@ -348,13 +348,13 @@ Topographic maps can be generated using <u>graded molecular signals</u>, rather 
 
 ::: {layout-ncol=2}
 
-![](images/3_cf_maps_somatosensory.jpg){width="100%" title="Homunculus in the somatosensory cortex."}
+![](images/3_circuit_development/figures/3_cf_maps_somatosensory.jpg){width="100%" title="Homunculus in the somatosensory cortex."}
 
-![](images/3_cf_maps_tonotopy.jpg){width="100%" title="Tonotopic organization in A1"}
+![](images/3_circuit_development/figures/3_cf_maps_tonotopy.jpg){width="100%" title="Tonotopic organization in A1"}
 
 :::
 
-![](images/3_cf_maps_whiskers.jpg){width="45%" title="Whiskers map in mice."}
+![](images/3_circuit_development/figures/3_cf_maps_whiskers.jpg){width="45%" title="Whiskers map in mice."}
 
 
 :::
@@ -399,7 +399,7 @@ Different levels of receptor expression therefore produce different preferred te
 :::
 :::{.column}
 
-![](images/3_cf_maps_ephrins_retina.jpg){width="80%" title="Localization of EphB Receptors and Ephrin-Bs in Developing Retina."}
+![](images/3_circuit_development/figures/3_cf_maps_ephrins_retina.jpg){width="80%" title="Localization of EphB Receptors and Ephrin-Bs in Developing Retina."}
 
 :::
 :::
@@ -465,7 +465,7 @@ Binding to extracellular molecules activates intracellular pathways that influen
 :::
 ::: {.column}
 
-![](images/3_cf_growth_cone.mp4){width="100%" autoplay="true"
+![](images/3_circuit_development/video/3_cf_growth_cone.mp4){width="100%" autoplay="true"
   muted="true"
   loop="true"}
 
@@ -496,7 +496,7 @@ This greatly reduces the number of independent navigational decisions required t
 :::
 ::: {.column}
 
-![](images/3_cf_growth_cone_pioneer.jpg){width="100%"}
+![](images/3_circuit_development/figures/3_cf_growth_cone_pioneer.jpg){width="100%"}
 
 :::
 :::
@@ -561,7 +561,7 @@ After reaching that region, the axon can change its molecular state and respond 
 :::
 ::: {.column}
 
-![](images/3_cf_growth_cone_cross_not_cross.png){width="60%"}
+![](images/3_circuit_development/figures/3_cf_growth_cone_cross_not_cross.png){width="60%"}
 
 ::: {.card}
 An intermediate target therefore does not have to be the final destination.
@@ -642,7 +642,7 @@ The process includes:
 ::: {.column}
 
 
-![](images/3_cf_synaptogenesis.png){width="38%"}
+![](images/3_circuit_development/figures/3_cf_synaptogenesis.png){width="38%"}
 
 :::
 :::
@@ -706,7 +706,7 @@ Together, these three components form the functional cholinergic synapse between
 :::
 ::: {.column}
 
-![](images/3_cf_neuromuscular_junction.png){width="100%"}
+![](images/3_circuit_development/figures/3_cf_neuromuscular_junction.png){width="100%"}
 
 
 :::
@@ -744,7 +744,7 @@ When the nerve regenerates, motor axons preferentially re-form presynaptic termi
 :::
 ::: {.column width="52%"}
 
-![](images/3_cf_neuromuscular_experiment.png){
+![](images/3_circuit_development/figures/3_cf_neuromuscular_experiment.png){
   width="100%"
   title="Regeneration experiments at the neuromuscular junction show that the synaptic basal lamina preserves information about the location of the original synapse. When muscle regenerates within the preserved basal lamina sheath, postsynaptic specializations preferentially reappear at the old synaptic site. Conversely, regenerating motor axons preferentially contact the synaptic region of the preserved basal lamina and differentiate into nerve terminals there."
 }
@@ -783,7 +783,7 @@ These molecules help maintain the <u>spatial organization</u> of the synapse.
 :::
 ::: {.column}
 
-![](images/3_cf_basal_lamina.png){width="70%"
+![](images/3_circuit_development/figures/3_cf_basal_lamina.png){width="70%"
   title="Basal lamina of the neuromuscular junction. The synaptic basal lamina lies between the motor nerve terminal and the muscle fiber and has a specialized molecular composition. It contains laminins, type IV collagen, agrin, acetylcholinesterase (AChE), neuregulin and other extracellular-matrix molecules. AChE = acetylcholinesterase, which breaks down acetylcholine; agrin helps organize the postsynaptic specialization and clustering of acetylcholine receptors; laminins and collagen IV provide structural organization and also contribute to signaling and synaptic stability. The molecular composition differs between the synaptic and extrasynaptic basal lamina, helping define the precise location of the neuromuscular junction."}
 
 
@@ -813,7 +813,7 @@ The result is a transition from a relatively diffuse distribution of receptors t
 :::
 ::: {.column}
 
-![](images/3_cf_agrin_musk.png){width="100%"}
+![](images/3_circuit_development/figures/3_cf_agrin_musk.png){width="100%"}
 
 :::
 :::
@@ -840,7 +840,7 @@ Eventually, each muscle fiber is normally innervated by a single motor neuron.
 :::
 ::: {.column width="55%"}
 
-![](images/3_cf_transient_polyinnervation.png){
+![](images/3_circuit_development/figures/3_cf_transient_polyinnervation.png){
   width="100%"
   title="Activity-dependent refinement at the neuromuscular junction. Immature muscle fibers are initially innervated by several motor axons, a condition called transient polyinnervation. During maturation, competition between inputs leads to stabilization of some branches and elimination of others, leaving a single motor neuron innervating each muscle fiber. Local blockade of acetylcholine receptors (AChRs) causes presynaptic branches contacting the less active region to withdraw, showing that synaptic stabilization and elimination depend on activity."
 }
@@ -914,7 +914,7 @@ For a long time, their structure could be just <u>inferred</u>, but not directly
 
 
 ::: {.centerimg}
-![](images/3_cf_syn_cajal.png){width="65%"
+![](images/3_circuit_development/figures/3_cf_syn_cajal.png){width="65%"
   title="Golgi staining of human cortex. This technique reveals the morphology and organization of neurons and their processes, but individual synaptic contacts cannot be resolved with conventional light microscopy."
 }
 :::
@@ -922,11 +922,11 @@ For a long time, their structure could be just <u>inferred</u>, but not directly
 
 ::: {layout-ncol=2}
 
-![](images/3_cf_syn_electron_micro.png){width="30%"
+![](images/3_circuit_development/figures/3_cf_syn_electron_micro.png){width="30%"
   title="Electron micrograph of a chemical synapse. The presynaptic terminal contains numerous synaptic vesicles and is separated from the postsynaptic membrane by a narrow synaptic cleft."
 }
 
-![](images/3_cf_syn_electron_micro2.png){width="30%"
+![](images/3_circuit_development/figures/3_cf_syn_electron_micro2.png){width="30%"
   title="Electron micrograph of a chemical synapse showing the presynaptic terminal, synaptic vesicles and mitochondria. Electron microscopy allows direct visualization of synaptic ultrastructure."
 }
 
@@ -987,7 +987,7 @@ The same postsynaptic neuron can receive different classes of inputs at distinct
 
 ::: 
 ::: {.column}
-![](images/3_cf_syn_types.png){
+![](images/3_circuit_development/figures/3_cf_syn_types.png){
   width="100%"
  title="Different types of synaptic contacts classified according to the neuronal compartment that is contacted. Axosomatic synapses contact the cell body, axodendritic synapses contact dendrites, and axoaxonic synapses contact another axon, often near the axon initial segment or a presynaptic terminal. Less common contacts include dendrodendritic synapses between dendrites. The functional effect of a synapse depends not only on the neurotransmitter released but also on the precise subcellular location of the contact."
 }
@@ -1016,7 +1016,7 @@ Examples:
 :::
 ::: {.column}
 
-![](images/3_cf_syn_specificity.png){width="65%"
+![](images/3_circuit_development/figures/3_cf_syn_specificity.png){width="65%"
 title="SST: yellow, PV: green, PV Chandelier: cyan, Pyramidal: red"
 }
 
@@ -1049,7 +1049,7 @@ The neuron therefore contains an internal molecular map that can help incoming a
 :::
 ::: {.column}
 
-![](images/3_cf_syn_cerebellar_basket.png){width="9 5%"
+![](images/3_circuit_development/figures/3_cf_syn_cerebellar_basket.png){width="9 5%"
 title="AIS: axon initial segment, NF186: Neurofascin, AnkyrinG is a protein that mediate the attachment of integral membrane proteins to the membrane "
 }
 
@@ -1078,7 +1078,7 @@ The presence of glial signals can strongly increase the number of synaptic conta
 :::
 ::: {.column}
 
-![](images/3_cf_syn_glia.png){width="9 5%"
+![](images/3_circuit_development/figures/3_cf_syn_glia.png){width="9 5%"
   title="Astrocytes promote synapse formation and maturation. GluR2/3 labels AMPA-type glutamate receptors, while PSD-95 is a postsynaptic density scaffold protein. Colocalized puncta indicate postsynaptic specializations. Neurons cultured with glia show many more GluR2/3-positive puncta per cell than neurons cultured without glia, indicating that glial signals strongly promote the formation of excitatory synapses."}
 
 :::
@@ -1106,7 +1106,7 @@ Trans-synaptic adhesion systems such as `neurexins` and `neuroligins` contribute
 :::
 ::: {.column}
 
-![](images/3_cf_syn_trainsinaptic.png){width="85%"
+![](images/3_circuit_development/figures/3_cf_syn_trainsinaptic.png){width="85%"
   title="Molecular organization of a developing synapse. Presynaptic β-neurexin interacts across the synaptic cleft with postsynaptic neuroligin, helping align the two sides of the synapse. On the presynaptic side, neurexin is associated with proteins involved in vesicle release and active-zone organization, including CASK, Mint and Munc18. On the postsynaptic side, neuroligin associates with scaffold proteins such as PSD-95, which organize glutamate receptors including NMDA and AMPA receptors. Neurexin–neuroligin adhesion therefore contributes to the coordinated assembly of presynaptic and postsynaptic specializations."
 }
 
@@ -1138,7 +1138,7 @@ The <u>timing differs across brain regions</u>: primary sensory areas generally 
 :::
 ::: {.column}
 
-![](images/3_cf_syn_pruning.png){width="100%"
+![](images/3_circuit_development/figures/3_cf_syn_pruning.png){width="100%"
 }
 
 :::
@@ -1183,7 +1183,7 @@ Myelination allows `rapid` and `reliable` [saltatory conduction](https://en.wiki
 :::
 ::: {.column}
 
-![](images/3_cf_myelin.gif){width="100%"
+![](images/3_circuit_development/figures/3_cf_myelin.gif){width="100%"
 }
 
 :::
@@ -1212,7 +1212,7 @@ Myelin is therefore the product of an active <u>axon-glia interaction</u>.
 :::
 ::: {.column}
 
-![](images/3_cf_myelin_oligod.png){width="80%"
+![](images/3_circuit_development/figures/3_cf_myelin_oligod.png){width="80%"
 }
 
 :::
@@ -1242,11 +1242,11 @@ The interaction between axons and myelinating glia therefore helps organize the 
 :::
 ::: {.column}
 
-![](images/3_cf_myelin_ranvier.png){width="80%"
+![](images/3_circuit_development/figures/3_cf_myelin_ranvier.png){width="80%"
   title="Electron micrograph of a node of Ranvier. The node (N) is the short unmyelinated gap between adjacent myelin sheaths, while the paranodal region (PN) lies immediately next to it where terminal myelin loops contact the axon. This organization creates distinct membrane domains that are essential for saltatory conduction."
 }
 
-![](images/3_cf_myelin_ranvier2.png){width="80%"
+![](images/3_circuit_development/figures/3_cf_myelin_ranvier2.png){width="80%"
   title="Molecular organization of a node of Ranvier. Voltage-gated sodium channels (Nav, red) are concentrated at the node, Caspr (blue) marks the paranodal junctions, and Kv1.2 potassium channels (green) are enriched in the juxtaparanodal regions. These sharply separated domains are organized by interactions between the axon and myelinating glial cells."
 }
 
@@ -1270,7 +1270,7 @@ The general developmental progression is from systems required for early <u>sens
 ::: 
 ::: {.column}
 
-![](images/3_cf_myelin_rmi.png){width="100%"
+![](images/3_circuit_development/figures/3_cf_myelin_rmi.png){width="100%"
 }
 
 ::: 

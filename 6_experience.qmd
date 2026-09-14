@@ -20,7 +20,7 @@ But the ability to see with adult precision develops gradually and depends on <u
 
 ::: {.columns}
 
-![](images/6_exp_visual_path_1.png){
+![](images/6_experience/figures/6_exp_visual_path_1.png){
   width="40%"
   title="Anatomy of the eye and retina. Light is focused by the cornea and lens onto the retina at the back of the eye. The fovea is a specialized retinal region supporting high visual acuity. The enlarged section shows the layered organization of the retina together with the retinal pigment epithelium (RPE) and choroid. Signals generated in retinal circuits leave the eye through the optic nerve and are transmitted to the brain."
 }
@@ -51,7 +51,7 @@ The retina is a specialized part of the nervous system that converts light into 
 
 ::: {.columns}
 
-![](images/6_exp_visual_path_2.png){
+![](images/6_experience/figures/6_exp_visual_path_2.png){
   width="60%"
   title="Cellular organization of the retina. Photoreceptors (PR; cones and rods) detect light and transmit signals to bipolar cells (BC). Horizontal cells (HC) provide lateral interactions in the outer retina, while amacrine cells (AC) shape signaling in the inner retina. Retinal ganglion cells (RGC) integrate these inputs, generate action potentials, and send the retinal output to the brain through the optic nerve. The retinal layers shown at right include the outer nuclear layer (ONL), inner nuclear layer (INL), inner plexiform layer (IPL), and ganglion cell layer (GCL)."
 }
@@ -83,7 +83,7 @@ The retina is not simply a light detector: it is a layered neural circuit that b
 
 ::: {.columns}
 
-![](images/6_exp_visual_path.png){
+![](images/6_experience/figures/6_exp_visual_path.png){
   width="75%"
   title="From the retina to the visual cortex. Retinal ganglion cell (RGC) axons form the optic nerve (ON). At the optic chiasm (OC), fibers from the two eyes are partially crossed and then project to the lateral geniculate nucleus (LGN) of the thalamus. From the LGN, thalamocortical projections carry visual information to primary visual cortex. Thus, the main visual pathway from the retina to cortex passes through a thalamic relay."
 }
@@ -135,7 +135,7 @@ This convergence means that each ganglion cell integrates information from a reg
 
 ::: {.column width="50%"}
 
-![](images/6_exp_retinal_rf.png){
+![](images/6_experience/figures/6_exp_retinal_rf.png){
   width="100%"
   title="Center-surround receptive fields of retinal ganglion cells. Signals from multiple photoreceptors converge through bipolar, horizontal, and amacrine-cell circuits onto retinal ganglion cells. Each ganglion cell therefore integrates information from a region of the retina that defines its receptive field. ON-center cells are excited by light in the center and inhibited by light in the surround, whereas OFF-center cells show the opposite organization. This antagonistic center-surround structure emphasizes local differences in luminance and visual contrast."
 }
@@ -159,7 +159,7 @@ Two major organizations are:
 ::: {.column width="55%"}
 
 :::{.centerimg}
-![](images/6_exp_LGN_segregation.png){
+![](images/6_experience/figures/6_exp_LGN_segregation.png){
   width="50%"
   title="Organization of retinal projections to the lateral geniculate nucleus (LGN). Axons from the nasal retina cross at the optic chiasm, whereas axons from the temporal retina remain on the same side. Inputs from the two eyes then terminate in separate layers of the LGN. In primates, layers 1–2 are magnocellular and layers 3–6 are parvocellular."
 }
@@ -211,7 +211,7 @@ LGN neurons retain <u>concentric</u> receptive fields similar to those of retina
 ::: {.column width="48%"}
 
 :::{.centerimg}
-![](images/6_exp_lgn_v1.png){
+![](images/6_experience/figures/6_exp_lgn_v1.png){
   width="50%"
 }
 :::
@@ -280,7 +280,7 @@ A vertical receptive field, for example, responds strongly to a vertical edge bu
 ::: {.column width="53%"}
 
 :::{.centerimg}
-![](images/6_exp_v1_cat.mp4){
+![](images/6_experience/video/6_exp_v1_cat.mp4){
   width="100%"
 }
 :::
@@ -299,7 +299,7 @@ As visual information moves into cortex, the <u>level of abstraction increases</
 ::: {.column width="52%"}
 
 :::{.centerimg}
-![](images/6_exp_v1_rf.png){
+![](images/6_experience/figures/6_exp_v1_rf.png){
   width="100%"
 }
 :::
@@ -388,7 +388,7 @@ Often summarized as the <u>"what" pathway</u>.
 ## Two major streams of visual processing
 
 :::{.centerimg}
-![](images/6_exp_higher_order.png){
+![](images/6_experience/figures/6_exp_higher_order.png){
   width="80%"
   title="Dorsal and ventral streams of visual processing. After early processing in primary visual cortex (V1) and adjacent visual areas, visual information is distributed along two major cortical pathways. The dorsal stream projects toward parietal cortex and is especially involved in spatial processing, motion, and visually guided action. The ventral stream projects toward temporal cortex and is especially involved in processing object form and identity. The two pathways interact, but they emphasize different aspects of visual information."
 }
@@ -398,12 +398,12 @@ Often summarized as the <u>"what" pathway</u>.
 
 ::: {layout-ncol=2}
 
-![](images/6_exp_acuity.png){width="90%"
+![](images/6_experience/figures/6_exp_acuity.png){width="90%"
   title="Spatial resolution of two nearby point stimuli. Light from each point is focused by the lens onto the retina, producing two intensity distributions rather than perfectly sharp points. The two stimuli can be resolved as separate only if their retinal images activate sufficiently distinct photoreceptor populations. If the images overlap too strongly relative to receptor spacing, they are perceived as a single stimulus. Visual acuity therefore depends on both the optical quality of the eye and the spatial sampling of the retina."
 }
 
 :::{.centerimg}
-![](images/6_exp_acuity_res.png){width="40%"}
+![](images/6_experience/figures/6_exp_acuity_res.png){width="40%"}
 :::
 
 :::
@@ -445,7 +445,7 @@ High acuity depends on several levels of the visual pathway:
 For a grating, it is usually expressed as `cycles per degree (c/deg)` of visual angle.
 
 
-![](images/6_exp_spatial_frequncy.png){width="100%"}
+![](images/6_experience/figures/6_exp_spatial_frequncy.png){width="100%"}
 
 
 ::: {.info-box}
@@ -477,7 +477,7 @@ Human vision is usually most sensitive to <u>intermediate spatial frequencies</u
 ::: {.column width="52%"}
 
 :::{.centerimg}
-![](images/6_exp_contrast.png){width="60%"}
+![](images/6_experience/figures/6_exp_contrast.png){width="60%"}
 :::
 
 ::: {.card}
@@ -512,7 +512,7 @@ The visual system <u>compares</u> these two images to estimate `depth`.
 
 ::: {.column width="50%"}
 
-![](images/6_exp_disparity.jpg){width="40%"}
+![](images/6_experience/figures/6_exp_disparity.jpg){width="40%"}
 
 :::
 :::
@@ -530,9 +530,9 @@ Depth perception is therefore reconstructed from several visual cues rather than
 
 
 ::: {layout-ncol=2}
-![](images/6_exp_monocular_cat.gif){width="100%"}
+![](images/6_experience/figures/6_exp_monocular_cat.gif){width="100%"}
 
-![](images/6_exp_monocular_cat2.gif){width="100%"}
+![](images/6_experience/figures/6_exp_monocular_cat2.gif){width="100%"}
 
 :::
 
@@ -579,7 +579,7 @@ Parallel lines converge with distance and objects become progressively smaller i
 
 `Occlusion`
 
-![](images/6_exp_monocuar_clues.png){width="20%"}
+![](images/6_experience/figures/6_exp_monocuar_clues.png){width="20%"}
 
 If one object blocks part of another, the blocking object is interpreted as being <u>closer</u>.
 
@@ -601,7 +601,7 @@ For objects of similar expected size, the object producing the smaller retinal i
 
 `Shading`
 
-![](images/6_exp_monocular_shading.jpg){width="20%"}
+![](images/6_experience/figures/6_exp_monocular_shading.jpg){width="20%"}
 
 The distribution of light and shadow provides information about three-dimensional shape.
 
@@ -719,7 +719,7 @@ The developmental improvement reflects the progressive maturation of the entire 
 
 ::: {.column width="60%"}
 
-![](images/6_exp_acuity_devel.jpg){width="100%"}
+![](images/6_experience/figures/6_exp_acuity_devel.jpg){width="100%"}
 
 
 
@@ -731,7 +731,7 @@ The developmental improvement reflects the progressive maturation of the entire 
 ::: {.columns}
 ::: {.column}
 
-![](images/6_exp_photoreceptors.png)
+![](images/6_experience/figures/6_exp_photoreceptors.png)
 
 :::{.info-box}
 By approximately `4-6 years of age`, foveal cone density and morphology approach adult values.
@@ -781,7 +781,7 @@ These waves propagate through developing visual pathways and provide patterned a
 :::
 ::: {.column}
 
-![](images/6_exp_retinal_waves.mp4)
+![](images/6_experience/video/6_exp_retinal_waves.mp4)
 
 :::
 :::
@@ -840,7 +840,7 @@ After `TTX` injection into one eye, the territory normally occupied by that eye 
 
 ::: {.column width="52%"}
 
-![](images/6_exp_rw_thal.png)
+![](images/6_experience/figures/6_exp_rw_thal.png)
 
 :::
 :::
@@ -865,7 +865,7 @@ Development does not simply increase visual acuity: it improves sensitivity acro
 :::
 :::{.column}
 
-![](images/6_exp_contrast_dev.jpeg){width="70%"
+![](images/6_experience/figures/6_exp_contrast_dev.jpeg){width="70%"
   title="Development of the contrast sensitivity function across childhood. Contrast sensitivity is very low during the first months of life and improves progressively with age. Sensitivity to low and intermediate spatial frequencies develops earlier, whereas sensitivity to higher spatial frequencies continues to improve for several years. By later childhood, the contrast sensitivity function approaches the adult pattern, with highest sensitivity at intermediate spatial frequencies and reduced sensitivity at the highest frequencies."
 }
 
@@ -913,23 +913,65 @@ The end of a critical period does <u>not</u> mean that plasticity disappears com
 ::: {.column}
 
 ::: {.card}
-A dense congenital cataract prevents patterned visual information from reaching the retina normally during early development.
+A <u>dense congenital [cataract](https://en.wikipedia.org/wiki/Congenital_cataract){target="_blank"}</u> prevents <u>patterned</u> visual information from reaching the retina normally during early development.
 :::
 
 ::: {.card}
-Removing the cataract early generally allows substantially better visual development than restoring patterned vision only after prolonged deprivation.
+Removing the cataract <u>early</u> generally allows substantially better visual development than restoring patterned vision only after prolonged deprivation.
 :::
 
 :::
 ::: {.column}
 
 ::: {.info-box}
-The outcome depends not only on <u>whether</u> visual input is restored, but also on <u>when</u> it is restored.
+The outcome depends not only on <u>whether</u> visual input is restored, but also on `when` it is restored.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_congenital_cataract.jpg
-Photograph or schematic of congenital cataract.
--->
+![](images/6_experience/figures/6_exp_bilateral_cataract.jpg){width="70%"
+title="Bilateral dense congenital cataract"
+}
+
+:::
+:::
+
+## Case study: S.B.
+
+::: {.columns}
+
+::: {.column width="42%"}
+
+::: {.card}
+
+S.B. experienced severe visual deprivation from early life (3 years old) and underwent surgery only in adulthood, at about `50 years of age`.
+
+After sight was restored:
+
+- visual acuity improved, but remained <u>far below normal</u>
+- recognition of `novel objects` remained difficult
+- `stereopsis` did not develop
+- `face perception` was impaired
+- perception of `complex forms` remained strongly limited
+
+:::
+
+
+:::
+
+::: {.column width="58%"}
+
+![](images/6_experience/figures/6_exp_case_study_sb.png){
+  width="100%"
+  title="Visual acuity in the case of S.B. The solid curve on the left shows the normal developmental increase in visual acuity during early childhood. The dashed horizontal line indicates the level of visual acuity that would be expected at the age when S.B. lost vision. The gray dots show S.B.'s measured visual acuity after sight was restored in adulthood. Despite restoration of visual input, his acuity remained far below the level expected from his early developmental stage."}
+
+
+::: {.info-box}
+
+Restoring visual input in adulthood was <u>not sufficient to produce normal visual perception</u>.
+
+Some visual abilities require appropriate sensory experience during development.
+
+:::
+
 
 :::
 :::
@@ -937,30 +979,44 @@ Photograph or schematic of congenital cataract.
 ## Amblyopia: abnormal experience changes cortical function
 
 ::: {.info-box}
-`Amblyopia` is reduced visual function caused by abnormal visual experience during development, not simply by damage to the retina.
+`Amblyopia` is reduced visual function caused by <u>abnormal visual experience during development</u>, not simply by damage to the eye or retina.
 :::
 
 ::: {.columns}
 ::: {.column}
 
+:::{.card}
 Common developmental causes include:
 
 - unilateral cataract
-- strabismus
+- [strabismus](https://en.wikipedia.org/wiki/Strabismus){target="_blank"}
 - strong unequal refractive error between the eyes
+:::
 
 :::
 ::: {.column}
 
 ::: {.card}
-If the two eyes provide persistently unequal or mismatched input, cortical circuits become biased toward the more effective input.
+If the two eyes provide persistently <u>unequal</u> or mismatched input, cortical circuits become <u>biased</u> toward the more effective input.
 :::
 
 :::
 :::
 
-::: {.card}
-Treatment is generally most effective when normal visual input is restored early, although clinically useful plasticity can persist beyond the classical critical period.
+::: {layout-ncol=2}
+
+:::{.centerimg}
+![](images/6_experience/figures/6_exp_cataract_unilateral.jpg){width="70%"
+title="Unilateral cataract"
+}
+:::
+
+:::{.centerimg}
+![](images/6_experience/figures/6_exp_strabismus.jpg){width="70%"
+title="Strabismus"
+}
+:::
+
 :::
 
 ## Hubel and Wiesel: monocular deprivation
@@ -1019,7 +1075,7 @@ In species such as cats and primates, geniculocortical inputs from the two eyes 
 Normal binocular vision therefore depends on <u>coordinated convergence of the two eyes onto cortical circuits</u>.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_ocular_dominance_normal.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_ocular_dominance_normal.png
 Normal ocular-dominance histogram plus ocular-dominance columns.
 -->
 
@@ -1042,7 +1098,7 @@ After deprivation during the critical period, the distribution shifts dramatical
 A few days of abnormal experience during the critical period can substantially reorganize cortical function.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_md_ocular_dominance.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_md_ocular_dominance.png
 Normal versus monocular-deprivation ocular-dominance histograms.
 -->
 
@@ -1058,7 +1114,7 @@ The cortical territory and geniculocortical axon arbors associated with the depr
 Experience can therefore modify the <u>physical organization of developing sensory connections</u>.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_md_anatomy.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_md_anatomy.png
 Deprived-eye versus open-eye ocular-dominance columns or geniculocortical axon arbors.
 -->
 
@@ -1107,7 +1163,7 @@ The result is a strong reduction in binocular cortical neurons and impaired ster
 <u>Normal binocular development requires coordinated activity from the two eyes.</u>
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_strabismus_od.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_strabismus_od.png
 Ocular-dominance distributions in normal and strabismic animals.
 -->
 
@@ -1155,7 +1211,7 @@ Synchronous activity favors binocular convergence, whereas strongly asynchronous
 The temporal relationship between inputs provides information about <u>which connections should be associated</u>.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_sync_async.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_sync_async.png
 Synchronous versus asynchronous optic-pathway stimulation and resulting ocular-dominance distributions.
 -->
 
@@ -1175,7 +1231,7 @@ Before the window is fully open or after it has largely closed, the same depriva
 Critical periods therefore reflect <u>developmental regulation of the capacity for experience-dependent circuit change</u>.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_critical_period_curve.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_critical_period_curve.png
 Age on x-axis and susceptibility to monocular deprivation on y-axis.
 -->
 
@@ -1193,7 +1249,7 @@ In animal models, rearing in darkness can delay aspects of visual cortical matur
 Experience is both a <u>driver of plasticity</u> and one of the signals that contributes to circuit maturation.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_dark_rearing_ltp.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_dark_rearing_ltp.png
 Developmental decline of visual-cortical LTP, with delayed decline after dark rearing.
 -->
 
@@ -1213,7 +1269,7 @@ The critical period is therefore not simply a time when the cortex is "more exci
 
 <small>[Hensch et al., 1998](https://pubmed.ncbi.nlm.nih.gov/9822384/) | [Fagiolini & Hensch, 2000](https://pubmed.ncbi.nlm.nih.gov/10724170/)</small>
 
-<!-- IMAGE SUGGESTION: images/6_visual_gad65_inhibition.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_gad65_inhibition.png
 Developmental increase in inhibitory markers or GAD65 experiment.
 -->
 
@@ -1237,7 +1293,7 @@ Changing circuit maturation can therefore <u>shift the timing of developmental p
 
 <small>[Huang et al., 1999](https://pubmed.ncbi.nlm.nih.gov/10499792/)</small>
 
-<!-- IMAGE SUGGESTION: images/6_visual_bdnf_critical_period.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_bdnf_critical_period.png
 BDNF overexpression and earlier inhibitory maturation / earlier critical period.
 -->
 
@@ -1255,7 +1311,7 @@ Critical-period closure also involves the accumulation of molecular and structur
 These structures are associated with increased circuit stability and reduced juvenile-like plasticity.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_pnn.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_pnn.png
 WFA-labelled perineuronal nets at different ages.
 -->
 
@@ -1305,7 +1361,7 @@ Critical-period closure is therefore partly an <u>actively maintained stable sta
 
 <small>[Pizzorusso et al., 2002](https://pubmed.ncbi.nlm.nih.gov/12424383/)</small>
 
-<!-- IMAGE SUGGESTION: images/6_visual_chabc_od.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_chabc_od.png
 Adult control, adult monocular deprivation, and adult chABC + monocular deprivation ocular-dominance histograms.
 -->
 
@@ -1327,7 +1383,7 @@ The experiment shows that sensory input can <u>instruct important functional pro
 
 <small>[Sur, Garraghty & Roe, 1988](https://pubmed.ncbi.nlm.nih.gov/2462279/) | [Roe et al., 1990](https://pubmed.ncbi.nlm.nih.gov/2237432/)</small>
 
-<!-- IMAGE SUGGESTION: images/6_visual_rewired_ferret.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_rewired_ferret.png
 Normal and rewired ferret visual/auditory pathways.
 -->
 
@@ -1366,7 +1422,7 @@ Plasticity persists, but increasing inhibitory and structural constraints favor 
 :::
 :::
 
-<!-- IMAGE SUGGESTION: images/6_visual_development_timeline.png
+<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_development_timeline.png
 Timeline from circuit formation through eye opening, critical period and adulthood.
 -->
 

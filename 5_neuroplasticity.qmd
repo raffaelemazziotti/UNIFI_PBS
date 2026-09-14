@@ -25,7 +25,7 @@ Plasticity is fundamental for:
 :::
 ::: {.column}
 
-![](images/5_plast_ncom.gif){width="50%"}
+![](images/5_neuroplasticity/figures/5_plast_ncom.gif){width="50%"}
 
 ::: {.card}
 Plastic changes can be primarily:
@@ -89,7 +89,7 @@ Examples: learning and long-term memory
 ::: {.column}
 
 :::{.centerimg}
-![](images/5_plast_timescale.png){width="50%"}
+![](images/5_neuroplasticity/figures/5_plast_timescale.png){width="50%"}
 :::
 
 
@@ -123,10 +123,10 @@ After learning, the same stimulus or action can therefore evoke a <u>different n
 :::
 ::: {.column}
 
-![](images/5_plast_neural_code_thresh.png){width="50%"
+![](images/5_neuroplasticity/figures/5_plast_neural_code_thresh.png){width="50%"
   title="Example of the membrane potential recorded from a neuron. Each rapid upward deflection corresponds to an action potential, or spike. By defining a voltage threshold (shown in red), each threshold crossing can be detected and converted into a discrete spike event. Counting these events over time gives the neuron's spiking activity or firing pattern."
 }
-![](images/5_plast_neural_code.jpg){width="100%"
+![](images/5_neuroplasticity/figures/5_plast_neural_code.jpg){width="100%"
   title="Different neural coding strategies. In a rate code, information is represented by the number of spikes produced over time. In a temporal code, information depends on the precise timing pattern of spikes. A latency code uses the delay between stimulus onset and neuronal response, while a synchrony code depends on the coordinated timing of activity across multiple neurons."
 }
 
@@ -203,7 +203,7 @@ There is no evidence for widespread adult neurogenesis throughout the cerebral c
 :::
 ::: {.column}
 
-![](images/5_plast_AHN.jpg){width="65%"
+![](images/5_neuroplasticity/figures/5_plast_AHN.jpg){width="65%"
   title="Adult hippocampal neurogenesis in the dentate gyrus. New granule neurons are generated from neural stem cells located in the subgranular zone (SGZ). Quiescent neural stem cells can become activated, produce neural progenitors and neuroblasts, and then differentiate into immature neurons that progressively mature and integrate into the granule cell layer (GCL). The lower panel shows commonly used molecular markers associated with successive stages of this developmental sequence."
 }
 
@@ -232,7 +232,7 @@ the synapse changes according to the relationship between <u>presynaptic and pos
 :::
 ::: {.column}
 
-![](images/5_plast_hebb.png){
+![](images/5_neuroplasticity/figures/5_plast_hebb.png){
 width="50%"}
 
 
@@ -308,7 +308,7 @@ The channel opens and Ca²⁺ enters the postsynaptic cell.
 :::
 ::: {.column}
 
-![](images/5_plast_NMDA.png){
+![](images/5_neuroplasticity/figures/5_plast_NMDA.png){
 width="80%"}
 
 :::
@@ -352,7 +352,7 @@ The classic work of `Bliss and Lømo (1973)` demonstrated long-lasting potentiat
 ## Measuring synaptic potentiation
 
 :::{.centerimg}
-![](images/5_plast_LTP.png){
+![](images/5_neuroplasticity/figures/5_plast_LTP.png){
 width="65%"
   title="Experimental induction of long-term potentiation (LTP). A synaptic pathway is first stimulated with low-intensity test pulses to establish a stable baseline response. High-frequency stimulation (HFS; here shown as 100 stimuli at 100 Hz) is then delivered to induce plasticity. Immediately after HFS, the synaptic response becomes much larger and then settles at a level that remains persistently above baseline. This long-lasting increase in synaptic efficacy is LTP."
 }
@@ -430,7 +430,7 @@ The existing synapse therefore becomes <u>more effective</u> at converting gluta
 :::
 ::: {.column}
 
-![](images/5_plast_ltp_ampa.png){
+![](images/5_neuroplasticity/figures/5_plast_ltp_ampa.png){
 width="65%"}
 
 :::
@@ -439,7 +439,7 @@ width="65%"}
 ## LTD can weaken an existing synapse
 
 :::{.centerimg}
-![](images/5_plast_LTD.png){
+![](images/5_neuroplasticity/figures/5_plast_LTD.png){
 width="65%"}
 :::
 
@@ -530,7 +530,7 @@ A synapse whose activity is poorly timed relative to postsynaptic firing can bec
 :::
 ::: {.column}
 
-![](images/5_plast_STDP.png){
+![](images/5_neuroplasticity/figures/5_plast_STDP.png){
 width="100%"}
 
 :::
@@ -598,7 +598,7 @@ The circuit is therefore not anatomically fixed after development.
 :::
 ::: {.column}
 
-![](images/5_plast_structural.png){width="100%"
+![](images/5_neuroplasticity/figures/5_plast_structural.png){width="100%"
   title="From functional to structural plasticity. Synaptic activity first produces rapid changes in ion flow and receptor function over milliseconds to seconds. Calcium entry then activates intracellular signaling pathways and kinases. Over minutes, these signals can reach the nucleus, regulate gene transcription and modify the cytoskeleton. Over hours, newly synthesized proteins and structural remodeling can stabilize the synaptic change. Persistent plasticity can therefore progress from rapid functional modifications to longer-lasting structural changes at the synapse."
 }
 
@@ -633,7 +633,7 @@ and
 :::
 :::{.column}
 
-![](images/5_plast_hebb_dilemma.png){width="100%"
+![](images/5_neuroplasticity/figures/5_plast_hebb_dilemma.png){width="100%"
 }
 
 ::: {.card}
@@ -668,7 +668,7 @@ The goal is to <u>stabilize</u> overall activity.
 :::
 ::: {.column}
 
-![](images/5_plast_homeostatic.png){width="100%"
+![](images/5_neuroplasticity/figures/5_plast_homeostatic.png){width="100%"
 }
 
 :::
@@ -697,7 +697,7 @@ The effect of a new activity pattern therefore depends partly on the <u>previous
 :::
 ::: {.column}
 
-![](images/5_plast_sliding_threshold.png){width="100%"
+![](images/5_neuroplasticity/figures/5_plast_sliding_threshold.png){width="100%"
   title="Metaplasticity and the sliding threshold for synaptic modification in the visual cortex. The relationship between neuronal activity and plasticity is not fixed: the threshold separating LTD from LTP can shift according to the recent activity history of the circuit. With normal visual input, relatively high activity is required to cross the modification threshold (θM) and induce LTP. Following vision loss, this threshold shifts toward lower activity levels (θM′), making potentiation easier to induce. This shift is associated with changes in NMDA-receptor subunit composition, including a relative increase in NR2B-containing receptors."
 }
 
@@ -707,7 +707,7 @@ The effect of a new activity pattern therefore depends partly on the <u>previous
 ## Metaplasticity: plasticity of plasticity
 
 :::{.centerimg}
-![](images/5_plast_homeo_ex_vivo.png){width="100%"
+![](images/5_neuroplasticity/figures/5_plast_homeo_ex_vivo.png){width="100%"
   title="Metaplasticity in hippocampal CA1: prior weak stimulation changes the ability of a synapse to undergo later LTP. In panel A, repeated weak tetani delivered to the test pathway produce only transient potentiation but strongly reduce the LTP induced later by a strong tetanus, while the control pathway shows normal LTP. In panel B, this inhibition is temporary and recovers after about an hour. The experiment shows that the recent activity history of a synapse can modify its future plasticity."
 }
 :::
@@ -786,7 +786,7 @@ The same dendritic spines can then be followed over time with [two-photon imagin
 
 ::: {.column width="58%"}
 
-![](images/5_plast_spines_V1.png){
+![](images/5_neuroplasticity/figures/5_plast_spines_V1.png){
   width="80%"
   title="Structural plasticity during functional reorganization of adult visual cortex. A small retinal lesion creates a region of visual-field loss and deprives the corresponding region of visual cortex of its normal input. Repeated two-photon imaging shows that overall dendritic spine density remains approximately constant, but spine survival decreases strongly and more new persistent spines appear. Thus, apparently stable spine density can conceal extensive synaptic turnover: old spines are eliminated while new ones are formed and stabilized as the cortical circuit reorganizes."
 }
@@ -838,7 +838,7 @@ After prolonged practice, the trained sequence produced an <u>expanded M1 activa
 :::
 ::: {.column width="48%"}
 
-![](images/5_plast_frmi_m1.png){width="100%"
+![](images/5_neuroplasticity/figures/5_plast_frmi_m1.png){width="100%"
   title="Experience-dependent reorganization of human primary motor cortex, in adults. Participants repeatedly practiced one finger-movement sequence, while a second sequence served as an untrained control. After training, the practiced sequence evoked a larger motor-cortex response than the control sequence across participants. The result indicates that repeated motor practice expands the functional cortical representation of the trained sequence, consistent with experience-dependent plasticity of motor cortical circuits."
 }
 
@@ -848,16 +848,16 @@ After prolonged practice, the trained sequence produced an <u>expanded M1 activa
 ## What can change inside motor cortex?
 
 ::: {layout-ncol=2}
-![](images/5_plast_ex_vivo_horizontal.png){width="100%"}
+![](images/5_neuroplasticity/figures/5_plast_ex_vivo_horizontal.png){width="100%"}
 
-![](images/5_plast_rat_reaching.gif){width="50%"
+![](images/5_neuroplasticity/figures/5_plast_rat_reaching.gif){width="50%"
 title="Rat performing a skilled forelimb reaching task"
 }
 :::
 
 ## What can change inside motor cortex?
 
-![](images/5_plast_reaching_occlusion.png){width="50%"
+![](images/5_neuroplasticity/figures/5_plast_reaching_occlusion.png){width="50%"
   title="Occlusion of LTP after motor learning. In rats trained on a skilled reaching task, horizontal connections in the trained motor cortex are already potentiated by experience. Additional high-frequency stimulation therefore produces little further LTP, whereas robust potentiation can still be induced in the untrained hemisphere. This occlusion suggests that learning has already engaged LTP-like mechanisms and illustrates a homeostatic constraint on further synaptic strengthening."
 }
 
@@ -927,15 +927,15 @@ Because motor practice has already potentiated the circuit, further potentiation
 ## Motor practice occludes PAS-induced potentiation
 
 ::: {layout-ncol=3}
-![](images/5_plast_thumb.gif){width="60%"
+![](images/5_neuroplasticity/figures/5_plast_thumb.gif){width="60%"
   title="Thumb abduction used in the Motor Practice (MP)"
 }
 
-![](images/5_plast_tms_mep.png){width="50%"
+![](images/5_neuroplasticity/figures/5_plast_tms_mep.png){width="50%"
   title="MEP schematics"
 }
 
-![](images/5_plast_m1_pas.png){width="50%"
+![](images/5_neuroplasticity/figures/5_plast_m1_pas.png){width="50%"
   title="LTP-like plasticity in adult human M1 and its occlusion by prior motor practice. PAS_N20 alone produces a long-lasting increase in motor-evoked potential (MEP) amplitude. In contrast, when subjects first perform motor practice (MP), subsequent PAS produces little or no additional potentiation. This occlusion suggests that motor practice and PAS recruit overlapping LTP-like mechanisms in M1, so prior learning reduces the capacity for further potentiation."
 }
 

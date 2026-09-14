@@ -21,7 +21,7 @@
 
     // Home icon image
     const img = document.createElement("img");
-    img.src = "./images/home.svg";
+    img.src = "./images/shared/ui/home.svg";
     img.alt = "Home";
     img.width = 34;
     img.height = 34;
@@ -156,7 +156,7 @@
 
     let indexItem = toolsMenu.querySelector(".course-index-menu-link");
     if (!indexItem) {
-      indexItem = createMenuLink("course-index-menu-link", "index.html", "images/home.svg", "Course index");
+      indexItem = createMenuLink("course-index-menu-link", "index.html", "images/shared/ui/home.svg", "Course index");
       toolsMenu.prepend(indexItem);
     }
 
@@ -164,7 +164,7 @@
       const searchItem = createMenuLink(
         "course-search-menu-link",
         "index.html#/search-course-slides",
-        "images/search.svg",
+        "images/shared/ui/search.svg",
         "Search course slides"
       );
       indexItem.after(searchItem);

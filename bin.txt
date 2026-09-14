@@ -27,7 +27,7 @@ Major derivatives include:
 ::: {.card .image-needed}
 **Image needed:** neural crest specification, delamination, and major derivatives
 
-Suggested file: `images/nsdev_neural_crest_derivatives.png`
+Suggested file: `images/1_ns_development/figures/nsdev_neural_crest_derivatives.png`
 :::
 
 :::

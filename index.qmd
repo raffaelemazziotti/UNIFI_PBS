@@ -285,7 +285,7 @@ Mandatory only if the written-exam grade is <u>below 21</u>.
 :::{.column}
 
 :::{.centerimg}
-![](images/0_intro_sagan.mp4){width="68%"}
+![](images/index/video/0_intro_sagan.mp4){width="68%"}
 :::
 
 :::

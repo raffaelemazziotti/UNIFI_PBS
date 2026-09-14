@@ -28,7 +28,7 @@ Development does more than enlarge a structure. It progressively creates differe
 ::: {.column}
 
 
-![](images/1_ns_dev_intro.gif){width="100%"}
+![](images/1_ns_development/figures/1_ns_dev_intro.gif){width="100%"}
 
 
 :::
@@ -66,11 +66,11 @@ Why study other animals?
 
 ::: {.r-stack}
 
-![](images/1_ns_emb_maiale_1.png){ width="80%" fragment-index="0"}
+![](images/1_ns_development/figures/1_ns_emb_maiale_1.png){ width="80%" fragment-index="0"}
 
-![](images/1_ns_emb_maiale_2.png){.fragment width="80%" fragment-index="1"}
+![](images/1_ns_development/figures/1_ns_emb_maiale_2.png){.fragment width="80%" fragment-index="1"}
 
-![](images/1_ns_emb_maiale_3.png){.fragment width="80%" fragment-index="2"}
+![](images/1_ns_development/figures/1_ns_emb_maiale_3.png){.fragment width="80%" fragment-index="2"}
 
 :::
 
@@ -94,9 +94,9 @@ Some experiments and developmental perturbations cannot be performed in humans f
 :::
 
 ::: {.r-stack}
-![](images/1_ns_dev_perspective.png){width="100%" fragment-index="0"}
+![](images/1_ns_development/figures/1_ns_dev_perspective.png){width="100%" fragment-index="0"}
 
-![](images/1_ns_dev_perspective_2.png){.fragment width="100%" fragment-index="1"}
+![](images/1_ns_development/figures/1_ns_dev_perspective_2.png){.fragment width="100%" fragment-index="1"}
 
 :::
 
@@ -180,7 +180,7 @@ Neural tissue develops from a specialized region of the `ectoderm`.
 :::
 ::: {.column width="60%"}
 
-![](images/1_ns_germ_layers.png){width="100%" fragment-index="1"}
+![](images/1_ns_development/figures/1_ns_germ_layers.png){width="100%" fragment-index="1"}
 
 :::
 :::
@@ -202,7 +202,7 @@ Neural tissue develops from a specialized region of the `ectoderm`.
 :::
 ::: {.column}
 
-![](images/1_ns_neurulation.mp4){width="100%" fragment-index="1"}
+![](images/1_ns_development/video/1_ns_neurulation.mp4){width="100%" fragment-index="1"}
 
 :::
 :::
@@ -237,8 +237,8 @@ The **neural crest** gives rise to much of the `peripheral nervous system`, incl
 :::
 ::: {.column}
 
-![](images/1_ns_neurulation.mp4){width="100%"}
-![](images/1_ns_neural_crest.gif){width="100%"}
+![](images/1_ns_development/video/1_ns_neurulation.mp4){width="100%"}
+![](images/1_ns_development/figures/1_ns_neural_crest.gif){width="100%"}
 
 :::
 :::
@@ -268,7 +268,7 @@ The **neural crest** gives rise to much of the `peripheral nervous system`, incl
 :::
 :::
 
-![](images/1_ns_neurulation_human.png){width="100%"}
+![](images/1_ns_development/figures/1_ns_neurulation_human.png){width="100%"}
 
 ## Neural tube closure
 
@@ -291,7 +291,7 @@ Disrupted closure can produce neural tube defects. The outcome depends on the af
 :::
 ::: {.column width="55%"}
 
-![](images/1_ns_neural_tube.png){width="80%"}
+![](images/1_ns_development/figures/1_ns_neural_tube.png){width="80%"}
 
 :::
 :::
@@ -316,7 +316,7 @@ The graft induced the formation of a `secondary embryonic axis`.
 :::
 ::: {.column}
 
-![](images/1_ns_spemann_experiment.jpg){width="70%"}
+![](images/1_ns_development/figures/1_ns_spemann_experiment.jpg){width="70%"}
 
 :::
 :::
@@ -386,11 +386,11 @@ The assay provides a simple test of how signals change ectodermal fate.
 ::: {.column}
 
 ::: {.r-stack}
-![](images/1_ns_spemann_in_vitro_1.png){ width="80%" fragment-index="0"}
+![](images/1_ns_development/figures/1_ns_spemann_in_vitro_1.png){ width="80%" fragment-index="0"}
 
-![](images/1_ns_spemann_in_vitro_2.png){.fragment width="80%" fragment-index="1"}
+![](images/1_ns_development/figures/1_ns_spemann_in_vitro_2.png){.fragment width="80%" fragment-index="1"}
 
-![](images/1_ns_spemann_in_vitro.png){.fragment width="80%" fragment-index="2"}
+![](images/1_ns_development/figures/1_ns_spemann_in_vitro.png){.fragment width="80%" fragment-index="2"}
 :::
 
 :::
@@ -414,7 +414,7 @@ The <u>organizer releases BMP</u> `antagonists`, including `Noggin`, `Chordin` a
 :::
 ::: {.column}
 
-![](images/1_ns_spemann_bmp.png){width="100%"}
+![](images/1_ns_development/figures/1_ns_spemann_bmp.png){width="100%"}
 
 :::
 :::
@@ -442,7 +442,7 @@ Its regions progressively differ in structure, cell types, and future connection
 :::
 ::: {.column}
 
-![](images/1_ns_axes.png){width="60%"}
+![](images/1_ns_development/figures/1_ns_axes.png){width="60%"}
 
 :::
 :::
@@ -470,8 +470,8 @@ These signals form `gradients`. Cell identity depends on:
 :::
 ::: {.column}
 
-![](images/1_ns_morphogens.png){width="100%"}
-![](images/1_ns_regionalization.png ){width="70%"}
+![](images/1_ns_development/figures/1_ns_morphogens.png){width="100%"}
+![](images/1_ns_development/figures/1_ns_regionalization.png){width="70%"}
 
 :::
 :::
@@ -493,7 +493,7 @@ Dorsoventral gradients contribute to the **identity of neural progenitor cells**
 ::: 
 ::: {.column}
 
-![](images/1_ns_dorsoventral_gradients.jpg){width="100%"}
+![](images/1_ns_development/figures/1_ns_dorsoventral_gradients.jpg){width="100%"}
 
 ::: 
 ::: 
@@ -515,7 +515,7 @@ Dorsoventral gradients contribute to the **identity of neural progenitor cells**
 ::: 
 ::: {.column width="60%"}
 
-![](images/1_ns_regionalization_dorsoventral.png){width="100%"}
+![](images/1_ns_development/figures/1_ns_regionalization_dorsoventral.png){width="100%"}
 
 :::
 :::
@@ -540,7 +540,7 @@ Dorsoventral gradients contribute to the **identity of neural progenitor cells**
 
 ::: 
 ::: {.column width="50%"}
-![](images/1_ns_regionalization_dorsoventral_2.png){width="80%"}
+![](images/1_ns_development/figures/1_ns_regionalization_dorsoventral_2.png){width="80%"}
 ::: 
 ::: 
 
@@ -576,7 +576,7 @@ The response depends on:
 
 ## Brain vesicles
 
-![](images/1_ns_brain_vescicles.png){width="100%"}
+![](images/1_ns_development/figures/1_ns_brain_vescicles.png){width="100%"}
 
 ::: {.columns}
 ::: {.column}
@@ -625,7 +625,7 @@ Regionalization is progressive. Broad early domains are later refined into more 
 :::
 ::: {.column}
 
-![](images/1_ns_brain_vescicles_anteroposterior.png){width="100%"}
+![](images/1_ns_development/figures/1_ns_brain_vescicles_anteroposterior.png){width="100%"}
 
 :::
 :::
@@ -654,7 +654,7 @@ This model works well for the posterior neural tube and spinal cord. Patterning 
 :::
 ::: {.column}
 
-![](images/1_ns_anterodorsal_axis.png){width="88%"}
+![](images/1_ns_development/figures/1_ns_anterodorsal_axis.png){width="88%"}
 
 :::
 :::
@@ -681,7 +681,7 @@ They do not persist as separate units in the adult brain. During development, th
 :::
 ::: {.column}
 
-![](images/1_ns_rhombomers.png){width="88%"}
+![](images/1_ns_development/figures/1_ns_rhombomers.png){width="88%"}
 
 :::
 :::
@@ -703,7 +703,7 @@ They do not persist as separate units in the adult brain. During development, th
 :::
 ::: {.column}
 
-![](images/1_ns_hox_code.png){width="80%"}
+![](images/1_ns_development/figures/1_ns_hox_code.png){width="80%"}
 
 :::
 :::
@@ -748,7 +748,7 @@ It acts as an organizer by releasing signaling molecules, especially `WNT1` and 
 ::: 
 ::: {.column}
 
-![](images/1_ns_isthmic_organizer.png){width="70%" title="Wnt1 loss-of-function experiment: in Wnt1 mutant mice, much of the developing mesencephalon and rostral metencephalon is lost, showing that Wnt1 signaling at the isthmic organizer is required for normal development of these regions."}
+![](images/1_ns_development/figures/1_ns_isthmic_organizer.png){width="70%" title="Wnt1 loss-of-function experiment: in Wnt1 mutant mice, much of the developing mesencephalon and rostral metencephalon is lost, showing that Wnt1 signaling at the isthmic organizer is required for normal development of these regions."}
 
 ::: 
 ::: 
@@ -769,7 +769,7 @@ The developing neocortex initially appears relatively homogeneous, but it will b
 
 ## FGF8 helps organize the cortical map
 
-![](images/1_ns_neocortex_gradients.png){width="100%" title="FGF8 manipulation experiment: increasing anterior FGF8 shifts cortical areas posteriorly (C), whereas an ectopic posterior FGF8 source can induce partial duplication of the cortical map, including somatosensory cortex (D)."}
+![](images/1_ns_development/figures/1_ns_neocortex_gradients.png){width="100%" title="FGF8 manipulation experiment: increasing anterior FGF8 shifts cortical areas posteriorly (C), whereas an ectopic posterior FGF8 source can induce partial duplication of the cortical map, including somatosensory cortex (D)."}
 
 
 
@@ -785,7 +785,7 @@ This shows that FGF8 is not simply correlated with cortical organization: it can
 
 ## Gene expression defines cortical regions
 
-![](images/1_ns_neocortex_regionalization.png){
+![](images/1_ns_development/figures/1_ns_neocortex_regionalization.png){
   width="100%"
   title="Emx2 and Pax6 are expressed in opposing gradients. Loss of either gene changes the relative sizes and positions of cortical areas, demonstrating their role in cortical regionalization. The knockout experiments show that changing these molecular gradients changes the relative size and position of motor and sensory cortical areas."
 }
@@ -828,7 +828,7 @@ Intrinsic patterning establishes early regional <u>biases</u>. Thalamic inputs a
 :::
 ::: {.column}
 
-![](images/1_ns_protomap_protocortex.png){
+![](images/1_ns_development/figures/1_ns_protomap_protocortex.png){
   width="100%"
   title="Protomap vs. protocortex models of cortical regionalization. The protomap hypothesis proposes that cortical areas are specified early by intrinsic molecular programs, whereas the protocortex hypothesis proposes that an initially undifferentiated cortex is progressively regionalized by incoming thalamocortical sensory inputs from the visual, auditory, and somatosensory systems."
 }

@@ -24,7 +24,7 @@ This requires three closely connected processes:
 :::
 ::: {.column}
 
-![](images/2_ndm_neuron_death.mp4){autoplay="true" muted="true" loop="true" controls="False" width="100%"}
+![](images/2_neurogenesis/video/2_ndm_neuron_death.mp4){autoplay="true" muted="true" loop="true" controls="False" width="100%"}
 
 :::
 :::
@@ -68,7 +68,7 @@ At its peak, the human developing brain can generate approximately:
 
 
 
-![](images/2_ndm_neurogenesis2.png){title="Progression of cortical neurogenesis over developmental time. Early neuroepithelial cells (NECs) first expand through symmetric proliferative divisions, then transition into radial glial cells (RGCs). RGCs generate neurons directly or indirectly through intermediate progenitors (IPs) and basal radial glia (bRGs). As neurogenesis proceeds, newly generated neurons migrate toward the cortical plate, with deep-layer neurons produced earlier and upper-layer neurons later. During late neurogenesis, progenitors also generate macroglial cells such as astrocytes and oligodendrocytes."}
+![](images/2_neurogenesis/figures/2_ndm_neurogenesis2.png){title="Progression of cortical neurogenesis over developmental time. Early neuroepithelial cells (NECs) first expand through symmetric proliferative divisions, then transition into radial glial cells (RGCs). RGCs generate neurons directly or indirectly through intermediate progenitors (IPs) and basal radial glia (bRGs). As neurogenesis proceeds, newly generated neurons migrate toward the cortical plate, with deep-layer neurons produced earlier and upper-layer neurons later. During late neurogenesis, progenitors also generate macroglial cells such as astrocytes and oligodendrocytes."}
 
 :::
 :::
@@ -94,7 +94,7 @@ Radial glial cells have two important developmental roles:
 :::
 ::: {.column}
 
-![](images/2_ndm_radial_glia.png)
+![](images/2_neurogenesis/figures/2_ndm_radial_glia.png)
 
 :::
 :::
@@ -158,8 +158,8 @@ progenitor: progenitor + neuron
 :::
 ::: {.column width="52%"}
 
-![](images/2_ndm_divisions_hro_vert.png)
-![](images/2_ndm_divisions_ver_or.png)
+![](images/2_neurogenesis/figures/2_ndm_divisions_hro_vert.png)
+![](images/2_neurogenesis/figures/2_ndm_divisions_ver_or.png)
 
 :::
 :::
@@ -167,7 +167,7 @@ progenitor: progenitor + neuron
 ## Intermediate progenitors amplify neurogenesis
 
 ::: {.centerimg}
-![](images/2_ndm_neurogenesis_IP.png)
+![](images/2_neurogenesis/figures/2_ndm_neurogenesis_IP.png)
 :::
 
 ::: {.columns}
@@ -212,7 +212,7 @@ The same cell type therefore participates in both:
 :::
 ::: {.column}
 
-![](images/2_ndm_neurogenesis_RGC.jpg){width="70%"}
+![](images/2_neurogenesis/figures/2_ndm_neurogenesis_RGC.jpg){width="70%"}
 
 :::
 :::
@@ -240,7 +240,7 @@ As development proceeds:
 :::
 ::: {.column}
 
-![](images/2_ndm_neurogenesis_CP.png)
+![](images/2_neurogenesis/figures/2_ndm_neurogenesis_CP.png)
 
 :::
 :::
@@ -267,7 +267,7 @@ Simplified sequence:
 :::
 ::: {.column}
 
-![](images/2_ndm_neurogenesis_insideout.png){
+![](images/2_neurogenesis/figures/2_ndm_neurogenesis_insideout.png){
   width="100%"
   title="Temporal sequence of cortical neurogenesis. Early neuroepithelial cells (NE), radial glial cells (RG), intermediate progenitors (IP), and outer radial glial cells (oRG) generate different neuronal classes in a stereotyped temporal order. Early-born neurons include Cajal–Retzius cells (CR) and subplate neurons (SP), followed by corticothalamic projection neurons (CThPN), subcerebral projection neurons (SCPN), layer IV granule neurons (layer IV GN), and later callosal projection neurons (CPN). Newly generated neurons migrate outward past earlier-born neurons, producing the characteristic inside-out organization of the cerebral cortex."
 }
@@ -324,7 +324,7 @@ The capacity of transplanted progenitors to adopt a new laminar fate depends on 
 :::
 ::: {.column width="45%"}
 
-![](images/2_ndm_neurogenesis_heterochronic.png){width="70%"}
+![](images/2_neurogenesis/figures/2_ndm_neurogenesis_heterochronic.png){width="70%"}
 
 :::
 :::
@@ -382,7 +382,7 @@ The newborn neuron must acquire a particular `identity`.
 :::
 ::: {.column}
 
-![](images/2_ndm_differentiation.png){width="100%"}
+![](images/2_neurogenesis/figures/2_ndm_differentiation.png){width="100%"}
 
 :::
 :::
@@ -449,7 +449,7 @@ A small initial difference between neighboring cells can be amplified:
 :::
 ::: {.column}
 
-![](images/2_ndm_diffe_delta_notch.png){width="100%"   title="Notch–Delta lateral inhibition. Neighboring progenitor cells communicate through membrane-bound Delta and Notch. Small initial differences in signaling are amplified over time, producing cells with high Delta and low Notch activity and neighboring cells with high Notch activity. Across a tissue, this generates a heterogeneous salt-and-pepper pattern. At the molecular level, Notch activation releases NICD, which enters the nucleus and induces HES proteins. HES suppresses proneural genes and Delta expression, thereby inhibiting neuronal differentiation in the Notch-high cell while allowing the neighboring Delta-high cell to adopt a neuronal fate."}
+![](images/2_neurogenesis/figures/2_ndm_diffe_delta_notch.png){width="100%"   title="Notch–Delta lateral inhibition. Neighboring progenitor cells communicate through membrane-bound Delta and Notch. Small initial differences in signaling are amplified over time, producing cells with high Delta and low Notch activity and neighboring cells with high Notch activity. Across a tissue, this generates a heterogeneous salt-and-pepper pattern. At the molecular level, Notch activation releases NICD, which enters the nucleus and induces HES proteins. HES suppresses proneural genes and Delta expression, thereby inhibiting neuronal differentiation in the Notch-high cell while allowing the neighboring Delta-high cell to adopt a neuronal fate."}
 
 :::
 :::
@@ -476,7 +476,7 @@ Asymmetric inheritance therefore provides one mechanism through which cell divis
 :::
 ::: {.column}
 
-![](images/2_ndm_diffe_numb.png){width="100%" }
+![](images/2_neurogenesis/figures/2_ndm_diffe_numb.png){width="100%" }
 
 
 :::
@@ -507,7 +507,7 @@ In `Dlx1` mutant mice, interneuron loss produces spontaneous generalized <u>epil
 :::
 ::: {.column}
 
-![](images/2_ndm_diffe_dlx.png){width="100%" }
+![](images/2_neurogenesis/figures/2_ndm_diffe_dlx.png){width="100%" }
 
 ::: {.card}
 `Dlx1/Dlx2`-expressing interneuron progenitors are generated in the `ganglionic eminences` of the ventral telencephalon, adjacent to the developing striatum.
@@ -545,7 +545,7 @@ A migrating precursor can therefore receive <u>new developmental instructions</u
 :::
 ::: {.column}
 
-![](images/2_ndm_diffe_neural_crest.png){width="100%" }
+![](images/2_neurogenesis/figures/2_ndm_diffe_neural_crest.png){width="100%" }
 
 :::
 :::
@@ -573,7 +573,7 @@ Neural crest derivatives include, among others:
 :::
 ::: {.column}
 
-![](images/2_ndm_diffe_neural_crest2.png){width="100%" }
+![](images/2_neurogenesis/figures/2_ndm_diffe_neural_crest2.png){width="100%" }
 
 :::
 :::
@@ -614,7 +614,7 @@ Newly generated neurons must also pass through a period of <u>selective survival
 :::
 ::: {.column}
 
-![](images/2_ndm_pcd.png){width="80%" }
+![](images/2_neurogenesis/figures/2_ndm_pcd.png){width="80%" }
 
 :::
 :::
@@ -700,7 +700,7 @@ Typical features include:
 ## Apoptosis is not necrosis2
 
 :::{.centerimg}
-![](images/2_ndm_pcd_apoptosis.png){width="100%" }
+![](images/2_neurogenesis/figures/2_ndm_pcd_apoptosis.png){width="100%" }
 :::
 
 ## Apoptosis is an active molecular program
@@ -727,7 +727,7 @@ Cell survival therefore depends on the <u>balance</u> between <u>pro-survival</u
 :::
 ::: {.column}
 
-![](images/2_ndm_pcd_caspase.png){width="100%" 
+![](images/2_neurogenesis/figures/2_ndm_pcd_caspase.png){width="100%"
 title="In vertebrates, the apoptotic pathway is normally kept under control by anti-apoptotic Bcl-2 family proteins such as Bcl-2 and Bcl-XL, which prevent activation of the Apaf-1/caspase pathway. Pro-apoptotic proteins such as Bax, Bak, Bik and Bad inhibit or overcome this protective action, allowing Apaf-1 to activate caspases and trigger programmed cell death."}
 
 :::
@@ -789,7 +789,7 @@ Manipulating the developing limb changed the number of spinal motor neurons that
 :::
 ::: {.column width="50%"}
 
-![](images/2_ndm_pcd_montalcini.png){width="70%" 
+![](images/2_neurogenesis/figures/2_ndm_pcd_montalcini.png){width="70%"
   title="Target tissue controls developmental neuronal survival. Removing a developing limb bud reduces the peripheral target available to spinal motor neurons, so only a small fraction of those neurons survive. In contrast, transplanting an additional limb bud provides extra target tissue and increases motor-neuron survival. The experiment shows that developing neurons compete for limited target-derived survival signals, helping match the size of the neuronal population to the size of its target."
 }
 
@@ -830,7 +830,7 @@ Targets provide a <u>limited resource</u> required for neuronal survival.
 ## The target-manipulation experiment 2
 
 :::{.centerimg}
-![](images/2_ndm_pcd_montalcini_exp.png){width="70%" 
+![](images/2_neurogenesis/figures/2_ndm_pcd_montalcini_exp.png){width="70%"
   title="Developmental neuronal survival is influenced by both afferent inputs and synaptic targets. Under normal conditions about half of the neurons undergo developmental cell death. Ablation of afferent input increases neuronal death, whereas increasing afferent input promotes survival. Manipulating the postsynaptic target has an even stronger effect: target removal causes almost complete neuronal loss, partial removal produces an intermediate effect, and target enlargement increases survival. Neuronal survival therefore depends on signals received from both incoming connections and target tissues."}
 :::
 
@@ -857,7 +857,7 @@ The logic is:
 ::: {.column}
 
 :::{.centerimg}
-![](images/2_ndm_pcd_neurotrophic.png)
+![](images/2_neurogenesis/figures/2_ndm_pcd_neurotrophic.png)
 :::
 
 :::
@@ -886,7 +886,7 @@ Different neuronal populations depend on different members of the broader family
 ::: {.column}
 
 :::{.centerimg}
-![](images/2_ndm_pcd_neurotrophic2.png)
+![](images/2_neurogenesis/figures/2_ndm_pcd_neurotrophic2.png)
 :::
 
 
@@ -909,7 +909,7 @@ NGF is especially important for the survival and development of particular popul
 :::
 
 :::{.centerimg}
-![](images/2_ndm_pcd_trk_receptors.png){
+![](images/2_neurogenesis/figures/2_ndm_pcd_trk_receptors.png){
 title="Neurotrophins bind preferentially to specific Trk receptors: NGF mainly activates TrkA, BDNF and NT4/5 mainly activate TrkB, and NT3 mainly activates TrkC. Neurotrophins can also interact with the p75NTR receptor. The biological effect therefore depends on both the neurotrophin that is available and the receptors expressed by the neuron."
 }
 :::

@@ -2,8 +2,8 @@ project:
   type: website
   output-dir: docs
   resources:
-    - images/home.svg
-    - images/search.svg
+    - images/shared/ui/home.svg
+    - images/shared/ui/search.svg
     - quiz/**
   render:
     - "!Quarto-PyCharm-v5/"
@@ -18,7 +18,7 @@ format:
     controls: true
     theme: default
     slide-number: true
-    logo: images/logo/NEUROFARBA_logo.svg
+    logo: images/shared/branding/NEUROFARBA_logo.svg
     css: slide_style.css
     include-after-body: afterbody.html
     transition: fade
@@ -28,7 +28,7 @@ format:
       buttons: false
     progress: true
     title-slide-attributes:
-      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-image: images/shared/branding/NEUROFARBA.svg
       data-background-size: 500px
       data-background-position: "center 10%"
     mermaid:
