@@ -249,35 +249,35 @@
     "href": "6_experience.html#ocular-dominance-in-normal-visual-cortex",
     "title": "Development of Visual Function",
     "section": "Ocular dominance in normal visual cortex",
-    "text": "Ocular dominance in normal visual cortex\n\nMany neurons in binocular visual cortex can be driven by both eyes, although individual neurons may prefer one eye.\n\n\nIn species such as cats and primates, geniculocortical inputs from the two eyes form alternating ocular dominance columns, particularly in layer IV of V1.\n\n\nNormal binocular vision therefore depends on coordinated convergence of the two eyes onto cortical circuits."
+    "text": "Ocular dominance in normal visual cortex\n\n\n\nMany neurons in binocular visual cortex can be driven by both eyes, although individual neurons may prefer one eye.\n\n\nIn species such as cats and primates, geniculocortical inputs from the two eyes form alternating ocular dominance columns, particularly in layer IV of V1.\n\n\nNormal binocular vision therefore depends on coordinated convergence of the two eyes onto cortical circuits."
   },
   {
     "objectID": "6_experience.html#monocular-deprivation-changes-cortical-responses",
     "href": "6_experience.html#monocular-deprivation-changes-cortical-responses",
     "title": "Development of Visual Function",
     "section": "Monocular deprivation changes cortical responses",
-    "text": "Monocular deprivation changes cortical responses\n\n\nBefore deprivation, V1 contains neurons spanning a broad range of ocular preferences, including many binocular neurons.\n\nAfter deprivation during the critical period, the distribution shifts dramatically toward the open eye.\n\n\nA few days of abnormal experience during the critical period can substantially reorganize cortical function."
+    "text": "Monocular deprivation changes cortical responses\n\n\n\nBefore deprivation, V1 contains neurons spanning a broad range of ocular preferences, including many binocular neurons.\n\n\nAfter deprivation during the critical period, the distribution shifts dramatically toward the open eye."
   },
   {
     "objectID": "6_experience.html#functional-change-becomes-anatomical-change",
     "href": "6_experience.html#functional-change-becomes-anatomical-change",
     "title": "Development of Visual Function",
     "section": "Functional change becomes anatomical change",
-    "text": "Functional change becomes anatomical change\n\nMonocular deprivation does not only alter neuronal responses.\nThe cortical territory and geniculocortical axon arbors associated with the deprived eye become smaller, while connections serving the open eye gain relative territory.\n\n\nExperience can therefore modify the physical organization of developing sensory connections."
+    "text": "Functional change becomes anatomical change\n\n\n\nAfter prolonged monocular deprivation, the shift in ocular dominance is accompanied by structural reorganization of the visual pathway.\nThe ocular dominance columns representing the deprived eye become smaller, while columns driven by the open eye expand.\nAt the same time, geniculocortical axon arbors serving the deprived eye shrink, whereas those serving the non-deprived eye occupy more cortical territory.\n\n\nProlonged abnormal visual experience can therefore transform an initial functional imbalance into a stable anatomical reorganization of developing visual cortex."
   },
   {
     "objectID": "6_experience.html#why-is-monocular-deprivation-so-powerful",
     "href": "6_experience.html#why-is-monocular-deprivation-so-powerful",
     "title": "Development of Visual Function",
     "section": "Why is monocular deprivation so powerful?",
-    "text": "Why is monocular deprivation so powerful?\n\nThe effect is not explained simply by a lack of visual stimulation.\n\n\nDuring monocular deprivation, the two eyes compete under strongly unequal conditions:\nopen eye -&gt; effective patterned activity\ndeprived eye -&gt; weak or abnormal drive\n\n\nActivity-dependent competition strengthens the effective pathway and weakens the ineffective one.\nRelative activity matters."
+    "text": "Why is monocular deprivation so powerful?\n\nThe effect is not explained simply by a lack of visual stimulation.\n\n\nDuring monocular deprivation, the two eyes compete under strongly unequal conditions:\nopen eye -&gt; effective patterned activity\ndeprived eye -&gt; weak or abnormal drive"
   },
   {
     "objectID": "6_experience.html#strabismus-reveals-another-rule",
     "href": "6_experience.html#strabismus-reveals-another-rule",
     "title": "Development of Visual Function",
     "section": "Strabismus reveals another rule",
-    "text": "Strabismus reveals another rule\n\n\n\nIn strabismus, both eyes can remain active, but the two retinal images are spatially misaligned.\n\n\n\nActivity from corresponding points in the two eyes is therefore less consistently correlated.\n\n\n\nThe result is a strong reduction in binocular cortical neurons and impaired stereoscopic vision.\nNormal binocular development requires coordinated activity from the two eyes."
+    "text": "Strabismus reveals another rule\n\n\n\nIn strabismus, both eyes can remain active at the same level, but the two retinal images are spatially misaligned.\n\n\n\nActivity from corresponding points in the two eyes is therefore less consistently correlated.\n\n\n\nThe result is a strong reduction in binocular cortical neurons and impaired stereoscopic vision.\n\n\nNormal binocular development requires coordinated activity from the two eyes."
   },
   {
     "objectID": "6_experience.html#correlation-matters-not-activity-alone",
@@ -1601,5 +1601,26 @@
     "title": "Development of Visual Function",
     "section": "Case study: S.B.",
     "text": "Case study: S.B.\n\n\n\nS.B. experienced severe visual deprivation from early life (3 years old) and underwent surgery only in adulthood, at about 50 years of age.\nAfter sight was restored:\n\nvisual acuity improved, but remained far below normal\nrecognition of novel objects remained difficult\nstereopsis did not develop\nface perception was impaired\nperception of complex forms remained strongly limited\n\n\n\n\n\nRestoring visual input in adulthood was not sufficient to produce normal visual perception.\nSome visual abilities require appropriate sensory experience during development."
+  },
+  {
+    "objectID": "6_experience.html#monocular-deprivation-changes-cortical-responses-1",
+    "href": "6_experience.html#monocular-deprivation-changes-cortical-responses-1",
+    "title": "Development of Visual Function",
+    "section": "Monocular deprivation changes cortical responses",
+    "text": "Monocular deprivation changes cortical responses"
+  },
+  {
+    "objectID": "6_experience.html#monocular-deprivation-changes-cortical-responses-2",
+    "href": "6_experience.html#monocular-deprivation-changes-cortical-responses-2",
+    "title": "Development of Visual Function",
+    "section": "Monocular deprivation changes cortical responses",
+    "text": "Monocular deprivation changes cortical responses"
+  },
+  {
+    "objectID": "6_experience.html#strabismus-reveals-another-rule-1",
+    "href": "6_experience.html#strabismus-reveals-another-rule-1",
+    "title": "Development of Visual Function",
+    "section": "Strabismus reveals another rule",
+    "text": "Strabismus reveals another rule"
   }
 ]

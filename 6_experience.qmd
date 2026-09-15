@@ -1063,6 +1063,9 @@ Many cortical neurons become dominated by the <u>nondeprived eye</u> and respond
 
 ## Ocular dominance in normal visual cortex
 
+::: {.columns}
+::: {.column}
+
 ::: {.info-box}
 Many neurons in binocular visual cortex can be driven by both eyes, although individual neurons may prefer one eye.
 :::
@@ -1075,48 +1078,88 @@ In species such as cats and primates, geniculocortical inputs from the two eyes 
 Normal binocular vision therefore depends on <u>coordinated convergence of the two eyes onto cortical circuits</u>.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_ocular_dominance_normal.png
-Normal ocular-dominance histogram plus ocular-dominance columns.
--->
+:::
+::: {.column}
+
+![](images/6_experience/figures/6_exp_ocular_dominance_columns.png){width="80%"}
+
+:::
+:::
 
 ## Monocular deprivation changes cortical responses
 
 ::: {.columns}
-::: {.column}
+::: {.column width="40%"}
 
-Before deprivation, V1 contains neurons spanning a broad range of ocular preferences, including many binocular neurons.
+:::{.card}
+Before deprivation, V1 contains neurons spanning a broad <u>range of ocular preferences</u>, including many binocular neurons.
+:::
+
+:::{.card}
+After deprivation during the critical period, <u>the distribution shifts</u> dramatically toward the `open eye`.
+:::
 
 :::
 ::: {.column}
 
-After deprivation during the critical period, the distribution shifts dramatically toward the `open eye`.
+![](images/6_experience/figures/6_exp_md_cell_class.png){width="100%"
+  title="Ocular dominance in primary visual cortex. Individual V1 neurons can respond preferentially to the contralateral eye, the ipsilateral eye, or to both eyes. The seven ocular-dominance classes range from strongly contralateral responses (class 1) to strongly ipsilateral responses (class 7), with class 4 representing approximately equal input from the two eyes. In the normal adult cortex, many neurons are binocular, with the distribution centered around intermediate classes and showing a modest contralateral bias."
+}
+
 
 :::
 :::
 
-::: {.info-box}
-A few days of abnormal experience during the critical period can substantially reorganize cortical function.
+## Monocular deprivation changes cortical responses
+
+:::{.centerimg}
+![](images/6_experience/figures/6_exp_md_cat.png){
+  width="60%"
+  title="Effect of early monocular deprivation on ocular dominance in visual cortex. In the normal adult cat, cortical neurons are distributed across ocular-dominance classes, with many cells responding to both eyes. When one eye is closed by lid suture during early development, the distribution shifts dramatically toward the non-deprived eye: most cortical neurons respond almost exclusively to the open eye, while responses driven by the deprived eye are strongly reduced or absent. This experiment demonstrates that normal binocular visual experience is required during development to establish balanced cortical representation of the two eyes. (NR: Non-Responsive)"
+}
 :::
 
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_md_ocular_dominance.png
-Normal versus monocular-deprivation ocular-dominance histograms.
--->
+## Monocular deprivation changes cortical responses
+
+:::{.centerimg}
+![](images/6_experience/figures/6_exp_md_brief.png){
+  width="80%"
+  title="Effect of brief monocular deprivation during early visual development. Closing one eye for only 3 days already reduce dramatically the number of binocular neurons, whereas 6 days of deprivation produces an almost complete loss of cortical responses driven by the deprived eye. The rapidity of this change shows that developing visual cortex is highly plastic and that even short periods of abnormal visual experience can strongly reorganize cortical eye dominance."}
+:::
 
 ## Functional change becomes anatomical change
 
-::: {.card}
-Monocular deprivation does not only alter neuronal responses.
+::: {.columns}
+::: {.column width="50%"}
 
-The cortical territory and geniculocortical axon arbors associated with the deprived eye become smaller, while connections serving the open eye gain relative territory.
+::: {.card}
+After prolonged `monocular deprivation`, the shift in ocular dominance is accompanied by <u>structural reorganization</u> of the visual pathway.
+
+The `ocular dominance columns` representing the deprived eye become smaller, while columns driven by the open eye expand.
+
+At the same time, `geniculocortical axon arbors` serving the deprived eye shrink, whereas those serving the non-deprived eye occupy more cortical territory.
 :::
 
 ::: {.info-box}
-Experience can therefore modify the <u>physical organization of developing sensory connections</u>.
+Prolonged abnormal visual experience can therefore transform an initial <u>functional imbalance</u> into a stable <u>anatomical reorganization</u> of developing visual cortex.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_md_anatomy.png
-Deprived-eye versus open-eye ocular-dominance columns or geniculocortical axon arbors.
--->
+:::
+::: {.column width="50%"}
+
+![](images/6_experience/figures/6_exp_ocular_dominance_columns_shrinkage.png){
+  width="50%"
+  title="Ocular dominance columns in primary visual cortex after monocular deprivation in a monkey. Panel A shows the cortical territory associated with the non-deprived eye, which occupies relatively large ocular-dominance columns. Panel B shows the representation of the deprived eye, whose ocular-dominance columns are markedly narrower. The anatomical shrinkage of deprived-eye columns demonstrates that prolonged monocular deprivation produces structural reorganization of visual cortex, not only a change in neuronal responsiveness."
+}
+
+![](images/6_experience/figures/6_exp_md_anatomical_arbor.png){
+  width="45%"
+  title="Ocular dominance columns in primary visual cortex after monocular deprivation in a monkey. Panel A shows the cortical territory associated with the non-deprived eye, which occupies relatively large ocular-dominance columns. Panel B shows the representation of the deprived eye, whose ocular-dominance columns are markedly narrower. The anatomical shrinkage of deprived-eye columns demonstrates that prolonged monocular deprivation produces structural reorganization of visual cortex, not only a change in neuronal responsiveness."
+}
+
+:::
+:::
+
 
 ## Why is monocular deprivation so powerful?
 
@@ -1125,18 +1168,13 @@ The effect is not explained simply by a lack of visual stimulation.
 :::
 
 ::: {.card}
-During monocular deprivation, the two eyes compete under strongly unequal conditions:
+During monocular deprivation, the two eyes <u>compete</u> under strongly unequal conditions:
 
 `open eye` -> effective patterned activity
 
 `deprived eye` -> weak or abnormal drive
 :::
 
-::: {.card}
-Activity-dependent competition strengthens the effective pathway and weakens the ineffective one.
-
-<u>Relative activity matters.</u>
-:::
 
 ## Strabismus reveals another rule
 
@@ -1144,28 +1182,34 @@ Activity-dependent competition strengthens the effective pathway and weakens the
 ::: {.column}
 
 ::: {.card}
-In `strabismus`, both eyes can remain active, but the two retinal images are spatially misaligned.
+In `strabismus`, both eyes can remain active at the same level, but the two retinal images are spatially <u>misaligned</u>.
 :::
 
 :::
 ::: {.column}
 
 ::: {.card}
-Activity from corresponding points in the two eyes is therefore less consistently correlated.
+Activity from corresponding points in the two eyes is therefore <u>less</u> consistently <u>correlated</u>.
 :::
 
 :::
 :::
 
 ::: {.info-box}
-The result is a strong reduction in binocular cortical neurons and impaired stereoscopic vision.
+The result is a strong reduction in <u>binocular</u> cortical neurons and impaired stereoscopic vision.
 
-<u>Normal binocular development requires coordinated activity from the two eyes.</u>
 :::
 
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_strabismus_od.png
-Ocular-dominance distributions in normal and strabismic animals.
--->
+>Normal binocular development requires coordinated activity from the two eyes.
+
+## Strabismus reveals another rule
+
+:::{.centerimg}
+![](images/6_experience/figures/6_exp_strabismic_effects.png){
+  width="65%"
+  title="Effect of strabismus on ocular dominance in visual cortex. In normal animals, many V1 neurons are binocular and respond to input from both eyes, producing a distribution centered around the intermediate ocular-dominance classes. In a strabismic animal, the two eyes provide poorly correlated visual input. Binocular responses are therefore strongly reduced, and cortical neurons become dominated by one eye or the other, producing a distribution concentrated toward the monocular classes at the two extremes."
+}
+:::
 
 ## Correlation matters, not activity alone
 
