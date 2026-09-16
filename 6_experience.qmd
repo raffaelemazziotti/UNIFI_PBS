@@ -1160,7 +1160,6 @@ Prolonged abnormal visual experience can therefore transform an initial <u>funct
 :::
 :::
 
-
 ## Why is monocular deprivation so powerful?
 
 ::: {.info-box}
@@ -1174,7 +1173,6 @@ During monocular deprivation, the two eyes <u>compete</u> under strongly unequal
 
 `deprived eye` -> weak or abnormal drive
 :::
-
 
 ## Strabismus reveals another rule
 
@@ -1259,7 +1257,18 @@ The temporal relationship between inputs provides information about <u>which con
 Synchronous versus asynchronous optic-pathway stimulation and resulting ocular-dominance distributions.
 -->
 
+## Correlation matters, not activity alone
+
+:::{.centerimg}
+![](images/6_experience/figures/6_exp_strabismus_sync.png){width="80%"
+  title="Role of correlated activity in the development of binocular responses in V1. After retinal activity is blocked with tetrodotoxin (TTX), the two eyes can be experimentally stimulated with either synchronous or asynchronous patterns. Synchronous activation preserves correlated input from the two eyes and favors the development of binocular cortical neurons, producing many cells with intermediate ocular dominance. In contrast, asynchronous activation decorrelates the two inputs and shifts the population toward the monocular extremes. The experiment shows that the relative timing of activity from the two eyes helps determine whether their inputs are integrated or segregated in visual cortex."
+}
+:::
+
 ## Critical-period plasticity changes with age
+
+::: {.columns}
+::: {.column}
 
 ::: {.info-box}
 The response to the same sensory manipulation depends strongly on developmental age.
@@ -1275,9 +1284,52 @@ Before the window is fully open or after it has largely closed, the same depriva
 Critical periods therefore reflect <u>developmental regulation of the capacity for experience-dependent circuit change</u>.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_critical_period_curve.png
-Age on x-axis and susceptibility to monocular deprivation on y-axis.
--->
+:::
+::: {.column}
+
+![](images/6_experience/figures/6_exp_md_age.png){width="65%"}
+![](images/6_experience/figures/6_exp_md_life.png){width="65%"}
+
+
+:::
+:::
+
+## Critical period closure reduces cortical plasticity
+
+::: {.columns}
+
+::: {.column width="42%"}
+
+:::{.card}
+During the `critical period`, visual cortex is highly susceptible to activity-dependent modification.
+
+At the synaptic level, this is accompanied by a strong capacity to induce `LTP`{title="Long-term potentiation"}.
+:::
+
+:::{.card}
+As development proceeds and the critical period closes:
+
+- LTP induction becomes progressively <u>less effective</u>
+- the same stimulation produces smaller potentiation
+- cortical circuits become increasingly resistant to long-lasting modification
+
+:::
+
+:::
+
+::: {.column width="58%"}
+
+![](images/6_experience/figures/6_exp_md_ltp.png){
+  width="100%"
+  title="Developmental decline in cortical plasticity. Electrical stimulation of visual cortex produces strong long-term potentiation in young animals. The magnitude of potentiation progressively decreases with age and approaches baseline as the critical period closes. This indicates that closure of the critical period is accompanied by a reduced capacity to induce LTP in visual cortical circuits."
+}
+
+::: {.info-box}
+The closure of the `critical period` is therefore accompanied by a <u>decrease in the capacity to induce LTP</u>: synaptic connections become progressively more stable and less easily modified by experience.
+:::
+
+:::
+:::
 
 ## Sensory experience helps regulate the window
 
@@ -1299,6 +1351,9 @@ Developmental decline of visual-cortical LTP, with delayed decline after dark re
 
 ## Inhibition helps open and regulate critical-period plasticity
 
+::: {.columns}
+::: {.column}
+
 ::: {.info-box}
 One of the major developmental changes in visual cortex is maturation of `GABAergic inhibition`.
 :::
@@ -1311,13 +1366,22 @@ Experiments manipulating GABAergic transmission showed that a sufficient level o
 The critical period is therefore not simply a time when the cortex is "more excitable". It depends on maturation of a specific <u>excitatory-inhibitory circuit state</u>.
 :::
 
-<small>[Hensch et al., 1998](https://pubmed.ncbi.nlm.nih.gov/9822384/) | [Fagiolini & Hensch, 2000](https://pubmed.ncbi.nlm.nih.gov/10724170/)</small>
+:::
+::: {.column }
 
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_gad65_inhibition.png
-Developmental increase in inhibitory markers or GAD65 experiment.
--->
+![](images/6_experience/figures/6_exp_md_inhibition.png){
+  width="70%"
+    title="Developmental increase in inhibitory circuitry. GAD65 staining, used here as a marker of GABAergic inhibitory terminals, increases progressively with age in visual cortex. This rise reflects the maturation of inhibitory networks during postnatal development. Increasing inhibition is closely associated with the progression and eventual closure of the critical period, as cortical circuits become more stable and less susceptible to large experience-dependent changes."
+}
+
+:::
+:::
+<small>[Hensch et al., 1998](https://pubmed.ncbi.nlm.nih.gov/9822384/){target="_blank"} | [Fagiolini & Hensch, 2000](https://pubmed.ncbi.nlm.nih.gov/10724170/){target="_blank"}</small>
 
 ## BDNF can change the timing of the critical period
+
+::: {.columns}
+::: {.column}
 
 ::: {.info-box}
 `BDNF` promotes maturation of cortical inhibitory circuitry during development.
@@ -1335,11 +1399,25 @@ When BDNF expression is increased precociously in mouse visual cortex:
 Changing circuit maturation can therefore <u>shift the timing of developmental plasticity</u>.
 :::
 
+:::
+::: {.column}
+
+
+![](images/6_experience/figures/6_exp_md_bdnf_over.png){
+  width="70%"
+    title="Developmental increase in inhibitory circuitry. GAD65 staining, used here as a marker of GABAergic inhibitory terminals, increases progressively with age in visual cortex. This rise reflects the maturation of inhibitory networks during postnatal development. Increasing inhibition is closely associated with the progression and eventual closure of the critical period, as cortical circuits become more stable and less susceptible to large experience-dependent changes."
+}
+
+![](images/6_experience/figures/6_exp_md_bdnf_inhib.png){
+  width="50%"
+    title="Developmental increase in inhibitory circuitry. GAD65 staining, used here as a marker of GABAergic inhibitory terminals, increases progressively with age in visual cortex. This rise reflects the maturation of inhibitory networks during postnatal development. Increasing inhibition is closely associated with the progression and eventual closure of the critical period, as cortical circuits become more stable and less susceptible to large experience-dependent changes."
+}
+
+:::
+:::
 <small>[Huang et al., 1999](https://pubmed.ncbi.nlm.nih.gov/10499792/)</small>
 
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_bdnf_critical_period.png
-BDNF overexpression and earlier inhibitory maturation / earlier critical period.
--->
+
 
 ## The mature circuit becomes harder to modify
 

@@ -291,7 +291,7 @@
     "href": "6_experience.html#critical-period-plasticity-changes-with-age",
     "title": "Development of Visual Function",
     "section": "Critical-period plasticity changes with age",
-    "text": "Critical-period plasticity changes with age\n\nThe response to the same sensory manipulation depends strongly on developmental age.\n\n\nDuring the critical period, brief monocular deprivation can produce a large ocular-dominance shift.\nBefore the window is fully open or after it has largely closed, the same deprivation produces a smaller effect.\n\n\nCritical periods therefore reflect developmental regulation of the capacity for experience-dependent circuit change."
+    "text": "Critical-period plasticity changes with age\n\n\n\nThe response to the same sensory manipulation depends strongly on developmental age.\n\n\nDuring the critical period, brief monocular deprivation can produce a large ocular-dominance shift.\nBefore the window is fully open or after it has largely closed, the same deprivation produces a smaller effect.\n\n\nCritical periods therefore reflect developmental regulation of the capacity for experience-dependent circuit change."
   },
   {
     "objectID": "6_experience.html#sensory-experience-helps-regulate-the-window",
@@ -305,14 +305,14 @@
     "href": "6_experience.html#inhibition-helps-open-and-regulate-critical-period-plasticity",
     "title": "Development of Visual Function",
     "section": "Inhibition helps open and regulate critical-period plasticity",
-    "text": "Inhibition helps open and regulate critical-period plasticity\n\nOne of the major developmental changes in visual cortex is maturation of GABAergic inhibition.\n\n\nExperiments manipulating GABAergic transmission showed that a sufficient level of cortical inhibition is required for normal ocular-dominance plasticity to emerge.\n\n\nThe critical period is therefore not simply a time when the cortex is “more excitable”. It depends on maturation of a specific excitatory-inhibitory circuit state.\n\nHensch et al., 1998 | Fagiolini & Hensch, 2000"
+    "text": "Inhibition helps open and regulate critical-period plasticity\n\n\n\nOne of the major developmental changes in visual cortex is maturation of GABAergic inhibition.\n\n\nExperiments manipulating GABAergic transmission showed that a sufficient level of cortical inhibition is required for normal ocular-dominance plasticity to emerge.\n\n\nThe critical period is therefore not simply a time when the cortex is “more excitable”. It depends on maturation of a specific excitatory-inhibitory circuit state.\n\n\n\n\nHensch et al., 1998 | Fagiolini & Hensch, 2000"
   },
   {
     "objectID": "6_experience.html#bdnf-can-change-the-timing-of-the-critical-period",
     "href": "6_experience.html#bdnf-can-change-the-timing-of-the-critical-period",
     "title": "Development of Visual Function",
     "section": "BDNF can change the timing of the critical period",
-    "text": "BDNF can change the timing of the critical period\n\nBDNF promotes maturation of cortical inhibitory circuitry during development.\n\n\nWhen BDNF expression is increased precociously in mouse visual cortex:\n\nGABAergic maturation occurs earlier\nvisual functions mature earlier\nsusceptibility to monocular deprivation shifts to an earlier age\n\n\n\nChanging circuit maturation can therefore shift the timing of developmental plasticity.\n\nHuang et al., 1999"
+    "text": "BDNF can change the timing of the critical period\n\n\n\nBDNF promotes maturation of cortical inhibitory circuitry during development.\n\n\nWhen BDNF expression is increased precociously in mouse visual cortex:\n\nGABAergic maturation occurs earlier\nvisual functions mature earlier\nsusceptibility to monocular deprivation shifts to an earlier age\n\n\n\nChanging circuit maturation can therefore shift the timing of developmental plasticity.\n\n\n\n\n\nHuang et al., 1999"
   },
   {
     "objectID": "6_experience.html#the-mature-circuit-becomes-harder-to-modify",
@@ -1622,5 +1622,19 @@
     "title": "Development of Visual Function",
     "section": "Strabismus reveals another rule",
     "text": "Strabismus reveals another rule"
+  },
+  {
+    "objectID": "6_experience.html#correlation-matters-not-activity-alone-1",
+    "href": "6_experience.html#correlation-matters-not-activity-alone-1",
+    "title": "Development of Visual Function",
+    "section": "Correlation matters, not activity alone",
+    "text": "Correlation matters, not activity alone"
+  },
+  {
+    "objectID": "6_experience.html#critical-period-closure-reduces-cortical-plasticity",
+    "href": "6_experience.html#critical-period-closure-reduces-cortical-plasticity",
+    "title": "Development of Visual Function",
+    "section": "Critical period closure reduces cortical plasticity",
+    "text": "Critical period closure reduces cortical plasticity\n\n\n\nDuring the critical period, visual cortex is highly susceptible to activity-dependent modification.\nAt the synaptic level, this is accompanied by a strong capacity to induce LTP.\n\n\nAs development proceeds and the critical period closes:\n\nLTP induction becomes progressively less effective\nthe same stimulation produces smaller potentiation\ncortical circuits become increasingly resistant to long-lasting modification\n\n\n\n\n\nThe closure of the critical period is therefore accompanied by a decrease in the capacity to induce LTP: synaptic connections become progressively more stable and less easily modified by experience."
   }
 ]
