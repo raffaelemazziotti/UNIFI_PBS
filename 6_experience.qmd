@@ -1405,21 +1405,61 @@ Changing circuit maturation can therefore <u>shift the timing of developmental p
 
 ![](images/6_experience/figures/6_exp_md_bdnf_over.png){
   width="70%"
-    title="Developmental increase in inhibitory circuitry. GAD65 staining, used here as a marker of GABAergic inhibitory terminals, increases progressively with age in visual cortex. This rise reflects the maturation of inhibitory networks during postnatal development. Increasing inhibition is closely associated with the progression and eventual closure of the critical period, as cortical circuits become more stable and less susceptible to large experience-dependent changes."
+  title="Developmental increase in BDNF expression in visual cortex. Wild-type mice show a gradual rise in cortical BDNF mRNA during postnatal development, whereas mice overexpressing BDNF show much higher levels from early ages onward. Elevated BDNF accelerates the maturation of inhibitory cortical circuitry and is associated with an earlier onset and closure of the critical period for visual cortical plasticity."
 }
 
 ![](images/6_experience/figures/6_exp_md_bdnf_inhib.png){
   width="50%"
-    title="Developmental increase in inhibitory circuitry. GAD65 staining, used here as a marker of GABAergic inhibitory terminals, increases progressively with age in visual cortex. This rise reflects the maturation of inhibitory networks during postnatal development. Increasing inhibition is closely associated with the progression and eventual closure of the critical period, as cortical circuits become more stable and less susceptible to large experience-dependent changes."
-}
+  title="Accelerated maturation of inhibitory circuitry in mice overexpressing BDNF. GAD65 staining, used here as a marker of GABAergic inhibitory terminals, increases earlier and more rapidly in BDNF-overexpressing mice than in wild-type animals. This indicates that elevated BDNF accelerates the maturation of cortical inhibition, linking BDNF expression to the timing of critical-period development in visual cortex."}
 
 :::
 :::
 <small>[Huang et al., 1999](https://pubmed.ncbi.nlm.nih.gov/10499792/)</small>
 
+## BDNF anticipates the closure of the critical period in V1
 
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.card}
+`Cortical plasticity`
+
+Increased `BDNF` accelerates maturation of `GABAergic inhibition`.
+
+As a consequence:
+
+- ocular-dominance plasticity appears <u>earlier</u>
+- sensitivity to monocular deprivation peaks earlier
+- the `critical period` also <u>closes earlier</u>
+
+The period of high cortical plasticity is therefore shifted to a younger age.
+:::
+
+:::
+
+::: {.column width="50%"}
+
+![](images/6_experience/figures/6_exp_md_bdnf_od.png){
+  width="100%"
+  title="BDNF overexpression shifts the timing of ocular-dominance plasticity to earlier ages. The graph shows the ratio of deprived-eye to non-deprived-eye responses after monocular deprivation beginning at different postnatal ages. Compared with wild-type animals, BDNF-overexpressing mice show stronger effects of deprivation at earlier ages, especially around P23-P28, indicating that the period of heightened cortical plasticity occurs earlier. By later ages, the difference between groups largely disappears, consistent with an earlier maturation and closure of the critical period rather than an increase in the final level of visual function."
+  }
+
+::: {.card}
+`Visual function`
+
+Visual functions such as `visual acuity` also mature <u>earlier</u> in BDNF-overexpressing animals.
+However, the final level reached is the same as in WT animals.
+BDNF changes the <u>timing of maturation</u>, rather than the final capability.
+:::
+
+:::
+:::
 
 ## The mature circuit becomes harder to modify
+
+::: {.columns}
+::: {.column}
 
 ::: {.info-box}
 Critical-period closure also involves the accumulation of molecular and structural constraints that stabilize mature circuits.
@@ -1430,12 +1470,19 @@ Critical-period closure also involves the accumulation of molecular and structur
 :::
 
 ::: {.card}
-These structures are associated with increased circuit stability and reduced juvenile-like plasticity.
+These structures are associated with increased circuit <u>stability</u> and reduced juvenile-like plasticity.
 :::
 
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_pnn.png
-WFA-labelled perineuronal nets at different ages.
--->
+:::
+::: {.column}
+
+
+![](images/6_experience/figures/6_exp_pnn_dev.png){
+    width="100%"
+    title="Development of perineuronal nets in visual cortex. Perineuronal net markers progressively increase with postnatal age: labeling is sparse at early ages and becomes much more prominent by P70-P100. The accompanying quantification shows a parallel rise in Neurocan- and WFA-positive cells. The accumulation of perineuronal nets is associated with maturation and stabilization of cortical circuits and contributes to the reduction of plasticity as the critical period closes."
+}
+:::
+:::
 
 ## Removing a structural brake can restore plasticity
 
@@ -1470,98 +1517,27 @@ Adult animals then undergo monocular deprivation, which normally produces little
 ::: {.exp-section-title}
 Result
 :::
-Ocular-dominance plasticity reappears in the adult visual cortex.
-:::
-:::
+Ocular-dominance plasticity reappears in the adult visual cortex. Critical-period closure is therefore an <u>actively maintained stable state</u>, and not irreversible.
 
 :::
 :::
 
-::: {.info-box}
-Critical-period closure is therefore partly an <u>actively maintained stable state</u>, not simply the irreversible disappearance of plasticity.
+:::
+:::
+
+:::{.centerimg}
+![](images/6_experience/figures/6_exp_pnn_chABC.png){
+    width="50%"
+  title="Perineuronal nets contribute to the closure of critical-period plasticity in adult visual cortex. In normal adults, ocular dominance is relatively stable, and monocular deprivation produces little change. After degradation of perineuronal nets with chondroitinase ABC (chABC), monocular deprivation once again shifts ocular dominance toward the non-deprived eye. This indicates that removing the extracellular matrix constraints formed by perineuronal nets can restore a more juvenile-like state of cortical plasticity and reopen critical-period mechanisms in adulthood."
+  }
 :::
 
 <small>[Pizzorusso et al., 2002](https://pubmed.ncbi.nlm.nih.gov/12424383/)</small>
 
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_chabc_od.png
-Adult control, adult monocular deprivation, and adult chABC + monocular deprivation ocular-dominance histograms.
--->
+## Self-check
 
-## Is sensory experience instructive?
-
-::: {.info-box}
-Does sensory experience merely maintain circuits that are already specified, or can the identity of the input help instruct what a cortical area becomes?
-:::
-
-::: {.card}
-In developing ferrets, retinal projections can be experimentally redirected toward the auditory thalamus.
-
-Neurons in auditory cortex then develop visual response properties, including organized visual receptive fields.
-:::
-
-::: {.card}
-The experiment shows that sensory input can <u>instruct important functional properties of developing cortex</u>, although cortical identity is not determined by sensory input alone.
-:::
-
-<small>[Sur, Garraghty & Roe, 1988](https://pubmed.ncbi.nlm.nih.gov/2462279/) | [Roe et al., 1990](https://pubmed.ncbi.nlm.nih.gov/2237432/)</small>
-
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_rewired_ferret.png
-Normal and rewired ferret visual/auditory pathways.
--->
-
-## Development is a sequence of constraints and experience
-
-::: {.columns}
-::: {.column}
-
-::: {.card}
-`Before vision`
-
-Molecular cues and spontaneous activity establish the initial architecture.
-:::
-
-::: {.card}
-`Early visual experience`
-
-Correlated sensory activity refines and stabilizes connections.
-:::
-
-:::
-::: {.column}
-
-::: {.card}
-`Critical period`
-
-Experience can produce especially large changes in circuit organization.
-:::
-
-::: {.card}
-`Mature cortex`
-
-Plasticity persists, but increasing inhibitory and structural constraints favor stability.
-:::
-
-:::
-:::
-
-<!-- IMAGE SUGGESTION: images/6_experience/figures/6_visual_development_timeline.png
-Timeline from circuit formation through eye opening, critical period and adulthood.
--->
-
-## The central idea
-
-::: {.info-box}
-The visual system is neither completely predetermined nor constructed from scratch by experience.
-:::
-
-::: {.card}
-<u>Development creates an organized initial circuit.</u>
-
-<u>Activity and sensory experience refine that circuit.</u>
-
-<u>Critical periods regulate when experience has its strongest effects.</u>
-:::
-
-::: {.card}
-The mature visual system is therefore the product of an interaction between `developmental programs`, `spontaneous activity`, `sensory experience` and `plasticity`.
-:::
+```{=html}
+<div class="quiz-wrap">
+  <iframe class="quiz-frame" src="quiz/quiz_exp.html" loading="lazy"></iframe>
+</div>
+```

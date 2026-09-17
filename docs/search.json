@@ -231,6 +231,13 @@
     "text": "Human evidence: congenital cataract\n\n\n\nA dense congenital cataract prevents patterned visual information from reaching the retina normally during early development.\n\n\nRemoving the cataract early generally allows substantially better visual development than restoring patterned vision only after prolonged deprivation.\n\n\n\nThe outcome depends not only on whether visual input is restored, but also on when it is restored."
   },
   {
+    "objectID": "6_experience.html#case-study-s.b.",
+    "href": "6_experience.html#case-study-s.b.",
+    "title": "Development of Visual Function",
+    "section": "Case study: S.B.",
+    "text": "Case study: S.B.\n\n\n\nS.B. experienced severe visual deprivation from early life (3 years old) and underwent surgery only in adulthood, at about 50 years of age.\nAfter sight was restored:\n\nvisual acuity improved, but remained far below normal\nrecognition of novel objects remained difficult\nstereopsis did not develop\nface perception was impaired\nperception of complex forms remained strongly limited\n\n\n\n\n\nRestoring visual input in adulthood was not sufficient to produce normal visual perception.\nSome visual abilities require appropriate sensory experience during development."
+  },
+  {
     "objectID": "6_experience.html#amblyopia-abnormal-experience-changes-cortical-function",
     "href": "6_experience.html#amblyopia-abnormal-experience-changes-cortical-function",
     "title": "Development of Visual Function",
@@ -259,6 +266,20 @@
     "text": "Monocular deprivation changes cortical responses\n\n\n\nBefore deprivation, V1 contains neurons spanning a broad range of ocular preferences, including many binocular neurons.\n\n\nAfter deprivation during the critical period, the distribution shifts dramatically toward the open eye."
   },
   {
+    "objectID": "6_experience.html#monocular-deprivation-changes-cortical-responses-1",
+    "href": "6_experience.html#monocular-deprivation-changes-cortical-responses-1",
+    "title": "Development of Visual Function",
+    "section": "Monocular deprivation changes cortical responses",
+    "text": "Monocular deprivation changes cortical responses"
+  },
+  {
+    "objectID": "6_experience.html#monocular-deprivation-changes-cortical-responses-2",
+    "href": "6_experience.html#monocular-deprivation-changes-cortical-responses-2",
+    "title": "Development of Visual Function",
+    "section": "Monocular deprivation changes cortical responses",
+    "text": "Monocular deprivation changes cortical responses"
+  },
+  {
     "objectID": "6_experience.html#functional-change-becomes-anatomical-change",
     "href": "6_experience.html#functional-change-becomes-anatomical-change",
     "title": "Development of Visual Function",
@@ -280,6 +301,13 @@
     "text": "Strabismus reveals another rule\n\n\n\nIn strabismus, both eyes can remain active at the same level, but the two retinal images are spatially misaligned.\n\n\n\nActivity from corresponding points in the two eyes is therefore less consistently correlated.\n\n\n\nThe result is a strong reduction in binocular cortical neurons and impaired stereoscopic vision.\n\n\nNormal binocular development requires coordinated activity from the two eyes."
   },
   {
+    "objectID": "6_experience.html#strabismus-reveals-another-rule-1",
+    "href": "6_experience.html#strabismus-reveals-another-rule-1",
+    "title": "Development of Visual Function",
+    "section": "Strabismus reveals another rule",
+    "text": "Strabismus reveals another rule"
+  },
+  {
     "objectID": "6_experience.html#correlation-matters-not-activity-alone",
     "href": "6_experience.html#correlation-matters-not-activity-alone",
     "title": "Development of Visual Function",
@@ -287,11 +315,25 @@
     "text": "Correlation matters, not activity alone\n\n\nControlling the temporal relationship between the two eyes\n\n\n\n\n\nQuestion\n\nIs activity sufficient, or must activity from the two eyes be temporally coordinated?\n\n\n\n\nManipulation\n\nRetinal activity is experimentally controlled so that the two optic pathways are activated either synchronously or asynchronously.\n\n\n\n\nResult\n\nSynchronous activity favors binocular convergence, whereas strongly asynchronous activity favors more monocular organization.\n\n\n\n\nThe temporal relationship between inputs provides information about which connections should be associated."
   },
   {
+    "objectID": "6_experience.html#correlation-matters-not-activity-alone-1",
+    "href": "6_experience.html#correlation-matters-not-activity-alone-1",
+    "title": "Development of Visual Function",
+    "section": "Correlation matters, not activity alone",
+    "text": "Correlation matters, not activity alone"
+  },
+  {
     "objectID": "6_experience.html#critical-period-plasticity-changes-with-age",
     "href": "6_experience.html#critical-period-plasticity-changes-with-age",
     "title": "Development of Visual Function",
     "section": "Critical-period plasticity changes with age",
     "text": "Critical-period plasticity changes with age\n\n\n\nThe response to the same sensory manipulation depends strongly on developmental age.\n\n\nDuring the critical period, brief monocular deprivation can produce a large ocular-dominance shift.\nBefore the window is fully open or after it has largely closed, the same deprivation produces a smaller effect.\n\n\nCritical periods therefore reflect developmental regulation of the capacity for experience-dependent circuit change."
+  },
+  {
+    "objectID": "6_experience.html#critical-period-closure-reduces-cortical-plasticity",
+    "href": "6_experience.html#critical-period-closure-reduces-cortical-plasticity",
+    "title": "Development of Visual Function",
+    "section": "Critical period closure reduces cortical plasticity",
+    "text": "Critical period closure reduces cortical plasticity\n\n\n\nDuring the critical period, visual cortex is highly susceptible to activity-dependent modification.\nAt the synaptic level, this is accompanied by a strong capacity to induce LTP.\n\n\nAs development proceeds and the critical period closes:\n\nLTP induction becomes progressively less effective\nthe same stimulation produces smaller potentiation\ncortical circuits become increasingly resistant to long-lasting modification\n\n\n\n\n\nThe closure of the critical period is therefore accompanied by a decrease in the capacity to induce LTP: synaptic connections become progressively more stable and less easily modified by experience."
   },
   {
     "objectID": "6_experience.html#sensory-experience-helps-regulate-the-window",
@@ -315,39 +357,32 @@
     "text": "BDNF can change the timing of the critical period\n\n\n\nBDNF promotes maturation of cortical inhibitory circuitry during development.\n\n\nWhen BDNF expression is increased precociously in mouse visual cortex:\n\nGABAergic maturation occurs earlier\nvisual functions mature earlier\nsusceptibility to monocular deprivation shifts to an earlier age\n\n\n\nChanging circuit maturation can therefore shift the timing of developmental plasticity.\n\n\n\n\n\nHuang et al., 1999"
   },
   {
+    "objectID": "6_experience.html#bdnf-anticipates-the-closure-of-the-critical-period-in-v1",
+    "href": "6_experience.html#bdnf-anticipates-the-closure-of-the-critical-period-in-v1",
+    "title": "Development of Visual Function",
+    "section": "BDNF anticipates the closure of the critical period in V1",
+    "text": "BDNF anticipates the closure of the critical period in V1\n\n\n\nCortical plasticity\nIncreased BDNF accelerates maturation of GABAergic inhibition.\nAs a consequence:\n\nocular-dominance plasticity appears earlier\nsensitivity to monocular deprivation peaks earlier\nthe critical period also closes earlier\n\nThe period of high cortical plasticity is therefore shifted to a younger age.\n\n\n\n\nVisual function\nVisual functions such as visual acuity also mature earlier in BDNF-overexpressing animals. However, the final level reached is the same as in WT animals. BDNF changes the timing of maturation, rather than the final capability."
+  },
+  {
     "objectID": "6_experience.html#the-mature-circuit-becomes-harder-to-modify",
     "href": "6_experience.html#the-mature-circuit-becomes-harder-to-modify",
     "title": "Development of Visual Function",
     "section": "The mature circuit becomes harder to modify",
-    "text": "The mature circuit becomes harder to modify\n\nCritical-period closure also involves the accumulation of molecular and structural constraints that stabilize mature circuits.\n\n\nPerineuronal nets (PNNs) are extracellular-matrix structures that accumulate around subsets of neurons, particularly many parvalbumin interneurons.\n\n\nThese structures are associated with increased circuit stability and reduced juvenile-like plasticity."
+    "text": "The mature circuit becomes harder to modify\n\n\n\nCritical-period closure also involves the accumulation of molecular and structural constraints that stabilize mature circuits.\n\n\nPerineuronal nets (PNNs) are extracellular-matrix structures that accumulate around subsets of neurons, particularly many parvalbumin interneurons.\n\n\nThese structures are associated with increased circuit stability and reduced juvenile-like plasticity."
   },
   {
     "objectID": "6_experience.html#removing-a-structural-brake-can-restore-plasticity",
     "href": "6_experience.html#removing-a-structural-brake-can-restore-plasticity",
     "title": "Development of Visual Function",
     "section": "Removing a structural brake can restore plasticity",
-    "text": "Removing a structural brake can restore plasticity\n\n\nReopening ocular-dominance plasticity in adult visual cortex\n\n\n\n\n\nManipulation\n\nChondroitinase ABC is used to degrade chondroitin-sulfate proteoglycans in the mature extracellular matrix.\n\n\n\n\nTest\n\nAdult animals then undergo monocular deprivation, which normally produces little ocular-dominance shift after the critical period.\n\n\n\n\nResult\n\nOcular-dominance plasticity reappears in the adult visual cortex.\n\n\n\n\nCritical-period closure is therefore partly an actively maintained stable state, not simply the irreversible disappearance of plasticity.\n\nPizzorusso et al., 2002"
+    "text": "Removing a structural brake can restore plasticity\n\n\nReopening ocular-dominance plasticity in adult visual cortex\n\n\n\n\n\nManipulation\n\nChondroitinase ABC is used to degrade chondroitin-sulfate proteoglycans in the mature extracellular matrix.\n\n\n\n\nTest\n\nAdult animals then undergo monocular deprivation, which normally produces little ocular-dominance shift after the critical period.\n\n\n\n\nResult\n\nOcular-dominance plasticity reappears in the adult visual cortex. Critical-period closure is therefore an actively maintained stable state, and not irreversible.\n\n\n\n\n\n\nPizzorusso et al., 2002"
   },
   {
-    "objectID": "6_experience.html#is-sensory-experience-instructive",
-    "href": "6_experience.html#is-sensory-experience-instructive",
+    "objectID": "6_experience.html#self-check",
+    "href": "6_experience.html#self-check",
     "title": "Development of Visual Function",
-    "section": "Is sensory experience instructive?",
-    "text": "Is sensory experience instructive?\n\nDoes sensory experience merely maintain circuits that are already specified, or can the identity of the input help instruct what a cortical area becomes?\n\n\nIn developing ferrets, retinal projections can be experimentally redirected toward the auditory thalamus.\nNeurons in auditory cortex then develop visual response properties, including organized visual receptive fields.\n\n\nThe experiment shows that sensory input can instruct important functional properties of developing cortex, although cortical identity is not determined by sensory input alone.\n\nSur, Garraghty & Roe, 1988 | Roe et al., 1990"
-  },
-  {
-    "objectID": "6_experience.html#development-is-a-sequence-of-constraints-and-experience",
-    "href": "6_experience.html#development-is-a-sequence-of-constraints-and-experience",
-    "title": "Development of Visual Function",
-    "section": "Development is a sequence of constraints and experience",
-    "text": "Development is a sequence of constraints and experience\n\n\n\nBefore vision\nMolecular cues and spontaneous activity establish the initial architecture.\n\n\nEarly visual experience\nCorrelated sensory activity refines and stabilizes connections.\n\n\n\nCritical period\nExperience can produce especially large changes in circuit organization.\n\n\nMature cortex\nPlasticity persists, but increasing inhibitory and structural constraints favor stability."
-  },
-  {
-    "objectID": "6_experience.html#the-central-idea",
-    "href": "6_experience.html#the-central-idea",
-    "title": "Development of Visual Function",
-    "section": "The central idea",
-    "text": "The central idea\n\nThe visual system is neither completely predetermined nor constructed from scratch by experience.\n\n\nDevelopment creates an organized initial circuit.\nActivity and sensory experience refine that circuit.\nCritical periods regulate when experience has its strongest effects.\n\n\nThe mature visual system is therefore the product of an interaction between developmental programs, spontaneous activity, sensory experience and plasticity."
+    "section": "Self-check",
+    "text": "Self-check"
   },
   {
     "objectID": "4_methods.html#methods-in-developmental-psychobiology",
@@ -1587,54 +1622,5 @@
     "title": "Neuroplasticity",
     "section": "Self-check",
     "text": "Self-check"
-  },
-  {
-    "objectID": "6_experience.html#case-study-s.b.-sight-restored-in-adulthood",
-    "href": "6_experience.html#case-study-s.b.-sight-restored-in-adulthood",
-    "title": "Development of Visual Function",
-    "section": "Case study: S.B. — sight restored in adulthood",
-    "text": "Case study: S.B. — sight restored in adulthood\n\n\n\nS.B. experienced severe visual deprivation from early life (3 years old) and underwent surgery only in adulthood, at about 50 years of age.\nAfter sight was restored:\n\nvisual acuity improved, but remained far below normal\nrecognition of novel objects remained difficult\nstereopsis did not develop\nface perception was impaired\nperception of complex forms remained strongly limited\n\n\n\n\n\nRestoring visual input in adulthood was not sufficient to produce normal visual perception.\nSome visual abilities require appropriate sensory experience during development."
-  },
-  {
-    "objectID": "6_experience.html#case-study-s.b.",
-    "href": "6_experience.html#case-study-s.b.",
-    "title": "Development of Visual Function",
-    "section": "Case study: S.B.",
-    "text": "Case study: S.B.\n\n\n\nS.B. experienced severe visual deprivation from early life (3 years old) and underwent surgery only in adulthood, at about 50 years of age.\nAfter sight was restored:\n\nvisual acuity improved, but remained far below normal\nrecognition of novel objects remained difficult\nstereopsis did not develop\nface perception was impaired\nperception of complex forms remained strongly limited\n\n\n\n\n\nRestoring visual input in adulthood was not sufficient to produce normal visual perception.\nSome visual abilities require appropriate sensory experience during development."
-  },
-  {
-    "objectID": "6_experience.html#monocular-deprivation-changes-cortical-responses-1",
-    "href": "6_experience.html#monocular-deprivation-changes-cortical-responses-1",
-    "title": "Development of Visual Function",
-    "section": "Monocular deprivation changes cortical responses",
-    "text": "Monocular deprivation changes cortical responses"
-  },
-  {
-    "objectID": "6_experience.html#monocular-deprivation-changes-cortical-responses-2",
-    "href": "6_experience.html#monocular-deprivation-changes-cortical-responses-2",
-    "title": "Development of Visual Function",
-    "section": "Monocular deprivation changes cortical responses",
-    "text": "Monocular deprivation changes cortical responses"
-  },
-  {
-    "objectID": "6_experience.html#strabismus-reveals-another-rule-1",
-    "href": "6_experience.html#strabismus-reveals-another-rule-1",
-    "title": "Development of Visual Function",
-    "section": "Strabismus reveals another rule",
-    "text": "Strabismus reveals another rule"
-  },
-  {
-    "objectID": "6_experience.html#correlation-matters-not-activity-alone-1",
-    "href": "6_experience.html#correlation-matters-not-activity-alone-1",
-    "title": "Development of Visual Function",
-    "section": "Correlation matters, not activity alone",
-    "text": "Correlation matters, not activity alone"
-  },
-  {
-    "objectID": "6_experience.html#critical-period-closure-reduces-cortical-plasticity",
-    "href": "6_experience.html#critical-period-closure-reduces-cortical-plasticity",
-    "title": "Development of Visual Function",
-    "section": "Critical period closure reduces cortical plasticity",
-    "text": "Critical period closure reduces cortical plasticity\n\n\n\nDuring the critical period, visual cortex is highly susceptible to activity-dependent modification.\nAt the synaptic level, this is accompanied by a strong capacity to induce LTP.\n\n\nAs development proceeds and the critical period closes:\n\nLTP induction becomes progressively less effective\nthe same stimulation produces smaller potentiation\ncortical circuits become increasingly resistant to long-lasting modification\n\n\n\n\n\nThe closure of the critical period is therefore accompanied by a decrease in the capacity to induce LTP: synaptic connections become progressively more stable and less easily modified by experience."
   }
 ]
