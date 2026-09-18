@@ -1,0 +1,555 @@
+{
+  "topic": "Development of Visual Function: Sensory Experience and Critical Periods",
+  "questions": [
+    {
+      "question": "What is the primary role of photoreceptors in the retina?",
+      "options": [
+        "Convert light into electrical signals",
+        "Generate the optic nerve by extending axons to the thalamus",
+        "Combine information from the two eyes in binocular cortex",
+        "Produce action potentials that directly reach primary visual cortex"
+      ],
+      "correct": 0,
+      "feedback": "Photoreceptors transduce light into electrical signals that are processed by retinal circuits."
+    },
+    {
+      "question": "Which retinal cells generate action potentials that leave the eye through the optic nerve?",
+      "options": [
+        "Bipolar cells of the inner retina",
+        "Retinal ganglion cells",
+        "Horizontal cells",
+        "Photoreceptors"
+      ],
+      "correct": 1,
+      "feedback": "Retinal ganglion cells are the output neurons of the retina and their axons form the optic nerve."
+    },
+    {
+      "question": "What is the main route by which retinal signals reach primary visual cortex?",
+      "options": [
+        "Retina → superior colliculus → pulvinar → temporal cortex",
+        "Retina → hippocampus → V1",
+        "Retina → optic nerve → LGN → V1",
+        "Retina → spinal cord → V1"
+      ],
+      "correct": 2,
+      "feedback": "Retinal ganglion cell axons reach the lateral geniculate nucleus of the thalamus, which sends thalamocortical projections to V1."
+    },
+    {
+      "question": "What is a neuron's receptive field?",
+      "options": [
+        "The complete set of neurotransmitters and receptors expressed by a sensory neuron during normal sensory processing",
+        "The anatomical territory occupied by the neuron's cell body",
+        "The cortical region containing neurons with similar response properties",
+        "The region of sensory space where a stimulus can modify its activity"
+      ],
+      "correct": 3,
+      "feedback": "A receptive field is the region of sensory space in which stimulation can influence a neuron's activity."
+    },
+    {
+      "question": "Which receptive-field organization is typical of retinal ganglion cells?",
+      "options": [
+        "A concentric center-surround organization",
+        "An elongated orientation-selective organization only",
+        "A receptive field covering the entire visual field uniformly",
+        "A purely binocular receptive field requiring stimulation of both eyes"
+      ],
+      "correct": 0,
+      "feedback": "Retinal ganglion cells commonly have concentric ON-center/OFF-surround or OFF-center/ON-surround receptive fields."
+    },
+    {
+      "question": "What is one consequence of convergence from many photoreceptors onto fewer retinal ganglion cells?",
+      "options": [
+        "Every photoreceptor retains an independent labeled line all the way to visual cortex",
+        "Each ganglion cell integrates information from a region of the retina",
+        "Retinal ganglion cells lose sensitivity to spatial differences in luminance",
+        "Signals from the two eyes are combined directly inside the retina"
+      ],
+      "correct": 1,
+      "feedback": "Convergence means that a retinal ganglion cell integrates signals over a region of retinal space, defining its receptive field."
+    },
+    {
+      "question": "What happens to axons from the nasal retina at the optic chiasm?",
+      "options": [
+        "They remain ipsilateral and terminate in the same-side thalamic relay",
+        "They terminate directly in V1",
+        "They cross to the opposite side",
+        "They return to the retina"
+      ],
+      "correct": 2,
+      "feedback": "Axons from the nasal retina cross at the optic chiasm, whereas temporal-retina axons remain ipsilateral."
+    },
+    {
+      "question": "How are inputs from the two eyes organized in the LGN?",
+      "options": [
+        "They are completely mixed into a single binocular layer",
+        "They are organized only according to orientation preference",
+        "They are converted into dorsal and ventral streams",
+        "They remain largely segregated into eye-specific layers"
+      ],
+      "correct": 3,
+      "feedback": "In the LGN, retinal inputs from the two eyes remain largely segregated into separate layers."
+    },
+    {
+      "question": "What happens to information from the two eyes in V1?",
+      "options": [
+        "Cortical circuits begin to combine the previously segregated inputs",
+        "The two eyes remain completely separate throughout all cortical layers",
+        "Input from the ipsilateral eye is normally eliminated",
+        "Only the eye with higher acuity reaches visual cortex"
+      ],
+      "correct": 0,
+      "feedback": "Eye-specific inputs arrive separately, but cortical circuitry in V1 begins to combine them, producing binocular neurons."
+    },
+    {
+      "question": "How do many V1 receptive fields differ from retinal ganglion cell receptive fields?",
+      "options": [
+        "They remain circular but become sensitive only to the overall brightness of the entire visual scene",
+        "They are elongated and selective for features such as orientation",
+        "They contain no spatial organization",
+        "They respond only to uniform illumination"
+      ],
+      "correct": 1,
+      "feedback": "Many V1 neurons have elongated receptive fields and become selective for the orientation of edges or bars."
+    },
+    {
+      "question": "In the classical Hubel-Wiesel feedforward model, how can orientation selectivity arise?",
+      "options": [
+        "Orientation selectivity is generated when a single retinal ganglion cell expands its receptive field inside V1",
+        "LGN neurons first become orientation selective through lateral interactions, and V1 simply inherits that tuning",
+        "Aligned LGN receptive fields converge onto the same cortical neuron",
+        "The optic chiasm rotates visual images into preferred orientations"
+      ],
+      "correct": 2,
+      "feedback": "The classical model proposes that spatially aligned circular LGN receptive fields converge to create an elongated cortical receptive field."
+    },
+    {
+      "question": "Which function is especially associated with the dorsal visual stream?",
+      "options": [
+        "Object identity and color recognition",
+        "Phototransduction in rods and cones",
+        "Segregation of retinal inputs in the LGN",
+        "Spatial processing and visually guided action"
+      ],
+      "correct": 3,
+      "feedback": "The dorsal stream projects mainly toward parietal cortex and emphasizes motion, spatial position, and visually guided action."
+    },
+    {
+      "question": "Which function is especially associated with the ventral visual stream?",
+      "options": [
+        "Processing object form and identity",
+        "Guiding reaching movements toward spatial targets",
+        "Generating retinal waves before eye opening",
+        "Maintaining eye-specific layers in the LGN"
+      ],
+      "correct": 0,
+      "feedback": "The ventral stream projects mainly toward temporal cortex and is especially involved in object form, color, and identity."
+    },
+    {
+      "question": "What is visual acuity?",
+      "options": [
+        "The ability to detect any change in overall brightness",
+        "The ability to resolve fine spatial detail",
+        "The ability to estimate depth using one eye",
+        "The speed at which retinal ganglion cells fire"
+      ],
+      "correct": 1,
+      "feedback": "Visual acuity describes the ability to distinguish fine spatial detail, such as two nearby points."
+    },
+    {
+      "question": "Why is visual acuity highest near the fovea?",
+      "options": [
+        "The fovea contains the largest retinal receptive fields and therefore integrates information over wider areas",
+        "The fovea receives a direct projection to temporal cortex that bypasses the lateral geniculate nucleus",
+        "Photoreceptors are densely packed and retinal convergence is low",
+        "The optic nerve contains only foveal retinal ganglion cells"
+      ],
+      "correct": 2,
+      "feedback": "Dense photoreceptor spacing and relatively low convergence preserve fine spatial sampling in the fovea."
+    },
+    {
+      "question": "What does spatial frequency describe?",
+      "options": [
+        "How rapidly a neuron fires action potentials",
+        "How often the eyes make saccades",
+        "How quickly a stimulus changes color over time",
+        "How rapidly luminance changes across space"
+      ],
+      "correct": 3,
+      "feedback": "Spatial frequency describes the rate of luminance variation across space and is commonly expressed in cycles per degree."
+    },
+    {
+      "question": "What is contrast sensitivity?",
+      "options": [
+        "The ability to detect differences in luminance",
+        "The ability to identify the color of an object",
+        "The ability to resolve only the smallest possible detail",
+        "The ability to combine the two retinal images into depth"
+      ],
+      "correct": 0,
+      "feedback": "Contrast sensitivity describes the ability to detect luminance differences between a stimulus and its background."
+    },
+    {
+      "question": "At which spatial frequencies is human contrast sensitivity generally highest?",
+      "options": [
+        "Only the very highest spatial frequencies",
+        "Intermediate spatial frequencies",
+        "Only zero spatial frequency",
+        "Equally at all spatial frequencies"
+      ],
+      "correct": 1,
+      "feedback": "The contrast sensitivity function normally peaks at intermediate spatial frequencies."
+    },
+    {
+      "question": "What is retinal disparity?",
+      "options": [
+        "The difference in photoreceptor density between central and peripheral retina that determines how finely each region samples visual space",
+        "The difference in luminance between the center and surround of a retinal ganglion cell receptive field during local contrast processing",
+        "The difference between the images formed on the two retinas because the eyes occupy different positions",
+        "The difference in acuity between the dorsal and ventral visual streams"
+      ],
+      "correct": 2,
+      "feedback": "Because the eyes view the world from slightly different positions, the two retinal images differ; this retinal disparity provides a binocular depth cue."
+    },
+    {
+      "question": "Which depth cue can operate with one eye alone?",
+      "options": [
+        "Retinal disparity",
+        "Binocular convergence of cortical inputs",
+        "Comparison of left- and right-retinal images",
+        "Occlusion"
+      ],
+      "correct": 3,
+      "feedback": "Occlusion is a monocular cue: an object that blocks another is usually perceived as closer."
+    },
+    {
+      "question": "How does linear perspective provide information about depth?",
+      "options": [
+        "Parallel lines appear to converge as distance increases",
+        "Parallel lines maintain constant retinal separation as distance increases, allowing the brain to estimate depth directly",
+        "Distant objects create larger binocular disparities than nearby objects",
+        "Shadows disappear as objects move farther away"
+      ],
+      "correct": 0,
+      "feedback": "In linear perspective, parallel lines appear to converge with increasing distance, providing a monocular cue to depth."
+    },
+    {
+      "question": "How can shading contribute to depth perception?",
+      "options": [
+        "Shading provides a direct measure of the physical distance separating the two eyes from one another",
+        "Patterns of light and shadow provide information about three-dimensional shape",
+        "Patterns of illumination determine which nasal retinal axons cross the midline at the optic chiasm",
+        "Shading is used only to detect color and not shape"
+      ],
+      "correct": 1,
+      "feedback": "The distribution of light and shadow can make surfaces appear convex or concave and therefore provides information about three-dimensional form."
+    },
+    {
+      "question": "Which statement best describes the visual system at birth?",
+      "options": [
+        "Both anatomy and visual performance are already adult-like",
+        "The retina is mature but thalamocortical projections have not formed",
+        "Major pathways are present, but visual function is still immature",
+        "Normal vision begins only after new visual pathways are generated postnatally"
+      ],
+      "correct": 2,
+      "feedback": "At birth, much of the visual pathway is anatomically organized, but acuity, contrast sensitivity, focusing, and eye-movement control remain immature."
+    },
+    {
+      "question": "Approximately how does visual acuity at birth compare with adult acuity?",
+      "options": [
+        "It is already equal to adult acuity",
+        "It is about twice as good as adult acuity",
+        "It is only slightly poorer and matures within days",
+        "It is about 40 times poorer"
+      ],
+      "correct": 3,
+      "feedback": "Visual acuity at birth is approximately 40 times poorer than in adults."
+    },
+    {
+      "question": "Which peripheral change contributes to the development of visual acuity?",
+      "options": [
+        "Foveal photoreceptors become more densely packed and their outer segments elongate",
+        "The optic chiasm progressively removes ipsilateral retinal projections as spatial resolution improves during childhood",
+        "Primary visual cortex becomes less selective for fine spatial information as the retina becomes more mature",
+        "The LGN stops receiving retinal input from the two eyes"
+      ],
+      "correct": 0,
+      "feedback": "Postnatal photoreceptor maturation improves retinal sampling, particularly as foveal cones become denser and their outer segments elongate."
+    },
+    {
+      "question": "Which central change contributes to improving visual acuity during development?",
+      "options": [
+        "V1 receptive fields become progressively larger and integrate information across broader regions of visual space",
+        "Receptive fields become smaller and cortical processing becomes more spatially precise",
+        "The retinotopic organization of the LGN becomes less precise as cortical visual processing matures",
+        "Cortical inhibition disappears as acuity improves"
+      ],
+      "correct": 1,
+      "feedback": "Central maturation includes changes in LGN and V1, maturation of inhibitory circuitry, and smaller, more selective receptive fields."
+    },
+    {
+      "question": "At approximately what age does high-contrast visual acuity approach adult-like values?",
+      "options": [
+        "Within the first week after birth",
+        "Around 15-20 years of age",
+        "Around 5-6 years of age",
+        "Only after 30 years of age"
+      ],
+      "correct": 2,
+      "feedback": "High-contrast visual acuity improves rapidly during the first year and approaches adult-like values at roughly 5-6 years, depending on the measurement."
+    },
+    {
+      "question": "What happens to foveal photoreceptors during childhood?",
+      "options": [
+        "They become progressively larger and farther apart, increasing convergence onto each retinal ganglion cell",
+        "They are gradually replaced by newly generated retinal ganglion cells during the first years of childhood",
+        "They migrate from the retina into the LGN",
+        "They become smaller, more densely packed, and structurally more mature"
+      ],
+      "correct": 3,
+      "feedback": "During postnatal development, especially in the fovea, photoreceptors become more densely packed, elongate their outer segments, and become more regularly organized."
+    },
+    {
+      "question": "What are retinal waves?",
+      "options": [
+        "Spontaneous correlated activity that propagates across groups of developing retinal ganglion cells",
+        "Coordinated movements of the immature retina that mechanically stimulate photoreceptors before normal eye opening",
+        "Oscillatory activity generated only after patterned visual experience has begun to drive cortical circuits",
+        "Light waves reflected from the retina toward the lens"
+      ],
+      "correct": 0,
+      "feedback": "Retinal waves are spontaneous patterns of coordinated activity that occur before normal visual experience."
+    },
+    {
+      "question": "Why can retinal waves help refine developing visual connections?",
+      "options": [
+        "They cause neighboring retinal neurons to fire independently, preventing local spatial correlations from forming before patterned vision",
+        "Nearby retinal neurons tend to be active together, providing spatial and temporal correlation",
+        "They replace molecular guidance by assigning every retinal ganglion cell a unique activity-defined target identity during development",
+        "They directly generate adult visual acuity by producing mature photoreceptor spacing before patterned visual experience begins"
+      ],
+      "correct": 1,
+      "feedback": "Retinal waves provide structured correlations: nearby cells are more likely to be active together than widely separated cells."
+    },
+    {
+      "question": "What happens when spontaneous activity in one eye is blocked with TTX during development?",
+      "options": [
+        "The entire thalamus on that side disappears",
+        "The blocked retina immediately develops adult-like receptive fields",
+        "The eye-specific projection from that retina to the LGN develops abnormally and can be strongly reduced",
+        "The other eye loses its retinal ganglion cells"
+      ],
+      "correct": 2,
+      "feedback": "Blocking retinal activity with TTX disrupts normal refinement and segregation of eye-specific retinogeniculate connections."
+    },
+    {
+      "question": "How does contrast sensitivity change during development?",
+      "options": [
+        "Sensitivity decreases as visual acuity improves",
+        "Only low spatial frequencies remain detectable in adulthood",
+        "Contrast sensitivity is adult-like at birth and changes little",
+        "Sensitivity increases and progressively higher spatial frequencies become detectable"
+      ],
+      "correct": 3,
+      "feedback": "During childhood, contrast sensitivity increases and the range of efficiently processed spatial frequencies becomes broader."
+    },
+    {
+      "question": "How does maturation of inhibitory circuitry contribute to visual development?",
+      "options": [
+        "It helps refine cortical responses and improve selectivity for visual features",
+        "It prevents all activity-dependent changes in immature cortex",
+        "It removes center-surround organization from retinal ganglion cells",
+        "It causes retinal photoreceptors to stop responding to light"
+      ],
+      "correct": 0,
+      "feedback": "Maturing inhibition helps regulate gain and sharpen visual cortical representations, contributing to improved contrast sensitivity and circuit refinement."
+    },
+    {
+      "question": "What is a critical period?",
+      "options": [
+        "A period when all neural plasticity is completely absent",
+        "A developmental window when particular neural circuits are especially sensitive to experience",
+        "The first hours after birth when only retinal anatomy can change",
+        "Any period of adulthood in which visual input remains constant"
+      ],
+      "correct": 1,
+      "feedback": "A critical period is a developmental window during which experience can produce particularly large and persistent changes in neural circuits."
+    },
+    {
+      "question": "What does the congenital cataract example show about visual development?",
+      "options": [
+        "The timing of visual restoration has little effect on later visual function",
+        "Cataracts affect only the retina and never cortical development",
+        "Restoring patterned vision early generally leads to better outcomes than restoring it after prolonged deprivation",
+        "Normal visual function is guaranteed whenever the cataract is eventually removed"
+      ],
+      "correct": 2,
+      "feedback": "Congenital cataract illustrates that the timing of patterned visual experience strongly influences later visual development."
+    },
+    {
+      "question": "What did the case of S.B. illustrate after vision was restored in adulthood?",
+      "options": [
+        "Adult surgery immediately restored normal acuity, stereopsis, and object recognition",
+        "Visual deprivation affected only color perception",
+        "Long-term deprivation had no lasting effect once the eye was repaired",
+        "Restoring optical input late did not produce normal visual perception"
+      ],
+      "correct": 3,
+      "feedback": "S.B. improved after surgery but retained major deficits, showing that some visual abilities require appropriate experience during development."
+    },
+    {
+      "question": "What is amblyopia?",
+      "options": [
+        "Reduced visual function caused by abnormal visual experience during development",
+        "A degenerative disease caused only by retinal-cell death",
+        "A temporary reduction in acuity produced by normal adaptation to darkness",
+        "A visual deficit caused exclusively by damage to the optic nerve in adulthood"
+      ],
+      "correct": 0,
+      "feedback": "Amblyopia is a developmental reduction in visual function associated with abnormal visual experience, such as cataract, strabismus, or unequal refractive error."
+    },
+    {
+      "question": "What is the typical cortical effect of monocular deprivation during the critical period?",
+      "options": [
+        "Both eyes gain equal cortical representation",
+        "V1 responses shift strongly toward the non-deprived eye",
+        "The deprived eye becomes more strongly represented than the open eye",
+        "All V1 neurons stop responding to either eye"
+      ],
+      "correct": 1,
+      "feedback": "During the critical period, monocular deprivation shifts ocular dominance so that many cortical neurons become dominated by the open eye."
+    },
+    {
+      "question": "What are ocular dominance columns?",
+      "options": [
+        "Retinal layers containing only rods or only cones",
+        "LGN neurons arranged according to preferred edge orientation",
+        "Alternating cortical territories receiving stronger input from one eye or the other",
+        "Axonal bundles carrying dorsal and ventral stream information"
+      ],
+      "correct": 2,
+      "feedback": "In species such as cats and primates, eye-specific geniculocortical inputs form alternating ocular-dominance territories, especially in layer IV of V1."
+    },
+    {
+      "question": "What can happen after only a few days of monocular deprivation during early development?",
+      "options": [
+        "No measurable cortical change occurs until deprivation lasts several months",
+        "The deprived eye immediately gains additional cortical territory",
+        "The retina permanently loses all photoreceptors",
+        "Binocular responses can decline rapidly and ocular dominance can shift toward the open eye"
+      ],
+      "correct": 3,
+      "feedback": "Even brief deprivation can strongly reduce binocular responses, demonstrating the high plasticity of developing visual cortex."
+    },
+    {
+      "question": "What anatomical change can follow prolonged monocular deprivation?",
+      "options": [
+        "Ocular-dominance territory and geniculocortical arbors serving the deprived eye can shrink",
+        "The deprived-eye retina becomes larger than the open-eye retina",
+        "Both eyes develop identical enlarged cortical columns",
+        "The optic chiasm disappears after prolonged deprivation"
+      ],
+      "correct": 0,
+      "feedback": "Prolonged monocular deprivation can transform a functional imbalance into structural reorganization, including shrinkage of deprived-eye cortical territory and axon arbors."
+    },
+    {
+      "question": "Why is monocular deprivation particularly effective at changing ocular dominance?",
+      "options": [
+        "Both eyes are completely inactive during deprivation",
+        "The two eyes compete under strongly unequal conditions",
+        "Monocular deprivation increases correlation between the two eyes",
+        "The open eye loses patterned visual activity"
+      ],
+      "correct": 1,
+      "feedback": "During monocular deprivation, the open eye provides effective patterned activity while the deprived eye provides weak or abnormal drive, producing strong competition."
+    },
+    {
+      "question": "What is the main cortical consequence of developmental strabismus?",
+      "options": [
+        "Both eyes become more strongly correlated and binocular responses increase",
+        "Only the retinal photoreceptors of the deviated eye are affected",
+        "Binocular neurons are strongly reduced because corresponding inputs from the two eyes are poorly correlated",
+        "Ocular dominance becomes permanently centered on equal binocular responses"
+      ],
+      "correct": 2,
+      "feedback": "Strabismus creates mismatched activity between the eyes, reducing binocular integration and impairing stereoscopic vision."
+    },
+    {
+      "question": "What does synchronous versus asynchronous stimulation show about binocular development?",
+      "options": [
+        "The amount of activity matters, but the timing relationship between the eyes does not",
+        "Only asynchronous activation supports binocular cortical neurons",
+        "Binocular integration develops without any dependence on neural activity",
+        "Temporal correlation between the two eyes helps determine whether their inputs become integrated"
+      ],
+      "correct": 3,
+      "feedback": "Synchronous activation favors binocular convergence, whereas asynchronous activation favors more monocular organization."
+    },
+    {
+      "question": "How does the effect of monocular deprivation depend on age?",
+      "options": [
+        "It is largest during the critical period and smaller before or after that window",
+        "It increases steadily throughout adulthood",
+        "It is identical at every developmental age",
+        "It occurs only before retinal waves begin"
+      ],
+      "correct": 0,
+      "feedback": "The same deprivation produces different effects depending on developmental age, with the strongest ocular-dominance plasticity during the critical period."
+    },
+    {
+      "question": "What happens to the capacity to induce LTP in visual cortex as the critical period closes?",
+      "options": [
+        "It increases without limit",
+        "It progressively decreases",
+        "It remains unchanged throughout development",
+        "It disappears before the critical period begins"
+      ],
+      "correct": 1,
+      "feedback": "Closure of the critical period is accompanied by reduced LTP induction and increased stability of visual cortical synapses."
+    },
+    {
+      "question": "What role does maturation of GABAergic inhibition play in critical-period plasticity?",
+      "options": [
+        "Inhibition must be absent for the critical period to open",
+        "GABAergic maturation affects only the retina and not visual cortex",
+        "A sufficient level of inhibition helps establish the circuit state required for normal ocular-dominance plasticity",
+        "Increasing inhibition prevents any developmental plasticity from ever occurring"
+      ],
+      "correct": 2,
+      "feedback": "Maturation of GABAergic inhibition is an important regulator of the onset and progression of critical-period plasticity."
+    },
+    {
+      "question": "What is a major effect of precocious BDNF expression in developing visual cortex?",
+      "options": [
+        "It prevents inhibitory circuits from maturing",
+        "It permanently increases final visual acuity beyond wild-type levels",
+        "It delays susceptibility to monocular deprivation until adulthood",
+        "It advances inhibitory maturation and shifts the critical period to earlier ages"
+      ],
+      "correct": 3,
+      "feedback": "BDNF overexpression accelerates GABAergic maturation, causing visual functions and ocular-dominance plasticity to follow an earlier developmental timetable without increasing the final visual capability."
+    },
+    {
+      "question": "What do perineuronal nets contribute to in mature visual cortex?",
+      "options": [
+        "Circuit stabilization and reduced juvenile-like plasticity",
+        "Generation of retinal waves before vision begins",
+        "Formation of photoreceptor outer segments in the fovea",
+        "Crossing of nasal retinal axons at the optic chiasm"
+      ],
+      "correct": 0,
+      "feedback": "Perineuronal nets accumulate around subsets of neurons during maturation and are associated with greater circuit stability and reduced juvenile-like plasticity."
+    },
+    {
+      "question": "What happens when perineuronal nets are degraded with chondroitinase ABC in adult visual cortex?",
+      "options": [
+        "All cortical responses to visual stimulation are permanently abolished",
+        "Ocular-dominance plasticity can reappear in response to monocular deprivation",
+        "Adult visual cortex becomes unable to respond to either eye",
+        "Photoreceptor density in the fovea immediately increases"
+      ],
+      "correct": 1,
+      "feedback": "Degrading mature extracellular-matrix constraints with chondroitinase ABC can restore a more juvenile-like capacity for ocular-dominance plasticity."
+    }
+  ]
+}
