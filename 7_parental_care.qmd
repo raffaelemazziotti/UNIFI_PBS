@@ -7,7 +7,7 @@ lang: en-US
 ## Parental care is part of development
 
 ::: {.info-box}
-`Parental care` is a social behavior that increases the probability that offspring survive, grow, and acquire the skills needed for independent life.
+`Parental care` is a <u>social behavior</u> that increases the probability that offspring survive, grow, and acquire the skills needed for independent life.
 :::
 
 ::: {.columns}
@@ -55,15 +55,24 @@ Parental care can be <u>energetically expensive</u>.
 Feeding, protecting, carrying, or defending offspring can reduce the parent's time and resources for other activities.
 :::
 
-:::
-
-::: {.column width="50%"}
-
 ::: {.card}
 However, parental investment can increase `fitness` by increasing the probability that offspring survive and eventually reproduce.
 
 The evolutionary benefit is therefore indirect through the success of the offspring.
 :::
+
+:::
+::: {.column width="50%"}
+
+ <video
+  data-autoplay
+  autoplay
+  muted
+  loop
+  playsinline
+  width="100%">
+  <source src="images/7_parental_care/video/7_pc_mother.mp4" type="video/mp4">
+</video>
 
 :::
 :::
@@ -102,91 +111,8 @@ Survival depends more strongly on producing large numbers of offspring.
 :::
 
 ::: {.info-box}
-The classical `r/K` framework describes these as opposite ends of a continuum. Modern life-history theory treats reproductive strategies as more complex than a strict two-category division.
+The classical `r/K` framework describes these as opposite ends of a <u>continuum</u>. Modern life-history theory treats reproductive strategies as more complex than a strict two-category division.
 :::
-
-## Parental care is a complex behavior
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.card}
-`Sensory`
-
-Parents and offspring must recognize one another using combinations of:
-
-- smell
-- vision
-- vocalizations
-- touch
-:::
-
-::: {.card}
-`Motor`
-
-Care requires coordinated actions such as:
-
-- nursing
-- carrying
-- retrieving
-- grooming
-- nest building
-:::
-
-:::
-
-::: {.column width="50%"}
-
-::: {.card}
-`Cognitive`
-
-Caregiving depends on:
-
-- attention
-- learning
-- memory
-- motivation
-- social recognition
-:::
-
-::: {.card}
-`Social`
-
-Parental behavior is also shaped by the social organization and ecology of the species.
-:::
-
-:::
-:::
-
-## Recognition is bidirectional and multisensory
-
-::: {.info-box}
-Successful parental care requires both the caregiver and the offspring to identify and respond to relevant social signals.
-:::
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.card}
-In many `rodents`, olfactory cues are especially important.
-
-Newborn pups use maternal odors to orient toward the mother and the nest.
-:::
-
-:::
-
-::: {.column width="50%"}
-
-::: {.card}
-In `primates`, visual, tactile, and vocal signals make a major contribution to parent-offspring interaction.
-:::
-
-:::
-:::
-
-<u>There is no single universal "maternal stimulus": different species weight sensory channels differently.</u>
 
 ## Harlow: is attachment simply about food?
 
@@ -237,7 +163,7 @@ The infants spent much more time clinging to the `cloth surrogate`, even when fo
 :::
 :::
 
-<small>[Harlow, 1958 — The Nature of Love](https://doi.org/10.1037/h0047884){target="_blank"}</small>
+<small>[Harlow, 1958 - The Nature of Love](https://doi.org/10.1037/h0047884){target="_blank"}</small>
 
 ## Contact comfort is a powerful attachment signal
 
@@ -255,10 +181,10 @@ The result challenged the idea that attachment is simply a secondary consequence
 
 ::: {.column width="52%"}
 
-<!-- IMAGE SUGGESTION:
-images/7_parental/harlow_surrogates.png
-Wire surrogate vs cloth surrogate.
--->
+![](images/7_parental_care/figure/7_pc_cloth_mother.png){
+width="100%"
+title="Harlow's surrogate-mother experiment demonstrated that attachment in infant rhesus monkeys was not determined primarily by feeding. When milk was provided by the cloth surrogate, infants spent almost all of their time with the cloth mother. More importantly, even when milk was provided by the wire surrogate, the infants still spent far more time clinging to the soft cloth mother than to the feeding wire mother. The result showed that contact comfort was a powerful determinant of attachment, independently of which surrogate provided food."
+}
 
 :::
 :::
@@ -281,21 +207,22 @@ When placed in a novel environment without the familiar surrogate, infant monkey
 - freezing or withdrawal
 :::
 
-:::
-
-::: {.column width="52%"}
-
 ::: {.card}
 When the cloth surrogate was available, the infants used it as a source of security and explored the environment more readily.
 :::
+
+:::
+::: {.column width="52%"}
+
+![](images/7_parental_care/video/7_pc_secure_base_monkey.mp4){width="50%"}
+![](images/7_parental_care/video/7_pc_secure_base_human.mp4){width="50%"}
 
 :::
 :::
 
 ::: {.info-box}
 Attachment does not only keep the infant close to the caregiver.
-
-It can also create a <u>secure base from which the environment can be explored</u>.
+It can also create a <u>secure base</u> from which the environment can be explored.
 :::
 
 ## Early social deprivation has lasting effects
@@ -310,6 +237,35 @@ The historical experiments are scientifically important but would raise major et
 
 The broader principle is that <u>early social experience can shape later behavior long after the original experience has ended</u>.
 
+## Recognition is bidirectional and multisensory
+
+::: {.info-box}
+Successful parental care requires both the caregiver and the offspring to identify and respond to relevant social signals.
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.card}
+In many `rodents`, olfactory cues are especially important.
+
+Newborn pups use maternal odors to orient toward the mother and the nest.
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.card}
+In `primates`, visual, tactile, and vocal signals make a major contribution to parent-offspring interaction.
+:::
+
+:::
+:::
+
+>There is no single universal "maternal stimulus": different species weight sensory channels differently.
+
 ## Imprinting: learning very early in life
 
 ::: {.columns}
@@ -322,13 +278,22 @@ In some species, young animals rapidly learn the characteristics of a caregiver 
 This form of early learning is called `imprinting`.
 :::
 
+::: {.card}
+Classic examples come from precocial birds, in which newly hatched chicks or goslings develop a strong tendency to <u>follow the object</u> to which they were exposed early in life.
 :::
 
+:::
 ::: {.column width="52%"}
 
-::: {.card}
-Classic examples come from precocial birds, in which newly hatched chicks or goslings develop a strong tendency to follow the object to which they were exposed early in life.
-:::
+ <video
+  data-autoplay
+  autoplay
+  muted
+  loop
+  playsinline
+  width="100%">
+  <source src="images/7_parental_care/video/7_pc_lorenz.mp4" type="video/mp4">
+</video>
 
 :::
 :::
@@ -339,8 +304,11 @@ Imprinting shows that <u>social preferences can be strongly shaped by experience
 
 ## Imprinting occurs during a sensitive period
 
+::: {.columns}
+::: {.column}
+
 ::: {.card}
-Konrad Lorenz originally described imprinting as occurring within a sharply defined `critical period` and as essentially irreversible.
+[Konrad Lorenz](https://en.wikipedia.org/wiki/Konrad_Lorenz){target="_blank"} originally described imprinting as occurring within a sharply defined `critical period` and as essentially irreversible.
 :::
 
 ::: {.card}
@@ -355,6 +323,16 @@ Later work showed a more flexible picture:
 It is therefore usually more accurate to think of imprinting as learning with a particularly strong <u>sensitive period</u>.
 :::
 
+:::
+::: {.column}
+
+![](images/7_parental_care/figure/7_pc_imprinting_cp.png){width="100%"
+title="Sensitive period for filial imprinting in chicks. The probability of forming an attachment to an artificial moving object depends strongly on the age at first exposure. Imprinting is most effective during the first hours after hatching, reaches its highest probability around 13–16 hours, and then progressively declines. By about 29–32 hours after hatching, exposure is much less effective and attachment is rarely formed. The graph illustrates that imprinting is constrained to an early developmental sensitive period."
+}
+
+:::
+:::
+
 ## Imprinting changes the developing brain
 
 ::: {.columns}
@@ -363,29 +341,30 @@ It is therefore usually more accurate to think of imprinting as learning with a 
 
 ::: {.card}
 In domestic chicks, a forebrain region now called the `intermediate medial mesopallium (IMM)` is strongly involved in visual imprinting.
-
-It was historically called the `IMHV`.
 :::
 
 ::: {.card}
 Learning changes neuronal responses and synaptic properties in this region.
 :::
 
-:::
-
-::: {.column width="52%"}
-
-<!-- IMAGE SUGGESTION:
-images/7_parental/imprinting_imm.png
-Chick brain with IMM/IMHV highlighted.
--->
-
-:::
-:::
-
 ::: {.info-box}
 Early attachment-related learning is not merely behavioral: it is accompanied by <u>experience-dependent modification of neural circuits</u>.
 :::
+
+:::
+::: {.column width="52%"}
+
+![](images/7_parental_care/figure/7_pc_imm.PNG){width="100%"
+title="Intermediate medial mesopallium (IMM) in the chick forebrain. The shaded region indicates the IMM, a telencephalic area strongly implicated in filial imprinting. Experience with an imprinting stimulus produces lasting changes in neural activity and synaptic organization within this region, making the IMM an important site for the storage and consolidation of imprinting-related memory."
+}
+
+![](images/7_parental_care/figure/7_pc_imm_neurons.PNG){width="100%"
+title="Stimulus-selective neural responses in the IMM after filial imprinting. Chicks trained with one object develop a larger proportion of IMM recording sites that respond preferentially to that familiar imprinted stimulus. Birds imprinted with the black-and-white object show enhanced responses to that object, whereas birds imprinted with the red box show enhanced responses to the red box. The result indicates that imprinting produces stimulus-specific changes in IMM neural activity, consistent with this region contributing to the neural representation of the learned imprinting object."
+}
+
+:::
+:::
+
 
 <small>[Horn, 1998](https://pubmed.ncbi.nlm.nih.gov/9683322/){target="_blank"}</small>
 
@@ -418,17 +397,15 @@ In neonatal rats, maternal odors can acquire strong positive value through early
 :::
 
 ::: {.card}
-Pairing an odor with maternal-like tactile stimulation can produce a learned preference for that odor.
+Pairing an odor with maternal-like tactile stimulation can produce a learned preference for that odor, but only in a restricted time window.
 :::
 
 :::
 
 ::: {.column width="48%"}
 
-<!-- IMAGE SUGGESTION:
-images/7_parental/infant_rat_olfactory_learning.png
-Odor + stroking -> LC norepinephrine -> olfactory bulb plasticity -> approach.
--->
+![](images/7_parental_care/figure/7_pc_touch_cond.png){width="100%"
+}
 
 :::
 :::
@@ -436,8 +413,6 @@ Odor + stroking -> LC norepinephrine -> olfactory bulb plasticity -> approach.
 ::: {.info-box}
 Early attachment learning depends on <u>special developmental states of neuromodulatory and sensory circuits</u>.
 :::
-
-<small>[Sullivan et al., 1991](https://pubmed.ncbi.nlm.nih.gov/1654232/){target="_blank"}</small>
 
 ## Mothers also learn to recognize their offspring
 
@@ -468,9 +443,7 @@ Blocking this signaling interferes with selective recognition of the lamb.
 Parent-offspring attachment is <u>bidirectional</u>: the young learn the caregiver, and the caregiver can learn the young.
 :::
 
-<small>[Pissonnier et al., 1985](https://pubmed.ncbi.nlm.nih.gov/4070409/){target="_blank"}</small>
-
-## Maternal behavior in rats can be quantified
+## Maternal behavior in rodents can be quantified
 
 ::: {.columns}
 
@@ -482,18 +455,60 @@ Rodent maternal behavior consists of recognizable behavioral modules:
 - `pup retrieval`
 - `licking and grooming`
 - `arched-back nursing`
-- nest building
-- protection of the litter
+- `nest building`
 :::
 
 :::
 
 ::: {.column width="50%"}
 
-<!-- IMAGE SUGGESTION:
-images/7_parental/rat_maternal_behaviors.png
-Retrieval, LG, arched-back nursing, nest.
--->
+::: {layout-ncol=2}
+
+ <video
+  data-autoplay
+  autoplay
+  muted
+  loop
+  playsinline
+  width="100%"
+    title="Pup retrieval in the mouse. When pups are displaced from the nest, the mother approaches them, picks them up with her mouth, and carries them back to the nest. Retrieval is a characteristic component of rodent maternal behavior and is commonly used as an experimental measure of maternal motivation and caregiving.">
+  >
+  <source src="images/7_parental_care/video/7_pc_retrieving.mp4" type="video/mp4">
+</video>
+
+ <video
+  data-autoplay
+  autoplay
+  muted
+  loop
+  playsinline
+  width="100%"
+    title="Arched-back nursing in the mouse. During this maternal posture, the mother maintains an elevated position over the litter while the pups nurse. Arched-back nursing is commonly quantified as an important component of rodent maternal care.">
+  >
+  <source src="images/7_parental_care/video/7_pc_arched_back.mp4" type="video/mp4">
+</video>
+:::
+
+::: {layout-ncol=2}
+
+![](images/7_parental_care/figure/7_pc_nest_building.png){width="100%"
+  title="Nest building in the mouse. The mother gathers and arranges nesting material to create a protected environment for the litter. Nest building is an important component of maternal behavior because it helps maintain warmth, safety, and close contact between the mother and her pups."
+}
+
+ <video
+  data-autoplay
+  autoplay
+  muted
+  loop
+  playsinline
+  width="100%"
+    title="Maternal licking and grooming in the mouse. These behaviors are a major component of rodent maternal care and provide repeated tactile stimulation to the pups.">
+  >
+  <source src="images/7_parental_care/video/7_pc_licking.mp4" type="video/mp4">
+
+</video>
+
+:::
 
 :::
 :::
