@@ -4,7 +4,7 @@
     "href": "index.html#index",
     "title": "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo (Modulo 1)",
     "section": "Index",
-    "text": "Index\n\nWelcome to the course! This is the course program.\n\nChapters\n\n\n\n\nNervous System Development\nNeurogenesis and Differentiation\nNeural Circuit Development\nMethods in Developmental Psychobiology\n\n\n\n\n\nNeuroplasticity\nExperience-Dependent Development\nParental Care\nPrenatal Cognition"
+    "text": "Index\n\nWelcome to the course! This is the course program.\n\nChapters\n\n\n\n\nNervous System Development\nNeurogenesis and Differentiation\nNeural Circuit Development\nMethods in Developmental Psychobiology\n\n\n\n\n\nNeuroplasticity\nExperience-Dependent Development\nParental Care"
   },
   {
     "objectID": "index.html#how-to-use-these-slides",
@@ -368,14 +368,14 @@
     "href": "6_experience.html#the-mature-circuit-becomes-harder-to-modify",
     "title": "Development of Visual Function",
     "section": "The mature circuit becomes harder to modify",
-    "text": "The mature circuit becomes harder to modify\n\n\n\nCritical-period closure also involves the accumulation of molecular and structural constraints that stabilize mature circuits.\n\n\nPerineuronal nets (PNNs) are extracellular-matrix structures that accumulate around subsets of neurons, particularly many parvalbumin interneurons.\n\n\nThese structures are associated with increased circuit stability and reduced juvenile-like plasticity."
+    "text": "The mature circuit becomes harder to modify\n\nCritical-period closure also involves the accumulation of molecular and structural constraints that stabilize mature circuits.\n\n\nPerineuronal nets (PNNs) are extracellular-matrix structures that accumulate around subsets of neurons, particularly many parvalbumin interneurons.\n\n\nThese structures are associated with increased circuit stability and reduced juvenile-like plasticity."
   },
   {
     "objectID": "6_experience.html#removing-a-structural-brake-can-restore-plasticity",
     "href": "6_experience.html#removing-a-structural-brake-can-restore-plasticity",
     "title": "Development of Visual Function",
     "section": "Removing a structural brake can restore plasticity",
-    "text": "Removing a structural brake can restore plasticity\n\n\nReopening ocular-dominance plasticity in adult visual cortex\n\n\n\n\n\nManipulation\n\nChondroitinase ABC is used to degrade chondroitin-sulfate proteoglycans in the mature extracellular matrix.\n\n\n\n\nTest\n\nAdult animals then undergo monocular deprivation, which normally produces little ocular-dominance shift after the critical period.\n\n\n\n\nResult\n\nOcular-dominance plasticity reappears in the adult visual cortex. Critical-period closure is therefore an actively maintained stable state, and not irreversible.\n\n\n\n\n\n\nPizzorusso et al., 2002"
+    "text": "Removing a structural brake can restore plasticity\n\n\nReopening ocular-dominance plasticity in adult visual cortex\n\n\n\n\n\nManipulation\n\nChondroitinase ABC is used to degrade chondroitin-sulfate proteoglycans in the mature extracellular matrix.\n\n\n\n\nTest\n\nAdult animals then undergo monocular deprivation, which normally produces little ocular-dominance shift after the critical period.\n\n\n\n\nResult\n\nOcular-dominance plasticity reappears in the adult visual cortex.\n\n\n\n\nCritical-period closure is therefore partly an actively maintained stable state, not simply the irreversible disappearance of plasticity.\n\nPizzorusso et al., 2002"
   },
   {
     "objectID": "6_experience.html#self-check",
@@ -2028,5 +2028,26 @@
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "From fetal experience to later development",
     "text": "From fetal experience to later development\n\n\n\nPrenatal sensory experience provides the nervous system with its first structured input.\nIt can shape:\n\nsensory preferences\nrecognition\nearly learning\nbehavioral orientation after birth\n\n\n\n\nAt the same time, most sensory and cognitive abilities remain highly immature.\nDevelopment continues through infancy and childhood as neural circuits encounter increasingly complex experience.\n\n\n\nprenatal circuit maturation + prenatal experience → newborn sensory preferences and learning → continued postnatal development\nThe mind does not begin at birth: birth reveals a nervous system that has already been developing and learning."
+  },
+  {
+    "objectID": "6_experience.html#is-sensory-experience-instructive",
+    "href": "6_experience.html#is-sensory-experience-instructive",
+    "title": "Development of Visual Function",
+    "section": "Is sensory experience instructive?",
+    "text": "Is sensory experience instructive?\n\nDoes sensory experience merely maintain circuits that are already specified, or can the identity of the input help instruct what a cortical area becomes?\n\n\nIn developing ferrets, retinal projections can be experimentally redirected toward the auditory thalamus.\nNeurons in auditory cortex then develop visual response properties, including organized visual receptive fields.\n\n\nThe experiment shows that sensory input can instruct important functional properties of developing cortex, although cortical identity is not determined by sensory input alone.\n\nSur, Garraghty & Roe, 1988 | Roe et al., 1990"
+  },
+  {
+    "objectID": "6_experience.html#development-is-a-sequence-of-constraints-and-experience",
+    "href": "6_experience.html#development-is-a-sequence-of-constraints-and-experience",
+    "title": "Development of Visual Function",
+    "section": "Development is a sequence of constraints and experience",
+    "text": "Development is a sequence of constraints and experience\n\n\n\nBefore vision\nMolecular cues and spontaneous activity establish the initial architecture.\n\n\nEarly visual experience\nCorrelated sensory activity refines and stabilizes connections.\n\n\n\nCritical period\nExperience can produce especially large changes in circuit organization.\n\n\nMature cortex\nPlasticity persists, but increasing inhibitory and structural constraints favor stability."
+  },
+  {
+    "objectID": "6_experience.html#the-central-idea",
+    "href": "6_experience.html#the-central-idea",
+    "title": "Development of Visual Function",
+    "section": "The central idea",
+    "text": "The central idea\n\nThe visual system is neither completely predetermined nor constructed from scratch by experience.\n\n\nDevelopment creates an organized initial circuit.\nActivity and sensory experience refine that circuit.\nCritical periods regulate when experience has its strongest effects.\n\n\nThe mature visual system is therefore the product of an interaction between developmental programs, spontaneous activity, sensory experience and plasticity."
   }
 ]
