@@ -114,6 +114,39 @@ Survival depends more strongly on producing large numbers of offspring.
 The classical `r/K` framework describes these as opposite ends of a <u>continuum</u>. Modern life-history theory treats reproductive strategies as more complex than a strict two-category division.
 :::
 
+## Attachment
+
+::: {.columns}
+
+::: {.column width="55%"}
+
+::: {.card}
+`What is attachment?`
+
+Attachment is a stable emotional bond between an infant and a caregiver.
+
+It motivates the young animal to stay close to the caregiver, seek protection, and use the caregiver as a secure base for exploration.
+:::
+
+:::
+
+::: {.column width="45%"}
+
+::: {.card}
+`Why does it evolve?`
+
+Attachment is especially important in species with high parental investment.
+
+When offspring depend on care, feeding, protection, and learning, staying close to the caregiver increases survival.
+:::
+
+:::
+:::
+
+::: {.info-box}
+Attachment is not simply “love” or “affection”. It is a biological and behavioral <u>system</u> that regulates proximity, safety, stress, and exploration.
+:::
+
 ## Harlow: is attachment simply about food?
 
 ::: {.experiment-card}
@@ -433,7 +466,7 @@ This recognition depends strongly on `olfactory information`.
 ::: {.card}
 Noradrenergic signaling in the maternal `olfactory bulb` contributes to formation of this memory.
 
-Blocking this signaling interferes with selective recognition of the lamb.
+<u>Blocking</u> this signaling interferes with selective recognition of the lamb.
 :::
 
 :::
@@ -672,9 +705,17 @@ The effect of early care is therefore not only behavioral: it changes the <u>phy
 :::
 ::: {.column width="50%"}
 
-![](images/7_parental_care/figure/7_pc_maternal_hpa.png){width="70%"
+
+::: {.r-stack}
+
+![](images/7_parental_care/figure/7_pc_hpa.jpg){width="70%" .fragment .fade-out data-fragment-index="1"}
+
+![](images/7_parental_care/figure/7_pc_maternal_hpa.png){width="90%"
 title="Early maternal care predicts the magnitude and duration of the offspring stress response in adulthood. The graphs show plasma ACTH (top) and corticosterone (bottom) before and after an acute stressor in rats reared by mothers showing high or low levels of licking/grooming and arched-back nursing (`LG-ABN`). Offspring receiving high LG-ABN show a smaller and more rapidly declining hormonal response, whereas offspring receiving low LG-ABN show higher and more prolonged ACTH and corticosterone elevations. This indicates that variation in early maternal care can produce long-lasting differences in regulation of the hypothalamic-pituitary-adrenal (`HPA`) stress axis."
-}
+.fragment .fade-in data-fragment-index="1"}
+
+:::
+
 
 :::
 :::
@@ -762,6 +803,104 @@ This demonstrates a form of `nongenomic transmission` across generations.
 Behavior can be transmitted across generations through <u>developmental experience</u>, even when the DNA sequence itself is unchanged.
 :::
 
+## Epigenetics: regulating genes without changing DNA sequence
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.card}
+`Epigenetics`
+
+Epigenetics refers to molecular mechanisms that regulate gene activity without changing the DNA sequence.
+
+These mechanisms help cells decide which genes are accessible, active, or silent.
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.card}
+`Two key mechanisms`
+
+1. DNA methylation
+2. Histone modifications
+
+Both influence how easily transcription machinery can access DNA.
+:::
+
+:::
+:::
+
+::: {.info-box}
+The genome is the same, but epigenetic marks help determine how strongly different genes are expressed.
+:::
+
+## DNA methylation and histone modifications
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.card}
+`DNA methylation`
+
+Small chemical groups called methyl groups are added to DNA, often at cytosine bases.
+
+High DNA methylation near a gene promoter is usually associated with reduced gene expression.
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.card}
+`Histone modifications`
+
+DNA is wrapped around histone proteins.
+
+Chemical modifications to histone tails can make chromatin more open or more compact, changing gene accessibility.
+:::
+
+:::
+:::
+
+::: {.info-box}
+In simple terms: DNA methylation often acts like a “do not read” signal, while histone modifications can open or close the chromatin structure.
+:::
+
+## DNA methylation and histone modifications
+
+::: {.columns}
+::: {.column width="50%"}
+
+::: {.card}
+`DNA methylation`
+
+:::{.centerimg}
+![](images/7_parental_care/figure/7_pc_epigen_dna.png){width="100%"
+}
+:::
+
+:::
+
+:::
+::: {.column width="50%"}
+
+::: {.card}
+`Histone modifications`
+
+:::{.centerimg}
+![](images/7_parental_care/figure/7_pc_epigen_hist.png){width="70%"
+}
+:::
+
+:::
+
+:::
+:::
+
 ## Early care can modify gene expression epigenetically
 
 ::: {.columns}
@@ -778,21 +917,20 @@ High maternal care is associated with:
 - increased GR expression
 :::
 
-:::
-
-::: {.column width="45%"}
-
-<!-- IMAGE SUGGESTION:
-images/7_parental/epigenetic_gr.png
-High care -> lower methylation -> NGFI-A binding -> GR up -> stronger HPA feedback.
--->
-
-:::
-:::
 
 ::: {.info-box}
 An early social experience can become biologically persistent by altering <u>how strongly genes are expressed</u>, without changing the DNA sequence.
 :::
+
+:::
+::: {.column width="45%"}
+
+![](images/7_parental_care/figure/7_pc_hpa_epigen.png){width="100%"
+}
+
+:::
+:::
+
 
 <small>[Weaver et al., 2004](https://pubmed.ncbi.nlm.nih.gov/15220929/){target="_blank"}</small>
 

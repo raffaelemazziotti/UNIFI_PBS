@@ -1768,7 +1768,7 @@
     "href": "7_parental_care.html#high-maternal-care-changes-hpa-axis-regulation",
     "title": "Parental Care and Attachment",
     "section": "High maternal care changes HPA-axis regulation",
-    "text": "High maternal care changes HPA-axis regulation\n\n\n\nOffspring receiving relatively high LG/ABN show, on average:\n\nhigher hippocampal glucocorticoid receptor (GR) expression\nstronger glucocorticoid negative feedback\nsmaller ACTH and corticosterone responses to acute stress\n\n\n\nThe effect of early care is therefore not only behavioral: it changes the physiological regulation of the stress response.\n\n\n\n\nLiu et al., 1997"
+    "text": "High maternal care changes HPA-axis regulation\n\n\n\nOffspring receiving relatively high LG/ABN show, on average:\n\nhigher hippocampal glucocorticoid receptor (GR) expression\nstronger glucocorticoid negative feedback\nsmaller ACTH and corticosterone responses to acute stress\n\n\n\nThe effect of early care is therefore not only behavioral: it changes the physiological regulation of the stress response.\n\n\n\n\n\n\n\nLiu et al., 1997"
   },
   {
     "objectID": "7_parental_care.html#cross-fostering-separates-genes-from-caregiving",
@@ -1789,7 +1789,7 @@
     "href": "7_parental_care.html#early-care-can-modify-gene-expression-epigenetically",
     "title": "Parental Care and Attachment",
     "section": "Early care can modify gene expression epigenetically",
-    "text": "Early care can modify gene expression epigenetically\n\n\n\nMaternal care influences regulation of the hippocampal glucocorticoid receptor (GR) gene.\nHigh maternal care is associated with:\n\nreduced DNA methylation at a GR promoter\ngreater access of transcription factors such as NGFI-A / EGR1\nincreased GR expression\n\n\n\n\n\n\nAn early social experience can become biologically persistent by altering how strongly genes are expressed, without changing the DNA sequence.\n\nWeaver et al., 2004"
+    "text": "Early care can modify gene expression epigenetically\n\n\n\nMaternal care influences regulation of the hippocampal glucocorticoid receptor (GR) gene.\nHigh maternal care is associated with:\n\nreduced DNA methylation at a GR promoter\ngreater access of transcription factors such as NGFI-A / EGR1\nincreased GR expression\n\n\n\nAn early social experience can become biologically persistent by altering how strongly genes are expressed, without changing the DNA sequence.\n\n\n\n\nWeaver et al., 2004"
   },
   {
     "objectID": "7_parental_care.html#epigenetic-programming-is-stable-but-not-necessarily-permanent",
@@ -2063,5 +2063,33 @@
     "title": "Parental Care and Attachment",
     "section": "Cross-fostering separates genes from caregiving",
     "text": "Cross-fostering separates genes from caregiving"
+  },
+  {
+    "objectID": "7_parental_care.html#attachment",
+    "href": "7_parental_care.html#attachment",
+    "title": "Parental Care and Attachment",
+    "section": "Attachment",
+    "text": "Attachment\n\n\n\nWhat is attachment?\nAttachment is a stable emotional bond between an infant and a caregiver.\nIt motivates the young animal to stay close to the caregiver, seek protection, and use the caregiver as a secure base for exploration.\n\n\n\nWhy does it evolve?\nAttachment is especially important in species with high parental investment.\nWhen offspring depend on care, feeding, protection, and learning, staying close to the caregiver increases survival.\n\n\n\nAttachment is not simply “love” or “affection”. It is a biological and behavioral system that regulates proximity, safety, stress, and exploration."
+  },
+  {
+    "objectID": "7_parental_care.html#epigenetics-regulating-genes-without-changing-dna-sequence",
+    "href": "7_parental_care.html#epigenetics-regulating-genes-without-changing-dna-sequence",
+    "title": "Parental Care and Attachment",
+    "section": "Epigenetics: regulating genes without changing DNA sequence",
+    "text": "Epigenetics: regulating genes without changing DNA sequence\n\n\n\nEpigenetics\nEpigenetics refers to molecular mechanisms that regulate gene activity without changing the DNA sequence.\nThese mechanisms help cells decide which genes are accessible, active, or silent.\n\n\n\nTwo key mechanisms\n\nDNA methylation\nHistone modifications\n\nBoth influence how easily transcription machinery can access DNA.\n\n\n\nThe genome is the same, but epigenetic marks help determine how strongly different genes are expressed."
+  },
+  {
+    "objectID": "7_parental_care.html#dna-methylation-and-histone-modifications",
+    "href": "7_parental_care.html#dna-methylation-and-histone-modifications",
+    "title": "Parental Care and Attachment",
+    "section": "DNA methylation and histone modifications",
+    "text": "DNA methylation and histone modifications\n\n\n\nDNA methylation\nSmall chemical groups called methyl groups are added to DNA, often at cytosine bases.\nHigh DNA methylation near a gene promoter is usually associated with reduced gene expression.\n\n\n\nHistone modifications\nDNA is wrapped around histone proteins.\nChemical modifications to histone tails can make chromatin more open or more compact, changing gene accessibility.\n\n\n\nIn simple terms: DNA methylation often acts like a “do not read” signal, while histone modifications can open or close the chromatin structure."
+  },
+  {
+    "objectID": "7_parental_care.html#dna-methylation-and-histone-modifications-1",
+    "href": "7_parental_care.html#dna-methylation-and-histone-modifications-1",
+    "title": "Parental Care and Attachment",
+    "section": "DNA methylation and histone modifications",
+    "text": "DNA methylation and histone modifications\n\n\n\nDNA methylation\n\n\n\n\n\n\nHistone modifications"
   }
 ]
