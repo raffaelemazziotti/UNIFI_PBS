@@ -514,13 +514,12 @@ Rodent maternal behavior consists of recognizable behavioral modules:
 :::
 
 ::: {.info-box}
-Because these behaviors are stereotyped and quantifiable, rats and mice provide powerful experimental models for studying the neurobiology of parental care.
+Because these behaviors are <u>stereotyped</u> and <u>quantifiable</u>, rats and mice provide powerful experimental models for studying the neurobiology of parental care.
 :::
 
 ## Pregnancy prepares the maternal brain
 
 ::: {.columns}
-
 ::: {.column width="50%"}
 
 ::: {.card}
@@ -534,10 +533,6 @@ Important signals include:
 - `oxytocin`
 :::
 
-:::
-
-::: {.column width="50%"}
-
 ::: {.card}
 These hormones do not act as a simple on/off switch.
 
@@ -545,9 +540,18 @@ They modify the responsiveness of neural circuits that process offspring-related
 :::
 
 :::
-:::
+::: {.column width="50%"}
 
-<small>[Numan, 1988](https://pubmed.ncbi.nlm.nih.gov/2897700/){target="_blank"} | [Bridges, 1994](https://pubmed.ncbi.nlm.nih.gov/7981472/){target="_blank"}</small>
+![](images/7_parental_care/figure/7_pc_maternal_beh2.PNG){width="55%"
+title="Onset of maternal behavior around parturition in the rat. Retrieval, nursing, and nest-building are low or only weakly expressed during most of pregnancy, then increase sharply around the time of birth. Pup retrieval and nest building rapidly become highly expressed, while nursing also rises strongly. The close temporal relationship between these behavioral changes and the endocrine changes of late pregnancy illustrates how hormonal state helps facilitate the transition to maternal care."
+}
+
+![](images/7_parental_care/figure/7_pc_maternal_beh.PNG){width="55%"
+title="Circulating progesterone, estradiol, and prolactin during pregnancy in the rat. Progesterone remains relatively high through most of gestation but falls sharply near parturition, while estradiol rises during late pregnancy and prolactin shows a marked increase around delivery. These coordinated endocrine changes help prepare the maternal brain and body for the onset of maternal behavior."
+}
+
+:::
+:::
 
 ## The medial preoptic area coordinates parental behavior
 
@@ -567,23 +571,27 @@ The MPOA integrates:
 - motivational and reward-related information
 :::
 
-:::
-
-::: {.column width="52%"}
-
-<!-- IMAGE SUGGESTION:
-images/7_parental/mpoa_parental_circuit.png
-MPOA connected to sensory and reward/motor circuits.
--->
-
-:::
-:::
-
 ::: {.card}
 Disrupting MPOA function strongly impairs maternal behavior in rodents.
 :::
 
+:::
+::: {.column width="52%"}
+
+![](images/7_parental_care/figure/7_pc_hypo.png){width="40%"
+}
+
+![](images/7_parental_care/figure/7_pc_mpoa.png){width="100%"
+title="Maternal neural network in the rat. Pup-related sensory information reaches the maternal brain through several pathways and is integrated with hormonal and cortical signals. Olfactory input from pups is processed by the olfactory bulb and accessory olfactory bulb (`OB/AOB`) and then reaches the medial amygdala (`mAMY`). The medial preoptic area (`MPOA`) and bed nucleus of the stria terminalis (`BNST`) integrate these sensory signals with hormonal influences such as prolactin (`PRL`) and estradiol (`E2`). Activity in the MPOA promotes maternal motivation through projections to the ventral tegmental area (`VTA`), which engages the nucleus accumbens (`NA`) and downstream ventral pallidum (`VP`) circuitry. At the same time, MPOA/BNST activity suppresses pup-avoidance pathways involving the anterior hypothalamus/ventromedial hypothalamus (`AH/VMH`) and periaqueductal gray (`PAG`). Maternal behavior therefore emerges from coordinated regulation of sensory processing, motivation, hormonal state, and inhibition of competing avoidance responses."
+}
+
+:::
+:::
+
 ## Hormones facilitate care, but experience also matters
+
+::: {.columns}
+::: {.column}
 
 ::: {.card}
 Virgin female rats do not normally show the same rapid maternal response as females around parturition.
@@ -595,10 +603,16 @@ However, repeated exposure to pups can gradually induce maternal behavior even w
 This phenomenon is often called `maternal sensitization`.
 :::
 
-::: {.card}
-The onset of caregiving therefore reflects an interaction between:
+>Removing olfactory input accelerates the onset of maternal behavior in virgin rats.
 
-`hormonal state` + `offspring sensory cues` + `experience` + `neural plasticity`
+:::
+::: {.column}
+
+![](images/7_parental_care/figure/7_pc_maternal_sensitization.jpg){width="100%"
+title="The graph shows the cumulative percentage of females displaying maternal behavior as a function of the number of hours of exposure to pups. Animals rendered anosmic with intranasal zinc sulfate (`ZnSO4`) become maternal much more rapidly than animals with intact olfaction, particularly when combined with estradiol benzoate (`EB`) treatment. This indicates that, in virgin rats, pup-related olfactory signals can initially activate avoidance or inhibitory pathways. Reducing olfactory input removes this inhibitory influence and allows maternal responses such as retrieval, nursing, and nest-related behavior to emerge more rapidly."
+}
+
+:::
 :::
 
 ## Early maternal care shapes the stress system
@@ -610,12 +624,8 @@ The onset of caregiving therefore reflects an interaction between:
 ::: {.card}
 Rat mothers naturally differ in the frequency of behaviors such as:
 
-`licking/grooming (LG)` and `arched-back nursing (ABN)`.
+`licking/grooming` and `arched-back nursing`.
 :::
-
-:::
-
-::: {.column width="52%"}
 
 ::: {.card}
 These naturally occurring differences are associated with long-lasting differences in the offspring's:
@@ -626,10 +636,19 @@ These naturally occurring differences are associated with long-lasting differenc
 :::
 
 :::
-:::
+::: {.column width="52%"}
+
+
+![](images/7_parental_care/figure/7_pc_maternal_care_levels.png){width="100%"
+}
 
 ::: {.info-box}
 Early caregiving becomes part of the developmental environment that calibrates the offspring's future response to stress.
+:::
+
+> This makes rodents a valuable model for studying how variation in early maternal care influences developmental trajectories and adult outcomes.
+
+:::
 :::
 
 ## High maternal care changes HPA-axis regulation
@@ -646,21 +665,20 @@ Offspring receiving relatively high `LG/ABN` show, on average:
 - smaller ACTH and corticosterone responses to acute stress
 :::
 
-:::
-
-::: {.column width="50%"}
-
-<!-- IMAGE SUGGESTION:
-images/7_parental/high_low_lg_hpa.png
-High LG -> GR up -> stronger feedback -> lower stress response.
--->
-
-:::
-:::
-
 ::: {.info-box}
 The effect of early care is therefore not only behavioral: it changes the <u>physiological regulation of the stress response</u>.
 :::
+
+:::
+::: {.column width="50%"}
+
+![](images/7_parental_care/figure/7_pc_maternal_hpa.png){width="70%"
+title="Early maternal care predicts the magnitude and duration of the offspring stress response in adulthood. The graphs show plasma ACTH (top) and corticosterone (bottom) before and after an acute stressor in rats reared by mothers showing high or low levels of licking/grooming and arched-back nursing (`LG-ABN`). Offspring receiving high LG-ABN show a smaller and more rapidly declining hormonal response, whereas offspring receiving low LG-ABN show higher and more prolonged ACTH and corticosterone elevations. This indicates that variation in early maternal care can produce long-lasting differences in regulation of the hypothalamic-pituitary-adrenal (`HPA`) stress axis."
+}
+
+:::
+:::
+
 
 <small>[Liu et al., 1997](https://pubmed.ncbi.nlm.nih.gov/9287218/){target="_blank"}</small>
 
@@ -711,6 +729,11 @@ Adult behavior and stress physiology tend to resemble the style associated with 
 :::
 
 <small>[Francis et al., 1999](https://pubmed.ncbi.nlm.nih.gov/10550053/){target="_blank"}</small>
+
+## Cross-fostering separates genes from caregiving
+
+![](images/7_parental_care/figure/7_pc_cross_fostering.png){width="70%"
+}
 
 ## Parental style can be transmitted without changing DNA sequence
 
