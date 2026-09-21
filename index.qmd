@@ -6,7 +6,7 @@ title-block: false
 ## Index
 
 >[Welcome to the course!]{.highlight}
-This is the course program. 
+We will explore how the brain develops, changes, and is shaped by experience from before birth to adulthood.
 
 
 ### Chapters

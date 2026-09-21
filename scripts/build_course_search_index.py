@@ -22,6 +22,7 @@ PAGES = (
     "5_neuroplasticity.html",
     "6_experience.html",
     "7_parental_care.html",
+    "8_prenatal.html",
 )
 
 

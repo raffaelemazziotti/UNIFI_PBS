@@ -1,0 +1,555 @@
+{
+  "topic": "Parental Care and Attachment",
+  "questions": [
+    {
+      "question": "What is parental care?",
+      "options": [
+        "A social behavior that improves offspring survival, growth, and development",
+        "A reflex that appears only during pregnancy and disappears after birth",
+        "A feeding behavior whose only biological function is providing calories",
+        "A fixed instinct that is unaffected by sensory or social experience"
+      ],
+      "correct": 0,
+      "feedback": "Parental care includes behaviors that increase offspring survival, growth, and acquisition of skills needed for independent life."
+    },
+    {
+      "question": "Which combination best describes major functions of parental care?",
+      "options": [
+        "Nutrition and thermoregulation without any contribution to social development",
+        "Protection and sustenance together with opportunities for learning and experience",
+        "Predator avoidance and locomotion without effects on physiological regulation",
+        "Reproductive competition and mate choice without effects on the offspring"
+      ],
+      "correct": 1,
+      "feedback": "Parental care can provide food, warmth, protection, physiological regulation, social interaction, and opportunities for learning."
+    },
+    {
+      "question": "Why can parental care increase evolutionary fitness?",
+      "options": [
+        "It guarantees that every offspring survives regardless of environmental conditions",
+        "It eliminates the energetic costs associated with producing and raising offspring",
+        "It can increase the probability that offspring survive and eventually reproduce",
+        "It increases parental fitness only by increasing the number of offspring produced"
+      ],
+      "correct": 2,
+      "feedback": "Parental investment can increase fitness indirectly by increasing the probability that offspring survive and later reproduce."
+    },
+    {
+      "question": "How should high- and low-investment reproductive strategies be understood?",
+      "options": [
+        "As two fixed biological classes that every species fits into perfectly",
+        "As strategies determined only by the number of offspring produced at birth",
+        "As patterns that apply only to mammals and not to other vertebrates",
+        "As different points along a life-history continuum rather than rigid categories"
+      ],
+      "correct": 3,
+      "feedback": "High- and low-investment strategies are useful endpoints of a continuum; modern life-history theory is more complex than a strict r/K dichotomy."
+    },
+    {
+      "question": "What is attachment?",
+      "options": [
+        "A stable bond that regulates proximity, safety, stress, and exploration",
+        "A temporary feeding preference that disappears once the infant is satiated",
+        "A general attraction to any moving object encountered after birth",
+        "A purely cognitive judgment about which adult provides the most food"
+      ],
+      "correct": 0,
+      "feedback": "Attachment is a stable emotional and behavioral bond that helps regulate proximity to the caregiver, safety, stress, and exploration."
+    },
+    {
+      "question": "What does it mean to say that a caregiver acts as a secure base?",
+      "options": [
+        "The caregiver keeps the infant in continuous physical contact and prevents independent exploration",
+        "The caregiver provides security that allows the infant to explore the environment",
+        "The caregiver becomes the only possible source of physiological regulation throughout early development",
+        "The caregiver removes the need to learn about unfamiliar environments and social situations"
+      ],
+      "correct": 1,
+      "feedback": "A secure base supports exploration: infants are more willing to explore when a familiar attachment figure is available."
+    },
+    {
+      "question": "What was the key result of Harlow's surrogate-mother experiment?",
+      "options": [
+        "Infant monkeys consistently preferred whichever surrogate delivered milk during each feeding period tested",
+        "Infant monkeys divided their time approximately equally between the cloth and wire surrogates",
+        "Infant monkeys strongly preferred the soft cloth surrogate over the wire surrogate",
+        "Infant monkeys avoided both artificial surrogates unless their biological mother was also present"
+      ],
+      "correct": 2,
+      "feedback": "Infant rhesus monkeys spent far more time with the cloth surrogate, even when the wire surrogate provided food."
+    },
+    {
+      "question": "What did Harlow's findings imply about feeding and attachment?",
+      "options": [
+        "Attachment develops only after infants learn which caregiver reliably provides food during repeated feeding episodes",
+        "Feeding is sufficient to explain attachment when the caregiver remains physically close to the infant",
+        "Physical contact matters mainly after the infant's nutritional needs have already been fully satisfied",
+        "Contact comfort can be a powerful attachment signal independently of feeding"
+      ],
+      "correct": 3,
+      "feedback": "The results challenged the idea that attachment is simply a secondary consequence of feeding and highlighted contact comfort."
+    },
+    {
+      "question": "What did Harlow's social-isolation studies show?",
+      "options": [
+        "Severe early social deprivation can produce persistent abnormalities in later behavior",
+        "Early social deprivation changes behavior only while the period of social isolation is still occurring",
+        "Social isolation improves later independence by reducing the young animal's reliance on familiar caregivers",
+        "Early deprivation alters feeding behavior but leaves later social and emotional behavior largely unaffected"
+      ],
+      "correct": 0,
+      "feedback": "Harlow's later work showed that severe early social deprivation can have long-lasting effects on social and emotional behavior."
+    },
+    {
+      "question": "Why is parent-offspring recognition described as multisensory?",
+      "options": [
+        "All species rely on the same sensory cue but weight it differently over time",
+        "Different species combine sensory cues such as smell, touch, vision, and vocalizations",
+        "Recognition depends on vision in adults and on audition in every newborn animal",
+        "Parental recognition occurs without sensory input once maternal hormones are present"
+      ],
+      "correct": 1,
+      "feedback": "Parent-offspring recognition can depend on different combinations of olfactory, tactile, visual, and vocal cues, with species-specific weighting."
+    },
+    {
+      "question": "What is filial imprinting?",
+      "options": [
+        "A genetically fixed preference that emerges without previous exposure to any particular caregiver-like stimulus",
+        "A form of adult social learning that requires repeated reinforcement across many days or weeks",
+        "Rapid early learning of a caregiver-like or salient stimulus that guides following behavior",
+        "A reflexive response to food that disappears once the young animal begins independent feeding"
+      ],
+      "correct": 2,
+      "feedback": "Filial imprinting is an early form of learning in which young animals rapidly develop a strong preference for and tendency to follow a salient stimulus."
+    },
+    {
+      "question": "Why is imprinting usually described as having a sensitive period?",
+      "options": [
+        "Learning remains equally effective throughout life but the resulting preference becomes harder to measure later",
+        "The preference is completely genetically specified and develops without any relevant early sensory experience",
+        "Imprinting begins only after the young animal has reached reproductive maturity and social independence",
+        "Learning is especially effective during an early window but is not absolutely irreversible"
+      ],
+      "correct": 3,
+      "feedback": "Imprinting is strongest during an early developmental window, but later work showed more flexibility than a strictly irreversible critical period would imply."
+    },
+    {
+      "question": "Which brain region is strongly implicated in visual imprinting in domestic chicks?",
+      "options": [
+        "The intermediate medial mesopallium (IMM)",
+        "The medial preoptic area of the hypothalamus",
+        "The ventral pallidum of the basal forebrain",
+        "The accessory olfactory bulb of the forebrain"
+      ],
+      "correct": 0,
+      "feedback": "The intermediate medial mesopallium (IMM) is strongly involved in visual imprinting in domestic chicks."
+    },
+    {
+      "question": "What happens to neuronal responses in the IMM after imprinting?",
+      "options": [
+        "Responses become equally strong for every familiar and unfamiliar object",
+        "Responses become selectively enhanced for the object used during imprinting",
+        "Neurons stop responding to visual stimuli once the preference is learned",
+        "Responses shift entirely from visual stimuli to maternal olfactory cues"
+      ],
+      "correct": 1,
+      "feedback": "Imprinting produces stimulus-specific changes in IMM activity, with stronger responses to the learned imprinting object."
+    },
+    {
+      "question": "Why is attachment in newborn rats strongly dependent on odor learning?",
+      "options": [
+        "Olfaction is the only sensory system that remains functional from birth throughout the entire lifespan",
+        "Rat pups cannot acquire tactile information until after vision and hearing have reached mature function",
+        "Pups must orient to the mother before vision and hearing are fully functional",
+        "Maternal odors directly activate motor responses without requiring experience-dependent plasticity in developing sensory circuits"
+      ],
+      "correct": 2,
+      "feedback": "In newborn rats, olfactory cues are especially important because pups need to orient to the mother before vision and hearing are fully mature."
+    },
+    {
+      "question": "Which neuromodulator strongly supports early odor learning in neonatal rats?",
+      "options": [
+        "Dopamine released from the ventral pallidum",
+        "Oxytocin released from the olfactory bulb",
+        "Corticosterone released from the hippocampus",
+        "Norepinephrine released from the locus coeruleus"
+      ],
+      "correct": 3,
+      "feedback": "Norepinephrine from the locus coeruleus strongly modulates plasticity in the neonatal olfactory bulb."
+    },
+    {
+      "question": "What can produce a learned odor preference in neonatal rats?",
+      "options": [
+        "Pairing an odor with maternal-like tactile stimulation during the early sensitive window",
+        "Presenting an odor repeatedly without accompanying tactile stimulation during later adult life",
+        "Pairing a visual pattern with food after the visual system has reached mature function",
+        "Blocking plasticity in the olfactory bulb while repeatedly presenting a familiar maternal odor"
+      ],
+      "correct": 0,
+      "feedback": "Pairing an odor with maternal-like tactile stimulation can produce a learned odor preference, particularly during an early sensitive period."
+    },
+    {
+      "question": "What is important for selective lamb recognition by a mother sheep?",
+      "options": [
+        "Visual imprinting in the intermediate medial mesopallium of the forebrain",
+        "Olfactory information and noradrenergic signaling in the maternal olfactory bulb",
+        "Suppression of all olfactory input immediately after the lamb is born",
+        "Learning the lamb's identity only after several weeks of nursing"
+      ],
+      "correct": 1,
+      "feedback": "Mother sheep rapidly learn the identity of their lamb, and this recognition depends strongly on olfactory information and noradrenergic signaling in the maternal olfactory bulb."
+    },
+    {
+      "question": "Which set contains characteristic components of rodent maternal behavior?",
+      "options": [
+        "Courtship display, territorial marking, predatory behavior, and long-distance migratory navigation in adulthood",
+        "Visual imprinting, song learning, flocking behavior, and long-distance spatial homing",
+        "Pup retrieval, licking and grooming, arched-back nursing, and nest building",
+        "Object recognition, food hoarding, burrowing behavior, and dominance-related aggressive interactions"
+      ],
+      "correct": 2,
+      "feedback": "Rodent maternal behavior includes pup retrieval, licking and grooming, arched-back nursing, and nest building."
+    },
+    {
+      "question": "Why are rats and mice useful models for studying parental care?",
+      "options": [
+        "Their maternal behavior is completely independent of hormones and sensory input",
+        "Their offspring develop without requiring any direct contact with the mother",
+        "Their parental behavior is identical across all individuals and environmental conditions",
+        "Their maternal behaviors are stereotyped, quantifiable, and experimentally accessible"
+      ],
+      "correct": 3,
+      "feedback": "Rodent maternal behaviors can be reliably observed and quantified, making them useful for studying neural and developmental mechanisms."
+    },
+    {
+      "question": "Which hormones are highlighted as helping prepare the maternal brain around parturition?",
+      "options": [
+        "Estradiol, progesterone, prolactin, and oxytocin",
+        "Cortisol, insulin, melatonin, and growth hormone",
+        "Dopamine, serotonin, glutamate, and acetylcholine",
+        "Testosterone, thyroxine, adrenaline, and vasopressin"
+      ],
+      "correct": 0,
+      "feedback": "Estradiol, progesterone, prolactin, and oxytocin are important endocrine signals around the onset of maternal behavior."
+    },
+    {
+      "question": "How do pregnancy-related hormones influence maternal behavior?",
+      "options": [
+        "They act as a single irreversible switch that automatically produces maternal care",
+        "They alter the responsiveness of neural circuits processing pups and maternal motivation",
+        "They eliminate the need for sensory cues from offspring after parturition",
+        "They control maternal behavior only by changing milk production in the mammary gland"
+      ],
+      "correct": 1,
+      "feedback": "Pregnancy-related hormones prepare the maternal brain by changing the responsiveness of circuits that process pup-related sensory signals and motivation."
+    },
+    {
+      "question": "Which endocrine pattern occurs near parturition in the rat?",
+      "options": [
+        "Progesterone rises sharply while estradiol and prolactin both disappear",
+        "All three hormones remain constant from early pregnancy through parturition",
+        "Progesterone falls while estradiol and prolactin rise around delivery",
+        "Estradiol falls to zero while progesterone remains maximal after delivery"
+      ],
+      "correct": 2,
+      "feedback": "Near parturition, progesterone falls while estradiol rises and prolactin shows a marked increase, accompanying the onset of maternal behavior."
+    },
+    {
+      "question": "What is the role of the medial preoptic area (MPOA) in maternal behavior?",
+      "options": [
+        "It processes retinal orientation selectivity used for visually recognizing the pups",
+        "It generates corticosterone in response to pup-related stress during nursing",
+        "It stores the olfactory memory of an imprinted object in young chicks",
+        "It integrates hormonal, sensory, motivational, and reward-related information relevant to caregiving"
+      ],
+      "correct": 3,
+      "feedback": "The MPOA is a major node in the maternal neural network and integrates hormonal state, pup-related sensory signals, and motivational information."
+    },
+    {
+      "question": "What effect does disrupting MPOA function have in rodents?",
+      "options": [
+        "It strongly impairs the expression of maternal behavior",
+        "It selectively improves pup retrieval while reducing other components of maternal behavior",
+        "It increases care by removing olfactory avoidance",
+        "It changes filial imprinting without altering maternal caregiving"
+      ],
+      "correct": 0,
+      "feedback": "Disrupting MPOA function strongly impairs maternal behavior, supporting its central role in the caregiving network."
+    },
+    {
+      "question": "Which pathway is associated with maternal motivation in the maternal neural network?",
+      "options": [
+        "The intermediate medial mesopallium activates the hippocampus, pituitary, adrenal cortex, and hypothalamus",
+        "MPOA activity engages the VTA, nucleus accumbens, and ventral pallidum",
+        "The olfactory bulb directly activates corticospinal motor pathways",
+        "The visual cortex activates the amygdala, retina, and superior colliculus"
+      ],
+      "correct": 1,
+      "feedback": "An MPOA-to-VTA-to-nucleus-accumbens pathway engages ventral pallidum circuitry involved in maternal motivation."
+    },
+    {
+      "question": "How can the MPOA/BNST promote maternal behavior besides activating reward-related pathways?",
+      "options": [
+        "It can suppress all sensory processing of pup-related cues",
+        "It can eliminate the hormonal changes associated with parturition",
+        "It can suppress neural pathways that promote pup avoidance",
+        "It can prevent learning of the pups' olfactory characteristics"
+      ],
+      "correct": 2,
+      "feedback": "The maternal network includes suppression of avoidance-related pathways involving hypothalamic regions and the PAG."
+    },
+    {
+      "question": "What is maternal sensitization?",
+      "options": [
+        "The rapid loss of maternal behavior after pups are briefly removed from the nest",
+        "The hormonal induction of maternal behavior that occurs only during pregnancy",
+        "The formation of a selective visual imprint on pups immediately after birth",
+        "The gradual emergence of maternal behavior in virgin females after repeated pup exposure"
+      ],
+      "correct": 3,
+      "feedback": "Repeated exposure to pups can gradually induce maternal behavior in virgin female rats even without pregnancy; this is termed maternal sensitization."
+    },
+    {
+      "question": "What happens when olfactory input is reduced in virgin rats exposed to pups?",
+      "options": [
+        "Maternal behavior can emerge more rapidly because an avoidance-related influence is reduced",
+        "Maternal behavior disappears because pup odors are the only signals that can trigger care",
+        "Maternal behavior becomes impossible unless visual input is simultaneously removed",
+        "Pup retrieval increases only after olfactory function has fully recovered"
+      ],
+      "correct": 0,
+      "feedback": "Reducing olfactory input can accelerate maternal behavior in virgin rats, consistent with pup odors initially engaging avoidance or inhibitory pathways."
+    },
+    {
+      "question": "Which maternal behaviors are used to describe naturally occurring differences in rodent caregiving style?",
+      "options": [
+        "Pup retrieval and visual imprinting responses",
+        "Licking/grooming and arched-back nursing",
+        "Nest building and predator-avoidance behavior",
+        "Courtship displays and territorial aggressive behavior"
+      ],
+      "correct": 1,
+      "feedback": "Natural variation in licking/grooming and arched-back nursing is used to characterize different levels of maternal care in rats."
+    },
+    {
+      "question": "What is associated with relatively high maternal licking/grooming and arched-back nursing?",
+      "options": [
+        "Lower hippocampal GR expression and weaker glucocorticoid negative feedback",
+        "Higher ACTH and corticosterone responses that remain elevated for longer",
+        "Higher hippocampal GR expression and stronger glucocorticoid negative feedback",
+        "Complete elimination of the offspring HPA response to acute stress"
+      ],
+      "correct": 2,
+      "feedback": "High LG/ABN offspring show higher hippocampal glucocorticoid receptor expression and stronger negative feedback regulation of the HPA axis."
+    },
+    {
+      "question": "How do adult stress responses differ after high versus low maternal care?",
+      "options": [
+        "High-care offspring show larger and more prolonged ACTH and corticosterone responses",
+        "Low-care offspring show no hormonal response to an acute stressor in adulthood",
+        "Maternal care alters behavior but has no measurable effect on stress hormones",
+        "High-care offspring show smaller and more rapidly declining ACTH and corticosterone responses"
+      ],
+      "correct": 3,
+      "feedback": "Offspring receiving high LG/ABN show smaller and more rapidly terminated ACTH and corticosterone responses to acute stress."
+    },
+    {
+      "question": "What does the HPA-axis result show about early maternal care?",
+      "options": [
+        "Early caregiving can produce long-lasting changes in physiological stress regulation",
+        "Maternal care affects only immediate behavior while pups remain in the nest",
+        "Stress physiology is fixed genetically and is unaffected by early social experience",
+        "Only adult social experience can alter the endocrine response to acute stress"
+      ],
+      "correct": 0,
+      "feedback": "Variation in early maternal care is associated with persistent differences in regulation of the HPA stress axis."
+    },
+    {
+      "question": "What is the purpose of cross-fostering between high- and low-care mothers?",
+      "options": [
+        "To increase genetic differences between litters before measuring maternal behavior",
+        "To separate effects of the rearing environment from biological parentage",
+        "To prevent mothers from expressing their characteristic caregiving styles",
+        "To eliminate all postnatal social experience while preserving prenatal influences"
+      ],
+      "correct": 1,
+      "feedback": "Cross-fostering allows researchers to distinguish effects associated with the rearing mother from those associated with biological origin."
+    },
+    {
+      "question": "What does cross-fostering show about offspring stress physiology and behavior?",
+      "options": [
+        "They always resemble the biological mother regardless of the foster environment",
+        "They become intermediate between the two mothers regardless of caregiving level",
+        "They tend to resemble patterns associated with the rearing mother's caregiving style",
+        "They are unaffected by either maternal style once genetic background is controlled"
+      ],
+      "correct": 2,
+      "feedback": "Cross-fostering shifts offspring outcomes toward those associated with the foster mother's caregiving style."
+    },
+    {
+      "question": "What is meant by nongenomic transmission of maternal style?",
+      "options": [
+        "A new mutation is produced in offspring whenever maternal care is unusually high",
+        "The maternal genome is physically transferred to the offspring during licking and grooming",
+        "Maternal behavior is inherited only through mitochondrial DNA from the biological mother",
+        "A caregiving pattern can pass across generations through developmental experience rather than DNA sequence change"
+      ],
+      "correct": 3,
+      "feedback": "Female offspring can later reproduce the caregiving style they experienced, and cross-fostering can shift this pattern without changing DNA sequence."
+    },
+    {
+      "question": "What is epigenetics in the context of the maternal-care experiments?",
+      "options": [
+        "Regulation of gene activity without changing the underlying DNA sequence",
+        "Permanent alteration of DNA sequence caused by tactile stimulation from the mother",
+        "Replacement of inherited genes by newly synthesized genes during early development",
+        "A change in chromosome number produced by prolonged activation of the stress system"
+      ],
+      "correct": 0,
+      "feedback": "Epigenetic mechanisms regulate how accessible or active genes are without altering the underlying DNA sequence."
+    },
+    {
+      "question": "What is the usual relationship between promoter DNA methylation and gene expression?",
+      "options": [
+        "Higher promoter methylation always increases transcription of the nearby gene",
+        "Higher promoter methylation is commonly associated with lower gene expression",
+        "Promoter methylation changes the DNA sequence so the gene encodes a new protein",
+        "Promoter methylation affects only histone synthesis and not transcriptional accessibility"
+      ],
+      "correct": 1,
+      "feedback": "In the simplified framework used here, higher methylation near a promoter is usually associated with reduced accessibility and reduced gene expression."
+    },
+    {
+      "question": "How can histone modifications regulate gene expression?",
+      "options": [
+        "They replace DNA bases and permanently rewrite the nucleotide sequence",
+        "They determine which sensory receptor proteins are transported into the retina",
+        "They can alter chromatin accessibility and thereby influence transcription",
+        "They remove chromosomes from cells that receive little maternal stimulation"
+      ],
+      "correct": 2,
+      "feedback": "Chemical modifications to histone tails can make chromatin more open or compact, changing how accessible genes are to transcriptional machinery."
+    },
+    {
+      "question": "What effect is associated with high maternal care at the hippocampal glucocorticoid receptor gene?",
+      "options": [
+        "Increased promoter methylation and reduced glucocorticoid receptor expression",
+        "Deletion of the receptor gene followed by compensatory receptor synthesis",
+        "Permanent silencing of all genes involved in the HPA stress response",
+        "Reduced promoter methylation and increased glucocorticoid receptor expression"
+      ],
+      "correct": 3,
+      "feedback": "High maternal care is associated with reduced methylation at a glucocorticoid receptor promoter and increased GR expression."
+    },
+    {
+      "question": "What role does NGFI-A/EGR1 play in the maternal-care pathway?",
+      "options": [
+        "It acts as a transcription factor whose access to the GR promoter is facilitated by high care",
+        "It acts as a stress hormone released by the adrenal gland after acute restraint",
+        "It acts as a neurotransmitter released from the locus coeruleus during odor learning",
+        "It acts as a DNA methyltransferase that silences the glucocorticoid receptor gene"
+      ],
+      "correct": 0,
+      "feedback": "High maternal care is associated with greater access of NGFI-A/EGR1 to regulatory regions of the glucocorticoid receptor gene."
+    },
+    {
+      "question": "What does the gene Nr3c1 encode in the maternal-care example?",
+      "options": [
+        "The serotonin 5-HT7 receptor",
+        "The glucocorticoid receptor",
+        "The prolactin receptor",
+        "The oxytocin receptor"
+      ],
+      "correct": 1,
+      "feedback": "Nr3c1 is the gene encoding the glucocorticoid receptor (GR)."
+    },
+    {
+      "question": "How does increased hippocampal glucocorticoid receptor expression affect the HPA axis?",
+      "options": [
+        "It blocks all hypothalamic activity and prevents any stress response from beginning",
+        "It increases ACTH secretion so corticosterone remains elevated for a longer period",
+        "It strengthens glucocorticoid negative feedback and helps terminate the stress response",
+        "It weakens feedback from circulating glucocorticoids to the brain and pituitary"
+      ],
+      "correct": 2,
+      "feedback": "Higher hippocampal GR expression strengthens negative feedback, contributing to a smaller and more rapidly terminated hormonal stress response."
+    },
+    {
+      "question": "What pattern is associated with relatively low maternal care?",
+      "options": [
+        "Lower GR-promoter methylation, higher GR expression, and faster stress recovery",
+        "Higher GR expression with complete suppression of ACTH and corticosterone release",
+        "No epigenetic differences and no change in adult stress-related physiology",
+        "Greater GR-promoter methylation, lower GR expression, and a more prolonged stress response"
+      ],
+      "correct": 3,
+      "feedback": "Low maternal care is associated with greater methylation at the GR promoter, lower GR expression, and more prolonged HPA-axis responses."
+    },
+    {
+      "question": "Which statement best describes epigenetic programming?",
+      "options": [
+        "It can be persistent while remaining potentially modifiable by later biological influences",
+        "It is always permanent once established during the first days of life",
+        "It changes DNA sequence and therefore cannot be modified in adult animals",
+        "It disappears completely when the offspring leaves the maternal nest"
+      ],
+      "correct": 0,
+      "feedback": "Epigenetic regulation can persist into adulthood while still remaining potentially modifiable by later biological influences."
+    },
+    {
+      "question": "What can brief handling of rodent pups produce in some paradigms?",
+      "options": [
+        "Permanent loss of maternal behavior and increased stress responses in every strain",
+        "More maternal interaction after reunion and reduced later stress reactivity",
+        "Complete independence from maternal care immediately after the handling period",
+        "Irreversible suppression of the HPA axis throughout the rest of development"
+      ],
+      "correct": 1,
+      "feedback": "Brief separations can increase maternal interaction after reunion and, in some rodent paradigms, are associated with reduced later stress reactivity."
+    },
+    {
+      "question": "How can prolonged repeated maternal separation differ from brief handling?",
+      "options": [
+        "It reliably increases maternal interaction without producing any later stress-related effects",
+        "It has the same developmental consequences as brief handling regardless of duration",
+        "It can act as an early-life stressor with persistent physiological and behavioral effects",
+        "It affects only body growth while leaving stress-related physiology unchanged"
+      ],
+      "correct": 2,
+      "feedback": "Longer repeated separations can function as early-life stressors and can produce persistent changes in stress-related physiology and behavior."
+    },
+    {
+      "question": "Why can the effects of maternal separation vary across experiments?",
+      "options": [
+        "They depend only on whether the offspring are male or female at birth",
+        "They are determined entirely by the mother's genotype and not by the procedure",
+        "They vary only because stress hormones cannot be measured reliably in rodents",
+        "They depend on duration, age, strain, housing, and what happens after reunion"
+      ],
+      "correct": 3,
+      "feedback": "The effects of separation depend on duration, developmental age, strain, housing, and maternal behavior after reunion."
+    },
+    {
+      "question": "What is the most appropriate interpretation of long-lasting effects of early maternal care?",
+      "options": [
+        "Early care can bias developmental trajectories without rigidly determining a single adult outcome",
+        "Early care permanently fixes adult behavior so later experience has no meaningful influence",
+        "Early care has no lasting influence because all developmental effects disappear by adulthood",
+        "Only genetic inheritance determines adult outcomes once the offspring has been born"
+      ],
+      "correct": 0,
+      "feedback": "Early maternal care can shape neural, endocrine, and epigenetic development, but later experience can continue to modify outcomes."
+    },
+    {
+      "question": "Which statement best summarizes the relation between early and later experience?",
+      "options": [
+        "Later environments completely erase all consequences of early caregiving without exception",
+        "Early experience creates developmental biases that can still interact with later environments",
+        "Early caregiving determines adult outcomes independently of all later social experience",
+        "Early and later experiences affect separate systems and therefore cannot interact"
+      ],
+      "correct": 1,
+      "feedback": "Early experience can bias development, while later social environment, enrichment, stress, and relationships can still interact with that developmental state."
+    }
+  ]
+}

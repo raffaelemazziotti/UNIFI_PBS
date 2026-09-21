@@ -846,9 +846,9 @@ The genome is the same, but epigenetic marks help determine how strongly differe
 ::: {.card}
 `DNA methylation`
 
-Small chemical groups called methyl groups are added to DNA, often at cytosine bases.
+Small chemical groups called `methyl groups` are added to DNA, often at cytosine bases. In segments of DNA called [CpG islands](https://en.wikipedia.org/wiki/CpG_site){target="_blank"}
 
-High DNA methylation near a gene promoter is usually associated with reduced gene expression.
+High DNA methylation near a gene promoter is usually associated with <u>reduced gene expression</u>.
 :::
 
 :::
@@ -860,14 +860,17 @@ High DNA methylation near a gene promoter is usually associated with reduced gen
 
 DNA is wrapped around histone proteins.
 
-Chemical modifications to histone tails can make chromatin more open or more compact, changing gene accessibility.
+Chemical modifications to [histone](https://en.wikipedia.org/wiki/Histone) tails can make [chromatin](https://en.wikipedia.org/wiki/Chromatin) more open or more compact, changing gene <u>accessibility</u>.
 :::
 
 :::
 :::
 
 ::: {.info-box}
-In simple terms: DNA methylation often acts like a “do not read” signal, while histone modifications can open or close the chromatin structure.
+In simple terms:
+
+- DNA methylation often acts like a “do not read” signal
+- Histone modifications can open or close the chromatin structure, regulating the accessibility to specific genes.
 :::
 
 ## DNA methylation and histone modifications
@@ -880,6 +883,7 @@ In simple terms: DNA methylation often acts like a “do not read” signal, whi
 
 :::{.centerimg}
 ![](images/7_parental_care/figure/7_pc_epigen_dna.png){width="100%"
+title="DNA methylation can regulate gene expression. In the upper diagram, CpG sites in the regulatory region are largely unmethylated, allowing transcriptional machinery to access the gene and supporting gene expression. In the lower diagram, methyl groups are added to CpG sites within the CpG island. Increased DNA methylation is commonly associated with reduced promoter accessibility and repression of transcription. DNA methylation therefore provides an epigenetic mechanism through which gene expression can be persistently modified without changing the underlying DNA sequence."
 }
 :::
 
@@ -893,6 +897,7 @@ In simple terms: DNA methylation often acts like a “do not read” signal, whi
 
 :::{.centerimg}
 ![](images/7_parental_care/figure/7_pc_epigen_hist.png){width="70%"
+title="Histone modifications regulate how accessible DNA is to the transcriptional machinery. DNA is wrapped around histone proteins to form nucleosomes, and the exposed histone tails can be chemically modified by processes such as acetylation, methylation, and phosphorylation. In general, histone acetylation is associated with a more open chromatin configuration that facilitates binding of transcription factors and supports gene expression. Other combinations of histone modifications can recruit regulatory proteins that produce more compact chromatin and repress transcription. These modifications are therefore part of the epigenetic mechanisms that alter gene expression without changing the DNA sequence."
 }
 :::
 
@@ -908,13 +913,13 @@ In simple terms: DNA methylation often acts like a “do not read” signal, whi
 ::: {.column width="55%"}
 
 ::: {.card}
-Maternal care influences regulation of the hippocampal `glucocorticoid receptor (GR)` gene.
+Maternal care influences regulation of the hippocampal `glucocorticoid receptor (GR)` gene. Particularly through tactile stimulation (licking/grroming)
 
 High maternal care is associated with:
 
 - reduced DNA methylation at a GR promoter
 - greater access of transcription factors such as `NGFI-A / EGR1`
-- increased GR expression
+- increased GR expression ([Nr3c1](https://en.wikipedia.org/wiki/Glucocorticoid_receptor){target="_blank"} is the gene)
 :::
 
 
@@ -926,6 +931,7 @@ An early social experience can become biologically persistent by altering <u>how
 ::: {.column width="45%"}
 
 ![](images/7_parental_care/figure/7_pc_hpa_epigen.png){width="100%"
+title="Maternal licking and grooming can produce long-lasting epigenetic effects on stress regulation in the offspring. Tactile stimulation activates serotonergic (`5-HT`) signaling in the hippocampus, which engages intracellular pathways involving `cAMP`, `PKA`, and the transcriptional coactivator `CBP`. This promotes binding of the transcription factor `NGFI-A` to regulatory regions of the glucocorticoid receptor gene `Nr3c1`. High maternal licking and grooming is associated with reduced DNA methylation at this promoter, greater NGFI-A binding, and increased hippocampal glucocorticoid receptor (`GR`) expression. Increased GR strengthens negative feedback onto the hypothalamic-pituitary-adrenal (`HPA`) axis, producing lower and more rapidly terminated corticosterone responses to stress. Low maternal care is associated with greater promoter methylation, lower GR expression, and a more prolonged stress response."
 }
 
 :::
@@ -959,7 +965,7 @@ It describes persistent regulation of gene expression that can remain <u>respons
 ::: {.card}
 `Brief handling`
 
-Short separations can increase maternal interaction after reunion and, in some rodent paradigms, are associated with reduced later stress reactivity.
+Short separations can <u>increase maternal interaction</u> after reunion and, in some rodent paradigms, are associated with reduced later stress reactivity.
 :::
 
 :::
@@ -995,71 +1001,10 @@ Social environment, enrichment, stress, and new relationships can interact with 
 Early experience can <u>bias developmental trajectories</u> without rigidly determining a single adult outcome.
 :::
 
-## From animal models to human development
+## Self-check
 
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.card}
-Animal studies allow experimental manipulation of:
-
-- caregiving
-- sensory signals
-- hormones
-- neural circuits
-- gene expression
-:::
-
-:::
-
-::: {.column width="50%"}
-
-::: {.card}
-They reveal mechanisms that would be impossible or unethical to manipulate directly in humans.
-:::
-
-:::
-:::
-
-::: {.info-box}
-The mechanisms are evolutionarily informative, but results from animal models should not be translated into simple one-to-one claims about human parenting or psychological outcomes.
-:::
-
-## Parental care is a developmental signal
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.card}
-Parental care provides:
-
-- nutrition and protection
-- sensory stimulation
-- social information
-- emotional and physiological regulation
-:::
-
-:::
-
-::: {.column width="50%"}
-
-::: {.card}
-These signals can modify:
-
-- neural circuits
-- stress physiology
-- learning and attachment
-- gene expression
-- later parental behavior
-:::
-
-:::
-:::
-
-::: {.info-box}
-`early social experience` -> `neural and endocrine plasticity` -> `persistent changes in behavior and physiology`
-
-<u>Parental care is not only something that keeps the offspring alive: it becomes part of the biological process that builds the developing organism.</u>
-:::
+```{=html}
+<div class="quiz-wrap">
+  <iframe class="quiz-frame" src="quiz/quiz_pc.html" loading="lazy"></iframe>
+</div>
+```
