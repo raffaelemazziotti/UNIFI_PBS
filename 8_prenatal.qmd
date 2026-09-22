@@ -6,6 +6,9 @@ lang: en-US
 
 ## Development begins before birth
 
+:::{.columns}
+:::{.column}
+
 ::: {.info-box}
 Birth is an important biological transition, but it is <u>not the beginning of sensory and cognitive development</u>.
 :::
@@ -19,7 +22,23 @@ During prenatal life, the nervous system progressively becomes able to:
 - retain some information across time
 :::
 
-The abilities observed in newborns therefore have important <u>prenatal origins</u>.
+:::
+:::{.column}
+
+ <video
+  data-autoplay
+  autoplay
+  muted
+  loop
+  playsinline
+  width="100%">
+  <source src="images/8_prenatal/video/8_prec_intro.mp4" type="video/mp4">
+</video>
+
+> The abilities observed in newborns therefore have important <u>prenatal origins</u>.
+
+:::
+:::
 
 ## How can we study the fetus?
 
@@ -70,9 +89,9 @@ Fetal perception is inferred from <u>changes in behavior, physiology, or brain a
 ::: {.card}
 `Earlier functional development`
 
-- touch and somatosensation
-- vestibular and proprioceptive signals
-- chemosensory experience
+- <u>touch</u> and somatosensation
+- <u>vestibular</u> and proprioceptive signals
+- <u>chemosensory</u> experience
 :::
 
 :::
@@ -82,8 +101,8 @@ Fetal perception is inferred from <u>changes in behavior, physiology, or brain a
 ::: {.card}
 `Later functional development`
 
-- hearing becomes increasingly effective during gestation
-- vision becomes responsive much later and receives relatively little patterned stimulation in utero
+- <u>hearing</u> becomes increasingly effective during gestation
+- <u>vision</u> becomes responsive much later and receives no patterned stimulation in utero
 :::
 
 :::
@@ -93,16 +112,49 @@ Fetal perception is inferred from <u>changes in behavior, physiology, or brain a
 The prenatal sensory environment is <u>not silent or empty</u>: the fetus receives continuous tactile, vestibular, chemical, and acoustic information.
 :::
 
+## Sensory development is continuous across birth
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.card}
+`Before birth`
+
+The fetus experiences a restricted but structured sensory environment.
+
+Sensory systems become functional at different times and begin modifying neural activity.
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.card}
+`After birth`
+
+The quantity and diversity of sensory input increase dramatically.
+
+The same developing systems continue to learn and reorganize.
+:::
+
+:::
+:::
+
+::: {.info-box}
+Birth changes the environment, but <u>development itself is continuous</u>.
+:::
+
 ## Touch develops early
 
-`Somatosensation` is among the earliest sensory systems to become functional.
+> `Somatosensation` is the earliest sensory systems to become functional.
 
 ::: {.card}
 Responses to tactile stimulation begin in restricted regions of the body and progressively spread as the peripheral and central somatosensory systems mature.
 :::
 
 ::: {.card}
-By the second trimester, fetuses show an increasingly rich repertoire of:
+By the <u>second trimester</u>, fetuses show an increasingly rich repertoire of:
 
 - self-touch
 - contact with the uterine wall
@@ -126,20 +178,25 @@ As gestation progresses, fetal movements become more coordinated.
 Hand movements increasingly target specific regions such as the `mouth` and `face`.
 :::
 
-:::
-
-::: {.column width="50%"}
 
 ::: {.card}
-4D ultrasound studies suggest that some movements become increasingly anticipatory: mouth movements can begin before the hand reaches the mouth.
+4D ultrasound studies suggest thatstarting from 32 weeks some movements become increasingly anticipatory: mouth movements can begin before the hand reaches the mouth.
 :::
 
+
 :::
-:::
+::: {.column width="50%"}
+
+![](images/8_prenatal/figure/8_prec_anticipation.jpg){width="100%"}
 
 ::: {.info-box}
 The developing fetus is not simply producing random movements: <u>sensorimotor organization progressively emerges before birth</u>.
 :::
+
+
+:::
+:::
+
 
 <small>[Reissland et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24752616/){target="_blank"}</small>
 
@@ -187,6 +244,9 @@ Result
 :::
 
 Fetal behavior changes during maternal touch, and the pattern of response depends on `gestational age`.
+
+![](images/8_prenatal/figure/8_prec_touch.png){width="80%"}
+
 :::
 :::
 
@@ -194,205 +254,6 @@ Fetal behavior changes during maternal touch, and the pattern of response depend
 :::
 
 <small>[Marx & Nagy, 2015](https://pubmed.ncbi.nlm.nih.gov/26053388/){target="_blank"} | [Marx & Nagy, 2017](https://pubmed.ncbi.nlm.nih.gov/28371722/){target="_blank"}</small>
-
-## The womb is an acoustic environment
-
-::: {.card}
-The fetus is continuously exposed to sound generated both inside and outside the maternal body.
-
-Important sources include:
-
-- maternal heartbeat and respiration
-- movement and digestive sounds
-- the mother's voice
-- external speech and environmental sounds
-:::
-
-::: {.info-box}
-Maternal tissues and amniotic fluid modify external sounds, especially attenuating higher frequencies, but <u>temporal and prosodic information can still reach the fetus</u>.
-:::
-
-## Auditory responses emerge before birth
-
-::: {.columns}
-
-::: {.column width="48%"}
-
-::: {.card}
-During the second half of gestation, acoustic stimulation can produce measurable changes in:
-
-- fetal heart rate
-- body movement
-- brain responses
-:::
-
-:::
-
-::: {.column width="52%"}
-
-::: {.card}
-Responses become more reliable with maturation.
-
-By the third trimester, the fetus can discriminate some properties of complex sounds, including aspects of speech.
-:::
-
-:::
-:::
-
-::: {.info-box}
-The auditory system is already processing environmental information <u>before birth</u>.
-:::
-
-<small>[Kisilevsky et al., 1992](https://pubmed.ncbi.nlm.nih.gov/1446565/){target="_blank"}</small>
-
-## The mother's voice is a special prenatal stimulus
-
-::: {.card}
-The maternal voice reaches the fetus through both:
-
-- external air conduction
-- vibrations transmitted through the mother's body
-:::
-
-::: {.info-box}
-This makes the mother's voice one of the most frequent and biologically relevant complex sounds in the prenatal environment.
-:::
-
-After birth, newborns can distinguish the maternal voice from unfamiliar female voices.
-
-<small>[DeCasper & Fifer, 1980](https://pubmed.ncbi.nlm.nih.gov/7375928/){target="_blank"}</small>
-
-## Recognition of the maternal voice begins prenatally
-
-::: {.experiment-card}
-
-::: {.exp-header}
-Voice recognition around birth
-:::
-
-::: {.columns}
-
-::: {.column width="33%"}
-
-::: {.exp-section}
-::: {.exp-section-title}
-Prenatal exposure
-:::
-
-The fetus repeatedly hears the mother's voice during gestation.
-:::
-:::
-
-::: {.column width="33%"}
-
-::: {.exp-section}
-::: {.exp-section-title}
-Newborn test
-:::
-
-Newborn behavior is used to compare responses to the mother's voice and an unfamiliar female voice.
-:::
-:::
-
-::: {.column width="34%"}
-
-::: {.exp-section}
-::: {.exp-section-title}
-Result
-:::
-
-Newborns preferentially respond to or work to hear the `maternal voice`.
-:::
-:::
-
-:::
-:::
-
-::: {.info-box}
-Because the preference is present immediately after birth, it provides evidence that <u>voice learning begins prenatally</u>.
-:::
-
-## Prenatal experience shapes language perception
-
-The fetus does not understand language, but it can learn some of its `acoustic structure`.
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.card}
-Prenatal speech preserves information about:
-
-- rhythm
-- intonation
-- stress
-- broad spectral characteristics
-:::
-
-:::
-
-::: {.column width="50%"}
-
-::: {.card}
-Newborns show sensitivity to properties of the language or languages heard during pregnancy.
-:::
-
-:::
-:::
-
-::: {.info-box}
-The first steps of language learning begin with <u>auditory statistical and prosodic learning</u>, before words acquire meaning.
-:::
-
-<small>[Moon et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23173548/){target="_blank"} | [Byers-Heinlein et al., 2010](https://pubmed.ncbi.nlm.nih.gov/20424066/){target="_blank"}</small>
-
-## The fetus can learn repeated speech patterns
-
-::: {.experiment-card}
-
-::: {.exp-header}
-Learning a repeatedly presented rhyme
-:::
-
-::: {.columns}
-
-::: {.column width="33%"}
-
-::: {.exp-section}
-::: {.exp-section-title}
-Exposure
-:::
-
-Mothers repeatedly recited a particular passage during late pregnancy.
-:::
-:::
-
-::: {.column width="33%"}
-
-::: {.exp-section}
-::: {.exp-section-title}
-Test
-:::
-
-Later, fetal heart rate was measured while the familiar passage was presented in a different female voice.
-:::
-:::
-
-::: {.column width="34%"}
-
-::: {.exp-section}
-::: {.exp-section-title}
-Result
-:::
-
-Fetuses showed a different response to the familiar passage, and memory could persist after exposure had stopped.
-:::
-:::
-
-:::
-:::
-
-<small>[Krueger & Garvan, 2014](https://pubmed.ncbi.nlm.nih.gov/24548971/){target="_blank"}</small>
 
 ## Taste and smell begin before birth
 
@@ -506,6 +367,124 @@ Birth changes the environment dramatically, but familiar prenatal sensory signal
 :::
 
 This is one example of how prenatal learning can influence behavior immediately after birth.
+
+## The womb is an acoustic environment
+
+::: {.card}
+The fetus is continuously exposed to sound generated both inside and outside the maternal body.
+
+Important sources include:
+
+- maternal <u>heartbeat</u> and respiration
+- movement and digestive sounds
+- the mother's <u>voice</u>
+- external speech and <u>environmental</u> sounds
+:::
+
+::: {.info-box}
+Maternal tissues and amniotic fluid <u>modify external sounds</u>, especially attenuating higher frequencies, but <u>temporal</u> and <u>prosodic</u> information can still reach the fetus.
+:::
+
+## Auditory responses emerge before birth
+
+::: {.columns}
+
+::: {.column width="48%"}
+
+::: {.card}
+During the second half of gestation, acoustic stimulation can produce measurable changes in:
+
+- fetal heart rate
+- body movement
+- brain responses
+:::
+
+::: {.card}
+Responses become faster and more reliable with maturation.
+:::
+
+::: {.info-box}
+The auditory system is already processing environmental information <u>before birth</u>.
+:::
+
+:::
+::: {.column width="52%"}
+
+![](images/8_prenatal/figure/8_prec_auditory_amp.png){width="50%"}
+![](images/8_prenatal/figure/8_prec_auditory_lat.jpg){width="60%"}
+
+:::
+:::
+
+
+<small>[Draganova et al., 2018](https://www.sciencedirect.com/science/article/pii/S0378595517303064){target="_blank"}</small>
+
+## The mother's voice is a special prenatal stimulus
+
+::: {.card}
+The maternal voice reaches the fetus through both:
+
+- external air conduction
+- vibrations transmitted through the mother's body
+:::
+
+::: {.info-box}
+This makes the mother's voice one of the most frequent and biologically relevant complex sounds in the prenatal environment.
+:::
+
+> After birth, newborns can distinguish the maternal voice from unfamiliar female voices.
+
+<small>[DeCasper & Fifer, 1980](https://pubmed.ncbi.nlm.nih.gov/7375928/){target="_blank"}</small>
+
+## Recognition of the maternal voice begins prenatally
+
+::: {.experiment-card}
+
+::: {.exp-header}
+Voice recognition around birth
+:::
+
+::: {.columns}
+
+::: {.column width="33%"}
+
+::: {.exp-section}
+::: {.exp-section-title}
+Prenatal exposure
+:::
+
+The fetus repeatedly hears the mother's voice during gestation. The baby behavior is monitored using non-nutritive sucking.
+:::
+:::
+
+::: {.column width="33%"}
+
+::: {.exp-section}
+::: {.exp-section-title}
+Newborn test
+:::
+
+Newborn behavior is used to compare responses to the mother's voice and an unfamiliar female voice.
+:::
+:::
+
+::: {.column width="34%"}
+
+::: {.exp-section}
+::: {.exp-section-title}
+Result
+:::
+
+Newborns preferentially respond to or work to hear the `maternal voice`.
+:::
+:::
+
+:::
+:::
+
+::: {.info-box}
+Because the preference is present immediately after birth, it provides evidence that <u>voice learning begins prenatally</u>.
+:::
 
 ## Vision develops in a very different environment
 
@@ -804,39 +783,6 @@ These regularities can make biologically important stimuli familiar before birth
 
 ::: {.info-box}
 Learning before birth can <u>prepare behavior for the environment encountered immediately after birth</u>.
-:::
-
-## Sensory development is continuous across birth
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.card}
-`Before birth`
-
-The fetus experiences a restricted but structured sensory environment.
-
-Sensory systems become functional at different times and begin modifying neural activity.
-:::
-
-:::
-
-::: {.column width="50%"}
-
-::: {.card}
-`After birth`
-
-The quantity and diversity of sensory input increase dramatically.
-
-The same developing systems continue to learn and reorganize.
-:::
-
-:::
-:::
-
-::: {.info-box}
-Birth changes the environment, but <u>development itself is continuous</u>.
 :::
 
 ## What can we conclude about fetal cognition?
