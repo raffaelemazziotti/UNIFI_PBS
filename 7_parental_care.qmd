@@ -1001,6 +1001,43 @@ Social environment, enrichment, stress, and new relationships can interact with 
 Early experience can <u>bias developmental trajectories</u> without rigidly determining a single adult outcome.
 :::
 
+## Neurocinema
+
+::: {.columns}
+
+::: {.column width="35%"}
+
+:::{.centerimg}
+![](images/7_parental_care/figure/7_pc_threeidenticalstrangers.jpg){
+  width="75%"
+  title="Three Identical Strangers (2018), directed by Tim Wardle."
+}
+:::
+
+:::
+
+::: {.column width="65%"}
+
+::: {.card}
+`Three Identical Strangers` (2018)
+
+Director: `Tim Wardle`
+
+The documentary tells the story of three identical triplets who were separated at birth, adopted by different families, and unexpectedly reunited as young adults.
+:::
+
+::: {.info-box}
+Why is it relevant?
+
+The film provides a striking example of the classic `nature versus nurture` problem.
+
+Because the brothers share the same genome but grew up in different families, their similarities and differences raise questions about how <u>genes, parental care, and early environment interact during development</u>.
+:::
+
+
+:::
+:::
+
 ## Self-check
 
 ```{=html}

@@ -836,6 +836,44 @@ Intrinsic patterning establishes early regional <u>biases</u>. Thalamic inputs a
 :::
 :::
 
+## Neurocinema
+
+::: {.columns}
+
+::: {.column width="35%"}
+
+:::{.centerimg}
+![](images/1_ns_development/figures/1_i_origins.jpg){
+  width="75%"
+  title="I Origins (2014), written and directed by Mike Cahill."
+}
+:::
+
+:::
+
+::: {.column width="65%"}
+
+::: {.card}
+`I Origins` (2014)
+
+Director: `Mike Cahill`
+
+A molecular biologist studying the `evolution of the eye` becomes involved in a discovery that challenges his strongly materialistic view of the world.
+:::
+
+::: {.info-box}
+Why is it relevant?
+
+The movie connects `development and evolution of the visual system` with broader questions about <u>identity, consciousness, and the limits of scientific explanation</u>.
+
+It is also an interesting example of how neuroscience and biology can be used in fiction to explore the tension between `empirical evidence` and `belief`.
+:::
+
+[Movie information](https://en.wikipedia.org/wiki/I_Origins){target="_blank"}
+
+:::
+:::
+
 ## Self-check
 
 ```{=html}

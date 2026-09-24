@@ -80,38 +80,6 @@ Prenatal neural responses can also be studied using methods such as:
 Fetal perception is inferred from <u>changes in behavior, physiology, or brain activity</u> produced by controlled stimulation.
 :::
 
-## Sensory systems do not mature at the same time
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.card}
-`Earlier functional development`
-
-- <u>touch</u> and somatosensation
-- <u>vestibular</u> and proprioceptive signals
-- <u>chemosensory</u> experience
-:::
-
-:::
-
-::: {.column width="50%"}
-
-::: {.card}
-`Later functional development`
-
-- <u>hearing</u> becomes increasingly effective during gestation
-- <u>vision</u> becomes responsive much later and receives no patterned stimulation in utero
-:::
-
-:::
-:::
-
-::: {.info-box}
-The prenatal sensory environment is <u>not silent or empty</u>: the fetus receives continuous tactile, vestibular, chemical, and acoustic information.
-:::
-
 ## Sensory development is continuous across birth
 
 ::: {.columns}
@@ -143,6 +111,38 @@ The same developing systems continue to learn and reorganize.
 
 ::: {.info-box}
 Birth changes the environment, but <u>development itself is continuous</u>.
+:::
+
+## Sensory systems do not mature at the same time
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.card}
+`Earlier functional development`
+
+- <u>touch</u> and somatosensation
+- <u>vestibular</u> and proprioceptive signals
+- <u>chemosensory</u> experience
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.card}
+`Later functional development`
+
+- <u>hearing</u> becomes increasingly effective during gestation
+- <u>vision</u> becomes responsive much later and receives no patterned stimulation in utero
+:::
+
+:::
+:::
+
+::: {.info-box}
+The prenatal sensory environment is <u>not silent or empty</u>: the fetus receives continuous tactile, vestibular, chemical, and acoustic information.
 :::
 
 ## Touch develops early
@@ -275,12 +275,12 @@ Chemosensory systems can therefore sample information that changes with the moth
 For the fetus, `taste` and `smell` are closely linked components of a broader <u>chemosensory experience</u>.
 :::
 
-## Prenatal flavor exposure can influence later preference
+## Fetuses discriminate flavors before birth
 
 ::: {.experiment-card}
 
 ::: {.exp-header}
-Flavor learning before birth
+Direct evidence of fetal responses to flavors
 :::
 
 ::: {.columns}
@@ -292,7 +292,13 @@ Flavor learning before birth
 Exposure
 :::
 
-During the last trimester, some mothers repeatedly consumed `carrot juice`.
+At `32–36 weeks` of gestation, mothers consumed a capsule containing:
+
+- `carrot` flavor
+- `kale` flavor
+- or no flavor (`control`)
+
+About 20 minutes later, fetal facial movements were recorded with `4D ultrasound`.
 :::
 :::
 
@@ -300,10 +306,12 @@ During the last trimester, some mothers repeatedly consumed `carrot juice`.
 
 ::: {.exp-section}
 ::: {.exp-section-title}
-Later test
+Measurement
 :::
 
-After birth, infants were offered cereal containing carrot flavor or plain cereal.
+Researchers quantified specific facial movements and combinations of movements.
+
+They compared `35 carrot-exposed`, `34 kale-exposed`, and `30 control` fetuses.
 :::
 :::
 
@@ -314,18 +322,44 @@ After birth, infants were offered cereal containing carrot flavor or plain cerea
 Result
 :::
 
-Infants exposed prenatally showed more positive responses to the familiar flavor.
+`Carrot` exposure increased movements contributing to a “laughter-face” pattern.
+
+`Kale` exposure increased movements contributing to a “cry-face” pattern.
+
+The two flavors therefore produced <u>different fetal facial responses</u>.
 :::
 :::
+
+:::
+:::
+<small>[Ustun et al., 2022 — Psychological Science](https://journals.sagepub.com/doi/10.1177/09567976221105460){target="_blank"}</small>
+
+## Fetuses discriminate flavors before birth
+
+:::{.columns}
+:::{.column}
+
+![](images/8_prenatal/figure/8_prec_flavor_face_data.jpg){width="100%"
+title="Fetal facial responses to different flavors at 32 and 36 weeks of gestation. After maternal exposure to kale flavor, fetuses showed a much higher relative frequency of facial movements classified as a `cry-face gestalt`, whereas carrot exposure produced a higher frequency of `laughter-face gestalt` movements. The control group showed lower and more balanced frequencies of both response patterns. The effect was observed at both 32 and 36 weeks, indicating that late-gestation fetuses can discriminate chemosensory information associated with different maternal flavors. These labels describe patterns of facial movements and should not be interpreted as direct evidence of conscious emotional states."
+}
+
+:::
+:::{.column}
+
+![](images/8_prenatal/figure/8_prec_flavor_face_laugh.jpg){width="60%"
+title="laughter-face gestalt"}
+![](images/8_prenatal/figure/8_prec_flavor_face_cry.jpg){width="60%"
+title="cry-face gestalt"
+}
 
 :::
 :::
 
 ::: {.info-box}
-Maternal diet can provide the fetus with <u>chemical information that is remembered after birth</u>.
-:::
+Human fetuses can <u>sense and discriminate flavors transferred from the maternal diet</u> before birth.
 
-<small>[Mennella et al., 2001](https://pubmed.ncbi.nlm.nih.gov/11389286/){target="_blank"}</small>
+The facial patterns indicate differential responses, but they should not be interpreted as evidence that the fetus consciously experiences “happiness” or “disgust”.
+:::
 
 ## Newborns recognize prenatal odors
 
@@ -700,39 +734,6 @@ Older fetuses generally:
 The development of learning and memory parallels the <u>maturation of the fetal nervous system</u>.
 :::
 
-## The fetus can retain information
-
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.card}
-Learning is demonstrated when experience changes a later response.
-
-`Memory` requires that some consequence of that experience persists after a delay.
-:::
-
-:::
-
-::: {.column width="50%"}
-
-::: {.card}
-Late-gestation fetuses can retain information about repeatedly experienced:
-
-- sounds
-- speech passages
-- vibroacoustic stimuli
-:::
-
-:::
-:::
-
-::: {.info-box}
-Prenatal memory can persist for <u>days or weeks</u>, depending on developmental age and the learning paradigm.
-:::
-
-<small>[Dirix et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19630906/){target="_blank"}</small>
-
 ## The newborn can reveal prenatal memory
 
 Some prenatal learning is easiest to detect <u>after birth</u>.
@@ -805,38 +806,10 @@ These results should not be interpreted as evidence for adult-like thought, lang
 Fetal cognition is best understood as the emergence of <u>basic learning, memory, discrimination, and sensorimotor organization</u>.
 :::
 
-## From fetal experience to later development
+## Self-check
 
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.card}
-Prenatal sensory experience provides the nervous system with its first structured input.
-
-It can shape:
-
-- sensory preferences
-- recognition
-- early learning
-- behavioral orientation after birth
-:::
-
-:::
-
-::: {.column width="50%"}
-
-::: {.card}
-At the same time, most sensory and cognitive abilities remain highly immature.
-
-Development continues through infancy and childhood as neural circuits encounter increasingly complex experience.
-:::
-
-:::
-:::
-
-::: {.info-box}
-`prenatal circuit maturation` + `prenatal experience` → `newborn sensory preferences and learning` → `continued postnatal development`
-
-<u>The mind does not begin at birth: birth reveals a nervous system that has already been developing and learning.</u>
-:::
+```{=html}
+<div class="quiz-wrap">
+  <iframe class="quiz-frame" src="quiz/quiz_prec.html" loading="lazy"></iframe>
+</div>
+```

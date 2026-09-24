@@ -1,0 +1,445 @@
+{
+  "topic": "Prenatal Sensory and Cognitive Development",
+  "questions": [
+    {
+      "question": "Which statement best describes sensory and cognitive development around birth?",
+      "options": [
+        "Birth changes the environment, but development has already begun before birth and continues afterward",
+        "Birth marks the point when sensory development begins for the first time",
+        "Prenatal life supports motor growth, while learning begins only after delivery",
+        "Sensory systems are fully mature before birth and change little afterward"
+      ],
+      "correct": 0,
+      "feedback": "Birth is a major transition, but sensory and cognitive development begins prenatally and continues after birth."
+    },
+    {
+      "question": "How can researchers infer fetal perception?",
+      "options": [
+        "By asking the mother to describe what she thinks the fetus perceived during stimulation",
+        "By measuring stimulus-related changes in behavior, physiology, or brain activity",
+        "By measuring only maternal behavior during stimulation",
+        "By assuming that any fetal movement reflects conscious perception"
+      ],
+      "correct": 1,
+      "feedback": "Fetal perception is inferred from controlled changes in fetal behavior, physiology, or neural activity."
+    },
+    {
+      "question": "Which method can directly measure prenatal brain responses?",
+      "options": [
+        "Postnatal EEG recorded several days after birth",
+        "Maternal heart-rate recording alone",
+        "Fetal MEG or fetal fMRI",
+        "Observation of maternal facial expressions"
+      ],
+      "correct": 2,
+      "feedback": "Fetal MEG, fetal fMRI, and sensory-evoked responses can be used to study prenatal brain activity."
+    },
+    {
+      "question": "Which sensory system becomes functional particularly early in prenatal development?",
+      "options": [
+        "Patterned color vision through the uterine wall",
+        "Speech comprehension",
+        "Stereoscopic depth perception",
+        "Somatosensation and touch"
+      ],
+      "correct": 3,
+      "feedback": "Somatosensation is presented as one of the earliest sensory systems to become functional."
+    },
+    {
+      "question": "What happens to fetal tactile responses as development proceeds?",
+      "options": [
+        "Responses spread from restricted body regions as somatosensory systems mature",
+        "Responses become restricted to the hands as other body regions gradually lose sensitivity",
+        "Responses remain unchanged from early gestation until birth",
+        "Responses are replaced completely by auditory reactions"
+      ],
+      "correct": 0,
+      "feedback": "Tactile responsiveness begins in restricted regions and spreads as peripheral and central somatosensory systems mature."
+    },
+    {
+      "question": "Which behavior is already common by the second trimester?",
+      "options": [
+        "Reading visual patterns through the uterine wall",
+        "Self-touch and hand-to-face movements",
+        "Producing meaningful spoken syllables",
+        "Using stereoscopic vision to guide reaching"
+      ],
+      "correct": 1,
+      "feedback": "By the second trimester, fetuses show self-touch, contact with the uterine wall, hand-to-face movements, and responses to mechanical stimulation."
+    },
+    {
+      "question": "What do studies of fetal hand-to-mouth movements suggest after about 32 weeks?",
+      "options": [
+        "Hand movements become progressively less organized as the fetus approaches the end of gestation",
+        "The fetus stops moving the mouth during self-touch",
+        "Some movements become anticipatory, with mouth movements beginning before hand contact",
+        "Anticipatory behavior appears only after birth"
+      ],
+      "correct": 2,
+      "feedback": "Increasingly anticipatory sensorimotor organization can be observed from around 32 weeks."
+    },
+    {
+      "question": "How was fetal response to maternal abdominal touch studied?",
+      "options": [
+        "With postnatal observation of infant reaching only",
+        "By asking mothers to report whether they felt more fetal movement while the abdomen was touched",
+        "With visual stimulation delivered directly to the fetal retina",
+        "With maternal abdominal stimulation while fetal movements were monitored using 4D ultrasound"
+      ],
+      "correct": 3,
+      "feedback": "Maternal abdominal touch was paired with 4D ultrasound measurement of fetal movements."
+    },
+    {
+      "question": "Why are taste and smell closely linked in prenatal life?",
+      "options": [
+        "The fetus swallows amniotic fluid containing changing chemical compounds",
+        "Outside air enters the fetal nasal cavity and directly stimulates smell receptors",
+        "Chemical signals reach the fetus only through maternal blood and bypass amniotic fluid",
+        "Taste buds remain inactive until birth"
+      ],
+      "correct": 0,
+      "feedback": "Amniotic fluid carries chemical compounds from maternal diet, metabolism, and the fetal environment."
+    },
+    {
+      "question": "What can maternal diet change in the fetal environment?",
+      "options": [
+        "The number of fetal chromosomes",
+        "The chemical composition of amniotic fluid",
+        "The position of the fetal visual cortex",
+        "The basic sequence of fetal DNA"
+      ],
+      "correct": 1,
+      "feedback": "Chemical compounds related to maternal diet can enter amniotic fluid and contribute to fetal chemosensory experience."
+    },
+    {
+      "question": "In the fetal flavor-discrimination experiment, when were fetuses tested?",
+      "options": [
+        "Only during the first trimester before sensory systems become functional",
+        "Only after birth when infants could directly taste the same flavors",
+        "At 32 to 36 weeks of gestation",
+        "At exactly 20 weeks of gestation"
+      ],
+      "correct": 2,
+      "feedback": "The study tested fetuses at 32-36 weeks of gestation."
+    },
+    {
+      "question": "How were flavors presented in the fetal flavor-discrimination study?",
+      "options": [
+        "Researchers injected carrot and kale extracts directly into amniotic fluid while imaging fetal movement",
+        "Infants received flavored cereal after birth and were later compared with an untreated control group",
+        "Flavored objects were placed beside the abdomen",
+        "Mothers consumed carrot, kale, or control capsules before 4D ultrasound recording"
+      ],
+      "correct": 3,
+      "feedback": "Mothers consumed carrot, kale, or control capsules, and fetal facial movements were recorded about 20 minutes later."
+    },
+    {
+      "question": "What facial pattern increased after prenatal carrot exposure?",
+      "options": [
+        "Movements contributing to a laughter-face gestalt",
+        "Movements contributing mainly to a cry-face gestalt",
+        "A complete absence of measurable facial movement",
+        "Only eye closure without other facial changes"
+      ],
+      "correct": 0,
+      "feedback": "Carrot exposure increased movements contributing to the laughter-face pattern."
+    },
+    {
+      "question": "What facial pattern increased after prenatal kale exposure?",
+      "options": [
+        "Movements contributing mainly to a laughter-face gestalt",
+        "Movements contributing to a cry-face gestalt",
+        "Only swallowing movements without facial changes",
+        "A complete suppression of fetal movement"
+      ],
+      "correct": 1,
+      "feedback": "Kale exposure increased movements contributing to the cry-face pattern."
+    },
+    {
+      "question": "What is the strongest conclusion from the carrot-versus-kale fetal study?",
+      "options": [
+        "Carrot flavor causes a conscious positive emotional state that can be measured before birth",
+        "Kale exposure permanently determines later food preferences and emotional reactions after birth",
+        "Late-gestation fetuses can discriminate chemosensory information associated with different flavors",
+        "Flavor discrimination begins only after birth"
+      ],
+      "correct": 2,
+      "feedback": "The study supports fetal discrimination of chemosensory information, not adult-like emotional interpretations of facial patterns."
+    },
+    {
+      "question": "Why should the labels 'laughter-face' and 'cry-face' be interpreted cautiously?",
+      "options": [
+        "The labels refer to maternal facial expressions recorded while mothers consumed carrot or kale capsules",
+        "The labels summarize changes in fetal heart rate rather than combinations of facial movements",
+        "They prove that the fetus experiences no emotion",
+        "They describe facial movement patterns rather than proven conscious emotional states"
+      ],
+      "correct": 3,
+      "feedback": "The labels describe configurations of facial movements and do not demonstrate conscious happiness or disgust."
+    },
+    {
+      "question": "What do newborn responses to amniotic-fluid odor suggest?",
+      "options": [
+        "Prenatal chemosensory information can be encoded and recognized after birth",
+        "Newborn odor preference is created only after the first breastfeeding experience following delivery",
+        "The fetus is unable to detect chemical information in amniotic fluid before birth",
+        "Amniotic-fluid odors are identical across pregnancies"
+      ],
+      "correct": 0,
+      "feedback": "Preference for the odor of one's own amniotic fluid supports prenatal detection, encoding, and later recognition."
+    },
+    {
+      "question": "How can prenatal chemosensory learning create continuity across birth?",
+      "options": [
+        "The entire sensory environment remains essentially unchanged across birth, so no transition is required",
+        "Some familiar odor and flavor compounds persist in breast-related postnatal environments",
+        "Vision replaces chemosensation immediately after delivery and becomes the main familiar cue",
+        "All prenatal chemical signals disappear at birth"
+      ],
+      "correct": 1,
+      "feedback": "Some compounds encountered in amniotic fluid can also be present around the breast and in breast milk."
+    },
+    {
+      "question": "Which sounds contribute to the fetal acoustic environment?",
+      "options": [
+        "Only sounds generated by the fetal nervous system and fetal movements inside the uterus",
+        "Only external high-frequency sounds that pass through maternal tissues without being attenuated",
+        "Maternal bodily sounds, the mother's voice, and external environmental sounds",
+        "Only the maternal heartbeat is audible"
+      ],
+      "correct": 2,
+      "feedback": "The womb contains maternal heartbeat and respiration, movement and digestive sounds, maternal voice, and external sounds."
+    },
+    {
+      "question": "How do maternal tissues and amniotic fluid modify external sounds?",
+      "options": [
+        "They amplify high frequencies while selectively removing slow temporal changes in the acoustic signal",
+        "They block all external speech but preserve every internal maternal sound without alteration",
+        "They preserve pitch but eliminate timing",
+        "They attenuate higher frequencies while preserving useful temporal and prosodic information"
+      ],
+      "correct": 3,
+      "feedback": "Prenatal transmission attenuates higher frequencies, but temporal and prosodic information can still reach the fetus."
+    },
+    {
+      "question": "What can acoustic stimulation change during the second half of gestation?",
+      "options": [
+        "Fetal heart rate, body movement, and brain responses",
+        "Only maternal blood pressure and respiration change during fetal acoustic stimulation",
+        "Only fetal skin pigmentation changes as gestation progresses during repeated sound exposure",
+        "Only the position of the placenta changes in response to repeated external sounds"
+      ],
+      "correct": 0,
+      "feedback": "Acoustic stimulation can evoke measurable changes in fetal heart rate, movement, and neural responses."
+    },
+    {
+      "question": "How do fetal auditory responses change with maturation?",
+      "options": [
+        "Auditory responses become progressively slower and less reliable as the fetus matures",
+        "They become faster and more reliable",
+        "They disappear during the third trimester despite continued exposure to environmental sounds",
+        "They become independent of acoustic stimulation once the auditory system begins functioning"
+      ],
+      "correct": 1,
+      "feedback": "Auditory responses become faster and more reliable as gestation progresses."
+    },
+    {
+      "question": "Why is the maternal voice a particularly important prenatal stimulus?",
+      "options": [
+        "It is the only sound capable of entering the uterus",
+        "It bypasses the fetal auditory system and directly activates cortex",
+        "It reaches the fetus through air conduction and vibrations through the mother's body",
+        "It reaches the fetus only during maternal sleep"
+      ],
+      "correct": 2,
+      "feedback": "The maternal voice reaches the fetus through both external sound transmission and body-conducted vibrations."
+    },
+    {
+      "question": "What does newborn preference for the maternal voice indicate?",
+      "options": [
+        "Voice recognition develops only after several months of postnatal exposure to speech",
+        "Newborns respond equally to the maternal voice and every unfamiliar female voice",
+        "The fetal auditory system remains inactive until the moment of birth",
+        "Experience with the mother's voice begins before birth"
+      ],
+      "correct": 3,
+      "feedback": "A preference present immediately after birth supports prenatal learning of the maternal voice."
+    },
+    {
+      "question": "Which behavioral method can assess newborn preference for the maternal voice?",
+      "options": [
+        "Using newborn behavior including non-nutritive sucking",
+        "Using maternal questionnaires about which voice the newborn seemed to prefer",
+        "Using visual tracking of photographs of the mother and unfamiliar women",
+        "Using changes in fetal eye movements measured during postnatal auditory testing"
+      ],
+      "correct": 0,
+      "feedback": "Newborn behavior, including non-nutritive sucking, can be used to compare responses to maternal and unfamiliar voices."
+    },
+    {
+      "question": "How does prenatal vision differ from prenatal hearing and touch?",
+      "options": [
+        "It is the first sensory system to become fully mature",
+        "It receives much less structured natural stimulation in utero",
+        "It receives richer patterned stimulation than hearing",
+        "It develops only several years after birth"
+      ],
+      "correct": 1,
+      "feedback": "Natural intrauterine visual input is weak and poorly structured compared with other prenatal sensory inputs."
+    },
+    {
+      "question": "Can light reach the fetus before birth?",
+      "options": [
+        "No, maternal tissues block every photon throughout pregnancy",
+        "Only after the eyes have been exposed to air",
+        "Yes, sufficiently intense external light can reach the fetus late in gestation",
+        "Only during the first trimester"
+      ],
+      "correct": 2,
+      "feedback": "Sufficiently intense light can reach the fetus, especially late in gestation."
+    },
+    {
+      "question": "Which measures can reveal fetal responses to external light stimulation?",
+      "options": [
+        "Only changes in maternal pupil diameter while the light is presented through the abdomen",
+        "Only maternal verbal reports about whether the fetus seemed to react to the light",
+        "Only later language development measured months after the prenatal light stimulation",
+        "Heart rate, head or eye movements, and brain activity"
+      ],
+      "correct": 3,
+      "feedback": "Fetal visual-response studies can measure heart rate, head or eye movements, and neural activity."
+    },
+    {
+      "question": "What should not be concluded from fetal responses to intense light?",
+      "options": [
+        "That prenatal vision is equivalent to normal mature postnatal vision",
+        "That the fetal visual system is already capable of responding to sufficiently intense light before birth",
+        "That late-gestation fetuses can change head or eye movements after external light stimulation",
+        "That sensory responsiveness can emerge before a system provides mature perception of the environment"
+      ],
+      "correct": 0,
+      "feedback": "Responsiveness to light does not imply mature vision; natural prenatal visual input remains weak and poorly structured."
+    },
+    {
+      "question": "What provides the clearest evidence for simple fetal cognition?",
+      "options": [
+        "Adult-like reasoning can be demonstrated when the fetus changes movement after repeated sensory stimulation",
+        "Learning and memory demonstrated through changes in response to experience",
+        "Understanding the semantic meaning of spoken language provides the strongest evidence of prenatal cognition",
+        "Solving symbolic problems before birth is the clearest demonstration of fetal memory and learning"
+      ],
+      "correct": 1,
+      "feedback": "Simple learning and memory provide strong evidence for fetal cognitive processing."
+    },
+    {
+      "question": "What is habituation?",
+      "options": [
+        "A stronger response to every repetition of a familiar stimulus",
+        "A permanent loss of the ability to detect sensory input",
+        "A progressive decrease in response when the same stimulus is repeated",
+        "A response that occurs only when a completely new stimulus appears"
+      ],
+      "correct": 2,
+      "feedback": "Habituation is a decline in response across repeated presentations of the same stimulus."
+    },
+    {
+      "question": "Why is fetal habituation considered evidence of learning?",
+      "options": [
+        "The fetus produces exactly the same response on every trial",
+        "The stimulus becomes physically weaker on each presentation",
+        "The mother learns to predict the experimenter's timing",
+        "The response changes as a consequence of previous stimulation"
+      ],
+      "correct": 3,
+      "feedback": "Habituation indicates that prior stimulation changes the nervous system's subsequent response."
+    },
+    {
+      "question": "What happens during repeated vibroacoustic stimulation in fetal habituation studies?",
+      "options": [
+        "The fetal motor response progressively decreases across repeated presentations",
+        "The fetal motor response increases progressively because each repeated stimulus becomes more salient",
+        "The fetus stops responding before the first stimulus is presented and remains inactive afterward",
+        "Only maternal movement changes across trials while fetal behavior remains constant throughout stimulation"
+      ],
+      "correct": 0,
+      "feedback": "A progressive reduction in fetal motor response is consistent with habituation."
+    },
+    {
+      "question": "How does fetal habituation change with gestational age?",
+      "options": [
+        "Older fetuses lose the ability to habituate",
+        "Older fetuses generally habituate more efficiently and retain information longer",
+        "Habituation is equally efficient at every gestational age",
+        "Only younger fetuses can retain information across time"
+      ],
+      "correct": 1,
+      "feedback": "Older fetuses show more consistent responses, more efficient habituation, and longer retention."
+    },
+    {
+      "question": "What does recognition or retention test in prenatal cognition?",
+      "options": [
+        "Whether the fetus can produce spoken words after hearing the same sound repeatedly",
+        "Whether visual acuity reaches an adult-like level before the end of gestation",
+        "Whether previous exposure changes a response after some delay",
+        "Whether maternal hormone concentrations remain constant during repeated sensory stimulation across time"
+      ],
+      "correct": 2,
+      "feedback": "Recognition and retention ask whether earlier exposure influences a later response."
+    },
+    {
+      "question": "Why can newborn behavior provide evidence for prenatal memory?",
+      "options": [
+        "Newborn behavior is completely independent of prenatal experience",
+        "All newborn preferences are genetically fixed and cannot reflect learning",
+        "Prenatal memories can be measured only through maternal reports",
+        "Some preferences appear immediately after birth, before extensive postnatal experience"
+      ],
+      "correct": 3,
+      "feedback": "Immediate newborn preferences can reveal information learned prenatally because little postnatal experience has occurred."
+    },
+    {
+      "question": "Which newborn preference can reflect prenatal sensory experience?",
+      "options": [
+        "Preference for the maternal voice",
+        "Preference for written words",
+        "Preference for complex geometric proofs",
+        "Preference for adult stereoscopic scenes"
+      ],
+      "correct": 0,
+      "feedback": "Maternal voice, language rhythm, previously heard speech, odors, and flavors can all reflect prenatal familiarity."
+    },
+    {
+      "question": "What is one function of prenatal learning?",
+      "options": [
+        "It produces fully mature adult cognition before delivery",
+        "It can make biologically important stimuli familiar before birth",
+        "It eliminates the need for postnatal learning",
+        "It makes every sensory system equally mature at birth"
+      ],
+      "correct": 1,
+      "feedback": "Prenatal learning can familiarize the fetus with biologically relevant regularities such as maternal voice, odors, and flavors."
+    },
+    {
+      "question": "Which statement best describes the relation between prenatal learning and adult cognition?",
+      "options": [
+        "Prenatal learning demonstrates mature language comprehension",
+        "Prenatal learning proves adult-like conscious reasoning",
+        "Prenatal learning reflects basic discrimination, learning, and memory rather than adult-like thought",
+        "Prenatal learning means cognitive development is complete before birth"
+      ],
+      "correct": 2,
+      "feedback": "Basic fetal learning and memory should be distinguished from adult-like thought, language, or conscious understanding."
+    },
+    {
+      "question": "What is the overall conclusion about fetal sensory and cognitive function?",
+      "options": [
+        "The fetus is sensory inactive until delivery",
+        "Only motor development occurs before birth",
+        "All mature cognitive abilities are already present prenatally",
+        "The fetus can detect, discriminate, learn, and retain some information before birth"
+      ],
+      "correct": 3,
+      "feedback": "Human fetuses can detect sensory information, discriminate some properties, habituate, learn recurring patterns, and retain information."
+    }
+  ]
+}

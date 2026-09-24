@@ -1237,7 +1237,43 @@ This provides stronger evidence for a <u>causal contribution</u>.
 A complete understanding often requires combining <u>measurement</u> with <u>experimental manipulation</u>.
 :::
 
+## Neurocinema
 
+::: {.columns}
+
+::: {.column width="35%"}
+
+:::{.centerimg}
+![](images/4_methods/figures/4_mp_essm.jpg){
+  width="75%"
+  title="Eternal Sunshine of the Spotless Mind (2004), directed by Michel Gondry."
+}
+:::
+
+:::
+
+::: {.column width="65%"}
+
+::: {.card}
+`Eternal Sunshine of the Spotless Mind` (2004)
+
+Director: `Michel Gondry`
+
+The movie imagines a technology capable of identifying and selectively erasing specific memories from the brain.
+:::
+
+::: {.info-box}
+Why is it relevant?
+
+The film raises a central question in neuroscience:
+
+<u>Can a mental representation such as a memory be localized, measured, and selectively manipulated?</u>
+
+It provides a useful contrast with real methods such as `fMRI`, `EEG/MEG`, and `TMS`, which can measure or perturb brain activity but cannot erase a specific autobiographical memory with such precision.
+:::
+
+:::
+:::
 
 ## Self-check
 

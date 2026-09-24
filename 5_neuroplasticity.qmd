@@ -1029,7 +1029,52 @@ Because motor practice has already potentiated the circuit, further potentiation
 :::
 
 ::: {.card}
-Animal models make it possible to <u>measure, manipulate and visualize</u> plasticity at cellular and synaptic resolution.
+Animal models make it possible to <u>measure, manipulate and visualize</u> plasticity at synaptic resolution.
+:::
+
+## Neurocinema
+
+::: {.columns}
+
+::: {.column width="35%"}
+
+:::{.centerimg}
+![](images/5_neuroplasticity/figures/5_plast_memento.jpg){
+  width="70%"
+  title="Memento (2000), directed by Christopher Nolan."
+}
+:::
+
+::: {.caution}
+Error spotted:
+
+Leonard describes his condition as a problem of `short-term memory`, but his short-term is largely preserved.
+:::
+
+
+:::
+::: {.column width="65%"}
+
+::: {.card}
+`Memento` (2000)
+
+Director: `Christopher Nolan`
+
+A man with severe `anterograde amnesia` is unable to form stable new long-term memories and relies on notes, photographs, and tattoos to reconstruct his recent past.
+
+:::
+
+::: {.info-box}
+Why is it relevant?
+
+The film raises a central question about memory and plasticity:
+
+<u>How can experience shape behavior if new memories cannot be consolidated?</u>
+
+It highlights the distinction between `short-term experience`, `long-term memory formation`, and the external strategies that can partially compensate when memory systems are impaired.
+:::
+
+:::
 :::
 
 ## Self-check

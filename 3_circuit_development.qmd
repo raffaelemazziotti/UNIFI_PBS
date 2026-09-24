@@ -1295,6 +1295,44 @@ Broad developmental tendencies include:
 The sequence broadly parallels the progressive maturation of <u>increasingly complex</u> neural functions.
 :::
 
+## Neurocinema
+
+::: {.columns}
+
+::: {.column width="35%"}
+
+:::{.centerimg}
+![](images/3_circuit_development/figures/3_cf_lorenzosoil.jpg){
+  width="75%"
+  title="Lorenzo's Oil (1992), directed by George Miller."
+}
+:::
+
+:::
+
+::: {.column width="65%"}
+
+::: {.card}
+`Lorenzo's Oil` (1992)
+
+Director: `George Miller`
+
+Based on the true story of Lorenzo Odone, a child diagnosed with `X-linked adrenoleukodystrophy (ALD)`, and his parents' search for a treatment.
+:::
+
+::: {.info-box}
+Why is it relevant?
+
+ALD disrupts the integrity of `white matter` and leads to progressive loss of `myelin`.
+
+The movie illustrates an important principle of neural-circuit development:
+
+<u>Building the correct connections is not enough, axons also require myelination and long-term biological maintenance to function efficiently.</u>
+:::
+
+:::
+:::
+
 ## Self-check
 
 ```{=html}

@@ -466,7 +466,7 @@
     "href": "5_neuroplasticity.html#studying-synaptic-plasticity-in-animal-models",
     "title": "Neuroplasticity",
     "section": "Studying synaptic plasticity in animal models",
-    "text": "Studying synaptic plasticity in animal models\n\n\n\nTwo-photon microscopy\n\n\n\n\n\n\nTwo-photon spines dynamics\n\n\n\n\n\n\n\nOptogenetics\n\n\n\n\n\n\nViral vectors\n\n\n\n\n\n\n\nAnimal models make it possible to measure, manipulate and visualize plasticity at cellular and synaptic resolution."
+    "text": "Studying synaptic plasticity in animal models\n\n\n\nTwo-photon microscopy\n\n\n\n\n\n\nTwo-photon spines dynamics\n\n\n\n\n\n\n\nOptogenetics\n\n\n\n\n\n\nViral vectors\n\n\n\n\n\n\n\nAnimal models make it possible to measure, manipulate and visualize plasticity at synaptic resolution."
   },
   {
     "objectID": "5_neuroplasticity.html#self-check",
@@ -1862,6 +1862,13 @@
     "text": "How can we study the fetus?\nThe fetus cannot provide verbal reports or perform conventional behavioral tasks.\n\n\n\nBehavioral measures\nResearchers can measure:\n\nbody and eye movements with ultrasound\nchanges in fetal heart rate\norienting or motor responses to stimulation\nhabituation to repeated stimuli\n\n\n\n\nBrain activity\nPrenatal neural responses can also be studied using methods such as:\n\nfetal MEG\nfetal fMRI\nsensory-evoked responses\n\n\n\n\nFetal perception is inferred from changes in behavior, physiology, or brain activity produced by controlled stimulation."
   },
   {
+    "objectID": "8_prenatal.html#sensory-development-is-continuous-across-birth",
+    "href": "8_prenatal.html#sensory-development-is-continuous-across-birth",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "Sensory development is continuous across birth",
+    "text": "Sensory development is continuous across birth\n\n\n\nBefore birth\nThe fetus experiences a restricted but structured sensory environment.\nSensory systems become functional at different times and begin modifying neural activity.\n\n\n\nAfter birth\nThe quantity and diversity of sensory input increase dramatically.\nThe same developing systems continue to learn and reorganize.\n\n\n\nBirth changes the environment, but development itself is continuous."
+  },
+  {
     "objectID": "8_prenatal.html#sensory-systems-do-not-mature-at-the-same-time",
     "href": "8_prenatal.html#sensory-systems-do-not-mature-at-the-same-time",
     "title": "Prenatal Sensory and Cognitive Development",
@@ -1890,6 +1897,41 @@
     "text": "The fetus can respond to touch through the maternal abdomen\n\n\nMaternal abdominal touch and fetal behavior\n\n\n\n\n\nManipulation\n\nThe mother’s abdomen is touched while fetal movements are monitored with 4D ultrasound.\n\n\n\n\nMeasurement\n\nResearchers quantify movements such as:\n\nself-touch\nreaching toward the uterine wall\nhead and arm movements\n\n\n\n\n\nResult\n\nFetal behavior changes during maternal touch, and the pattern of response depends on gestational age.\n\n\n\n\nMarx & Nagy, 2015 | Marx & Nagy, 2017"
   },
   {
+    "objectID": "8_prenatal.html#taste-and-smell-begin-before-birth",
+    "href": "8_prenatal.html#taste-and-smell-begin-before-birth",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "Taste and smell begin before birth",
+    "text": "Taste and smell begin before birth\n\nThe fetus repeatedly swallows amniotic fluid.\nThis fluid contains chemical compounds derived from:\n\nmaternal diet\nmaternal metabolism\nthe fetal environment\n\n\n\nChemosensory systems can therefore sample information that changes with the mother’s diet.\n\n\nFor the fetus, taste and smell are closely linked components of a broader chemosensory experience."
+  },
+  {
+    "objectID": "8_prenatal.html#fetuses-discriminate-flavors-before-birth",
+    "href": "8_prenatal.html#fetuses-discriminate-flavors-before-birth",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "Fetuses discriminate flavors before birth",
+    "text": "Fetuses discriminate flavors before birth\n\n\nDirect evidence of fetal responses to flavors\n\n\n\n\n\nExposure\n\nAt 32–36 weeks of gestation, mothers consumed a capsule containing:\n\ncarrot flavor\nkale flavor\nor no flavor (control)\n\nAbout 20 minutes later, fetal facial movements were recorded with 4D ultrasound.\n\n\n\n\nMeasurement\n\nResearchers quantified specific facial movements and combinations of movements.\nThey compared 35 carrot-exposed, 34 kale-exposed, and 30 control fetuses.\n\n\n\n\nResult\n\nCarrot exposure increased movements contributing to a “laughter-face” pattern.\nKale exposure increased movements contributing to a “cry-face” pattern.\nThe two flavors therefore produced different fetal facial responses.\n\n\n\nUstun et al., 2022 — Psychological Science"
+  },
+  {
+    "objectID": "8_prenatal.html#fetuses-discriminate-flavors-before-birth-1",
+    "href": "8_prenatal.html#fetuses-discriminate-flavors-before-birth-1",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "Fetuses discriminate flavors before birth",
+    "text": "Fetuses discriminate flavors before birth\n\n\n\n\n \n\n\nHuman fetuses can sense and discriminate flavors transferred from the maternal diet before birth.\nThe facial patterns indicate differential responses, but they should not be interpreted as evidence that the fetus consciously experiences “happiness” or “disgust”."
+  },
+  {
+    "objectID": "8_prenatal.html#newborns-recognize-prenatal-odors",
+    "href": "8_prenatal.html#newborns-recognize-prenatal-odors",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "Newborns recognize prenatal odors",
+    "text": "Newborns recognize prenatal odors\n\n\n\nNewborns preferentially orient toward the odor of their own amniotic fluid compared with unfamiliar amniotic-fluid odor.\n\n\n\nThis preference is present very soon after birth, before extensive postnatal learning can occur.\n\n\n\nThe result provides evidence that the fetus can detect, encode, and later recognize chemosensory information from the prenatal environment.\n\nSchaal et al., 1998"
+  },
+  {
+    "objectID": "8_prenatal.html#prenatal-chemosensory-learning-can-bridge-birth",
+    "href": "8_prenatal.html#prenatal-chemosensory-learning-can-bridge-birth",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "Prenatal chemosensory learning can bridge birth",
+    "text": "Prenatal chemosensory learning can bridge birth\n\nChemical continuity exists between prenatal and postnatal life.\nSome odor and flavor compounds present in amniotic fluid can also be present around the maternal breast and in breast milk.\n\n\nBirth changes the environment dramatically, but familiar prenatal sensory signals can help create continuity across the transition.\n\nThis is one example of how prenatal learning can influence behavior immediately after birth."
+  },
+  {
     "objectID": "8_prenatal.html#the-womb-is-an-acoustic-environment",
     "href": "8_prenatal.html#the-womb-is-an-acoustic-environment",
     "title": "Prenatal Sensory and Cognitive Development",
@@ -1916,48 +1958,6 @@
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Recognition of the maternal voice begins prenatally",
     "text": "Recognition of the maternal voice begins prenatally\n\n\nVoice recognition around birth\n\n\n\n\n\nPrenatal exposure\n\nThe fetus repeatedly hears the mother’s voice during gestation. The baby behavior is monitored using non-nutritive sucking.\n\n\n\n\nNewborn test\n\nNewborn behavior is used to compare responses to the mother’s voice and an unfamiliar female voice.\n\n\n\n\nResult\n\nNewborns preferentially respond to or work to hear the maternal voice.\n\n\n\n\nBecause the preference is present immediately after birth, it provides evidence that voice learning begins prenatally."
-  },
-  {
-    "objectID": "8_prenatal.html#prenatal-experience-shapes-language-perception",
-    "href": "8_prenatal.html#prenatal-experience-shapes-language-perception",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "Prenatal experience shapes language perception",
-    "text": "Prenatal experience shapes language perception\nThe fetus does not understand language, but it can learn some of its acoustic structure.\n\n\n\nPrenatal speech preserves information about:\n\nrhythm\nintonation\nstress\nbroad spectral characteristics\n\n\n\n\nNewborns show sensitivity to properties of the language or languages heard during pregnancy.\n\n\n\nThe first steps of language learning begin with auditory statistical and prosodic learning, before words acquire meaning.\n\nMoon et al., 2013 | Byers-Heinlein et al., 2010"
-  },
-  {
-    "objectID": "8_prenatal.html#the-fetus-can-learn-repeated-speech-patterns",
-    "href": "8_prenatal.html#the-fetus-can-learn-repeated-speech-patterns",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "The fetus can learn repeated speech patterns",
-    "text": "The fetus can learn repeated speech patterns\n\n\nLearning a repeatedly presented rhyme\n\n\n\n\n\nExposure\n\nMothers repeatedly recited a particular passage during late pregnancy.\n\n\n\n\nTest\n\nLater, fetal heart rate was measured while the familiar passage was presented in a different female voice.\n\n\n\n\nResult\n\nFetuses showed a different response to the familiar passage, and memory could persist after exposure had stopped.\n\n\n\nKrueger & Garvan, 2014"
-  },
-  {
-    "objectID": "8_prenatal.html#taste-and-smell-begin-before-birth",
-    "href": "8_prenatal.html#taste-and-smell-begin-before-birth",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "Taste and smell begin before birth",
-    "text": "Taste and smell begin before birth\n\nThe fetus repeatedly swallows amniotic fluid.\nThis fluid contains chemical compounds derived from:\n\nmaternal diet\nmaternal metabolism\nthe fetal environment\n\n\n\nChemosensory systems can therefore sample information that changes with the mother’s diet.\n\n\nFor the fetus, taste and smell are closely linked components of a broader chemosensory experience."
-  },
-  {
-    "objectID": "8_prenatal.html#prenatal-flavor-exposure-can-influence-later-preference",
-    "href": "8_prenatal.html#prenatal-flavor-exposure-can-influence-later-preference",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "Prenatal flavor exposure can influence later preference",
-    "text": "Prenatal flavor exposure can influence later preference\n\n\nFlavor learning before birth\n\n\n\n\n\nExposure\n\nDuring the last trimester, some mothers repeatedly consumed carrot juice.\n\n\n\n\nLater test\n\nAfter birth, infants were offered cereal containing carrot flavor or plain cereal.\n\n\n\n\nResult\n\nInfants exposed prenatally showed more positive responses to the familiar flavor.\n\n\n\n\nMaternal diet can provide the fetus with chemical information that is remembered after birth.\n\nMennella et al., 2001"
-  },
-  {
-    "objectID": "8_prenatal.html#newborns-recognize-prenatal-odors",
-    "href": "8_prenatal.html#newborns-recognize-prenatal-odors",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "Newborns recognize prenatal odors",
-    "text": "Newborns recognize prenatal odors\n\n\n\nNewborns preferentially orient toward the odor of their own amniotic fluid compared with unfamiliar amniotic-fluid odor.\n\n\n\nThis preference is present very soon after birth, before extensive postnatal learning can occur.\n\n\n\nThe result provides evidence that the fetus can detect, encode, and later recognize chemosensory information from the prenatal environment.\n\nSchaal et al., 1998"
-  },
-  {
-    "objectID": "8_prenatal.html#prenatal-chemosensory-learning-can-bridge-birth",
-    "href": "8_prenatal.html#prenatal-chemosensory-learning-can-bridge-birth",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "Prenatal chemosensory learning can bridge birth",
-    "text": "Prenatal chemosensory learning can bridge birth\n\nChemical continuity exists between prenatal and postnatal life.\nSome odor and flavor compounds present in amniotic fluid can also be present around the maternal breast and in breast milk.\n\n\nBirth changes the environment dramatically, but familiar prenatal sensory signals can help create continuity across the transition.\n\nThis is one example of how prenatal learning can influence behavior immediately after birth."
   },
   {
     "objectID": "8_prenatal.html#vision-develops-in-a-very-different-environment",
@@ -2009,13 +2009,6 @@
     "text": "Fetal learning becomes more efficient with development\n\nStudies of fetal habituation show that responses change with gestational age.\nOlder fetuses generally:\n\nrespond more consistently\nhabituate more efficiently\nretain information for longer intervals\n\n\n\nThe development of learning and memory parallels the maturation of the fetal nervous system."
   },
   {
-    "objectID": "8_prenatal.html#the-fetus-can-retain-information",
-    "href": "8_prenatal.html#the-fetus-can-retain-information",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "The fetus can retain information",
-    "text": "The fetus can retain information\n\n\n\nLearning is demonstrated when experience changes a later response.\nMemory requires that some consequence of that experience persists after a delay.\n\n\n\nLate-gestation fetuses can retain information about repeatedly experienced:\n\nsounds\nspeech passages\nvibroacoustic stimuli\n\n\n\n\nPrenatal memory can persist for days or weeks, depending on developmental age and the learning paradigm.\n\nDirix et al., 2009"
-  },
-  {
     "objectID": "8_prenatal.html#the-newborn-can-reveal-prenatal-memory",
     "href": "8_prenatal.html#the-newborn-can-reveal-prenatal-memory",
     "title": "Prenatal Sensory and Cognitive Development",
@@ -2030,13 +2023,6 @@
     "text": "Prenatal learning prepares the transition to postnatal life\n\nPrenatal learning does not mean that the fetus possesses mature adult cognition.\nInstead, it allows the developing nervous system to extract regularities from the prenatal environment.\n\n\nThese regularities can make biologically important stimuli familiar before birth:\n\nthe mother’s voice\ncharacteristics of language\nmaternal odors and flavors\n\n\n\nLearning before birth can prepare behavior for the environment encountered immediately after birth."
   },
   {
-    "objectID": "8_prenatal.html#sensory-development-is-continuous-across-birth",
-    "href": "8_prenatal.html#sensory-development-is-continuous-across-birth",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "Sensory development is continuous across birth",
-    "text": "Sensory development is continuous across birth\n\n\n\nBefore birth\nThe fetus experiences a restricted but structured sensory environment.\nSensory systems become functional at different times and begin modifying neural activity.\n\n\n\nAfter birth\nThe quantity and diversity of sensory input increase dramatically.\nThe same developing systems continue to learn and reorganize.\n\n\n\nBirth changes the environment, but development itself is continuous."
-  },
-  {
     "objectID": "8_prenatal.html#what-can-we-conclude-about-fetal-cognition",
     "href": "8_prenatal.html#what-can-we-conclude-about-fetal-cognition",
     "title": "Prenatal Sensory and Cognitive Development",
@@ -2044,10 +2030,45 @@
     "text": "What can we conclude about fetal cognition?\n\nThere is strong evidence that the human fetus can:\n\ndetect several classes of sensory information\ndiscriminate some stimulus properties\nhabituate to repeated stimulation\nlearn recurring sensory patterns\nretain some information across time\n\n\n\nThese results should not be interpreted as evidence for adult-like thought, language, or conscious understanding.\n\n\nFetal cognition is best understood as the emergence of basic learning, memory, discrimination, and sensorimotor organization."
   },
   {
-    "objectID": "8_prenatal.html#from-fetal-experience-to-later-development",
-    "href": "8_prenatal.html#from-fetal-experience-to-later-development",
+    "objectID": "8_prenatal.html#self-check",
+    "href": "8_prenatal.html#self-check",
     "title": "Prenatal Sensory and Cognitive Development",
-    "section": "From fetal experience to later development",
-    "text": "From fetal experience to later development\n\n\n\nPrenatal sensory experience provides the nervous system with its first structured input.\nIt can shape:\n\nsensory preferences\nrecognition\nearly learning\nbehavioral orientation after birth\n\n\n\n\nAt the same time, most sensory and cognitive abilities remain highly immature.\nDevelopment continues through infancy and childhood as neural circuits encounter increasingly complex experience.\n\n\n\nprenatal circuit maturation + prenatal experience → newborn sensory preferences and learning → continued postnatal development\nThe mind does not begin at birth: birth reveals a nervous system that has already been developing and learning."
+    "section": "Self-check",
+    "text": "Self-check"
+  },
+  {
+    "objectID": "1_ns_development.html#neurocinema",
+    "href": "1_ns_development.html#neurocinema",
+    "title": "Embryonic development of the nervous system",
+    "section": "Neurocinema",
+    "text": "Neurocinema\n\n\n\n\n\n\n\nI Origins (2014)\nDirector: Mike Cahill\nA molecular biologist studying the evolution of the eye becomes involved in a discovery that challenges his strongly materialistic view of the world.\n\n\nWhy is it relevant?\nThe movie connects development and evolution of the visual system with broader questions about identity, consciousness, and the limits of scientific explanation.\nIt is also an interesting example of how neuroscience and biology can be used in fiction to explore the tension between empirical evidence and belief.\n\nMovie information"
+  },
+  {
+    "objectID": "3_circuit_development.html#neurocinema",
+    "href": "3_circuit_development.html#neurocinema",
+    "title": "Neurogenesis, differentiation and neuronal survival",
+    "section": "Neurocinema",
+    "text": "Neurocinema\n\n\n\n\n\n\n\nLorenzo's Oil (1992)\nDirector: George Miller\nBased on the true story of Lorenzo Odone, a child diagnosed with X-linked adrenoleukodystrophy (ALD), and his parents’ search for a treatment.\n\n\nWhy is it relevant?\nALD disrupts the integrity of white matter and leads to progressive loss of myelin.\nThe movie illustrates an important principle of neural-circuit development:\nBuilding the correct connections is not enough, axons also require myelination and long-term biological maintenance to function efficiently."
+  },
+  {
+    "objectID": "4_methods.html#neurocinema",
+    "href": "4_methods.html#neurocinema",
+    "title": "Methods in Developmental Psychobiology",
+    "section": "Neurocinema",
+    "text": "Neurocinema\n\n\n\n\n\n\n\nEternal Sunshine of the Spotless Mind (2004)\nDirector: Michel Gondry\nThe movie imagines a technology capable of identifying and selectively erasing specific memories from the brain.\n\n\nWhy is it relevant?\nThe film raises a central question in neuroscience:\nCan a mental representation such as a memory be localized, measured, and selectively manipulated?\nIt provides a useful contrast with real methods such as fMRI, EEG/MEG, and TMS, which can measure or perturb brain activity but cannot erase a specific autobiographical memory with such precision."
+  },
+  {
+    "objectID": "5_neuroplasticity.html#neurocinema",
+    "href": "5_neuroplasticity.html#neurocinema",
+    "title": "Neuroplasticity",
+    "section": "Neurocinema",
+    "text": "Neurocinema\n\n\n\n\n\n\nError spotted:\nLeonard describes his condition as a problem of short-term memory, but his short-term is largely preserved.\n\n\n\nMemento (2000)\nDirector: Christopher Nolan\nA man with severe anterograde amnesia is unable to form stable new long-term memories and relies on notes, photographs, and tattoos to reconstruct his recent past.\n\n\nWhy is it relevant?\nThe film raises a central question about memory and plasticity:\nHow can experience shape behavior if new memories cannot be consolidated?\nIt highlights the distinction between short-term experience, long-term memory formation, and the external strategies that can partially compensate when memory systems are impaired."
+  },
+  {
+    "objectID": "7_parental_care.html#neurocinema",
+    "href": "7_parental_care.html#neurocinema",
+    "title": "Parental Care and Attachment",
+    "section": "Neurocinema",
+    "text": "Neurocinema\n\n\n\n\n\n\n\nThree Identical Strangers (2018)\nDirector: Tim Wardle\nThe documentary tells the story of three identical triplets who were separated at birth, adopted by different families, and unexpectedly reunited as young adults.\n\n\nWhy is it relevant?\nThe film provides a striking example of the classic nature versus nurture problem.\nBecause the brothers share the same genome but grew up in different families, their similarities and differences raise questions about how genes, parental care, and early environment interact during development."
   }
 ]
