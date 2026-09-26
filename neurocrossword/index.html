@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Neuroscience Across Development — Crossword</title>
+  <link rel="stylesheet" href="crossword.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Developmental psychobiology</p>
+        <h1>Neuroscience Across Development</h1>
+        <p class="intro">A fixed course-wide crossword spanning development, methods, plasticity, experience, and caregiving.</p>
+      </div>
+      <div class="progress-panel" aria-live="polite">
+        <span id="progressText">Completed: 0 / 80</span>
+        <div class="progress-track" aria-hidden="true"><span id="progressBar"></span></div>
+      </div>
+    </header>
+
+    <section class="toolbar" aria-label="Crossword controls">
+      <div class="selection-summary">
+        <span id="activeNumber" class="active-number">Select a clue</span>
+        <span id="activeLabel" class="active-label"></span>
+      </div>
+      <div class="actions">
+        <button id="checkWord" class="primary" type="button" disabled>Check word</button>
+        <button id="resetCrossword" type="button">Reset crossword</button>
+      </div>
+      <p id="statusMessage" class="status" role="status" aria-live="polite"></p>
+    </section>
+
+    <div class="workspace">
+      <section class="grid-panel" aria-label="Crossword grid">
+        <div class="grid-help">Select a square or clue, then type. Select an intersection twice to change direction.</div>
+        <div id="gridScroller" class="grid-scroller" tabindex="-1">
+          <div id="crosswordGrid" class="crossword-grid" role="grid" aria-label="Neuroscience crossword"></div>
+        </div>
+      </section>
+
+      <aside class="clues-panel" aria-label="Crossword clues">
+        <section>
+          <h2>Across</h2>
+          <ol id="acrossClues" class="clue-list"></ol>
+        </section>
+        <section>
+          <h2>Down</h2>
+          <ol id="downClues" class="clue-list"></ol>
+        </section>
+      </aside>
+    </div>
+  </main>
+
+  <script src="crossword-data.js"></script>
+  <script src="crossword.js"></script>
+</body>
+</html>
