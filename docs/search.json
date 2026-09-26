@@ -4,7 +4,7 @@
     "href": "index.html#index",
     "title": "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo (Modulo 1)",
     "section": "Index",
-    "text": "Index\n\nWelcome to the course! We will explore how the brain develops, changes, and is shaped by experience from before birth to adulthood.\n\nChapters\n\n\n\n\nNervous System Development\nNeurogenesis and Differentiation\nNeural Circuit Development\nMethods in Developmental Psychobiology\n\n\n\n\n\nNeuroplasticity\nExperience-Dependent Development\nParental Care\nPrenatal Cognition"
+    "text": "Index\n\nWelcome to the course! This is the course program.\n\nChapters\n\n\n\n\nNervous System Development\nNeurogenesis and Differentiation\nNeural Circuit Development\nMethods in Developmental Psychobiology\n\n\n\n\n\nNeuroplasticity\nExperience-Dependent Development\nParental Care\nPrenatal Cognition"
   },
   {
     "objectID": "index.html#how-to-use-these-slides",
@@ -214,7 +214,7 @@
     "href": "7_parental_care.html#dna-methylation-and-histone-modifications",
     "title": "Parental Care and Attachment",
     "section": "DNA methylation and histone modifications",
-    "text": "DNA methylation and histone modifications\n\n\n\nDNA methylation\nSmall chemical groups called methyl groups are added to DNA, often at cytosine bases. In segments of DNA called CpG islands\nHigh DNA methylation near a gene promoter is usually associated with reduced gene expression.\n\n\n\nHistone modifications\nDNA is wrapped around histone proteins.\nChemical modifications to histone tails can make chromatin more open or more compact, changing gene accessibility.\n\n\n\nIn simple terms:\n\nDNA methylation often acts like a “do not read” signal\nHistone modifications can open or close the chromatin structure, regulating the accessibility to specific genes."
+    "text": "DNA methylation and histone modifications\n\n\n\nDNA methylation\nSmall chemical groups called methyl groups are added to DNA, often at cytosine bases.\nHigh DNA methylation near a gene promoter is usually associated with reduced gene expression.\n\n\n\nHistone modifications\nDNA is wrapped around histone proteins.\nChemical modifications to histone tails can make chromatin more open or more compact, changing gene accessibility.\n\n\n\nIn simple terms: DNA methylation often acts like a “do not read” signal, while histone modifications can open or close the chromatin structure."
   },
   {
     "objectID": "7_parental_care.html#dna-methylation-and-histone-modifications-1",
@@ -228,7 +228,7 @@
     "href": "7_parental_care.html#early-care-can-modify-gene-expression-epigenetically",
     "title": "Parental Care and Attachment",
     "section": "Early care can modify gene expression epigenetically",
-    "text": "Early care can modify gene expression epigenetically\n\n\n\nMaternal care influences regulation of the hippocampal glucocorticoid receptor (GR) gene. Particularly through tactile stimulation (licking/grroming)\nHigh maternal care is associated with:\n\nreduced DNA methylation at a GR promoter\ngreater access of transcription factors such as NGFI-A / EGR1\nincreased GR expression (Nr3c1 is the gene)\n\n\n\nAn early social experience can become biologically persistent by altering how strongly genes are expressed, without changing the DNA sequence.\n\n\n\n\nWeaver et al., 2004"
+    "text": "Early care can modify gene expression epigenetically\n\n\n\nMaternal care influences regulation of the hippocampal glucocorticoid receptor (GR) gene.\nHigh maternal care is associated with:\n\nreduced DNA methylation at a GR promoter\ngreater access of transcription factors such as NGFI-A / EGR1\nincreased GR expression\n\n\n\nAn early social experience can become biologically persistent by altering how strongly genes are expressed, without changing the DNA sequence.\n\n\n\n\nWeaver et al., 2004"
   },
   {
     "objectID": "7_parental_care.html#epigenetic-programming-is-stable-but-not-necessarily-permanent",
@@ -466,7 +466,7 @@
     "href": "5_neuroplasticity.html#studying-synaptic-plasticity-in-animal-models",
     "title": "Neuroplasticity",
     "section": "Studying synaptic plasticity in animal models",
-    "text": "Studying synaptic plasticity in animal models\n\n\n\nTwo-photon microscopy\n\n\n\n\n\n\nTwo-photon spines dynamics\n\n\n\n\n\n\n\nOptogenetics\n\n\n\n\n\n\nViral vectors\n\n\n\n\n\n\n\nAnimal models make it possible to measure, manipulate and visualize plasticity at synaptic resolution."
+    "text": "Studying synaptic plasticity in animal models\n\n\n\nTwo-photon microscopy\n\n\n\n\n\n\nTwo-photon spines dynamics\n\n\n\n\n\n\n\nOptogenetics\n\n\n\n\n\n\nViral vectors\n\n\n\n\n\n\n\nAnimal models make it possible to measure, manipulate and visualize plasticity at cellular and synaptic resolution."
   },
   {
     "objectID": "5_neuroplasticity.html#self-check",
@@ -1852,7 +1852,7 @@
     "href": "8_prenatal.html#development-begins-before-birth",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Development begins before birth",
-    "text": "Development begins before birth\n\n\n\nBirth is an important biological transition, but it is not the beginning of sensory and cognitive development.\n\n\nDuring prenatal life, the nervous system progressively becomes able to:\n\ndetect information from the body and the environment\nmodify behavior in response to stimulation\nlearn from repeated experience\nretain some information across time\n\n\n\n  \n\nThe abilities observed in newborns therefore have important prenatal origins."
+    "text": "Development begins before birth\n\nBirth is an important biological transition, but it is not the beginning of sensory and cognitive development.\n\n\nDuring prenatal life, the nervous system progressively becomes able to:\n\ndetect information from the body and the environment\nmodify behavior in response to stimulation\nlearn from repeated experience\nretain some information across time\n\n\nThe abilities observed in newborns therefore have important prenatal origins."
   },
   {
     "objectID": "8_prenatal.html#how-can-we-study-the-fetus",
@@ -1873,28 +1873,28 @@
     "href": "8_prenatal.html#sensory-systems-do-not-mature-at-the-same-time",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Sensory systems do not mature at the same time",
-    "text": "Sensory systems do not mature at the same time\n\n\n\nEarlier functional development\n\ntouch and somatosensation\nvestibular and proprioceptive signals\nchemosensory experience\n\n\n\n\nLater functional development\n\nhearing becomes increasingly effective during gestation\nvision becomes responsive much later and receives no patterned stimulation in utero\n\n\n\n\nThe prenatal sensory environment is not silent or empty: the fetus receives continuous tactile, vestibular, chemical, and acoustic information."
+    "text": "Sensory systems do not mature at the same time\n\n\n\nEarlier functional development\n\ntouch and somatosensation\nvestibular and proprioceptive signals\nchemosensory experience\n\n\n\n\nLater functional development\n\nhearing becomes increasingly effective during gestation\nvision becomes responsive much later and receives relatively little patterned stimulation in utero\n\n\n\n\nThe prenatal sensory environment is not silent or empty: the fetus receives continuous tactile, vestibular, chemical, and acoustic information."
   },
   {
     "objectID": "8_prenatal.html#touch-develops-early",
     "href": "8_prenatal.html#touch-develops-early",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Touch develops early",
-    "text": "Touch develops early\n\nSomatosensation is the earliest sensory systems to become functional.\n\n\nResponses to tactile stimulation begin in restricted regions of the body and progressively spread as the peripheral and central somatosensory systems mature.\n\n\nBy the second trimester, fetuses show an increasingly rich repertoire of:\n\nself-touch\ncontact with the uterine wall\nhand-to-face movements\nresponses to mechanical stimulation\n\n\n\nPrenatal touch is both externally generated and self-generated."
+    "text": "Touch develops early\nSomatosensation is among the earliest sensory systems to become functional.\n\nResponses to tactile stimulation begin in restricted regions of the body and progressively spread as the peripheral and central somatosensory systems mature.\n\n\nBy the second trimester, fetuses show an increasingly rich repertoire of:\n\nself-touch\ncontact with the uterine wall\nhand-to-face movements\nresponses to mechanical stimulation\n\n\n\nPrenatal touch is both externally generated and self-generated."
   },
   {
     "objectID": "8_prenatal.html#fetal-movements-become-increasingly-organized",
     "href": "8_prenatal.html#fetal-movements-become-increasingly-organized",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Fetal movements become increasingly organized",
-    "text": "Fetal movements become increasingly organized\n\n\n\nAs gestation progresses, fetal movements become more coordinated.\nHand movements increasingly target specific regions such as the mouth and face.\n\n\n4D ultrasound studies suggest thatstarting from 32 weeks some movements become increasingly anticipatory: mouth movements can begin before the hand reaches the mouth.\n\n\n\n\nThe developing fetus is not simply producing random movements: sensorimotor organization progressively emerges before birth.\n\n\nReissland et al., 2014"
+    "text": "Fetal movements become increasingly organized\n\n\n\nAs gestation progresses, fetal movements become more coordinated.\nHand movements increasingly target specific regions such as the mouth and face.\n\n\n\n4D ultrasound studies suggest that some movements become increasingly anticipatory: mouth movements can begin before the hand reaches the mouth.\n\n\n\nThe developing fetus is not simply producing random movements: sensorimotor organization progressively emerges before birth.\n\nReissland et al., 2014"
   },
   {
     "objectID": "8_prenatal.html#the-fetus-can-respond-to-touch-through-the-maternal-abdomen",
     "href": "8_prenatal.html#the-fetus-can-respond-to-touch-through-the-maternal-abdomen",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "The fetus can respond to touch through the maternal abdomen",
-    "text": "The fetus can respond to touch through the maternal abdomen\n\n\nMaternal abdominal touch and fetal behavior\n\n\n\n\n\nManipulation\n\nThe mother’s abdomen is touched while fetal movements are monitored with 4D ultrasound.\n\n\n\n\nMeasurement\n\nResearchers quantify movements such as:\n\nself-touch\nreaching toward the uterine wall\nhead and arm movements\n\n\n\n\n\nResult\n\nFetal behavior changes during maternal touch, and the pattern of response depends on gestational age.\n\n\n\n\nMarx & Nagy, 2015 | Marx & Nagy, 2017"
+    "text": "The fetus can respond to touch through the maternal abdomen\n\n\nMaternal abdominal touch and fetal behavior\n\n\n\n\n\nManipulation\n\nThe mother’s abdomen is touched while fetal movements are monitored with 4D ultrasound.\n\n\n\n\nMeasurement\n\nResearchers quantify movements such as:\n\nself-touch\nreaching toward the uterine wall\nhead and arm movements\n\n\n\n\n\nResult\n\nFetal behavior changes during maternal touch, and the pattern of response depends on gestational age.\n\n\n\nMarx & Nagy, 2015 | Marx & Nagy, 2017"
   },
   {
     "objectID": "8_prenatal.html#taste-and-smell-begin-before-birth",
@@ -1943,21 +1943,21 @@
     "href": "8_prenatal.html#auditory-responses-emerge-before-birth",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Auditory responses emerge before birth",
-    "text": "Auditory responses emerge before birth\n\n\n\nDuring the second half of gestation, acoustic stimulation can produce measurable changes in:\n\nfetal heart rate\nbody movement\nbrain responses\n\n\n\nResponses become faster and more reliable with maturation.\n\n\nThe auditory system is already processing environmental information before birth.\n\n\n \n\nDraganova et al., 2018"
+    "text": "Auditory responses emerge before birth\n\n\n\nDuring the second half of gestation, acoustic stimulation can produce measurable changes in:\n\nfetal heart rate\nbody movement\nbrain responses\n\n\n\n\nResponses become more reliable with maturation.\nBy the third trimester, the fetus can discriminate some properties of complex sounds, including aspects of speech.\n\n\n\nThe auditory system is already processing environmental information before birth.\n\nKisilevsky et al., 1992"
   },
   {
     "objectID": "8_prenatal.html#the-mothers-voice-is-a-special-prenatal-stimulus",
     "href": "8_prenatal.html#the-mothers-voice-is-a-special-prenatal-stimulus",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "The mother’s voice is a special prenatal stimulus",
-    "text": "The mother’s voice is a special prenatal stimulus\n\nThe maternal voice reaches the fetus through both:\n\nexternal air conduction\nvibrations transmitted through the mother’s body\n\n\n\nThis makes the mother’s voice one of the most frequent and biologically relevant complex sounds in the prenatal environment.\n\n\nAfter birth, newborns can distinguish the maternal voice from unfamiliar female voices.\n\nDeCasper & Fifer, 1980"
+    "text": "The mother’s voice is a special prenatal stimulus\n\nThe maternal voice reaches the fetus through both:\n\nexternal air conduction\nvibrations transmitted through the mother’s body\n\n\n\nThis makes the mother’s voice one of the most frequent and biologically relevant complex sounds in the prenatal environment.\n\nAfter birth, newborns can distinguish the maternal voice from unfamiliar female voices.\nDeCasper & Fifer, 1980"
   },
   {
     "objectID": "8_prenatal.html#recognition-of-the-maternal-voice-begins-prenatally",
     "href": "8_prenatal.html#recognition-of-the-maternal-voice-begins-prenatally",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Recognition of the maternal voice begins prenatally",
-    "text": "Recognition of the maternal voice begins prenatally\n\n\nVoice recognition around birth\n\n\n\n\n\nPrenatal exposure\n\nThe fetus repeatedly hears the mother’s voice during gestation. The baby behavior is monitored using non-nutritive sucking.\n\n\n\n\nNewborn test\n\nNewborn behavior is used to compare responses to the mother’s voice and an unfamiliar female voice.\n\n\n\n\nResult\n\nNewborns preferentially respond to or work to hear the maternal voice.\n\n\n\n\nBecause the preference is present immediately after birth, it provides evidence that voice learning begins prenatally."
+    "text": "Recognition of the maternal voice begins prenatally\n\n\nVoice recognition around birth\n\n\n\n\n\nPrenatal exposure\n\nThe fetus repeatedly hears the mother’s voice during gestation.\n\n\n\n\nNewborn test\n\nNewborn behavior is used to compare responses to the mother’s voice and an unfamiliar female voice.\n\n\n\n\nResult\n\nNewborns preferentially respond to or work to hear the maternal voice.\n\n\n\n\nBecause the preference is present immediately after birth, it provides evidence that voice learning begins prenatally."
   },
   {
     "objectID": "8_prenatal.html#vision-develops-in-a-very-different-environment",
@@ -2070,5 +2070,54 @@
     "title": "Parental Care and Attachment",
     "section": "Neurocinema",
     "text": "Neurocinema\n\n\n\n\n\n\n\nThree Identical Strangers (2018)\nDirector: Tim Wardle\nThe documentary tells the story of three identical triplets who were separated at birth, adopted by different families, and unexpectedly reunited as young adults.\n\n\nWhy is it relevant?\nThe film provides a striking example of the classic nature versus nurture problem.\nBecause the brothers share the same genome but grew up in different families, their similarities and differences raise questions about how genes, parental care, and early environment interact during development."
+  },
+  {
+    "objectID": "8_prenatal.html#prenatal-experience-shapes-language-perception",
+    "href": "8_prenatal.html#prenatal-experience-shapes-language-perception",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "Prenatal experience shapes language perception",
+    "text": "Prenatal experience shapes language perception\nThe fetus does not understand language, but it can learn some of its acoustic structure.\n\n\n\nPrenatal speech preserves information about:\n\nrhythm\nintonation\nstress\nbroad spectral characteristics\n\n\n\n\nNewborns show sensitivity to properties of the language or languages heard during pregnancy.\n\n\n\nThe first steps of language learning begin with auditory statistical and prosodic learning, before words acquire meaning.\n\nMoon et al., 2013 | Byers-Heinlein et al., 2010"
+  },
+  {
+    "objectID": "8_prenatal.html#the-fetus-can-learn-repeated-speech-patterns",
+    "href": "8_prenatal.html#the-fetus-can-learn-repeated-speech-patterns",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "The fetus can learn repeated speech patterns",
+    "text": "The fetus can learn repeated speech patterns\n\n\nLearning a repeatedly presented rhyme\n\n\n\n\n\nExposure\n\nMothers repeatedly recited a particular passage during late pregnancy.\n\n\n\n\nTest\n\nLater, fetal heart rate was measured while the familiar passage was presented in a different female voice.\n\n\n\n\nResult\n\nFetuses showed a different response to the familiar passage, and memory could persist after exposure had stopped.\n\n\n\nKrueger & Garvan, 2014"
+  },
+  {
+    "objectID": "8_prenatal.html#prenatal-flavor-exposure-can-influence-later-preference",
+    "href": "8_prenatal.html#prenatal-flavor-exposure-can-influence-later-preference",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "Prenatal flavor exposure can influence later preference",
+    "text": "Prenatal flavor exposure can influence later preference\n\n\nFlavor learning before birth\n\n\n\n\n\nExposure\n\nDuring the last trimester, some mothers repeatedly consumed carrot juice.\n\n\n\n\nLater test\n\nAfter birth, infants were offered cereal containing carrot flavor or plain cereal.\n\n\n\n\nResult\n\nInfants exposed prenatally showed more positive responses to the familiar flavor.\n\n\n\n\nMaternal diet can provide the fetus with chemical information that is remembered after birth.\n\nMennella et al., 2001"
+  },
+  {
+    "objectID": "8_prenatal.html#the-fetus-can-retain-information",
+    "href": "8_prenatal.html#the-fetus-can-retain-information",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "The fetus can retain information",
+    "text": "The fetus can retain information\n\n\n\nLearning is demonstrated when experience changes a later response.\nMemory requires that some consequence of that experience persists after a delay.\n\n\n\nLate-gestation fetuses can retain information about repeatedly experienced:\n\nsounds\nspeech passages\nvibroacoustic stimuli\n\n\n\n\nPrenatal memory can persist for days or weeks, depending on developmental age and the learning paradigm.\n\nDirix et al., 2009"
+  },
+  {
+    "objectID": "8_prenatal.html#from-fetal-experience-to-later-development",
+    "href": "8_prenatal.html#from-fetal-experience-to-later-development",
+    "title": "Prenatal Sensory and Cognitive Development",
+    "section": "From fetal experience to later development",
+    "text": "From fetal experience to later development\n\n\n\nPrenatal sensory experience provides the nervous system with its first structured input.\nIt can shape:\n\nsensory preferences\nrecognition\nearly learning\nbehavioral orientation after birth\n\n\n\n\nAt the same time, most sensory and cognitive abilities remain highly immature.\nDevelopment continues through infancy and childhood as neural circuits encounter increasingly complex experience.\n\n\n\nprenatal circuit maturation + prenatal experience → newborn sensory preferences and learning → continued postnatal development\nThe mind does not begin at birth: birth reveals a nervous system that has already been developing and learning."
+  },
+  {
+    "objectID": "7_parental_care.html#from-animal-models-to-human-development",
+    "href": "7_parental_care.html#from-animal-models-to-human-development",
+    "title": "Parental Care and Attachment",
+    "section": "From animal models to human development",
+    "text": "From animal models to human development\n\n\n\nAnimal studies allow experimental manipulation of:\n\ncaregiving\nsensory signals\nhormones\nneural circuits\ngene expression\n\n\n\n\nThey reveal mechanisms that would be impossible or unethical to manipulate directly in humans.\n\n\n\nThe mechanisms are evolutionarily informative, but results from animal models should not be translated into simple one-to-one claims about human parenting or psychological outcomes."
+  },
+  {
+    "objectID": "7_parental_care.html#parental-care-is-a-developmental-signal",
+    "href": "7_parental_care.html#parental-care-is-a-developmental-signal",
+    "title": "Parental Care and Attachment",
+    "section": "Parental care is a developmental signal",
+    "text": "Parental care is a developmental signal\n\n\n\nParental care provides:\n\nnutrition and protection\nsensory stimulation\nsocial information\nemotional and physiological regulation\n\n\n\n\nThese signals can modify:\n\nneural circuits\nstress physiology\nlearning and attachment\ngene expression\nlater parental behavior\n\n\n\n\nearly social experience -&gt; neural and endocrine plasticity -&gt; persistent changes in behavior and physiology\nParental care is not only something that keeps the offspring alive: it becomes part of the biological process that builds the developing organism."
   }
 ]
