@@ -5,6 +5,7 @@ project:
     - images/shared/ui/home.svg
     - images/shared/ui/search.svg
     - quiz/**
+    - neurocrossword
   render:
     - "!Quarto-PyCharm-v5/"
     - "*.qmd"

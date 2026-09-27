@@ -493,13 +493,10 @@ Intrinsic developmental programs can control not only neuronal identity, but als
 
 ::: {.card}
 An example is provided by `Dlx1/Dlx2`, transcription factors involved in the development of forebrain GABAergic [interneurons](https://en.wikipedia.org/wiki/Interneuron){target="_blank"}.
-
-Disrupting this program strongly alters the normal migration of interneuron precursors toward the neocortex.
 :::
 
 ::: {.card}
 Disruption of the `Dlx` developmental program reduce the number and function of cortical interneurons.
-This produces less inhibitory control of cortical circuits:
 In `Dlx1` mutant mice, interneuron loss produces spontaneous generalized <u>epileptic</u> activity.
 :::
 
@@ -512,7 +509,7 @@ In `Dlx1` mutant mice, interneuron loss produces spontaneous generalized <u>epil
 ::: {.card}
 `Dlx1/Dlx2`-expressing interneuron progenitors are generated in the `ganglionic eminences` of the ventral telencephalon, adjacent to the developing striatum.
 
-From there, they <u>migrate tangentially</u> into the developing cerebral cortex, where they differentiate into cortical GABAergic interneurons.
+From there, they <u>migrate tangentially</u> into the developing cerebral cortex, where they differentiate into cortical <u>GABAergic interneurons</u>.
 :::
 
 :::
@@ -567,7 +564,7 @@ Neural crest derivatives include, among others:
 - [enteric neurons](https://en.wikipedia.org/wiki/Enteric_nervous_system){target="_blank"}
 - [Schwann cells](https://en.wikipedia.org/wiki/Schwann_cell){target="_blank"}
 - [melanocytes](https://en.wikipedia.org/wiki/Melanocyte){target="_blank"}
-- [smooth-muscle](https://en.wikipedia.org/wiki/Smooth_muscle)target="_blank"}
+- [smooth-muscle](https://en.wikipedia.org/wiki/Smooth_muscle){target="_blank"}
 :::
 
 :::
@@ -903,9 +900,7 @@ Different neuronal populations depend on different members of the broader family
 :::
 
 ::: {.card}
-`NGF`: Nerve Growth Factor
-
-NGF is especially important for the survival and development of particular populations of <u>peripheral</u> sensory and sympathetic neurons.
+`NGF`: is especially important for the survival and development of particular populations of <u>peripheral</u> sensory and sympathetic neurons.
 :::
 
 :::{.centerimg}

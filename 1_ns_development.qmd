@@ -414,7 +414,9 @@ The <u>organizer releases BMP</u> `antagonists`, including `Noggin`, `Chordin` a
 :::
 ::: {.column}
 
-![](images/1_ns_development/figures/1_ns_spemann_bmp.png){width="100%"}
+![](images/1_ns_development/figures/1_ns_spemann_bmp.png){width="100%"
+title="Neural induction and the role of BMP signaling. In ectoderm, active `BMP4` signaling promotes an epidermal fate, whereas inhibition of BMP signaling allows cells to adopt a `neural plate` identity. Organizer-derived molecules such as `Chordin`, `Noggin`, and `Follistatin` antagonize BMP signaling by binding BMP or interfering with its receptor interaction. The figure therefore illustrates how neural tissue emerges through inhibition of an epidermalizing BMP signal together with additional patterning cues."
+}
 
 :::
 :::

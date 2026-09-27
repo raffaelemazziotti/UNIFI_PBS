@@ -1,0 +1,3894 @@
+[
+  {
+    "answer": "ABDOMEN",
+    "chapters": [
+      "Methods",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ACOUSTIC",
+    "chapters": [
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ACUITY",
+    "chapters": [
+      "Experience",
+      "Methods"
+    ],
+    "sourceOccurrences": 32,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ADHESION",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 14,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ADULT",
+    "chapters": [
+      "Experience",
+      "Nervous system development",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 32,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "AGRIN",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "AIR",
+    "chapters": [
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "ALPHA",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "AMBLYOPIA",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 2,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "AMPA",
+    "chapters": [
+      "Circuit development",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 5,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "APOPTOSIS",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 10,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ARM",
+    "chapters": [
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "ASYMMETRIC",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 5,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ATTACHMENT",
+    "chapters": [
+      "Circuit development",
+      "Parental care"
+    ],
+    "sourceOccurrences": 21,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "AUDITORY",
+    "chapters": [
+      "Methods",
+      "Nervous system development",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "AXON",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 36,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "BAR",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 2,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "BDNF",
+    "chapters": [
+      "Experience",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 24,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "BEHAVIOR",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 47,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "BETA",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "BINOCULAR",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "BIRTH",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 40,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "BIRTHDATE",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "BMP",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "BODY",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Nervous system development",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 15,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "BRAIN",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 51,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "BRAKE",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CARE",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 47,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "CAREGIVER",
+    "chapters": [
+      "Methods",
+      "Parental care"
+    ],
+    "sourceOccurrences": 14,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CARROT",
+    "chapters": [
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "CATARACT",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 8,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CELL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 76,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "CELLS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 101,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "CIRCUIT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 65,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CNS",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "COGNITION",
+    "chapters": [
+      "Methods",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "COMFORT",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "COMPETENCE",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 9,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "COMPETITION",
+    "chapters": [
+      "Circuit development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 5,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CONSOLIDATION",
+    "chapters": [],
+    "sourceOccurrences": 0,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CONTACT",
+    "chapters": [
+      "Circuit development",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 22,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CONTRAST",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 25,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CORTEX",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 71,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CORTICAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 100,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CREST",
+    "chapters": [
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "CRITICAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Parental care"
+    ],
+    "sourceOccurrences": 32,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CUE",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "DARK",
+    "chapters": [
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "DEEP",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 2,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "DEPRIVATION",
+    "chapters": [
+      "Experience",
+      "Parental care"
+    ],
+    "sourceOccurrences": 30,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DETECTOR",
+    "chapters": [
+      "Experience",
+      "Methods"
+    ],
+    "sourceOccurrences": 2,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DIET",
+    "chapters": [
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "DIFFUSIBLE",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DIVISION",
+    "chapters": [
+      "Neurogenesis",
+      "Parental care"
+    ],
+    "sourceOccurrences": 8,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DOMINANCE",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 30,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ECTODERM",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 11,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EDGE",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "EEG",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 32,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EGR",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "ENDODERM",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EPH",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EPIGENETIC",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 8,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ERP",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "EXPECTANCY",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EYE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 58,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "EYES",
+    "chapters": [
+      "Experience",
+      "Methods"
+    ],
+    "sourceOccurrences": 31,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "FASCICLE",
+    "chapters": [],
+    "sourceOccurrences": 0,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FATE",
+    "chapters": [
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 19,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "FEEDING",
+    "chapters": [
+      "Methods",
+      "Parental care"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "FETAL",
+    "chapters": [
+      "Methods",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 26,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FGF",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 13,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FIELD",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 15,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FLAVOR",
+    "chapters": [
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 8,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FMRI",
+    "chapters": [
+      "Methods",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 14,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FNIRS",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 12,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "FORM",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 26,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "FOSTERING",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 5,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FOVEA",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "GAMMA",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "GENE",
+    "chapters": [
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 25,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "GESTATION",
+    "chapters": [
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 12,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "GLIA",
+    "chapters": [
+      "Circuit development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 9,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "GRADIENT",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "GROWTH",
+    "chapters": [
+      "Circuit development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 46,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "GUIDANCE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 15,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HABITUATION",
+    "chapters": [
+      "Methods",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 19,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HANDLING",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 2,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HARLOW",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 5,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HEBB",
+    "chapters": [
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HISTONE",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 13,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HOMEOSTATIC",
+    "chapters": [
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HOX",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "IMAGING",
+    "chapters": [
+      "Methods",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "IMM",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 9,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "IMPRINTING",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INDUCTION",
+    "chapters": [
+      "Experience",
+      "Nervous system development",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 9,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INHIBITION",
+    "chapters": [
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ION",
+    "chapters": [
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 2,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "LATENCY",
+    "chapters": [
+      "Methods",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 2,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "LAYER",
+    "chapters": [
+      "Experience",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 11,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "LEARN",
+    "chapters": [
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 10,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "LEARNING",
+    "chapters": [
+      "Methods",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 39,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "LIGHT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 23,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "LOOKING",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 12,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "LOSS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 9,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "LTD",
+    "chapters": [
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 8,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "LTP",
+    "chapters": [
+      "Experience",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 27,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "MAGNETIC",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 11,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MATERNAL",
+    "chapters": [
+      "Methods",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 67,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MEASURE",
+    "chapters": [
+      "Methods",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 19,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MEG",
+    "chapters": [
+      "Methods",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 11,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MEMORY",
+    "chapters": [
+      "Methods",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "MESODERM",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "METAPLASTIC",
+    "chapters": [],
+    "sourceOccurrences": 0,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "METHOD",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "METHYLATION",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 14,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MIGRATION",
+    "chapters": [
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 8,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MONOCULAR",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 30,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MORPHOGEN",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MOTHER",
+    "chapters": [
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 27,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MOTOR",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 40,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MOVEMENT",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NECROSIS",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NERVE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 21,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "NETRIN",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NEURAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 117,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NGF",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "NMDA",
+    "chapters": [
+      "Circuit development",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 9,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "NODE",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development",
+      "Parental care"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "NOTCH",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 12,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "NTR",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "NUMB",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "OCULAR",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 30,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "ODOR",
+    "chapters": [
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "OFFSPRING",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 24,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "OPTIC",
+    "chapters": [
+      "Circuit development",
+      "Experience"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "ORGANIZER",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 12,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ORIENTING",
+    "chapters": [
+      "Methods",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PARENT",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PERIOD",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 41,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PET",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 14,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "PLASTICITY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 76,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PLATE",
+    "chapters": [
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 10,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "POSTNATAL",
+    "chapters": [
+      "Experience",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 9,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "POTENTIATION",
+    "chapters": [
+      "Experience",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 20,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PRACTICE",
+    "chapters": [
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 12,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PRE",
+    "chapters": [
+      "Circuit development",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "PRENATAL",
+    "chapters": [
+      "Neurogenesis",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 31,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PROGENITOR",
+    "chapters": [
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 28,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PROTOMAP",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RADIAL",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 10,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RANVIER",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "RAT",
+    "chapters": [
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "RATE",
+    "chapters": [
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 12,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "RECEPTIVE",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RECEPTOR",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 22,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "REFINEMENT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "REGION",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 37,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "RESPONSE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 56,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RETINA",
+    "chapters": [
+      "Circuit development",
+      "Experience"
+    ],
+    "sourceOccurrences": 40,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RETINOIC",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "REWARD",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RNA",
+    "chapters": [],
+    "sourceOccurrences": 0,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "ROLE",
+    "chapters": [
+      "Experience",
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "SCAFFOLD",
+    "chapters": [
+      "Circuit development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SCALP",
+    "chapters": [
+      "Methods"
+    ],
+    "sourceOccurrences": 9,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "SENSORY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 43,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SEPARATION",
+    "chapters": [
+      "Methods",
+      "Parental care"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SHAPE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 8,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "SOURCE",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 12,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "SPERRY",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "SPIKE",
+    "chapters": [
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 5,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "SPINAL",
+    "chapters": [
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 6,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SPINE",
+    "chapters": [
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 7,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "STABILITY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "STATE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 20,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "STDP",
+    "chapters": [
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "STRABISMUS",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 8,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "STRENGTH",
+    "chapters": [
+      "Circuit development",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 5,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "STRESS",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 16,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "STRUCTURAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 26,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SUCKING",
+    "chapters": [
+      "Methods",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 16,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SUPPORT",
+    "chapters": [
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 12,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "SURVIVAL",
+    "chapters": [
+      "Circuit development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 39,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SYMMETRIC",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SYNAPTIC",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 73,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "TARGET",
+    "chapters": [
+      "Circuit development",
+      "Neurogenesis",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 45,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "TASTE",
+    "chapters": [
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 2,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "TIMING",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 21,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "TMS",
+    "chapters": [
+      "Methods",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 12,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "TOPOGRAPHIC",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 5,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "TRANSPLANT",
+    "chapters": [],
+    "sourceOccurrences": 0,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "TRIAL",
+    "chapters": [],
+    "sourceOccurrences": 0,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "TRK",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "TROPHIC",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "TUBE",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 11,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "VENTRAL",
+    "chapters": [
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care"
+    ],
+    "sourceOccurrences": 13,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "VENTRICULAR",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 3,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "VESICLE",
+    "chapters": [
+      "Circuit development"
+    ],
+    "sourceOccurrences": 1,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "VISION",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 20,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "VISUAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 154,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "WAVE",
+    "chapters": [],
+    "sourceOccurrences": 0,
+    "selectedForFinal": true
+  },
+  {
+    "answer": "WIESEL",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 4,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ZYGOTE",
+    "chapters": [
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 2,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "THE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 1313,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "AND",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 596,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CARD",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 475,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "WIDTH",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 408,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CAN",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 250,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "COLUMNS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 247,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "BOX",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 244,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INFO",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 242,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "IMAGES",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 238,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FIGURES",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 195,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PNG",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 175,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EXP",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 173,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DEVELOPMENT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 157,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "WITH",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 133,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FROM",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 125,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ARE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 121,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NEURONS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 117,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ACTIVITY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 114,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SECTION",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 109,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NOT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 108,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EXPERIENCE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 99,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FOR",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 88,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CHANGES",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 84,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DIFFERENT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 83,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SIGNALS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 71,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "THEREFORE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 68,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NEURONAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 66,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INFORMATION",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 63,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EARLY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 62,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "TWO",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 61,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "METHODS",
+    "chapters": [
+      "Methods",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 55,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NEUROGENESIS",
+    "chapters": [
+      "Circuit development",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 54,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "BUT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 53,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "AXONS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 48,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "BECOME",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 47,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RETINAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 47,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INTO",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 45,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ITS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 44,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RESPONSES",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 44,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SYSTEM",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 43,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "STRONGLY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 42,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DEVELOPING",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 41,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "POSTSYNAPTIC",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 40,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "STIMULUS",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 40,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NEURON",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 38,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DEPENDS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 37,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ONE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 37,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PARENTAL",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 37,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CENTERIMG",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 36,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EXPERIMENT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 36,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FUNCTIONAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 36,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MOLECULAR",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 36,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SAME",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 36,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SPATIAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 36,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ENVIRONMENT",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 34,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HOW",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 34,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "LONG",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 34,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MATURATION",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 34,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "STIMULATION",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 34,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CHANGE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 33,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DOES",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 33,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SIGNAL",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 33,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SYNAPSE",
+    "chapters": [
+      "Circuit development",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 33,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CONE",
+    "chapters": [
+      "Circuit development",
+      "Experience"
+    ],
+    "sourceOccurrences": 32,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "JPG",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 32,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ACROSS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 31,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ORGANIZATION",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 31,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "REGIONS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 31,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "TIME",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 31,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CIRCUITS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 30,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ONLY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 30,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PROVIDE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 30,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RECEPTORS",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 30,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HIGH",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 29,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ASSOCIATED",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 28,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EXPRESSION",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care"
+    ],
+    "sourceOccurrences": 28,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NERVOUS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 28,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NORMAL",
+    "chapters": [
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 28,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SIGNALING",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 28,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FUNCTION",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 27,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PRODUCE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 27,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PROGENITORS",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 27,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SYNAPSES",
+    "chapters": [
+      "Circuit development",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 27,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DNA",
+    "chapters": [
+      "Parental care"
+    ],
+    "sourceOccurrences": 26,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "GENERATED",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 26,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PROVIDES",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 26,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FORMATION",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 25,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MOVEMENTS",
+    "chapters": [
+      "Experience",
+      "Nervous system development",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 25,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PATHWAYS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 25,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PLAST",
+    "chapters": [
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 25,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SHOW",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 25,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SPECIFIC",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 25,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "TEMPORAL",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 25,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "TISSUE",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 25,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EARLIER",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 24,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INPUT",
+    "chapters": [
+      "Experience",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 24,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NDM",
+    "chapters": [
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 24,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PRODUCES",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 24,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RELATED",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 24,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "AGE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 23,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "BECOMES",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 23,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FRAGMENT",
+    "chapters": [
+      "Methods",
+      "Nervous system development",
+      "Parental care"
+    ],
+    "sourceOccurrences": 23,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MATURE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 23,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NEW",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 23,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SEQUENCE",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 23,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "LGN",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 22,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SINGLE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care"
+    ],
+    "sourceOccurrences": 22,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INCREASE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 21,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MOLECULES",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 21,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PRESYNAPTIC",
+    "chapters": [
+      "Circuit development",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 21,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RESULT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 21,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SHOWS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 21,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SIMPLY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 21,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "WAS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 21,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EXAMPLE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 20,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FACTORS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care"
+    ],
+    "sourceOccurrences": 20,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "FETUS",
+    "chapters": [
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 20,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INFANT",
+    "chapters": [
+      "Methods",
+      "Parental care"
+    ],
+    "sourceOccurrences": 20,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PROCESSES",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Parental care"
+    ],
+    "sourceOccurrences": 20,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "WHEREAS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 20,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DEPENDENT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 19,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "GENERATE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 19,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HAS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 19,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PROTEINS",
+    "chapters": [
+      "Circuit development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 19,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SENSITIVITY",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 19,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CORRECT",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HEADER",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "HUMAN",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INCREASED",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INCREASES",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "INTERMEDIATE",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neurogenesis",
+      "Parental care"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "LEVEL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "LOCAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MANIPULATION",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "NON",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PATTERN",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "PRODUCED",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RESPOND",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SEVERAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "USED",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 18,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CENTRAL",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "CHANGING",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "DEPRIVED",
+    "chapters": [
+      "Experience"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "EFFECT",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "ESPECIALLY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "GRADIENTS",
+    "chapters": [
+      "Circuit development",
+      "Nervous system development"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "IDENTITY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Nervous system development",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "LESS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "LOW",
+    "chapters": [
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MAJOR",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Parental care"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "MUSCLE",
+    "chapters": [
+      "Circuit development",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "OVER",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis",
+      "Neuroplasticity"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "POPULATIONS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Neurogenesis"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "REDUCED",
+    "chapters": [
+      "Experience",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "RELATIVELY",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neurogenesis",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  },
+  {
+    "answer": "SYSTEMS",
+    "chapters": [
+      "Circuit development",
+      "Experience",
+      "Methods",
+      "Nervous system development",
+      "Neuroplasticity",
+      "Parental care",
+      "Prenatal development"
+    ],
+    "sourceOccurrences": 17,
+    "selectedForFinal": false
+  }
+]

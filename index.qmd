@@ -249,6 +249,12 @@ We will explore how the brain develops, changes, and is shaped by experience fro
 - [Course hours organization](https://docs.google.com/spreadsheets/d/1qpXS8NZQVh8ivDBvWvw8JgjOClufiBbsbusf2T3gOKI/edit?usp=sharing){target="_blank"}
 :::
 
+::: {.card}
+`Games`
+
+- [Neuroscience crossword](neurocrossword/index.html){target="_blank"}
+:::
+
 
 
 :::

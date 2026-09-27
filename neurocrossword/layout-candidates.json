@@ -1,0 +1,6 @@
+[
+  {"id":"fully-checked-21-a","dimensions":"21x21","blackPercentage":19.7,"answers":130,"threeLetterPercentage":23.1,"courseContentReview":"rejected","reason":"A fully checked fill required too many irrelevant names and dictionary fillers."},
+  {"id":"fully-checked-21-b","dimensions":"21x21","blackPercentage":22.4,"answers":132,"threeLetterPercentage":22.7,"courseContentReview":"rejected","reason":"Good density, but the fill did not meet the course-only clue standard."},
+  {"id":"dictionary-checked-19","dimensions":"19x19","blackPercentage":23.0,"answers":108,"threeLetterPercentage":16.7,"courseContentReview":"rejected","reason":"Balanced lengths, but the fill still contained obscure non-course vocabulary."},
+  {"id":"course-packed-19-playable","dimensions":"19x19","blackPercentage":21.1,"answers":85,"across":57,"down":28,"crossedPlayablePercentage":32.6,"threeLetterPercentage":24.7,"courseContentReview":"accepted","reason":"A bounded local rearrangement increased Down support while retaining reviewed course vocabulary and the existing block pattern."}
+]

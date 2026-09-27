@@ -25,7 +25,7 @@
     "href": "index.html#course-introduction",
     "title": "Psicobiologia ed Elementi di Neuroscienze Cognitive dello Sviluppo (Modulo 1)",
     "section": "Course introduction",
-    "text": "Course introduction\n\n\n\nMaterials and resources\n\nMoodle\nTextbook: Chapters: 2, 3, 4, 5, 6, 7, 12\n\n\n\nSchedule\n\nCourse hours organization\n\n\n\n\nExam\nWritten exam\n\n8 open-ended questions - 4 per module, maximum 2 points each\n16 true/false questions - 8 per module, with mandatory justification\nTrue/false score: from -0.25 to 1 point\n\nOral exam\nMandatory only if the written-exam grade is below 21.\n\n\nContact\nraffaelemario.mazziotti@unifi.it"
+    "text": "Course introduction\n\n\n\nMaterials and resources\n\nMoodle\nTextbook: Chapters: 2, 3, 4, 5, 6, 7, 12\n\n\n\nSchedule\n\nCourse hours organization\n\n\n\nGames\n\nNeuroscience crossword\n\n\n\n\nExam\nWritten exam\n\n8 open-ended questions - 4 per module, maximum 2 points each\n16 true/false questions - 8 per module, with mandatory justification\nTrue/false score: from -0.25 to 1 point\n\nOral exam\nMandatory only if the written-exam grade is below 21.\n\n\nContact\nraffaelemario.mazziotti@unifi.it"
   },
   {
     "objectID": "index.html#if-you-wish-to-make-a-mind-you-must-first-invent-the-brain",
@@ -1117,7 +1117,7 @@
     "href": "2_neurogenesis.html#transcription-factors-can-constrain-fate-and-migration",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Transcription factors can constrain fate and migration",
-    "text": "Transcription factors can constrain fate and migration\n\n\n\nIntrinsic developmental programs can control not only neuronal identity, but also the ability of neurons to reach the correct region.\n\n\nAn example is provided by Dlx1/Dlx2, transcription factors involved in the development of forebrain GABAergic interneurons.\nDisrupting this program strongly alters the normal migration of interneuron precursors toward the neocortex.\n\n\nDisruption of the Dlx developmental program reduce the number and function of cortical interneurons. This produces less inhibitory control of cortical circuits: In Dlx1 mutant mice, interneuron loss produces spontaneous generalized epileptic activity.\n\n\n\n\nDlx1/Dlx2-expressing interneuron progenitors are generated in the ganglionic eminences of the ventral telencephalon, adjacent to the developing striatum.\nFrom there, they migrate tangentially into the developing cerebral cortex, where they differentiate into cortical GABAergic interneurons."
+    "text": "Transcription factors can constrain fate and migration\n\n\n\nIntrinsic developmental programs can control not only neuronal identity, but also the ability of neurons to reach the correct region.\n\n\nAn example is provided by Dlx1/Dlx2, transcription factors involved in the development of forebrain GABAergic interneurons.\n\n\nDisruption of the Dlx developmental program reduce the number and function of cortical interneurons. In Dlx1 mutant mice, interneuron loss produces spontaneous generalized epileptic activity.\n\n\n\n\nDlx1/Dlx2-expressing interneuron progenitors are generated in the ganglionic eminences of the ventral telencephalon, adjacent to the developing striatum.\nFrom there, they migrate tangentially into the developing cerebral cortex, where they differentiate into cortical GABAergic interneurons."
   },
   {
     "objectID": "2_neurogenesis.html#the-environment-also-instructs-cell-fate",
@@ -1131,7 +1131,7 @@
     "href": "2_neurogenesis.html#neural-crest-one-population-many-outcomes",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Neural crest: one population, many outcomes",
-    "text": "Neural crest: one population, many outcomes\n\n\n\nNeural crest cells provide a clear example of multipotent progenitors whose fate depends strongly on the signals encountered during migration.\n\n\nNeural crest derivatives include, among others:\n\nsensory neurons\nautonomic neurons\nenteric neurons\nSchwann cells\nmelanocytes\nsmooth-muscletarget=“_blank”}"
+    "text": "Neural crest: one population, many outcomes\n\n\n\nNeural crest cells provide a clear example of multipotent progenitors whose fate depends strongly on the signals encountered during migration.\n\n\nNeural crest derivatives include, among others:\n\nsensory neurons\nautonomic neurons\nenteric neurons\nSchwann cells\nmelanocytes\nsmooth-muscle"
   },
   {
     "objectID": "2_neurogenesis.html#cell-fate-is-an-interaction",
@@ -1222,7 +1222,7 @@
     "href": "2_neurogenesis.html#neurotrophic-factors",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Neurotrophic factors",
-    "text": "Neurotrophic factors\n\n\n\nNeurotrophic factors are extracellular signals that promote the survival, growth and differentiation of specific neuronal populations.\n\n\nNGF: Nerve Growth Factor\nNGF is especially important for the survival and development of particular populations of peripheral sensory and sympathetic neurons.\n\n\n\n\n\n\nBDNF: Brain-Derived Neurotrophic Factor\nBDNF supports the survival and differentiation of several neuronal populations in both the peripheral and central nervous system.\nIt also has important roles later in development in:\n\ndendritic and axonal growth\nsynapse formation\nsynaptic plasticity\n\n\n\nDifferent neurons depend on different neurotrophic signals.\nNGF, BDNF, NT-3, and NT-4 belong to the neurotrophin family and act through specific Trk receptors."
+    "text": "Neurotrophic factors\n\n\n\nNeurotrophic factors are extracellular signals that promote the survival, growth and differentiation of specific neuronal populations.\n\n\nNGF: is especially important for the survival and development of particular populations of peripheral sensory and sympathetic neurons.\n\n\n\n\n\n\nBDNF: Brain-Derived Neurotrophic Factor\nBDNF supports the survival and differentiation of several neuronal populations in both the peripheral and central nervous system.\nIt also has important roles later in development in:\n\ndendritic and axonal growth\nsynapse formation\nsynaptic plasticity\n\n\n\nDifferent neurons depend on different neurotrophic signals.\nNGF, BDNF, NT-3, and NT-4 belong to the neurotrophin family and act through specific Trk receptors."
   },
   {
     "objectID": "2_neurogenesis.html#competition-for-survival",
