@@ -4,6 +4,7 @@ project:
   resources:
     - images/shared/ui/home.svg
     - images/shared/ui/search.svg
+    - images/shared/branding/pbs_favicon2.png
     - quiz/**
     - neurocrossword
   render:
@@ -21,18 +22,28 @@ format:
     slide-number: true
     logo: images/shared/branding/NEUROFARBA_logo.svg
     css: slide_style.css
+
+    include-in-header:
+      - text: |
+          <link rel="icon" type="image/png" href="images/shared/branding/pbs_favicon2.png">
+
     include-after-body: afterbody.html
     transition: fade
     center: true
     math: mathjax
+
     chalkboard:
       buttons: false
+
     progress: true
+
     title-slide-attributes:
       data-background-image: images/shared/branding/NEUROFARBA.svg
       data-background-size: 500px
       data-background-position: "center 10%"
+
     mermaid:
       theme: neutral
+
     scroll-view:
       activation-width: 0
