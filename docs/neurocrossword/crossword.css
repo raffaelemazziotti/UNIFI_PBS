@@ -95,10 +95,9 @@ h1 {
   width: max-content;
   grid-template-columns: repeat(var(--grid-width), var(--cell-size));
   grid-template-rows: repeat(var(--grid-height), var(--cell-size));
-  gap: 1px;
-  padding: 1px;
+  gap: 0;
+  padding: 0;
   border: 2px solid var(--line);
-  background: var(--line);
 }
 
 .block { width: var(--cell-size); height: var(--cell-size); background: #16252c; }
@@ -111,13 +110,14 @@ h1 {
   border: 0;
   color: var(--ink);
   background: var(--surface);
+  box-shadow: inset 0 0 0 1px var(--line);
   cursor: pointer;
   text-transform: uppercase;
 }
 
 .cell.in-word { background: var(--word); }
 .cell.completed { background: var(--correct); }
-.cell.active { z-index: 2; background: var(--active); box-shadow: inset 0 0 0 3px var(--line); }
+.cell.active { z-index: 2; background: var(--active); box-shadow: inset 0 0 0 1px var(--line), inset 0 0 0 3px var(--line); }
 .cell-number { position: absolute; top: 2px; left: 2px; font-size: clamp(7px, calc(var(--cell-size) * .24), 10px); font-weight: 750; line-height: 1; }
 .cell-letter { display: block; padding-top: 5px; font-size: clamp(17px, calc(var(--cell-size) * .58), 24px); font-weight: 650; line-height: var(--cell-size); }
 

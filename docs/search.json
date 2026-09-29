@@ -998,7 +998,7 @@
     "href": "2_neurogenesis.html#neurogenesis-differentiation-and-neuronal-survival",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Neurogenesis, differentiation and neuronal survival",
-    "text": "Neurogenesis, differentiation and neuronal survival\n\n\n\nOnce the nervous system has been regionalized, each region still has to be populated with the right number and the right types of cells.\n\n\nThis requires three closely connected processes:\n\nneurogenesis: generation of neurons from neural progenitors\ndifferentiation: acquisition of a specific neuronal identity\nneuronal survival: selective maintenance or elimination of newly generated neurons\n\n\n\nVideo"
+    "text": "Neurogenesis, differentiation and neuronal survival\n\n\n\nOnce the nervous system has been regionalized, each region still has to be populated with the right number and the right types of cells.\n\n\nThis requires three closely connected processes:\n\nneurogenesis: generation of neurons from neural progenitors\ndifferentiation: acquisition of a specific neuronal identity\nneuronal survival: selective maintenance or elimination of newly generated neurons"
   },
   {
     "objectID": "2_neurogenesis.html#from-a-progenitor-to-a-neuronal-population",
@@ -1040,7 +1040,7 @@
     "href": "2_neurogenesis.html#intermediate-progenitors-amplify-neurogenesis",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Intermediate progenitors amplify neurogenesis",
-    "text": "Intermediate progenitors amplify neurogenesis\n\n\n\n\n\n\nNot every neuron is generated directly by an apical progenitor.\nRadial glial cells can also generate intermediate progenitor cells, which divide away from the ventricular surface.\n\n\n\nIntermediate progenitors provide an additional amplification step. This strategy increases the number of neurons that can be produced from the original progenitor population."
+    "text": "Intermediate progenitors amplify neurogenesis\n\n\n\n\n\n\nNot every neuron is generated directly by an apical progenitor.\nRadial glial cells can also generate intermediate progenitor cells (IPC), which divide away from the ventricular surface.\n\n\n\nIntermediate progenitors provide an additional amplification step. This strategy increases the number of neurons that can be produced from the original progenitor population."
   },
   {
     "objectID": "2_neurogenesis.html#radial-glia-progenitors-and-scaffolds",
@@ -1145,7 +1145,7 @@
     "href": "2_neurogenesis.html#neuronal-survival",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Neuronal survival",
-    "text": "Neuronal survival\n\n\n\nNeurogenesis produces more neurons than will ultimately be retained in many developing neuronal populations.\n\n\nBecoming a neuron therefore does not guarantee becoming part of the mature nervous system.\nNewly generated neurons must also pass through a period of selective survival."
+    "text": "Neuronal survival\n\n\n\nNeurogenesis produces more neurons than will ultimately be retained in many developing neuronal populations.\n\n\nBecoming a neuron therefore does not guarantee becoming part of the mature nervous system.\nNewly generated neurons must also pass through a period of selective survival.\n\n\nDuring nervous-system development, neurons are produced in excess. In many neuronal populations, up to about 50% of the initially generated neurons are subsequently eliminated."
   },
   {
     "objectID": "2_neurogenesis.html#development-includes-programmed-cell-death",

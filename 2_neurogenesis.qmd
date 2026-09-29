@@ -24,7 +24,17 @@ This requires three closely connected processes:
 :::
 ::: {.column}
 
-![](images/2_neurogenesis/video/2_ndm_neuron_death.mp4){autoplay="true" muted="true" loop="true" controls="False" width="100%"}
+
+ <video
+  data-autoplay
+  autoplay
+  muted
+  loop
+  playsinline
+  title="The death of a neuron."
+  width="100%">
+  <source src="images/2_neurogenesis/video/2_ndm_neuron_death.mp4" type="video/mp4">
+</video>
 
 :::
 :::
@@ -176,7 +186,7 @@ progenitor: progenitor + neuron
 ::: {.info-box}
 Not every neuron is generated directly by an apical progenitor.
 
-Radial glial cells can also generate `intermediate progenitor cells`, which divide away from the ventricular surface.
+Radial glial cells can also generate `intermediate progenitor cells (IPC)`, which divide away from the ventricular surface.
 :::
 
 
@@ -606,6 +616,11 @@ Neurogenesis produces more neurons than will ultimately be retained in many deve
 Becoming a neuron therefore does not guarantee becoming part of the mature nervous system.
 
 Newly generated neurons must also pass through a period of <u>selective survival</u>.
+:::
+
+:::{.card}
+During nervous-system development, neurons are produced in excess. In many neuronal populations, <u>up to about 50% of the initially generated neurons are subsequently eliminated</u>.
+
 :::
 
 :::

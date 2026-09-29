@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#176b68">
+  <title>Brain Development</title>
+  <link rel="stylesheet" href="game.css">
+</head>
+<body>
+  <main class="game-shell" id="gameShell">
+    <header class="game-header">
+      <div>
+        <p class="eyebrow">Developmental simulation</p>
+        <h1>Brain Development</h1>
+        <p class="intro">Guide a simplified model of nervous system development by balancing the biological processes that shape a developing brain.</p>
+      </div>
+      <button class="text-button" id="restartButton" type="button">Restart game</button>
+    </header>
+
+    <section class="timeline-card" aria-label="Developmental timeline">
+      <div class="stage-heading">
+        <div>
+          <span id="stageCounter">Stage 1 / 6</span>
+          <h2 id="stageName">Neural induction</h2>
+        </div>
+        <p id="stageDescription"></p>
+      </div>
+      <ol class="timeline" id="timeline"></ol>
+    </section>
+
+    <section class="dashboard">
+      <article class="brain-card card" aria-labelledby="brainTitle">
+        <div class="card-heading">
+          <h3 id="brainTitle">Developing nervous system</h3>
+          <span id="periodLabel" class="period-label"></span>
+        </div>
+        <svg class="brain-visual" id="brainVisual" viewBox="0 0 460 250" role="img" aria-labelledby="brainVisualTitle brainVisualDesc">
+          <title id="brainVisualTitle">Schematic developing nervous system</title>
+          <desc id="brainVisualDesc">The diagram becomes more organized and connected as development advances.</desc>
+          <defs>
+            <clipPath id="brainClip">
+              <path d="M82 129c-2-45 31-84 76-89 26-31 82-34 115-8 43-9 84 19 88 60 28 17 34 58 12 82-20 23-52 27-77 14-22 27-68 34-99 14-32 17-74 7-91-23-19-8-29-28-24-50Z"/>
+            </clipPath>
+          </defs>
+          <path class="brain-outline" d="M82 129c-2-45 31-84 76-89 26-31 82-34 115-8 43-9 84 19 88 60 28 17 34 58 12 82-20 23-52 27-77 14-22 27-68 34-99 14-32 17-74 7-91-23-19-8-29-28-24-50Z"/>
+          <path class="neural-fold" data-stage="0" d="M129 128c45-34 88-37 132-5 36 27 68 24 99 2"/>
+          <g class="network" clip-path="url(#brainClip)">
+            <g class="connections" id="connections">
+              <path data-stage="3" d="M139 93 194 70 243 105 299 72 338 116"/>
+              <path data-stage="3" d="M123 143 181 119 231 151 286 127 344 158"/>
+              <path data-stage="4" d="M139 93 181 119 194 70 231 151 243 105 286 127 299 72 344 158"/>
+              <path data-stage="4" d="M123 143 168 181 231 151 273 184 344 158"/>
+              <path data-stage="5" d="M168 181 181 119 243 105 273 184 286 127 338 116"/>
+              <path data-stage="5" d="M139 93 231 151 299 72M194 70 286 127 344 158"/>
+            </g>
+            <g class="migration-arrows" data-stage="2">
+              <path d="M183 173 183 132M175 140l8-8 8 8"/>
+              <path d="M246 177 246 126M238 134l8-8 8 8"/>
+              <path d="M307 167 307 120M299 128l8-8 8 8"/>
+            </g>
+            <g class="nodes" id="nodes">
+              <circle data-stage="1" cx="139" cy="93" r="9"/><circle data-stage="1" cx="194" cy="70" r="8"/>
+              <circle data-stage="1" cx="243" cy="105" r="10"/><circle data-stage="1" cx="299" cy="72" r="8"/>
+              <circle data-stage="2" cx="338" cy="116" r="9"/><circle data-stage="2" cx="123" cy="143" r="8"/>
+              <circle data-stage="2" cx="181" cy="119" r="9"/><circle data-stage="2" cx="231" cy="151" r="9"/>
+              <circle data-stage="3" cx="286" cy="127" r="10"/><circle data-stage="3" cx="344" cy="158" r="8"/>
+              <circle data-stage="4" cx="168" cy="181" r="9"/><circle data-stage="4" cx="273" cy="184" r="9"/>
+            </g>
+          </g>
+          <path class="brain-stem" data-stage="3" d="M272 196c4 21 13 31 29 43"/>
+        </svg>
+        <p class="visual-note" id="visualNote">Early signals establish neural identity and organize the neural plate.</p>
+      </article>
+
+      <aside class="state-card card" aria-labelledby="stateTitle">
+        <div class="card-heading">
+          <h3 id="stateTitle">Developmental state</h3>
+          <span class="range-note">0–100</span>
+        </div>
+        <div id="stateMeters" class="state-meters"></div>
+        <p class="balance-note" id="balanceNote">Healthy development depends on coordinated change, not maximizing every variable.</p>
+      </aside>
+    </section>
+
+    <section class="decision-card card" id="decisionCard" aria-labelledby="decisionTitle">
+      <div class="decision-heading">
+        <div>
+          <p class="eyebrow">Allocate resources</p>
+          <h3 id="decisionTitle">Choose a developmental balance</h3>
+        </div>
+        <div class="resource-counter" aria-live="polite">
+          <span>Resources remaining</span>
+          <strong id="resourcesRemaining">5</strong>
+        </div>
+      </div>
+      <div class="process-grid" id="processGrid"></div>
+
+      <div class="event-card" id="eventCard" hidden>
+        <div>
+          <p class="eyebrow">Developmental event</p>
+          <h4 id="eventTitle"></h4>
+          <p id="eventDescription"></p>
+        </div>
+        <div class="event-choices" id="eventChoices"></div>
+      </div>
+
+      <div class="advance-row">
+        <p class="allocation-message" id="allocationMessage" aria-live="polite">Allocate all 5 resources to continue.</p>
+        <button class="primary-button" id="advanceButton" type="button" disabled>Advance development</button>
+      </div>
+    </section>
+
+    <section class="result-card card" id="resultCard" hidden aria-labelledby="resultTitle">
+      <p class="eyebrow">Development complete</p>
+      <h2 id="resultTitle"></h2>
+      <p class="result-summary" id="resultSummary"></p>
+      <div class="final-state" id="finalState"></div>
+      <ul class="result-notes" id="resultNotes"></ul>
+      <button class="primary-button" id="playAgainButton" type="button">Develop another network</button>
+    </section>
+  </main>
+
+  <script src="game-data.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>
