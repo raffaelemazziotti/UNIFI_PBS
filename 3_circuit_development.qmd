@@ -1,6 +1,6 @@
 ---
-title: "Neurogenesis, differentiation and neuronal survival"
-subtitle: "From neural progenitors to mature neuronal populations"
+title: "Development of Neural Circuits"
+subtitle: "From axon guidance to synaptogenesis and myelination"
 lang: en-US
 ---
 

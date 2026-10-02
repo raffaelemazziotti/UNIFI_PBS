@@ -154,13 +154,13 @@ The outcome of a progenitor division can be different for the two daughter cells
 :::
 
 ::: {.card}
-A `symmetric proliferative division` (or horizontal division)  can generate:
+A `symmetric proliferative division` (or vertical horizontal division)  can generate:
 
 progenitor: progenitor + progenitor
 :::
 
 ::: {.card}
-An `asymmetric neurogenic division` (or vertical division) can generate:
+An `asymmetric neurogenic division` (or horizontal division) can generate:
 
 progenitor: progenitor + neuron
 :::
@@ -996,7 +996,6 @@ or
 :::
 
 ## Constructive and regressive processes
-
 
 >The mature nervous system is not created by simply adding cells.
 It is produced by repeated cycles of <u>generation</u>, <u>selection</u>, and <u>refinement</u>.
