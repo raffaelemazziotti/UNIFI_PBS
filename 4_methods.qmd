@@ -435,13 +435,14 @@ Heart rate changes dynamically with `arousal`, `orienting` and `attention`.
 :::
 
 ::: {.card}
-During visual attention in infants, sustained engagement is often associated with a decrease in [heart rate variability](https://en.wikipedia.org/wiki/Heart_rate_variability){target="_blank"} (HRV) relative to baseline.
+
+During visual attention in infants, sustained engagement is often associated with a characteristic <u>deceleration of heart rate (HR)</u> relative to baseline.
+During sustained visual attention, [HRV](https://en.wikipedia.org/wiki/Heart_rate_variability){target="_blank"} can decrease transiently, reflecting changes `autonomic regulation`.
 :::
 
 ::: {.card}
 The signal is informative but <u>not specific</u>:
-
-a change in HRV cannot by itself identify the exact cognitive process that produced it.
+a change in HR cannot by itself identify the exact cognitive process that produced it.
 :::
 
 :::
@@ -1093,8 +1094,8 @@ Changes in `O2Hb` and `HHb` reflect the local hemodynamic response, while `tHb` 
 ::: {.card}
 `Strengths`
 
-- better temporal sampling than typical fMRI
-- easier to use during social interaction
+- <u>better temporal sampling</u> than typical fMRI
+- easier to use during <u>social interaction</u>
 - can be used while infants sit with a caregiver
 - relatively low experimental burden
 :::
@@ -1105,9 +1106,9 @@ Changes in `O2Hb` and `HHb` reflect the local hemodynamic response, while `tHb` 
 ::: {.card}
 `Limitations`
 
-- slower than EEG because it measures hemodynamics
-- lower spatial resolution than MRI
-- primarily sensitive to superficial cortex
+- <u>slower than EEG</u> because it measures hemodynamics
+- lower <u>spatial resolution</u> than MRI
+- primarily sensitive to <u>superficial cortex</u>
 - affected by scalp blood flow and movement
 :::
 

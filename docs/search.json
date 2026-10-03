@@ -214,7 +214,7 @@
     "href": "7_parental_care.html#dna-methylation-and-histone-modifications",
     "title": "Parental Care and Attachment",
     "section": "DNA methylation and histone modifications",
-    "text": "DNA methylation and histone modifications\n\n\n\nDNA methylation\nSmall chemical groups called methyl groups are added to DNA, often at cytosine bases.\nHigh DNA methylation near a gene promoter is usually associated with reduced gene expression.\n\n\n\nHistone modifications\nDNA is wrapped around histone proteins.\nChemical modifications to histone tails can make chromatin more open or more compact, changing gene accessibility.\n\n\n\nIn simple terms: DNA methylation often acts like a “do not read” signal, while histone modifications can open or close the chromatin structure."
+    "text": "DNA methylation and histone modifications\n\n\n\nDNA methylation\nSmall chemical groups called methyl groups are added to DNA, often at cytosine bases. In segments of DNA called CpG islands\nHigh DNA methylation near a gene promoter is usually associated with reduced gene expression.\n\n\n\nHistone modifications\nDNA is wrapped around histone proteins.\nChemical modifications to histone tails can make chromatin more open or more compact, changing gene accessibility.\n\n\n\nIn simple terms:\n\nDNA methylation often acts like a “do not read” signal\nHistone modifications can open or close the chromatin structure, regulating the accessibility to specific genes."
   },
   {
     "objectID": "7_parental_care.html#dna-methylation-and-histone-modifications-1",
@@ -228,7 +228,7 @@
     "href": "7_parental_care.html#early-care-can-modify-gene-expression-epigenetically",
     "title": "Parental Care and Attachment",
     "section": "Early care can modify gene expression epigenetically",
-    "text": "Early care can modify gene expression epigenetically\n\n\n\nMaternal care influences regulation of the hippocampal glucocorticoid receptor (GR) gene.\nHigh maternal care is associated with:\n\nreduced DNA methylation at a GR promoter\ngreater access of transcription factors such as NGFI-A / EGR1\nincreased GR expression\n\n\n\nAn early social experience can become biologically persistent by altering how strongly genes are expressed, without changing the DNA sequence.\n\n\n\n\nWeaver et al., 2004"
+    "text": "Early care can modify gene expression epigenetically\n\n\n\nMaternal care influences regulation of the hippocampal glucocorticoid receptor (GR) gene. Particularly through tactile stimulation (licking/grroming)\nHigh maternal care is associated with:\n\nreduced DNA methylation at a GR promoter\ngreater access of transcription factors such as NGFI-A / EGR1\nincreased GR expression (Nr3c1 is the gene)\n\n\n\nAn early social experience can become biologically persistent by altering how strongly genes are expressed, without changing the DNA sequence.\n\n\n\n\nWeaver et al., 2004"
   },
   {
     "objectID": "7_parental_care.html#epigenetic-programming-is-stable-but-not-necessarily-permanent",
@@ -250,6 +250,13 @@
     "title": "Parental Care and Attachment",
     "section": "Early experience changes probabilities, not destiny",
     "text": "Early experience changes probabilities, not destiny\n\nEarly parental care can have long-lasting effects because it acts while neural, endocrine, and epigenetic systems are developing.\n\n\nBut later experience continues to matter.\nSocial environment, enrichment, stress, and new relationships can interact with the developmental state created earlier in life.\n\n\nEarly experience can bias developmental trajectories without rigidly determining a single adult outcome."
+  },
+  {
+    "objectID": "7_parental_care.html#neurocinema",
+    "href": "7_parental_care.html#neurocinema",
+    "title": "Parental Care and Attachment",
+    "section": "Neurocinema",
+    "text": "Neurocinema\n\n\n\n\n\n\n\nThree Identical Strangers (2018)\nDirector: Tim Wardle\nThe documentary tells the story of three identical triplets who were separated at birth, adopted by different families, and unexpectedly reunited as young adults.\n\n\nWhy is it relevant?\nThe film provides a striking example of the classic nature versus nurture problem.\nBecause the brothers share the same genome but grew up in different families, their similarities and differences raise questions about how genes, parental care, and early environment interact during development."
   },
   {
     "objectID": "7_parental_care.html#self-check",
@@ -466,7 +473,14 @@
     "href": "5_neuroplasticity.html#studying-synaptic-plasticity-in-animal-models",
     "title": "Neuroplasticity",
     "section": "Studying synaptic plasticity in animal models",
-    "text": "Studying synaptic plasticity in animal models\n\n\n\nTwo-photon microscopy\n\n\n\n\n\n\nTwo-photon spines dynamics\n\n\n\n\n\n\n\nOptogenetics\n\n\n\n\n\n\nViral vectors\n\n\n\n\n\n\n\nAnimal models make it possible to measure, manipulate and visualize plasticity at cellular and synaptic resolution."
+    "text": "Studying synaptic plasticity in animal models\n\n\n\nTwo-photon microscopy\n\n\n\n\n\n\nTwo-photon spines dynamics\n\n\n\n\n\n\n\nOptogenetics\n\n\n\n\n\n\nViral vectors\n\n\n\n\n\n\n\nAnimal models make it possible to measure, manipulate and visualize plasticity at synaptic resolution."
+  },
+  {
+    "objectID": "5_neuroplasticity.html#neurocinema",
+    "href": "5_neuroplasticity.html#neurocinema",
+    "title": "Neuroplasticity",
+    "section": "Neurocinema",
+    "text": "Neurocinema\n\n\n\n\n\n\nError spotted:\nLeonard describes his condition as a problem of short-term memory, but his short-term is largely preserved.\n\n\n\nMemento (2000)\nDirector: Christopher Nolan\nA man with severe anterograde amnesia is unable to form stable new long-term memories and relies on notes, photographs, and tattoos to reconstruct his recent past.\n\n\nWhy is it relevant?\nThe film raises a central question about memory and plasticity:\nHow can experience shape behavior if new memories cannot be consolidated?\nIt highlights the distinction between short-term experience, long-term memory formation, and the external strategies that can partially compensate when memory systems are impaired."
   },
   {
     "objectID": "5_neuroplasticity.html#self-check",
@@ -478,301 +492,308 @@
   {
     "objectID": "3_circuit_development.html#development-of-neural-circuits",
     "href": "3_circuit_development.html#development-of-neural-circuits",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Development of neural circuits",
     "text": "Development of neural circuits\n\n\n\nAt this point, neurons have been generated, differentiated, migrated to their appropriate regions, and selected for survival.\nThe next developmental problem is to connect them into functional circuits.\n\n\nCircuit formation requires neurons to:\n\nextend axons toward appropriate targets\nrecognize the correct cells and subcellular regions\nform and stabilize synapses\neliminate inappropriate connections\norganize axons for efficient signal transmission"
   },
   {
     "objectID": "3_circuit_development.html#three-major-phases",
     "href": "3_circuit_development.html#three-major-phases",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Three major phases",
     "text": "Three major phases\n\nThe formation of neural circuits can be organized into 3 major developmental processes.\n\n\n\n\n1. Axon growth and guidance\nAxons extend over (sometimes very long) distances and make a sequence of directional choices.\n\n\n\n2. Synaptogenesis\nAxons recognize appropriate targets and assemble functional synaptic contacts.\n\n\n\n3. Myelination\nGlial cells organize many axons into structures specialized for rapid and reliable conduction.\n\n\n\nBuilding a circuit requires not only reaching the correct region, but also selecting the correct cell, the correct subcellular target, and the correct connections to maintain."
   },
   {
     "objectID": "3_circuit_development.html#axon-growth-and-guidance",
     "href": "3_circuit_development.html#axon-growth-and-guidance",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Axon growth and guidance",
     "text": "Axon growth and guidance\n\n\n\nA differentiating neuron develops an axon that may have to travel a distance many times larger than the diameter of the cell body.\n\n\nAxonal growth is a directed process.\nThe growing axon continuously samples its environment and changes direction in response to extracellular signals.\n\n\nThe structure that performs this exploration is the growth cone."
   },
   {
     "objectID": "3_circuit_development.html#the-growth-cone",
     "href": "3_circuit_development.html#the-growth-cone",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "The growth cone",
     "text": "The growth cone\n\n\n\nThe growth cone is a highly dynamic structure located at the tip of a growing axon.\n\n\nIt contains:\n\nfilopodia that explore the surrounding environment\nlamellipodia that extend and retract\nan actin-rich peripheral domain\nmicrotubules extending from the axon into the growth cone\n\n\n\nSignals detected at the growth cone are translated into cytoskeletal changes that determine the direction of axonal growth."
   },
   {
     "objectID": "3_circuit_development.html#axons-do-not-find-their-target-in-one-step",
     "href": "3_circuit_development.html#axons-do-not-find-their-target-in-one-step",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Axons do not find their target in one step",
     "text": "Axons do not find their target in one step\n\nAxon guidance is a progressive and stepwise process.\nA growing axon does not need to identify its final target from the beginning.\n\n\nInstead, the growth cone encounters a sequence of intermediate cues and choice points.\nAt each stage it can:\n\ncontinue along a permissive substrate\nfollow another axon\nturn toward an attractive signal\nturn away from a repulsive signal\ncross or avoid a boundary\n\n\n\nlocal decision + local decision + local decision -&gt; correct long-range connection"
   },
   {
     "objectID": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions",
     "href": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "How does the growth cone make local decisions?",
     "text": "How does the growth cone make local decisions?\n\n\n\nExtracellular matrix adhesion (Laminin)\nProvides a permissive substrate on which the growth cone can attach and extend.\n\n\nCell-surface adhesion (NCAM)\nPromotes adhesion between the growing axon and neighboring neural cells.\n\n\nFasciculation (Fasciclin)\nAllows growing axons to adhere to and follow pre-existing axonal pathways.\n\n\n\n\n\nThe final direction of axonal growth reflects the integration of multiple local signals, not the action of a single cue."
   },
   {
     "objectID": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions-2",
     "href": "3_circuit_development.html#how-does-the-growth-cone-make-local-decisions-2",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "How does the growth cone make local decisions? 2",
     "text": "How does the growth cone make local decisions? 2\n\n\n\nChemoattraction (Netrin)\nA diffusible cue that can attract the growth cone toward its source.\n\n\nContact-mediated repulsion (Ephrins)\nContact with ephrin-expressing cells can trigger growth-cone collapse or redirection.\n\n\nChemorepulsion (Netrin)\nDepending on the competence of the growth cone, netrin can also act as a repulsive cue.\n\n\n\n\n\nThe final direction of axonal growth reflects the integration of multiple local signals, not the action of a single cue."
   },
   {
     "objectID": "3_circuit_development.html#sperry-and-the-chemoaffinity-hypothesis",
     "href": "3_circuit_development.html#sperry-and-the-chemoaffinity-hypothesis",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Sperry and the chemoaffinity hypothesis",
     "text": "Sperry and the chemoaffinity hypothesis\n\n\n\nRoger Sperry proposed that neurons and their targets carry molecular labels that help axons recognize their appropriate destination.\n\n\nThis became known as the chemoaffinity hypothesis.\nThe idea was developed from experiments on the visual system, where retinal axons form an ordered map in the optic tectum.\n\n\nThe hypothesis predicted that axons do not connect randomly and then become organized later.\nThey possess molecular information that biases them toward specific target locations."
   },
   {
     "objectID": "3_circuit_development.html#sperrys-eye-rotation-experiment",
     "href": "3_circuit_development.html#sperrys-eye-rotation-experiment",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Sperry’s eye-rotation experiment",
     "text": "Sperry’s eye-rotation experiment\n\n\n\n\nRegeneration of the optic nerve (1963)\n\n\n\nManipulation\n\nThe frog eye was rotated by 180°, the optic nerve was cut, and retinal axons were allowed to regenerate.\n\n\n\nObservation\n\nAfter regeneration, axons returned to approximately their original tectal locations.\n\n\n\nBehavior\n\nBecause the eye had been rotated, the regenerated anatomical map produced systematically inappropriate visually guided behavior."
   },
   {
     "objectID": "3_circuit_development.html#what-sperrys-experiment-showed",
     "href": "3_circuit_development.html#what-sperrys-experiment-showed",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "What Sperry’s experiment showed",
     "text": "What Sperry’s experiment showed\n\nRegenerating retinal axons did not simply connect to the nearest available tectal neurons.\nThey showed a strong tendency to return to their previous topographic positions.\n\n\nThis supported the idea that:\nretinal position -&gt; molecular identity -&gt; preferred tectal position\n\n\nThe experiment introduced a central principle of circuit development:\nconnectivity can be specified by matching molecular information between projecting neurons and their targets."
   },
   {
     "objectID": "3_circuit_development.html#topographic-maps",
     "href": "3_circuit_development.html#topographic-maps",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Topographic maps",
     "text": "Topographic maps\n\n\n\nMany sensory and motor pathways preserve spatial relationships between neighboring neurons.\nThis organization is called a topographic map.\n\n\nIn the visual system, neighboring retinal ganglion cells project to neighboring regions of their central target.\nThe spatial organization of the retina is therefore transformed into a retinotopic map.\n\n\nTopographic maps can be generated using graded molecular signals, rather than a unique molecular label for every single neuron."
   },
   {
     "objectID": "3_circuit_development.html#from-labels-to-molecular-gradients",
     "href": "3_circuit_development.html#from-labels-to-molecular-gradients",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "From labels to molecular gradients",
     "text": "From labels to molecular gradients\n\nChemoaffinity does not require a different molecule for every possible connection.\nA small number of molecules expressed as gradients can provide positional information.\n\n\nAxons expressing different levels of a receptor respond differently to a gradient of its ligand in the target tissue.\nThis converts a continuous molecular gradient into an ordered pattern of connections.\n\n\nThis is conceptually similar to the morphogen gradients encountered earlier."
   },
   {
     "objectID": "3_circuit_development.html#eph-receptors-and-ephrins",
     "href": "3_circuit_development.html#eph-receptors-and-ephrins",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Eph receptors and ephrins",
     "text": "Eph receptors and ephrins\n\n\n\nEph receptors and their ephrin ligands are important molecular cues for the formation of many topographic projections.\n\n\nIn the retinotectal system, graded Eph/ephrin expression helps retinal axons distinguish different positions along the target.\nFor some retinal axons, increasing ephrin concentration acts as a repulsive signal.\n\n\nDifferent levels of receptor expression therefore produce different preferred termination zones."
   },
   {
     "objectID": "3_circuit_development.html#the-growth-cone-integrates-many-signals",
     "href": "3_circuit_development.html#the-growth-cone-integrates-many-signals",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "The growth cone integrates many signals",
     "text": "The growth cone integrates many signals\n\nAxon guidance is not controlled by a single class of molecule.\nThe growth cone integrates multiple signals present in the extracellular environment.\n\n\n\n\nContact-dependent signals\n\nextracellular matrix adhesion\ncell-surface adhesion\nfasciculation\ncontact-mediated repulsion\n\n\n\n\nDiffusible signals\n\nchemoattraction\nchemorepulsion\n\n\n\n\nThe direction of growth reflects the combined effect of these signals on the growth-cone cytoskeleton."
   },
   {
     "objectID": "3_circuit_development.html#adhesion-to-the-extracellular-environment",
     "href": "3_circuit_development.html#adhesion-to-the-extracellular-environment",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Adhesion to the extracellular environment",
     "text": "Adhesion to the extracellular environment\n\n\n\nGrowing axons need a physical substrate on which the growth cone can attach and generate traction.\n\n\nExtracellular matrix molecules such as laminin can provide a permissive substrate for axonal growth.\nCell-adhesion molecules such as NCAM can also promote interactions between neural cells.\n\n\nAdhesion does more than attach the axon mechanically.\nBinding to extracellular molecules activates intracellular pathways that influence growth-cone movement.\n\n\nVideo"
   },
   {
     "objectID": "3_circuit_development.html#fasciculation-axons-can-follow-other-axons",
     "href": "3_circuit_development.html#fasciculation-axons-can-follow-other-axons",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Fasciculation: axons can follow other axons",
     "text": "Fasciculation: axons can follow other axons\n\n\n\nA growing axon does not always navigate through tissue independently.\nAxons can grow along previously established axons in a process called fasciculation.\n\n\nEarly pioneer axons can establish an initial route.\nLater axons can recognize adhesion molecules on those axons and use the existing pathway as a developmental scaffold.\n\n\nThis greatly reduces the number of independent navigational decisions required to build a long axonal tract."
   },
   {
     "objectID": "3_circuit_development.html#diffusible-guidance-cues",
     "href": "3_circuit_development.html#diffusible-guidance-cues",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Diffusible guidance cues",
     "text": "Diffusible guidance cues\n\nSome guidance molecules are secreted into the extracellular environment and form concentration gradients.\nThe growth cone can compare signal strength across its surface and turn relative to the source.\n\n\n\n\nChemoattraction\nThe growth cone turns toward a source of guidance molecules.\n\n\n\nChemorepulsion\nThe growth cone turns away from a source of guidance molecules.\n\n\n\nOne important family of diffusible axon-guidance molecules is the netrin family."
   },
   {
     "objectID": "3_circuit_development.html#netrin-and-intermediate-targets",
     "href": "3_circuit_development.html#netrin-and-intermediate-targets",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Netrin and intermediate targets",
     "text": "Netrin and intermediate targets\n\n\n\nNetrins can guide growing axons over a distance and are especially important at developmental choice points such as the neural midline.\n\n\nThe optic chiasm provides one example. Retinal axons reaching the midline must adopt either:\n\na contralateral projection that crosses the midline\nan ipsilateral projection that avoids crossing\n\n\n\nFor some axons, netrin acts as an attractive cue that guides the growth cone toward an intermediate target. After reaching that region, the axon can change its molecular state and respond differently to subsequent cues.\n\n\n\n\nAn intermediate target therefore does not have to be the final destination.\nIt can act as a navigation checkpoint."
   },
   {
     "objectID": "3_circuit_development.html#guidance-depends-on-axonal-competence",
     "href": "3_circuit_development.html#guidance-depends-on-axonal-competence",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Guidance depends on axonal competence",
     "text": "Guidance depends on axonal competence\n\nA guidance molecule is not intrinsically “attractive” or “repulsive” for every axon.\nIts effect depends on the competence of the growth cone to interpret that signal.\n\n\nThe response depends on factors such as:\n\nwhich receptors are expressed\nthe level of receptor expression\nintracellular signaling state\n\n\n\nThe same extracellular cue can therefore produce different responses in different axons or in the same axon at different stages of its journey.\n\n\nAs in cell differentiation, the signal matters, but so does the state of the responding cell."
   },
   {
     "objectID": "3_circuit_development.html#reaching-the-correct-region-is-not-enough",
     "href": "3_circuit_development.html#reaching-the-correct-region-is-not-enough",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Reaching the correct region is not enough",
     "text": "Reaching the correct region is not enough\n\nAxon guidance brings an axon into the correct target region.\nBut a neural circuit requires much greater precision.\n\n\nThe axon must still identify:\n\nthe correct target cell type\nthe correct cell\noften the correct subcellular compartment\nan appropriate location at which to assemble a functional synapse\n\n\n\nThis transition from axon guidance to synaptic recognition is the beginning of synaptogenesis."
   },
   {
     "objectID": "3_circuit_development.html#synaptogenesis",
     "href": "3_circuit_development.html#synaptogenesis",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Synaptogenesis",
     "text": "Synaptogenesis\n\n\n\nSynaptogenesis is the process by which neurons establish specialized communication sites with their target cells.\nA developing synapse requires coordinated changes on both sides: the presynaptic terminal and the postsynaptic specialization\n\n\nThe process includes:\n\ntarget recognition\nstabilization of contact\nrecruitment of presynaptic vesicles\nclustering of postsynaptic receptors\nassembly of scaffolding and adhesion proteins"
   },
   {
     "objectID": "3_circuit_development.html#synapse-formation-is-a-coordinated-process",
     "href": "3_circuit_development.html#synapse-formation-is-a-coordinated-process",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Synapse formation is a coordinated process",
     "text": "Synapse formation is a coordinated process\n\nWhen an axon contacts an appropriate target, signals pass in both directions across the developing contact.\n\n\n\n\nPresynaptic side\n\ngrowth cone becomes a terminal\nsynaptic vesicles accumulate\nactive-zone proteins are recruited\nneurotransmitter release machinery is organized\n\n\n\n\nPostsynaptic side\n\nreceptors become concentrated\nscaffolding proteins accumulate\nthe cytoskeleton is reorganized\nthe membrane develops a specialized postsynaptic domain\n\n\n\n\nSynaptogenesis therefore transforms an initially simple cell-cell contact into a specialized communication structure."
   },
   {
     "objectID": "3_circuit_development.html#the-neuromuscular-junction-as-a-model",
     "href": "3_circuit_development.html#the-neuromuscular-junction-as-a-model",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "The neuromuscular junction as a model",
     "text": "The neuromuscular junction as a model\n\n\n\nThe neuromuscular junction has been a particularly useful model for understanding how pre- and postsynaptic specializations become aligned.\n\n\nIt is organized into three main components:\n\nPresynaptic terminal: the motor axon ending\nSynaptic basal lamina: specialized extracellular matrix\nPostsynaptic membrane: the muscle fiber\n\nTogether, these three components form the functional cholinergic synapse between motor neuron and muscle."
   },
   {
     "objectID": "3_circuit_development.html#regeneration-preserves-synaptic-specificity",
     "href": "3_circuit_development.html#regeneration-preserves-synaptic-specificity",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Regeneration preserves synaptic specificity",
     "text": "Regeneration preserves synaptic specificity\n\n\n\n\nRegeneration experiment\n\n\n\nMuscle regeneration\n\nThe muscle fiber and nerve terminal are removed. If nerve regrowth is prevented, the new muscle fiber still forms postsynaptic specializations at the original synaptic site.\n\n\n\nNerve regeneration\n\nThe muscle fiber and nerve terminal are removed. When the nerve regenerates, motor axons preferentially re-form presynaptic terminals at the original synaptic site\n\n\n\n\n\nThe experiment shows that the synaptic basal lamina is not simply structural.\nIt contains stable molecular cues capable of organizing both presynaptic and postsynaptic differentiation."
   },
   {
     "objectID": "3_circuit_development.html#the-basal-lamina-contains-synaptic-information",
     "href": "3_circuit_development.html#the-basal-lamina-contains-synaptic-information",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "The basal lamina contains synaptic information",
     "text": "The basal lamina contains synaptic information\n\n\n\nThe synaptic basal lamina is a specialized extracellular matrix that remains associated with the site of the neuromuscular junction.\n\n\nIt contains molecules such as:\n\nlaminins\nagrin\nextracellular matrix proteins\nacetylcholinesterase\n\nThese molecules help maintain the spatial organization of the synapse."
   },
   {
     "objectID": "3_circuit_development.html#agrin-organizes-the-postsynaptic-specialization",
     "href": "3_circuit_development.html#agrin-organizes-the-postsynaptic-specialization",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Agrin organizes the postsynaptic specialization",
     "text": "Agrin organizes the postsynaptic specialization\n\n\n\nThe motor neuron releases agrin, which becomes concentrated in the synaptic basal lamina.\n\n\nAgrin binds the muscle receptor LRP4, which activates MuSK.\nThis signaling pathway recruits proteins including rapsyn and promotes the clustering of acetylcholine receptors.\n\n\nThe result is a transition from a relatively diffuse distribution of receptors to a highly concentrated postsynaptic specialization directly opposite the motor terminal."
   },
   {
     "objectID": "3_circuit_development.html#activity-dependent-synaptic-refinement",
     "href": "3_circuit_development.html#activity-dependent-synaptic-refinement",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Activity-dependent synaptic refinement",
     "text": "Activity-dependent synaptic refinement\n\n\n\nDuring development, immature muscle fibers show transient polyinnervation: several motor axons initially contact the same muscle fiber.\n\n\nWith maturation, these competing inputs are progressively refined.\n\nsome branches are stabilized and strengthened\nothers retract and disappear\n\nEventually, each muscle fiber is normally innervated by a single motor neuron.\n\n\n\n\nThis refinement is activity-dependent.\nLocal blockade of ACh receptors reduces effective neuromuscular activity and causes withdrawal of presynaptic branches from the blocked region."
   },
   {
     "objectID": "3_circuit_development.html#constructive-and-regressive-processes-shape-circuits",
     "href": "3_circuit_development.html#constructive-and-regressive-processes-shape-circuits",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Constructive and regressive processes shape circuits",
     "text": "Constructive and regressive processes shape circuits\n\n\n\nConstructive processes\n\naxon extension\naxonal branching\nsynapse formation\ndendritic growth\naddition of synaptic contacts\n\n\n\n\nRegressive processes\n\nbranch retraction\nsynapse elimination\npruning of inappropriate projections\nremoval of redundant connections\n\n\n\n\nAs in neuronal survival, mature circuitry emerges through overproduction followed by selective stabilization and elimination and is guided by activity dependent processes."
   },
   {
     "objectID": "3_circuit_development.html#why-the-neuromuscular-junction-became-a-model-synapse",
     "href": "3_circuit_development.html#why-the-neuromuscular-junction-became-a-model-synapse",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Why the neuromuscular junction became a model synapse",
     "text": "Why the neuromuscular junction became a model synapse\n\n\n\nSynapses in the central nervous system are extremely small and lie close to the resolution limit of conventional light microscopy.\nFor a long time, their structure could be just inferred, but not directly visualized in detail.\n\n\n1870s - Golgi staining reveals the complex morphology of neurons.\n1880s–1890s - Cajal develops the neuron doctrine: neurons are discrete cells rather than a continuous network.\n1897 - Sherrington introduces the term synapse.\n1950s - Electron microscopy provides direct structural visualization of CNS synapses."
   },
   {
     "objectID": "3_circuit_development.html#why-the-neuromuscular-junction-became-a-model-synapse-1",
     "href": "3_circuit_development.html#why-the-neuromuscular-junction-became-a-model-synapse-1",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Why the neuromuscular junction became a model synapse",
     "text": "Why the neuromuscular junction became a model synapse\n\n\n\nAnother reason is that synapses in the central nervous system are much more heterogeneous and complex.\nThey can:\n\nuse different neurotransmitters\ndiffer greatly in structure and function\nbe more dynamic and less stable\nsometimes show co-release of multiple neurotransmitters\n\nThis makes CNS synapses much more difficult to study as a single, standardized model.\n\n\n\nBecause brain synapses were so difficult to observe and manipulate, much of the early experimental work on synaptic development was performed in more accessible systems.\nThe neuromuscular junction is large, anatomically well defined and experimentally accessible, making it an ideal model for studying synapse formation, organization and elimination."
   },
   {
     "objectID": "3_circuit_development.html#synaptic-specificity",
     "href": "3_circuit_development.html#synaptic-specificity",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Synaptic specificity",
     "text": "Synaptic specificity\n\n\n\nNeurons do not simply form synapses with any nearby cell. Synaptogenesis is highly selective.\n\n\nThe same postsynaptic neuron can receive different classes of inputs at distinct locations on its dendrites, soma or axon.\n\n\nConnectivity is therefore not only a question of who connects to whom, but also where on the target cell the connection is made."
   },
   {
     "objectID": "3_circuit_development.html#subcellular-target-specificity",
     "href": "3_circuit_development.html#subcellular-target-specificity",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Subcellular target specificity",
     "text": "Subcellular target specificity\n\n\n\nDifferent classes of inhibitory interneurons can preferentially innervate different compartments of the same pyramidal neuron.\n\n\nExamples:\n\nSST interneurons preferentially target distal dendritic regions\nmany PV interneurons preferentially target the soma and proximal dendrites\nchandelier cells (a type of PV) selectively innervate the axon initial segment\n\n\n\n\n\nThis subcellular specificity gives different interneuron classes distinct effects on neuronal computation."
   },
   {
     "objectID": "3_circuit_development.html#molecular-cues-can-specify-a-synaptic-location",
     "href": "3_circuit_development.html#molecular-cues-can-specify-a-synaptic-location",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Molecular cues can specify a synaptic location",
     "text": "Molecular cues can specify a synaptic location\n\n\n\nSubcellular targeting can itself be guided by molecular information.\n\n\nA classic example is the precise targeting of the axon initial segment (AIS) of Purkinje cells by cerebellar basket-cell axons.\nMolecules concentrated at particular neuronal compartments, including Neurofascin, can contribute to this highly specific organization.\n\n\nThe neuron therefore contains an internal molecular map that can help incoming axons identify the correct synaptic compartment."
   },
   {
     "objectID": "3_circuit_development.html#glia-participate-in-synaptogenesis",
     "href": "3_circuit_development.html#glia-participate-in-synaptogenesis",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Glia participate in synaptogenesis",
     "text": "Glia participate in synaptogenesis\n\n\n\nSynapse formation is not exclusively a neuron-neuron process.\nAstrocytes actively influence the formation and maturation of synapses.\n\n\nAstrocytes release synaptogenic signals, including molecules such as thrombospondins, and regulate the extracellular environment around developing synapses.\n\n\nThe presence of glial signals can strongly increase the number of synaptic contacts formed by developing neurons."
   },
   {
     "objectID": "3_circuit_development.html#trans-synaptic-adhesion-organizes-the-contact",
     "href": "3_circuit_development.html#trans-synaptic-adhesion-organizes-the-contact",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Trans-synaptic adhesion organizes the contact",
     "text": "Trans-synaptic adhesion organizes the contact\n\n\n\nThe developing pre- and postsynaptic membranes must become physically aligned and molecularly coordinated.\n\n\nTrans-synaptic adhesion systems such as neurexins and neuroligins contribute to:\n\nstabilization of cell-cell contact\nalignment of pre- and postsynaptic specializations\nrecruitment of synaptic proteins\nmaturation of synaptic properties\n\n\n\n\n\nThese molecules act as part of a larger molecular network rather than as a single universal “synapse switch.”"
   },
   {
     "objectID": "3_circuit_development.html#synaptic-density-changes-during-development",
     "href": "3_circuit_development.html#synaptic-density-changes-during-development",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Synaptic density changes during development",
     "text": "Synaptic density changes during development\n\n\n\nSynapse number is highly dynamic during brain development.\nPeriods of intense synaptogenesis can produce synaptic densities greater than those maintained in the mature brain.\n\n\nThis is followed by prolonged periods of synaptic pruning.\nThe timing differs across brain regions: primary sensory areas generally mature earlier, whereas association and prefrontal regions follow a more prolonged trajectory."
   },
   {
     "objectID": "3_circuit_development.html#circuit-refinement-is-prolonged",
     "href": "3_circuit_development.html#circuit-refinement-is-prolonged",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Circuit refinement is prolonged",
     "text": "Circuit refinement is prolonged\n\nThe basic architecture of many circuits appears early, but connectivity continues to be modified for a long period after the first synapses are formed.\n\n\nThe relative contribution of genetically specified molecular signals and neural activity changes across development.\nEarly molecular programs provide substantial initial organization, while activity and experience progressively refine connectivity.\n\n\nThis interaction between initial wiring and experience will become central when we discuss developmental plasticity and critical periods."
   },
   {
     "objectID": "3_circuit_development.html#myelination",
     "href": "3_circuit_development.html#myelination",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Myelination",
     "text": "Myelination\n\n\n\nA circuit is not mature simply because its neurons are connected.\nThe timing and reliability of signal transmission also depend on the structural organization of axons.\n\n\nMyelination surrounds selected axonal segments with a multilayered glial membrane.\nIn the CNS, myelin is produced by oligodendrocytes.\n\n\nMyelination allows rapid and reliable saltatory conduction between the nodes of Ranvier and changes the functional properties of neural circuits."
   },
   {
     "objectID": "3_circuit_development.html#oligodendrocytes-and-myelin",
     "href": "3_circuit_development.html#oligodendrocytes-and-myelin",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Oligodendrocytes and myelin",
     "text": "Oligodendrocytes and myelin\n\n\n\nA single oligodendrocyte can extend multiple processes and form myelin around segments of several CNS axons.\n\n\nMyelination can be considered in two broad developmental steps:\n\nproliferation and differentiation of oligodendrocyte-lineage cells\nrecognition of appropriate axons and formation of compact myelin wraps\n\n\n\nMyelin is therefore the product of an active axon-glia interaction."
   },
   {
     "objectID": "3_circuit_development.html#nodes-of-ranvier-are-specialized-domains",
     "href": "3_circuit_development.html#nodes-of-ranvier-are-specialized-domains",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Nodes of Ranvier are specialized domains",
     "text": "Nodes of Ranvier are specialized domains\n\n\n\nMyelination does not simply insulate an axon.\nIt reorganizes the axonal membrane into distinct molecular domains.\n\n\nAt the node of Ranvier, voltage-gated sodium channels are highly concentrated.\nAdjacent regions contain different channel and adhesion complexes, including characteristic distributions of Nav and Kv channels.\n\n\nThe interaction between axons and myelinating glia therefore helps organize the molecular machinery required for saltatory conduction."
   },
   {
     "objectID": "3_circuit_development.html#myelination-has-a-long-developmental-trajectory",
     "href": "3_circuit_development.html#myelination-has-a-long-developmental-trajectory",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Myelination has a long developmental trajectory",
     "text": "Myelination has a long developmental trajectory\n\n\n\nHuman myelination begins prenatally and continues into adulthood, with some brain regions still undergoing myelination beyond 30 years of age. Different pathways and brain regions mature at different times.\n\n\nThe general developmental progression is from systems required for early sensorimotor function toward increasingly distributed and associative networks."
   },
   {
     "objectID": "3_circuit_development.html#myelination-follows-a-regional-sequence",
     "href": "3_circuit_development.html#myelination-follows-a-regional-sequence",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Myelination follows a regional sequence",
     "text": "Myelination follows a regional sequence\n\nMyelination does not progress uniformly across the nervous system.\n\n\nBroad developmental tendencies include:\n\nearlier maturation of many sensory and subcortical pathways\nlater maturation of long-range association pathways\nearlier maturation of posterior cortical systems relative to many frontotemporal association regions\n\n\n\nThe sequence broadly parallels the progressive maturation of increasingly complex neural functions."
   },
   {
+    "objectID": "3_circuit_development.html#neurocinema",
+    "href": "3_circuit_development.html#neurocinema",
+    "title": "Development of Neural Circuits",
+    "section": "Neurocinema",
+    "text": "Neurocinema\n\n\n\n\n\n\n\nLorenzo's Oil (1992)\nDirector: George Miller\nBased on the true story of Lorenzo Odone, a child diagnosed with X-linked adrenoleukodystrophy (ALD), and his parents’ search for a treatment.\n\n\nWhy is it relevant?\nALD disrupts the integrity of white matter and leads to progressive loss of myelin.\nThe movie illustrates an important principle of neural-circuit development:\nBuilding the correct connections is not enough, axons also require myelination and long-term biological maintenance to function efficiently."
+  },
+  {
     "objectID": "3_circuit_development.html#self-check",
     "href": "3_circuit_development.html#self-check",
-    "title": "Neurogenesis, differentiation and neuronal survival",
+    "title": "Development of Neural Circuits",
     "section": "Self-check",
     "text": "Self-check"
   },
@@ -987,6 +1008,13 @@
     "text": "Classical hypotheses of cortical regionalization\n\n\n\nClassical protomap hypothesis\nEarly regional differences in cortical progenitors provide an initial map of future cortical areas.\n\n\nClassical protocortex hypothesis\nThe early cortex is relatively flexible. Thalamic inputs play a major role in shaping areal identity.\n\n\nIntegrated interpretation\nIntrinsic patterning establishes early regional biases. Thalamic inputs and activity refine the developing cortical map."
   },
   {
+    "objectID": "1_ns_development.html#neurocinema",
+    "href": "1_ns_development.html#neurocinema",
+    "title": "Embryonic development of the nervous system",
+    "section": "Neurocinema",
+    "text": "Neurocinema\n\n\n\n\n\n\n\nI Origins (2014)\nDirector: Mike Cahill\nA molecular biologist studying the evolution of the eye becomes involved in a discovery that challenges his strongly materialistic view of the world.\n\n\nWhy is it relevant?\nThe movie connects development and evolution of the visual system with broader questions about identity, consciousness, and the limits of scientific explanation.\nIt is also an interesting example of how neuroscience and biology can be used in fiction to explore the tension between empirical evidence and belief.\n\nMovie information"
+  },
+  {
     "objectID": "1_ns_development.html#self-check",
     "href": "1_ns_development.html#self-check",
     "title": "Embryonic development of the nervous system",
@@ -1033,7 +1061,7 @@
     "href": "2_neurogenesis.html#symmetric-and-asymmetric-divisions",
     "title": "Neurogenesis, differentiation and neuronal survival",
     "section": "Symmetric and asymmetric divisions",
-    "text": "Symmetric and asymmetric divisions\n\n\n\nThe outcome of a progenitor division can be different for the two daughter cells.\n\n\nA symmetric proliferative division (or horizontal division) can generate:\nprogenitor: progenitor + progenitor\n\n\nAn asymmetric neurogenic division (or vertical division) can generate:\nprogenitor: progenitor + neuron"
+    "text": "Symmetric and asymmetric divisions\n\n\n\nThe outcome of a progenitor division can be different for the two daughter cells.\n\n\nA symmetric proliferative division (or vertical horizontal division) can generate:\nprogenitor: progenitor + progenitor\n\n\nAn asymmetric neurogenic division (or horizontal division) can generate:\nprogenitor: progenitor + neuron"
   },
   {
     "objectID": "2_neurogenesis.html#intermediate-progenitors-amplify-neurogenesis",
@@ -1334,7 +1362,7 @@
     "href": "4_methods.html#heart-rate",
     "title": "Methods in Developmental Psychobiology",
     "section": "Heart rate",
-    "text": "Heart rate\n\n\n\nHeart rate changes dynamically with arousal, orienting and attention.\n\n\nDuring visual attention in infants, sustained engagement is often associated with a decrease in heart rate variability (HRV) relative to baseline.\n\n\nThe signal is informative but not specific:\na change in HRV cannot by itself identify the exact cognitive process that produced it."
+    "text": "Heart rate\n\n\n\nHeart rate changes dynamically with arousal, orienting and attention.\n\n\nDuring visual attention in infants, sustained engagement is often associated with a characteristic deceleration of heart rate (HR) relative to baseline. During sustained visual attention, HRV can decrease transiently, reflecting changes autonomic regulation.\n\n\nThe signal is informative but not specific: a change in HR cannot by itself identify the exact cognitive process that produced it."
   },
   {
     "objectID": "4_methods.html#non-nutritive-sucking",
@@ -1489,6 +1517,13 @@
     "title": "Methods in Developmental Psychobiology",
     "section": "Correlation versus causation",
     "text": "Correlation versus causation\n\n\n\nRecording methods\nEEG, MEG, fMRI and fNIRS reveal that a neural signal is associated with a stimulus or behavior.\n\n\n\nPerturbation methods\nTMS changes neural activity and tests whether this change modifies behavior.\nThis provides stronger evidence for a causal contribution.\n\n\n\nA complete understanding often requires combining measurement with experimental manipulation."
+  },
+  {
+    "objectID": "4_methods.html#neurocinema",
+    "href": "4_methods.html#neurocinema",
+    "title": "Methods in Developmental Psychobiology",
+    "section": "Neurocinema",
+    "text": "Neurocinema\n\n\n\n\n\n\n\nEternal Sunshine of the Spotless Mind (2004)\nDirector: Michel Gondry\nThe movie imagines a technology capable of identifying and selectively erasing specific memories from the brain.\n\n\nWhy is it relevant?\nThe film raises a central question in neuroscience:\nCan a mental representation such as a memory be localized, measured, and selectively manipulated?\nIt provides a useful contrast with real methods such as fMRI, EEG/MEG, and TMS, which can measure or perturb brain activity but cannot erase a specific autobiographical memory with such precision."
   },
   {
     "objectID": "4_methods.html#self-check",
@@ -1852,7 +1887,7 @@
     "href": "8_prenatal.html#development-begins-before-birth",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Development begins before birth",
-    "text": "Development begins before birth\n\nBirth is an important biological transition, but it is not the beginning of sensory and cognitive development.\n\n\nDuring prenatal life, the nervous system progressively becomes able to:\n\ndetect information from the body and the environment\nmodify behavior in response to stimulation\nlearn from repeated experience\nretain some information across time\n\n\nThe abilities observed in newborns therefore have important prenatal origins."
+    "text": "Development begins before birth\n\n\n\nBirth is an important biological transition, but it is not the beginning of sensory and cognitive development.\n\n\nDuring prenatal life, the nervous system progressively becomes able to:\n\ndetect information from the body and the environment\nmodify behavior in response to stimulation\nlearn from repeated experience\nretain some information across time\n\n\n\n  \n\nThe abilities observed in newborns therefore have important prenatal origins."
   },
   {
     "objectID": "8_prenatal.html#how-can-we-study-the-fetus",
@@ -1873,28 +1908,28 @@
     "href": "8_prenatal.html#sensory-systems-do-not-mature-at-the-same-time",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Sensory systems do not mature at the same time",
-    "text": "Sensory systems do not mature at the same time\n\n\n\nEarlier functional development\n\ntouch and somatosensation\nvestibular and proprioceptive signals\nchemosensory experience\n\n\n\n\nLater functional development\n\nhearing becomes increasingly effective during gestation\nvision becomes responsive much later and receives relatively little patterned stimulation in utero\n\n\n\n\nThe prenatal sensory environment is not silent or empty: the fetus receives continuous tactile, vestibular, chemical, and acoustic information."
+    "text": "Sensory systems do not mature at the same time\n\n\n\nEarlier functional development\n\ntouch and somatosensation\nvestibular and proprioceptive signals\nchemosensory experience\n\n\n\n\nLater functional development\n\nhearing becomes increasingly effective during gestation\nvision becomes responsive much later and receives no patterned stimulation in utero\n\n\n\n\nThe prenatal sensory environment is not silent or empty: the fetus receives continuous tactile, vestibular, chemical, and acoustic information."
   },
   {
     "objectID": "8_prenatal.html#touch-develops-early",
     "href": "8_prenatal.html#touch-develops-early",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Touch develops early",
-    "text": "Touch develops early\nSomatosensation is among the earliest sensory systems to become functional.\n\nResponses to tactile stimulation begin in restricted regions of the body and progressively spread as the peripheral and central somatosensory systems mature.\n\n\nBy the second trimester, fetuses show an increasingly rich repertoire of:\n\nself-touch\ncontact with the uterine wall\nhand-to-face movements\nresponses to mechanical stimulation\n\n\n\nPrenatal touch is both externally generated and self-generated."
+    "text": "Touch develops early\n\nSomatosensation is the earliest sensory systems to become functional.\n\n\nResponses to tactile stimulation begin in restricted regions of the body and progressively spread as the peripheral and central somatosensory systems mature.\n\n\nBy the second trimester, fetuses show an increasingly rich repertoire of:\n\nself-touch\ncontact with the uterine wall\nhand-to-face movements\nresponses to mechanical stimulation\n\n\n\nPrenatal touch is both externally generated and self-generated."
   },
   {
     "objectID": "8_prenatal.html#fetal-movements-become-increasingly-organized",
     "href": "8_prenatal.html#fetal-movements-become-increasingly-organized",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Fetal movements become increasingly organized",
-    "text": "Fetal movements become increasingly organized\n\n\n\nAs gestation progresses, fetal movements become more coordinated.\nHand movements increasingly target specific regions such as the mouth and face.\n\n\n\n4D ultrasound studies suggest that some movements become increasingly anticipatory: mouth movements can begin before the hand reaches the mouth.\n\n\n\nThe developing fetus is not simply producing random movements: sensorimotor organization progressively emerges before birth.\n\nReissland et al., 2014"
+    "text": "Fetal movements become increasingly organized\n\n\n\nAs gestation progresses, fetal movements become more coordinated.\nHand movements increasingly target specific regions such as the mouth and face.\n\n\n4D ultrasound studies suggest thatstarting from 32 weeks some movements become increasingly anticipatory: mouth movements can begin before the hand reaches the mouth.\n\n\n\n\nThe developing fetus is not simply producing random movements: sensorimotor organization progressively emerges before birth.\n\n\nReissland et al., 2014"
   },
   {
     "objectID": "8_prenatal.html#the-fetus-can-respond-to-touch-through-the-maternal-abdomen",
     "href": "8_prenatal.html#the-fetus-can-respond-to-touch-through-the-maternal-abdomen",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "The fetus can respond to touch through the maternal abdomen",
-    "text": "The fetus can respond to touch through the maternal abdomen\n\n\nMaternal abdominal touch and fetal behavior\n\n\n\n\n\nManipulation\n\nThe mother’s abdomen is touched while fetal movements are monitored with 4D ultrasound.\n\n\n\n\nMeasurement\n\nResearchers quantify movements such as:\n\nself-touch\nreaching toward the uterine wall\nhead and arm movements\n\n\n\n\n\nResult\n\nFetal behavior changes during maternal touch, and the pattern of response depends on gestational age.\n\n\n\nMarx & Nagy, 2015 | Marx & Nagy, 2017"
+    "text": "The fetus can respond to touch through the maternal abdomen\n\n\nMaternal abdominal touch and fetal behavior\n\n\n\n\n\nManipulation\n\nThe mother’s abdomen is touched while fetal movements are monitored with 4D ultrasound.\n\n\n\n\nMeasurement\n\nResearchers quantify movements such as:\n\nself-touch\nreaching toward the uterine wall\nhead and arm movements\n\n\n\n\n\nResult\n\nFetal behavior changes during maternal touch, and the pattern of response depends on gestational age.\n\n\n\n\nMarx & Nagy, 2015 | Marx & Nagy, 2017"
   },
   {
     "objectID": "8_prenatal.html#taste-and-smell-begin-before-birth",
@@ -1943,21 +1978,21 @@
     "href": "8_prenatal.html#auditory-responses-emerge-before-birth",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Auditory responses emerge before birth",
-    "text": "Auditory responses emerge before birth\n\n\n\nDuring the second half of gestation, acoustic stimulation can produce measurable changes in:\n\nfetal heart rate\nbody movement\nbrain responses\n\n\n\n\nResponses become more reliable with maturation.\nBy the third trimester, the fetus can discriminate some properties of complex sounds, including aspects of speech.\n\n\n\nThe auditory system is already processing environmental information before birth.\n\nKisilevsky et al., 1992"
+    "text": "Auditory responses emerge before birth\n\n\n\nDuring the second half of gestation, acoustic stimulation can produce measurable changes in:\n\nfetal heart rate\nbody movement\nbrain responses\n\n\n\nResponses become faster and more reliable with maturation.\n\n\nThe auditory system is already processing environmental information before birth.\n\n\n \n\nDraganova et al., 2018"
   },
   {
     "objectID": "8_prenatal.html#the-mothers-voice-is-a-special-prenatal-stimulus",
     "href": "8_prenatal.html#the-mothers-voice-is-a-special-prenatal-stimulus",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "The mother’s voice is a special prenatal stimulus",
-    "text": "The mother’s voice is a special prenatal stimulus\n\nThe maternal voice reaches the fetus through both:\n\nexternal air conduction\nvibrations transmitted through the mother’s body\n\n\n\nThis makes the mother’s voice one of the most frequent and biologically relevant complex sounds in the prenatal environment.\n\nAfter birth, newborns can distinguish the maternal voice from unfamiliar female voices.\nDeCasper & Fifer, 1980"
+    "text": "The mother’s voice is a special prenatal stimulus\n\nThe maternal voice reaches the fetus through both:\n\nexternal air conduction\nvibrations transmitted through the mother’s body\n\n\n\nThis makes the mother’s voice one of the most frequent and biologically relevant complex sounds in the prenatal environment.\n\n\nAfter birth, newborns can distinguish the maternal voice from unfamiliar female voices.\n\nDeCasper & Fifer, 1980"
   },
   {
     "objectID": "8_prenatal.html#recognition-of-the-maternal-voice-begins-prenatally",
     "href": "8_prenatal.html#recognition-of-the-maternal-voice-begins-prenatally",
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Recognition of the maternal voice begins prenatally",
-    "text": "Recognition of the maternal voice begins prenatally\n\n\nVoice recognition around birth\n\n\n\n\n\nPrenatal exposure\n\nThe fetus repeatedly hears the mother’s voice during gestation.\n\n\n\n\nNewborn test\n\nNewborn behavior is used to compare responses to the mother’s voice and an unfamiliar female voice.\n\n\n\n\nResult\n\nNewborns preferentially respond to or work to hear the maternal voice.\n\n\n\n\nBecause the preference is present immediately after birth, it provides evidence that voice learning begins prenatally."
+    "text": "Recognition of the maternal voice begins prenatally\n\n\nVoice recognition around birth\n\n\n\n\n\nPrenatal exposure\n\nThe fetus repeatedly hears the mother’s voice during gestation. The baby behavior is monitored using non-nutritive sucking.\n\n\n\n\nNewborn test\n\nNewborn behavior is used to compare responses to the mother’s voice and an unfamiliar female voice.\n\n\n\n\nResult\n\nNewborns preferentially respond to or work to hear the maternal voice.\n\n\n\n\nBecause the preference is present immediately after birth, it provides evidence that voice learning begins prenatally."
   },
   {
     "objectID": "8_prenatal.html#vision-develops-in-a-very-different-environment",
@@ -2035,89 +2070,5 @@
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Self-check",
     "text": "Self-check"
-  },
-  {
-    "objectID": "1_ns_development.html#neurocinema",
-    "href": "1_ns_development.html#neurocinema",
-    "title": "Embryonic development of the nervous system",
-    "section": "Neurocinema",
-    "text": "Neurocinema\n\n\n\n\n\n\n\nI Origins (2014)\nDirector: Mike Cahill\nA molecular biologist studying the evolution of the eye becomes involved in a discovery that challenges his strongly materialistic view of the world.\n\n\nWhy is it relevant?\nThe movie connects development and evolution of the visual system with broader questions about identity, consciousness, and the limits of scientific explanation.\nIt is also an interesting example of how neuroscience and biology can be used in fiction to explore the tension between empirical evidence and belief.\n\nMovie information"
-  },
-  {
-    "objectID": "3_circuit_development.html#neurocinema",
-    "href": "3_circuit_development.html#neurocinema",
-    "title": "Neurogenesis, differentiation and neuronal survival",
-    "section": "Neurocinema",
-    "text": "Neurocinema\n\n\n\n\n\n\n\nLorenzo's Oil (1992)\nDirector: George Miller\nBased on the true story of Lorenzo Odone, a child diagnosed with X-linked adrenoleukodystrophy (ALD), and his parents’ search for a treatment.\n\n\nWhy is it relevant?\nALD disrupts the integrity of white matter and leads to progressive loss of myelin.\nThe movie illustrates an important principle of neural-circuit development:\nBuilding the correct connections is not enough, axons also require myelination and long-term biological maintenance to function efficiently."
-  },
-  {
-    "objectID": "4_methods.html#neurocinema",
-    "href": "4_methods.html#neurocinema",
-    "title": "Methods in Developmental Psychobiology",
-    "section": "Neurocinema",
-    "text": "Neurocinema\n\n\n\n\n\n\n\nEternal Sunshine of the Spotless Mind (2004)\nDirector: Michel Gondry\nThe movie imagines a technology capable of identifying and selectively erasing specific memories from the brain.\n\n\nWhy is it relevant?\nThe film raises a central question in neuroscience:\nCan a mental representation such as a memory be localized, measured, and selectively manipulated?\nIt provides a useful contrast with real methods such as fMRI, EEG/MEG, and TMS, which can measure or perturb brain activity but cannot erase a specific autobiographical memory with such precision."
-  },
-  {
-    "objectID": "5_neuroplasticity.html#neurocinema",
-    "href": "5_neuroplasticity.html#neurocinema",
-    "title": "Neuroplasticity",
-    "section": "Neurocinema",
-    "text": "Neurocinema\n\n\n\n\n\n\nError spotted:\nLeonard describes his condition as a problem of short-term memory, but his short-term is largely preserved.\n\n\n\nMemento (2000)\nDirector: Christopher Nolan\nA man with severe anterograde amnesia is unable to form stable new long-term memories and relies on notes, photographs, and tattoos to reconstruct his recent past.\n\n\nWhy is it relevant?\nThe film raises a central question about memory and plasticity:\nHow can experience shape behavior if new memories cannot be consolidated?\nIt highlights the distinction between short-term experience, long-term memory formation, and the external strategies that can partially compensate when memory systems are impaired."
-  },
-  {
-    "objectID": "7_parental_care.html#neurocinema",
-    "href": "7_parental_care.html#neurocinema",
-    "title": "Parental Care and Attachment",
-    "section": "Neurocinema",
-    "text": "Neurocinema\n\n\n\n\n\n\n\nThree Identical Strangers (2018)\nDirector: Tim Wardle\nThe documentary tells the story of three identical triplets who were separated at birth, adopted by different families, and unexpectedly reunited as young adults.\n\n\nWhy is it relevant?\nThe film provides a striking example of the classic nature versus nurture problem.\nBecause the brothers share the same genome but grew up in different families, their similarities and differences raise questions about how genes, parental care, and early environment interact during development."
-  },
-  {
-    "objectID": "8_prenatal.html#prenatal-experience-shapes-language-perception",
-    "href": "8_prenatal.html#prenatal-experience-shapes-language-perception",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "Prenatal experience shapes language perception",
-    "text": "Prenatal experience shapes language perception\nThe fetus does not understand language, but it can learn some of its acoustic structure.\n\n\n\nPrenatal speech preserves information about:\n\nrhythm\nintonation\nstress\nbroad spectral characteristics\n\n\n\n\nNewborns show sensitivity to properties of the language or languages heard during pregnancy.\n\n\n\nThe first steps of language learning begin with auditory statistical and prosodic learning, before words acquire meaning.\n\nMoon et al., 2013 | Byers-Heinlein et al., 2010"
-  },
-  {
-    "objectID": "8_prenatal.html#the-fetus-can-learn-repeated-speech-patterns",
-    "href": "8_prenatal.html#the-fetus-can-learn-repeated-speech-patterns",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "The fetus can learn repeated speech patterns",
-    "text": "The fetus can learn repeated speech patterns\n\n\nLearning a repeatedly presented rhyme\n\n\n\n\n\nExposure\n\nMothers repeatedly recited a particular passage during late pregnancy.\n\n\n\n\nTest\n\nLater, fetal heart rate was measured while the familiar passage was presented in a different female voice.\n\n\n\n\nResult\n\nFetuses showed a different response to the familiar passage, and memory could persist after exposure had stopped.\n\n\n\nKrueger & Garvan, 2014"
-  },
-  {
-    "objectID": "8_prenatal.html#prenatal-flavor-exposure-can-influence-later-preference",
-    "href": "8_prenatal.html#prenatal-flavor-exposure-can-influence-later-preference",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "Prenatal flavor exposure can influence later preference",
-    "text": "Prenatal flavor exposure can influence later preference\n\n\nFlavor learning before birth\n\n\n\n\n\nExposure\n\nDuring the last trimester, some mothers repeatedly consumed carrot juice.\n\n\n\n\nLater test\n\nAfter birth, infants were offered cereal containing carrot flavor or plain cereal.\n\n\n\n\nResult\n\nInfants exposed prenatally showed more positive responses to the familiar flavor.\n\n\n\n\nMaternal diet can provide the fetus with chemical information that is remembered after birth.\n\nMennella et al., 2001"
-  },
-  {
-    "objectID": "8_prenatal.html#the-fetus-can-retain-information",
-    "href": "8_prenatal.html#the-fetus-can-retain-information",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "The fetus can retain information",
-    "text": "The fetus can retain information\n\n\n\nLearning is demonstrated when experience changes a later response.\nMemory requires that some consequence of that experience persists after a delay.\n\n\n\nLate-gestation fetuses can retain information about repeatedly experienced:\n\nsounds\nspeech passages\nvibroacoustic stimuli\n\n\n\n\nPrenatal memory can persist for days or weeks, depending on developmental age and the learning paradigm.\n\nDirix et al., 2009"
-  },
-  {
-    "objectID": "8_prenatal.html#from-fetal-experience-to-later-development",
-    "href": "8_prenatal.html#from-fetal-experience-to-later-development",
-    "title": "Prenatal Sensory and Cognitive Development",
-    "section": "From fetal experience to later development",
-    "text": "From fetal experience to later development\n\n\n\nPrenatal sensory experience provides the nervous system with its first structured input.\nIt can shape:\n\nsensory preferences\nrecognition\nearly learning\nbehavioral orientation after birth\n\n\n\n\nAt the same time, most sensory and cognitive abilities remain highly immature.\nDevelopment continues through infancy and childhood as neural circuits encounter increasingly complex experience.\n\n\n\nprenatal circuit maturation + prenatal experience → newborn sensory preferences and learning → continued postnatal development\nThe mind does not begin at birth: birth reveals a nervous system that has already been developing and learning."
-  },
-  {
-    "objectID": "7_parental_care.html#from-animal-models-to-human-development",
-    "href": "7_parental_care.html#from-animal-models-to-human-development",
-    "title": "Parental Care and Attachment",
-    "section": "From animal models to human development",
-    "text": "From animal models to human development\n\n\n\nAnimal studies allow experimental manipulation of:\n\ncaregiving\nsensory signals\nhormones\nneural circuits\ngene expression\n\n\n\n\nThey reveal mechanisms that would be impossible or unethical to manipulate directly in humans.\n\n\n\nThe mechanisms are evolutionarily informative, but results from animal models should not be translated into simple one-to-one claims about human parenting or psychological outcomes."
-  },
-  {
-    "objectID": "7_parental_care.html#parental-care-is-a-developmental-signal",
-    "href": "7_parental_care.html#parental-care-is-a-developmental-signal",
-    "title": "Parental Care and Attachment",
-    "section": "Parental care is a developmental signal",
-    "text": "Parental care is a developmental signal\n\n\n\nParental care provides:\n\nnutrition and protection\nsensory stimulation\nsocial information\nemotional and physiological regulation\n\n\n\n\nThese signals can modify:\n\nneural circuits\nstress physiology\nlearning and attachment\ngene expression\nlater parental behavior\n\n\n\n\nearly social experience -&gt; neural and endocrine plasticity -&gt; persistent changes in behavior and physiology\nParental care is not only something that keeps the offspring alive: it becomes part of the biological process that builds the developing organism."
   }
 ]
