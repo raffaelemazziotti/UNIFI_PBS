@@ -879,7 +879,7 @@ Motor Practice (MP)
 :::
 Subjects repeatedly perform rapid `thumb abduction` movements for 30 min.
 
-After practice, TMS over M1 evokes a <u>larger MEP</u> in the trained thumb muscle.
+After practice, TMS over M1 evokes a <u>larger [MEP](https://en.wikipedia.org/wiki/Evoked_potential#Motor_evoked_potentials){target="_blank"}</u> in the trained thumb muscle.
 :::
 
 :::
@@ -888,7 +888,7 @@ After practice, TMS over M1 evokes a <u>larger MEP</u> in the trained thumb musc
 
 ::: {.exp-section}
 ::: {.exp-section-title}
-Paired Associative Stimulation
+Paired Associative Stimulation (PAS)
 :::
 Electrical stimulation of the `median nerve` is repeatedly paired with TMS over contralateral `M1`.
 
