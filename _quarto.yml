@@ -7,6 +7,8 @@ project:
     - images/shared/branding/pbs_favicon2.png
     - quiz/**
     - neurocrossword
+    - growthconegame/**
+    - growthconegame/assets
   render:
     - "!Quarto-PyCharm-v5/"
     - "*.qmd"

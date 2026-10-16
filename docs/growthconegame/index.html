@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#071521" />
+  <title>Growth Cone — A Neural Snake Game</title>
+  <script type="module" crossorigin src="/assets/index-B_XxEOF8.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-DpCCOUwQ.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="site-header">
+      <div class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></div>
+      <div class="brand-text"><span>NEURAL ARCADE</span><small>EXPERIMENT 01 / GROWTH CONE</small></div>
+      <div class="header-tag">A LITTLE GAME OF GUIDANCE</div>
+    </header>
+    <div class="layout">
+      <section class="main-panel" aria-labelledby="game-title">
+        <div class="title-row">
+          <div><p class="eyebrow">— &nbsp; AXON GUIDANCE SIMULATOR</p><h1 id="game-title">Growth <em>Cone</em></h1></div>
+          <div class="title-actions"><button id="sound-toggle" class="sound-toggle" type="button" aria-label="Mute sound" aria-pressed="true" title="Mute sound">🔊</button><div class="status-pill"><span class="status-light"></span><span id="status">READY</span></div></div>
+        </div>
+        <p class="subtitle">Find the signals that help you grow. Steer clear of everything else.</p>
+        <div class="board-frame">
+          <div class="board-top"><span>FIELD OF GROWTH</span><span class="coordinates">X: 21 &nbsp; Y: 21</span></div>
+          <div class="canvas-wrap">
+            <canvas id="arena" width="630" height="630" aria-label="Growth Cone game field. Use arrow keys to steer the growth cone."></canvas>
+            <div class="game-overlay" id="overlay">
+              <div class="overlay-card">
+                <div class="overlay-symbol" aria-hidden="true">✳</div>
+                <p class="overlay-eyebrow" id="overlay-eyebrow">THE JOURNEY BEGINS</p>
+                <h2 id="overlay-title">Grow your axon</h2>
+                <p id="overlay-copy">Collect green Laminin (+1) or brief cyan BDNF (+2). Avoid pink netrin (−1) and purple ephrin (−2). Walls and your own axon end the run.</p>
+                <div id="gameover-score" class="gameover-score" hidden><span>FINAL SCORE</span><strong id="final-score">00</strong></div>
+                <p id="gameover-qualify" class="gameover-qualify" hidden></p>
+                <form id="gameover-form" class="gameover-form" hidden>
+                  <label for="gameover-name">Nickname <small>(2–20 characters)</small></label>
+                  <div class="gameover-submit-row"><input id="gameover-name" name="playerName" type="text" minlength="2" maxlength="20" autocomplete="off" required /><button id="gameover-submit" type="submit">Save score</button></div>
+                </form>
+                <p id="gameover-message" class="gameover-message" role="status" aria-live="polite" hidden></p>
+                <div class="overlay-actions"><button id="overlay-button" class="primary-button" type="button">Start growing</button><button id="hall-open" class="hall-open-button" type="button">Hall of Fame</button></div>
+                <p class="overlay-hint">ARROW KEYS TO MOVE · SPACE TO PAUSE</p>
+              </div>
+            </div>
+          </div>
+          <div class="board-bottom"><span><span class="tiny-led"></span> NEURAL PATHWAY ACTIVE</span><span id="field-event">NO. 001</span></div>
+        </div>
+        <div class="mobile-controls" aria-label="Direction controls">
+          <button type="button" data-direction="left" aria-label="Move left">←</button>
+          <button type="button" data-direction="up" aria-label="Move up">↑</button>
+          <button type="button" data-direction="down" aria-label="Move down">↓</button>
+          <button type="button" data-direction="right" aria-label="Move right">→</button>
+        </div>
+      </section>
+      <aside class="sidebar" aria-label="Game information">
+        <div class="score-card">
+          <p class="card-label">YOUR GROWTH</p><div class="score-number" id="score">00</div>
+          <div class="score-rule"></div><div class="best-row"><span>PERSONAL BEST</span><strong id="best">00</strong></div>
+        </div>
+        <div class="world-card" aria-label="World record">
+          <div class="world-heading"><span aria-hidden="true">🏆</span><span>WORLD RECORD</span><small id="record-status">CONNECTING</small></div>
+          <div class="world-record"><strong id="world-score">—</strong><span id="world-name">Checking scores…</span></div>
+          <button id="record-open" type="button">View Hall of Fame <span aria-hidden="true">↗</span></button>
+        </div>
+        <div class="info-card factor-card">
+          <div class="section-top"><span>01 / SIGNALS</span><span>✳</span></div>
+          <h2>Know your factors</h2><p>Laminin stays until collected. The other signals appear briefly.</p>
+          <ul id="factor-list" class="factor-list"></ul>
+          <p class="bio-note">Netrin is repulsive in this game; in development its effect depends on receptor context.</p>
+        </div>
+        <div class="info-card controls-card">
+          <div class="section-top"><span>02 / CONTROLS</span><span>↗</span></div>
+          <h2>Guide the cone</h2>
+          <div class="instruction"><span class="keycap-set"><kbd>←</kbd><kbd>↑</kbd><kbd>↓</kbd><kbd>→</kbd></span><span>Change direction</span></div>
+          <div class="instruction"><span class="keycap-set"><kbd class="space-key">SPACE</kbd></span><span>Pause / resume</span></div>
+          <button id="restart" class="restart-button" type="button">↻ &nbsp; START A NEW RUN</button>
+        </div>
+        <p class="sidebar-footnote">A tiny arcade game inspired by the way developing neurons navigate their environment.</p>
+      </aside>
+    </div>
+    <dialog id="hall-dialog" class="hall-dialog" aria-labelledby="hall-title">
+      <div class="hall-header"><span class="hall-trophy" aria-hidden="true">🏆</span><div><p class="hall-kicker">GLOBAL LEADERBOARD</p><h2 id="hall-title">Hall of Fame</h2></div><button id="hall-sound-toggle" class="sound-toggle" type="button" aria-label="Mute sound" aria-pressed="true" title="Mute sound">🔊</button><button id="hall-close" class="hall-icon-button" type="button" aria-label="Close Hall of Fame">×</button></div>
+      <p id="hall-status" class="hall-status" role="status" aria-live="polite"></p>
+      <ol id="hall-list" class="hall-list" aria-label="Top ten scores"></ol>
+      <div class="hall-actions"><button id="hall-refresh" type="button">↻ Refresh ranking</button><button id="hall-restart" type="button">Start new run</button></div>
+    </dialog>
+    <p id="live-message" class="sr-only" aria-live="polite"></p>
+  </main>
+</body>
+</html>

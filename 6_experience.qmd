@@ -1338,7 +1338,7 @@ The timing of critical-period closure is not determined by chronological age alo
 :::
 
 ::: {.card}
-In animal models, rearing in darkness can delay aspects of visual cortical maturation and prolong the period during which strong experience-dependent plasticity can be expressed.
+In animal models, <u>rearing in darkness</u> can delay aspects of visual cortical maturation and prolong the period during which strong experience-dependent plasticity can be expressed.
 :::
 
 ::: {.info-box}

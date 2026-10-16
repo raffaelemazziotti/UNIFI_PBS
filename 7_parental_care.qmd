@@ -111,7 +111,7 @@ Survival depends more strongly on producing large numbers of offspring.
 :::
 
 ::: {.info-box}
-The classical `r/K` framework describes these as opposite ends of a <u>continuum</u>. Modern life-history theory treats reproductive strategies as more complex than a strict two-category division.
+The classical [r/K](https://it.wikipedia.org/wiki/Strategia_r-K) framework describes these as opposite ends of a <u>continuum</u>. Modern life-history theory treats reproductive strategies as more complex than a strict two-category division.
 :::
 
 ## Attachment
@@ -391,7 +391,7 @@ Early attachment-related learning is not merely behavioral: it is accompanied by
 title="Intermediate medial mesopallium (IMM) in the chick forebrain. The shaded region indicates the IMM, a telencephalic area strongly implicated in filial imprinting. Experience with an imprinting stimulus produces lasting changes in neural activity and synaptic organization within this region, making the IMM an important site for the storage and consolidation of imprinting-related memory."
 }
 
-![](images/7_parental_care/figure/7_pc_imm_neurons.PNG){width="100%"
+![](images/7_parental_care/figure/7_pc_imm_neurons_2.png){width="100%"
 title="Stimulus-selective neural responses in the IMM after filial imprinting. Chicks trained with one object develop a larger proportion of IMM recording sites that respond preferentially to that familiar imprinted stimulus. Birds imprinted with the black-and-white object show enhanced responses to that object, whereas birds imprinted with the red box show enhanced responses to the red box. The result indicates that imprinting produces stimulus-specific changes in IMM neural activity, consistent with this region contributing to the neural representation of the learned imprinting object."
 }
 
