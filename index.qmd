@@ -253,6 +253,7 @@ We will explore how the brain develops, changes, and is shaped by experience fro
 `Games`
 
 - [Neuroscience crossword](neurocrossword/index.html){target="_blank"}
+- [Growth Cone game](growthconegame/index.html){target="_blank"}
 :::
 
 
