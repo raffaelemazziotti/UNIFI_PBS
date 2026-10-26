@@ -154,7 +154,7 @@ The outcome of a progenitor division can be different for the two daughter cells
 :::
 
 ::: {.card}
-A `symmetric proliferative division` (or vertical horizontal division)  can generate:
+A `symmetric proliferative division` (or vertical division)  can generate:
 
 progenitor: progenitor + progenitor
 :::
