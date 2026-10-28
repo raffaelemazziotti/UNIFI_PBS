@@ -1656,7 +1656,7 @@
     "href": "6_experience.html#the-visual-system-at-birth",
     "title": "Development of Visual Function",
     "section": "The visual system at birth",
-    "text": "The visual system at birth\n\n\n\nAnatomically advanced\n\nmajor visual pathways are present\nretina and dLGN are organized\nthalamocortical projections have reached V1\nsubstantial cortical organization is already present\n\n\n\n\nFunctionally immature\n\nlow visual acuity\nlow contrast sensitivity\nimmature focusing\nimmature control of eye movements\n\n\n\n\nA circuit can be present before it performs at the adult level."
+    "text": "The visual system at birth\n\n\n\nAnatomically advanced\n\nmajor visual pathways are present\nretina and dLGN are organized\nthalamocortical projections have reached V1\nsubstantial cortical organization is already present\n\n\n\n\nFunctionally immature\n\nlow visual acuity\nlow contrast sensitivity\nimmature focusing\nimmature control of eye movements\nno depth perception\n\n\n\n\nA circuit can be present before it performs at the adult level."
   },
   {
     "objectID": "6_experience.html#development-of-visual-acuity",
@@ -2070,5 +2070,12 @@
     "title": "Prenatal Sensory and Cognitive Development",
     "section": "Self-check",
     "text": "Self-check"
+  },
+  {
+    "objectID": "6_experience.html#development-of-depth-perception",
+    "href": "6_experience.html#development-of-depth-perception",
+    "title": "Development of Visual Function",
+    "section": "Development of depth perception",
+    "text": "Development of depth perception\n\n\n\nBinocular depth perception emerges at approximately 3-5 months of age, often around 4 months.\n\n\nIt depends on the development of binocular neurons, particularly in V1, that combine information from the two eyes.\n\n\nThe emergence of stereopsis requires sufficiently mature:\n\nbinocular alignment\neye movements\noculomotor coordination\n\n\n\n\nMonocular depth cues become increasingly effective during the second half of the first year, around 7 months.\n\nVideo"
   }
 ]

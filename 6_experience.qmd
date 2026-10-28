@@ -636,6 +636,7 @@ The same pattern can appear `convex` or `concave` depending on the assumed direc
 - low contrast sensitivity
 - immature focusing
 - immature control of eye movements
+- no depth perception
 :::
 
 :::
@@ -873,6 +874,43 @@ Development does not simply increase visual acuity: it improves sensitivity acro
 The maturation of contrast sensitivity depends on the development of `inhibitory circuitry` in V1.
 Inhibition does not simply suppress visual activity: it <u>refines the representation</u>, helping cortical neurons discriminate contrast more precisely.
 :::
+
+:::
+:::
+
+## Development of depth perception
+
+::: {.columns}
+::: {.column}
+
+::: {.info-box}
+`Binocular depth perception` emerges at approximately <u>3-5 months of age</u>, often around 4 months.
+:::
+
+::: {.card}
+It depends on the development of `binocular neurons`, particularly in V1, that combine information from the two eyes.
+
+:::
+
+::: {.card}
+The emergence of stereopsis requires sufficiently mature:
+
+- binocular alignment
+- eye movements
+- oculomotor coordination
+:::
+
+:::
+::: {.column}
+
+::: {.info-box}
+`Monocular depth cues` become increasingly effective during the second half of the first year, around <u>7 months</u>.
+:::
+
+![](images/6_experience/video/6_exp_vcliff.mp4){
+  width="100%"
+  title="Visual Cliff Test"
+}
 
 :::
 :::
